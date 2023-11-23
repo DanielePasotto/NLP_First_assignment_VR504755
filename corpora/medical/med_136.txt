@@ -1,0 +1,47 @@
+a medical physicist is a health professional with specialist education and training in the concepts and techniques of applying physics in medicine and competent to practice independently in one or more of the subfields (specialties) of medical physics. a medical physicist plays a fundamental role in applying physics to medicine, but particularly in the diagnosis and treatment of cancer. the scientific and technological progress in medical physics has led to a variety of skills that must be integrated into the role of a medical physicist in order for them to perform their job. the "medical services" provided to patients undergoing diagnostic and therapeutic treatments must, therefore, be the result of different but complementary skills. in general, the medical physicist is responsible for all scientific and technical aspects of imaging, radiation treatment, and radiation safety. it is their occupational role to ensure that medical modalities offered to patients are met with the utmost quality assurance. it is the medical physicist that manage and supervise the efforts of dosimetrists, therapists and technologists in that capacity.
+
+education and training
+australia and new zealand
+the australasian college of physical scientists and engineers in medicine (acpsem) is the professional body that oversees the education and certification of medical physicists in australia and new zealand and has a mission to advance services and professional standards in medical physics and biomedical engineering.
+
+europe
+the presence of medical physicists at expert level ('medical physics experts') in healthcare in the european union is required by the 2013/59/euratom directive. the european federation of organisations for medical physics(efomp) has defined a detailed inventory of learning outcomes for medical physics experts in terms of knowledge, skills and competences (the latter in europe means 'responsibilities'). in europe the professional preparation for medical physicists typically consists of a first degree in physics or equivalent (e.g., biophysics, electrical or mechanical engineering, computing), a masters in medical physics and a 2-year training residency. the european commission has produced 'european guidelines on the medical physics expert'.
+
+finland
+in finland the qualification of medical physicist is comparable to specialisation of physicians. in contrast to many other countries, qualified medical physicist is considered as a post-graduate university education requiring a licentiate's degree or a phd and a 5-year training residency.
+
+united kingdom
+from october 2011 as part of the modernising scientific careers scheme, the route to accreditation as a medical physicist in england and wales is provided by the scientist training programme (stp). this scheme is a three-year graduate program provided by the national school of healthcare science. entrants are required to have an undergraduate degree (first or upper second class honours) in an appropriate physical science prior to this three-year graduate program.
+the stp involves a part-time msc in medical physics (provided by either king's college london, university of liverpool or newcastle university) in addition to practical training within the national health service. assessment is provided by the completion of competencies and by a final assessment similar to the osce undertaken by other clinical staff. completion of the stp leads to accreditation with the institute of physics and engineering in medicine (ipem) and registration as a clinical scientist.
+prior to 2011 the training route in the united kingdom was administered in two parts, and this scheme is still used in scotland and northern ireland). part i involved limited clinical experience and a full-time msc in medical physics. part ii involved exclusively clinical experience in which the candidate would produce a portfolio of experience and submitted to the academy for healthcare science which (in addition to a viva) would lead to professional accreditation with ipem.
+
+north america
+in north america, medical physics training is offered at the master's, doctorate, post-doctorate and/or residency levels. a professional doctorate has also been recently introduced as an option. several universities offer these degrees in canada and the united states as well.
+as of october 2013, over 70 universities in north america have medical physics graduate programs or residencies that are accredited by the commission on accreditation of medical physics education programs (campep). the majority of residencies are therapy, but diagnostic and nuclear have also been on the rise in the past several years.
+in the united states, professional certification is obtained from the american board of radiology (for all 4 areas) the american board of medical physics (for mri), the american board of science in nuclear medicine (for nuc med and pet).  as of 2012, enrollment in a campep-accredited residency or graduate program is required to start the abr certification process.  as of 2013, completion of a campep-accredited residency is required to advance to part 2 of the abr certification process.in canada, professional certification is obtained from the canadian college of physicists in medicine (for all 4 areas and mammography). since 2016, eligibility requirements for radiation oncology physics certification includes graduation and post-graduate training from a campep accredited institution.
+
+russia
+the association of medical physicists in russia is organized and operates [2]. teaching of medical physics is carried out at moscow state university, moscow institute of physics and technology [3], kuban state university. the scientific journal "medical physics" is published [4].
+
+international
+there are regular regional and international educational medical physics activities. the oldest of these is the international college on medical physics at the international centre for theoretical physics (ictp), trieste, italy. this college has educated more than 1000 medical physicists from developing countries.
+
+see also
+clinical laboratory scientist
+healthcare scientist
+list of publications in physics: biophysics and medical physics
+modernising scientific careers
+physicist
+european federation of organisations for medical physics (efomp)
+
+references
+external links
+human health campus, the official website of the international atomic energy agency dedicated to professionals in radiation medicine. this site is managed by the division of human health, department of nuclear sciences and applications
+canadian organization of medical physicist - organisation canadienne des physiciens médicaux
+the american association of physicists in medicine
+medicalphysicsweb.org from the institute of physics
+aip medical physics portal
+university of toronto - medical biophysics department
+journal of biophysics
+institute of physics & engineering in medicine (ipem) - uk
+european federation of organizations for medical physics (efomp)

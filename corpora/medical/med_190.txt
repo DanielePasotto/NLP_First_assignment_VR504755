@@ -1,0 +1,67 @@
+the discipline of medical entomology, or public health entomology, and also veterinary entomology is focused upon insects and arthropods that impact human health. veterinary entomology is included in this category, because many animal diseases can "jump species" and become a human health threat, for example, bovine encephalitis. medical entomology also includes scientific research on the behavior, ecology, and epidemiology of arthropod disease vectors, and involves a tremendous outreach to the public, including local and state officials and other stake holders in the interest of public safety.
+public health entomology has seen a huge surge in interest since 2005, due to the resurgence of the bed bug, cimex lectularius.
+
+insects of medical importance
+there are many insects (and other arthropods) that affect human health. these arthropods include diptera, hemiptera, thysanoptera, phthiraptera, and siphonaptera. they can parasitize, bite, sting, cause allergic reactions, and/or vector disease to humans. insects are good for it can be impossible to know the full impact that insects and other arthropods have on human health. medical entomologists worldwide are working to combat the known effects in order to improve public health.
+
+personal pests
+personal pests such as lice, fleas, bedbugs, ticks, scabies mites, may vector pathogens. they are hematophagous, meaning they feed on the blood of their host. nearly all personal pests can be transmitted to an uninfected host with prolonged exposure to an infected host. lice, fleas, bedbugs, and ticks are known as ectoparasites. ectoparasites live on the skin of their host. they have adaptations that allow them to access the nutrients inside of the host, such as methods to penetrate skin, insert digestive enzymes and a gut microbiome that can digest the nutrients received from the host. while these ectoparasites feed, the transfer of fluids may transmit diseases such as typhus, plague, and lyme disease. it is also suspected that bedbugs may also be vectors of hepatitis b.scabies mites cannot be classified as ectoparasites. the mite that causes scabies, sarcoptes scabiei also known as the itch mite, burrows into the skin of its host making it an endoparasite. the act of s. scabiei living in the skin and the allergic response to the parasite is the condition known as scabies.
+
+housefly
+the housefly is a very common and cosmopolitan species which transmits diseases to man. the organisms of both amoebic and bacillary dysenteries are picked up by flies from the faeces of infected people and transferred to clean food either on the fly's hairs or by the fly vomiting during feeding. typhoid germs may be deposited on food with the fly's faeces. the house fly cause the spread of yaws germs by carrying them from a yaws ulcer to an ordinary sore. houseflies also transmit poliomyelitis by carrying the virus from infected faeces to food or drink. cholera and hepatitis  are sometimes fly-borne. other diseases carried by houseflies are salmonella, tuberculosis, anthrax, and some forms of ophthalmia. they carry over 100 pathogens and transmit some parasitic worms. the flies in poorer and lower-hygiene areas usually carry more pathogens. some strains have become immune to most common insecticides.
+
+cockroach
+cockroaches carry disease-causing organisms (typically gastroenteritis) as they forage. cockroach excrement and cast skins also contain a number of allergens causing responses such as, watery eyes, rashes, congestion of nasal passages and asthma.
+
+biting insects
+there are many insects that bite including mosquitoes, biting midges, sandflies, black flies, horse-flies, and stable flies. through feeding, insects or other arthropod vectors can transmit diseases to humans. medical entomologists and other medical professionals have helped to develop vaccines that can prevent humans from contracting some of those diseases. they have also developed ways to prevent the arthropods from biting humans. according to a study by the centers for disease control and prevention published in may 2018, illnesses caused by insect bites have tripled from 2004 to 2016.
+
+insect-borne diseases
+major
+dengue fever – vectors: aedes aegypti (main vector) aedes albopictus (minor vector). 50 million people are infected by dengue annually, 25,000 die. threatens 2.5 billion people in more than 100 countries.
+malaria – vectors: anopheles mosquitoes. 500 million become severely ill with malaria every year and more than one million die.
+leishmaniasis – vectors: species in the genus lutzomyia in the new world and phlebotomus in the old world. two million people infected.
+bubonic plague – principal vector: xenopsylla cheopis at least 100 flea species can transmit plague. re-emerging major threat several thousand human cases per year. high pathogenicity and rapid spread.
+sleeping sickness – vector: tsetse fly, not all species. sleeping sickness threatens millions of people in 36 countries of sub-saharan africa (who)
+typhus -–vectors: mites, fleas and body lice 16 million cases a year, resulting in 600,000 deaths annually.
+wuchereria bancrofti – most common vectors: the mosquito species: culex, anopheles, mansonia, and aedes; affects over 120 million people.
+yellow fever – principal vectors: aedes simpsoni, a. africanus, and a. aegypti in africa, species in genus haemagogus in south america, and species in genus sabethes in france. 200,000 estimated cases of yellow fever (with 30,000 deaths) per year.
+
+minor
+ross river fever – vector: mosquitoes, main vectors aedes vigilax, aedes camptorhynchus, and culex annulirostris
+barmah forest virus – vector: known vectors culex annulirostris, ocleratus vigilax and o. camptorhynchus and culicoides marksi
+kunjin encephalitis (mosquitoes)
+murray valley encephalitis virus (mvev) – major mosquito vector: culex annulirostris.
+japanese encephalitis – several mosquito vectors, the most important being culex tritaeniorhynchus.
+west nile virus – vectors: vary according to geographical area; in the united states culex pipiens (eastern us), culex tarsalis (midwest and west), and culex quinquefasciatus (southeast) are the main vectors.
+lyme disease – vectors: several species of the genus ixodes
+alkhurma virus (kfdv) – vector: tick
+kyasanur forest disease – vector: haemaphysalis spinigera
+brugia timori filariasis – primary vector: anopheles barbirostris
+babesia – vector: ixodes ticks.
+carrion's disease – vectors: sandflies of the genus lutzomyia.
+chagas disease – vector: assassin bugs of the subfamily triatominae. the major vectors are species in the genera triatoma, rhodnius, and panstrongylus.
+chikungunya – vectors: aedes mosquitoes
+human ewingii ehrlichiosis – vector: amblyomma americanum
+human granulocytic ehrlichiosis – vector: ixodes scapularis
+rift valley fever (rvf) – vectors: mosquitoes in the genera aedes and culex
+scrub typhus – vector: chigger
+loa loa filariasis – vector: chrysops sp.
+
+see also
+arbovirus infection
+myiasis
+delusional parasitosis
+insect indicators of abuse or neglect
+
+references
+
+mullen, g. l., and durden, l. a., eds. 2002. medical and veterinary entomology, academic press, ny
+ldridge, b. f., and edman, j. d., eds. 2000. medical entomology: a textbook on public health and veterinary problems caused by arthropods. kluwer academic publishers
+desowitz, r. s. 1991. the malaria capers. norton and co., new york, ny.
+goddard, j. 2007. physician's guide to arthropods of medical importance, fifth edition.boca raton, fl, crc press, isbn 978-0-8493-8539-1 isbn 0-8493-8539-3
+harwood, r. f., and m. t. james. 1979. entomology in human and animal health. macmillan pub. co., ny.
+higley, l. g., l. l. karr, and l. p. pedigo. 1989. manual of entomology and pest management. macmillan pub. co., new york, ny—chapter on medical pests vector and transmitted diseases table.
+mcneil, w. h. 1976. plagues and people. anchor press, doubleday, garden city, ny.
+service, m. 2008. medical entomology for students 4th edition cambridge university press. isbn 978-0-521-70928-6
+zinsser, h. 1934. rats, lice and history. little, brown, and co., new york, ny.

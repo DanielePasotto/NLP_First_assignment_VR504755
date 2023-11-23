@@ -1,0 +1,22 @@
+this is a list of abbreviations used in medical prescriptions, including hospital orders (the patient-directed part of which is referred to as sig codes). this list does not include abbreviations for pharmaceuticals or drug name suffixes such as cd, cr, er, xt (see time release technology § list of abbreviations for those).
+capitalisation and the use of full stops are a matter of style. in the list, abbreviations in english are capitalized whereas those in latin are not.
+these abbreviations can be verified in reference works, both recent
+
+and older.
+some of those works (such as wyeth 1901) are so comprehensive that their entire content cannot be reproduced here. this list includes all that are frequently encountered in today's health care in english-speaking regions.
+some of these are obsolete; others remain current.
+there is a risk of serious consequences when abbreviations are misread or misinterpreted. in the united kingdom, all prescriptions should be in english without abbreviation (apart from some units such as mg and ml; micrograms and nanograms should not be abbreviated). in the united states, abbreviations which are deprecated by the joint commission are marked in red; those abbreviations which are deprecated by other organizations, such as the institute for safe medication practices (ismp) and the american medical association (ama), are marked in orange.
+the joint commission is an independent, non-profit, non-governmental organization which offers accreditation to hospitals and other health care organizations in the united states. while their recommendations are not binding on u.s. physicians, they are required of organizations who wish accreditation by the joint commission.
+
+table
+currently discouraged practices
+abbreviating names of drugs
+using apothecary's units
+using trailing zeros or not using a leading zero
+
+see also
+list of medical abbreviations
+
+references
+external links
+pharmacy-tech-resources.com. "dispense as written codes explained".

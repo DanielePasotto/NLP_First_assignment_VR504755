@@ -1,0 +1,37 @@
+medical literature is the scientific literature of medicine: articles in journals and texts in books devoted to the field of medicine. many references to the medical literature include the health care literature generally, including that of dentistry, veterinary medicine, pharmacy, nursing, and the allied health professions.
+contemporary and historic views regarding diagnosis, prognosis and treatment of medical conditions have been documented for thousands of years. the edwin smith papyrus is the first known medical treatise. ancient medical literature often described inflictions related to warfare.
+
+history
+throughout history, people have written about diseases, how human beings might contract them and what could be done to remedy it. medicine ranged from folklore and witchcraft to modern evidence-based medicine. among the most notable early medical descriptions are found in texts from egypt (edwin smith papyrus, ebers papyrus, kahun gynecological papyrus), mesopotamia (diagnostic handbook), india (sushruta samhita, charaka samhita), china (huangdi neijing), rome (de medicina), and greece (de materia medica). important medical works in the medieval islamic era include texts from persia (the canon of medicine of ibn sina), spain (abu al-qasim al-zahrawi's kitab al-tasrif), iraq (de gradibus), and syria (ibn al-nafis' comprehensive book on medicine), while important medical texts from early medieval europe include those from england (compendium medicinæ) and byzantine greece (medical compendium in seven books).
+following vesalius, william harvey, ignaz semmelweis, louis pasteur, and others, the medical community have changed the way it conducts research. after incorporating the scientific method, medical literature has introduced peer review, and is currently divided into journals and textbooks.
+
+medical journal
+these are publications in which the medical community shares information. the common articles are original articles, reviews and case reports.
+
+original articles describe methods, results, discussion and conclusions and a new research that is conducted by the authors. although according to the evidence-based medicine consensus the randomized controlled trials are the gold-standard for medical research, currently, they constitute only a minority of conducted research.
+reviews are an overview of one particular topic of clinical interest in order to refresh the readers' memory, to enhance an emergence concept or the summary recent publications that haven't appeared in the textbooks yet. other type of reviews are the systematic reviews and the meta-analysis in which a specific clinical dilemma is answered by collecting and summarizing all published data regarding this question.
+case reports are descriptions of clinical cases of rare phenomenon or a new clinical method. case reports may be of value in assessing unusual medical conditions that cannot be studied in clinical trials. currently, most of the top-ranked medical journals do not publish case reports because of space constraints or a preference for larger, more definitive studies.
+
+instances
+when looking for specific information in any journal one can use the national library of medicine's pubmed database. peer reviewed journals are ranked higher thus are a better source for medical information than non-peer reviewed journals.
+
+medical textbooks
+a medical manual is literature (usually a book) describing diagnosis, treatment, management, and prognosis of various disorders. the first known medical manual is the edwin smith papyrus of ancient egypt.
+after consensus has been reached, it is incorporated in textbooks. there are textbooks on every medical specialty and they contain comprehensive discussion on all diseases and their diagnosis, therapy and prognosis. the first textbook to utilize experts to write specific chapters within the book was the cecil textbook of medicine edited by russell cecil, md in 1927. the book was an immediate international success because of the idea that single or double author medical books was outmoded, "since the scope of medical knowledge was far surpassing the capacity of any single individual to encompass". since that time, this has been the standard. examples are:
+
+cecil textbook of medicine
+harrison's principles of internal medicine
+the oxford textbook of medicine
+the principles and practice of medicine
+the textbook of painharrison's principal of internal medicine is widely considered the most read textbook of medicine ever. it was able to eclipse cecil's by changing the organization. instead of organizing by disease, tinsley harrison organized the book by region and symptom, allowing students to learn the myriad causes of a patient's symptom, without first knowing the specific disease. harrison's is also credited for a strong commitment to linking basic science to clinical medicine.
+
+medical journalism
+health-related information is often disseminated to the public via mainstream media outlets; these reports influence doctors, the general public, and the government. according to one study of 500 us health news stories, between 62 and 77% failed to adequately address costs, harms, benefits, the quality of the evidence, and the existence of other options. although medical news articles often deliver public health messages effectively, they often convey wrong or misleading information about health care, partly when reporters do not know or cannot convey the results of clinical studies, and partly when they fail to supply reasonable context. several web sites review medical journalism; examples include health news review in the u.s. and media doctor in australia.
+
+internet
+most prominent journals and textbooks are currently available on-line or via cd-rom. certain online services including medscape and mdlinx offer aggregated digests of new articles from prominent medical journals.
+
+see also
+references
+further reading
+podolsky, s. h.; greene, j. a.; jones, d. s. (2012). "the evolving roles of the medical journal". new england journal of medicine. 366 (16): 1457–1461. doi:10.1056/nejmp1113567. pmid 22512480. s2cid 205108266.

@@ -1,0 +1,62 @@
+abbreviations are used very frequently in medicine. they boost efficiency as long as they are used intelligently. the advantages of brevity should be weighed against the possibilities of obfuscation (making the communication harder for others to understand) and ambiguity (having more than one possible interpretation). certain medical abbreviations are avoided to prevent mistakes, according to best practices (and in some cases regulatory requirements); these are flagged in the list of abbreviations used in medical prescriptions.
+
+orthographic styling
+periods (stops)
+periods (stops) are often used in styling abbreviations. prevalent practice in medicine today is often to forgo them as unnecessary.
+
+example:
+less common: the diagnosis was c.o.p.d.      [chronic obstructive pulmonary disease]
+more common: the diagnosis was copd
+
+plurals
+the prevalent way to represent plurals for medical acronyms and initialisms is simply to affix a lowercase s (no apostrophe).
+
+example: one ocp, two ocps  [oral contraceptive pills].
+
+possessives
+possessive forms are not often needed, but can be formed using apostrophe + s. often the writer can also recast the sentence to avoid it.
+
+example:
+bp's effect on risk of mi is multifaceted.
+the effect of bp on mi risk is multifaceted.
+
+arrows
+arrows may be used to indicate numerous conditions including elevation (↑), diminution (↓), and causation (→, ←).
+
+pronunciation
+pronunciation follows convention outside the medical field, in which acronyms are generally pronounced as if they were a word (jama, sids), initialisms are generally pronounced as individual letters (dna, ssri), and abbreviations generally use the expansion (soln. = "solution", sup. = "superior").  abbreviations of weights and measures are pronounced using the expansion of the unit (mg = "milligram") and chemical symbols using the chemical expansion (nacl = "sodium chloride").
+some initialisms deriving from latin may be pronounced either as letters (qid = "cue eye dee") or using the english expansion (qid = "four times a day").
+
+some common medical abbreviations
+notation conventions
+
+this series of lists omits periods from acronyms and initialisms.
+it uses periods for certain abbreviations that traditionally often have them (mostly older latin/neo-latin abbreviations). for example, both bid and b.i.d. may be found in the list.
+it generally uses the singular form of an abbreviation (not the plural) as the headword.
+this list uses significant capitalization for headwords (the abbreviations) and their expansions.
+
+see also
+list of abbreviations used in medical prescriptions
+list of medical roots, suffixes and prefixes
+medical dictionary
+medical slang
+abbreviation#style conventions in english
+acronym and initialism#orthographic styling
+
+references
+movshovitz-attias, dana; cohen, william w. (2012). alignment-hmm-based extraction of abbreviations from biomedical text. montreal, canada: naacl.  [1].
+davis, neil m. (2014). medical abbreviations: 32,000 conveniences at the expense of communication and safety (15th ed.). warminster, pa, usa: neil m davis associates. isbn 978-0-931431-15-9. available online (by subscription) at medabbrev.com.
+jablonski, stanley (2008). jablonski's dictionary of medical acronyms and abbreviations with cd-rom (6th ed.). philadelphia: saunders. isbn 978-1-4160-5899-1.
+sloane, sheila b. (1997). medical abbreviations & eponyms (2nd ed.). philadelphia: saunders. isbn 978-0-7216-7088-1.
+
+external links
+biggest collection of medical abbreviations 
+glossary of medical terms - tufts university
+medical abbreviations en english medical abbreviations for android
+jd.md, inc. online medical & dental abbreviations glossary
+acronyms for medical & dental professional organizations
+medical abbreviations for iphone
+medical abbreviations on medilexicon
+medical acronyms and abbreviations on allacronyms.com
+over 20,000 medical abbreviations sorted into specialist categories
+medical abbreviations in various categories such as physiology, oncology, laboratory and more

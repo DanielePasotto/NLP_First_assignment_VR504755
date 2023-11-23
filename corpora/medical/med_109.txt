@@ -1,0 +1,40 @@
+a medical guideline (also called a clinical guideline, standard treatment guideline, or clinical practice guideline) is a document with the aim of guiding decisions and criteria regarding diagnosis, management, and treatment in specific areas of healthcare. such documents have been in use for thousands of years during the entire history of medicine. however, in contrast to previous approaches, which were often based on tradition or authority, modern medical guidelines are based on an examination of current evidence within the paradigm of evidence-based medicine. they usually include summarized consensus statements on best practice in healthcare. a healthcare provider is obliged to know the medical guidelines of their profession, and has to decide whether to follow the recommendations of a guideline for an individual treatment.
+
+background
+modern clinical guidelines identify, summarize and evaluate the highest quality evidence and most current data about prevention, diagnosis, prognosis, therapy including dosage of medications, risk/benefit and cost-effectiveness. then they define the most important questions related to clinical practice and identify all possible decision options and their outcomes. some guidelines contain decision or computation algorithms to be followed. thus, they integrate the identified decision points and respective courses of action with the clinical judgement and experience of practitioners. many guidelines place the treatment alternatives into classes to help providers in deciding which treatment to use.
+additional objectives of clinical guidelines are to standardize medical care, to raise quality of care, to reduce several kinds of risk (to the patient, to the healthcare provider, to medical insurers and health plans) and to achieve the best balance between cost and medical parameters such as effectiveness, specificity, sensitivity, resoluteness, etc. it has been demonstrated repeatedly that the use of guidelines by healthcare providers such as hospitals is an effective way of achieving the objectives listed above, although they are not the only ones.
+
+publication
+guidelines are usually produced at national or international levels by medical associations or governmental bodies, such as the united states agency for healthcare research and quality. local healthcare providers may produce their own set of guidelines or adapt them from existing top-level guidelines. healthcare payers such as insurers practicing utilization management also publish guidelines.special computer software packages known as guideline execution engines have been developed to facilitate the use of medical guidelines in concert with an electronic medical record system. 
+the guideline interchange format (glif) is a computer representation format for clinical guidelines that can be used with such engines.the usa and other countries maintain medical guideline clearinghouses. in the us, the national guideline clearinghouse maintains a catalog of high-quality guidelines published by various health and medical associations. in the united kingdom, clinical practice guidelines are published primarily by the national institute for health and care excellence (nice). in the netherlands, two bodies—the institute for healthcare improvement (cbo) and college of general practitioners (nhg)—have published specialist and primary care guidelines, respectively. in germany, the german agency for quality in medicine (äzq) coordinates a national program for disease management guidelines. all these organisations are now members of the guidelines international network (g-i-n), an international network of organisations and individuals involved in clinical practice guidelines.
+
+compliance
+checklists have been used  in medical practice to attempt to ensure that clinical practice guidelines are followed. an example is the surgical safety checklist developed for the world health organization by dr. atul gawande. according to a meta-analysis after introduction of the checklist mortality dropped by 23% and all complications by 40%, but further high-quality studies are required to make the meta-analysis more robust.  in the uk, a study on the implementation of a checklist for provision of medical care to elderly patients admitting to hospital found that the checklist highlighted limitations with frailty assessment in acute care and motivated teams to review routine practices, but that work is needed to understand whether and how checklists can be embedded in complex multidisciplinary care.
+
+problems
+guidelines may lose their clinical relevance as they age and newer research emerges. even 20% of strong recommendations, especially when based on opinion rather than trials, from practice guidelines may be retracted.the new york times reported in 2004 that some simple clinical practice guidelines are not routinely followed to the extent they might be. it has been found that providing a nurse or other medical assistant with a checklist of recommended procedures can result in the attending physician being reminded in a timely manner regarding procedures that might have been overlooked.
+guidelines may have both methodological problems and conflict of interest. as such, the quality of guidelines may vary substantially, especially for guidelines that are published on-line and have not had to follow methodological reporting standards often required by reputable clearinghouses. patients and caregivers are frequently excluded from clinical guidelines development, in part because there is a lack of guidance for how to include them in the process.guidelines may make recommendations that are stronger than the supporting evidence.in response to many of these problems with traditional guidelines, the bmj created a new series of trustworthy guidelines focused on the most pressing medical issues called bmj rapid recommendations.
+
+examples
+the american heart association guidelines for the prevention of infective endocarditis
+the bmj rapid recommendation guideline on transcatheter aortic valve implantation versus surgical aortic valve replacement for aortic stenosis.
+
+see also
+clinical formulation
+clinical prediction rule
+clinical trial protocol
+medical algorithm
+the medical letter on drugs and therapeutics
+
+references
+external links
+british columbia medical guidelines – in canada, british columbia's guidelines and protocols are developed under the direction of the guidelines and protocols advisory committee (gpac), jointly sponsored by the b.c. medical association and the b.c. ministry of health services.
+the cochrane collaboration – an international, independent, not-for-profit organisation of over 27,000 contributors from more than 100 countries, dedicated to making up-to-date, accurate information about the effects of health care readily available worldwide.
+guiasalud. clinical practice guidelines for the national health system (spain) – contains clinical practice guidelines developed in spain translated into english.
+guideline elements model – the guideline elements model (gem) is an astm standard for the representation of practice guidelines in xml format.
+guideline interchange format – the guideline interchange format (glif) is a specification for structured representation of guidelines.
+guidelines international network – contains the largest online guideline library.
+hospital quality alliance – a project of the hospital quality initiative (hqi) of the centers for medicare and medicaid services (usa).
+national guideline clearinghouse (ngc) – a public resource for evidence-based clinical practice guidelines. ngc is an initiative of the agency for healthcare research and quality (ahrq), u.s. department of health and human services.
+scottish intercollegiate guidelines network (sign) – contains 113 evidence-based clinical guidelines – published, in development, or under review.
+german guidelines (awmf) – a collection of current german health care-related professional associations' guidelines.

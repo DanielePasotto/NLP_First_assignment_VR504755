@@ -1,0 +1,36 @@
+a medical writer, also referred to as medical communicator, is a person who applies the principles of clinical research in developing clinical trial documents that effectively and clearly describe research results, product use, and other medical information.
+the medical writer develops any of the five modules of the common technical document. the medical writers also ensure that their documents comply with regulatory, journal, or other guidelines in terms of content, format, and structure.
+medical writing as a function became established in the pharmaceutical, medical device industry and contract research organizations (cros) because the industry recognized that it requires special skill to produce well-structured documents that present information clearly and concisely. all new drugs go through the increasingly complex process of clinical trials and regulatory procedures that lead to market approval. this demand for the clear articulation of medical science, drives the demand for well written, standards-compliant documents that medical professionals can easily and quickly read and understand. similarly, medical institutions engage in translational research, and some medical writers have experience offering writing support to the principal investigators for grant applications and specialized publications.the medical writing market is estimated to be usd 3.36 billion in 2020 and is growing at a 12.1% compound annual growth rate.
+
+overview
+medical writing for the pharmaceutical industry can be classified as either regulatory medical writing or educational medical writing.regulatory medical writing means creating the documentation that regulatory agencies require in the approval process for drugs, devices and biologics. regulatory documents can be huge and are formulaic. they include clinical study protocols, clinical study reports, patient informed consent forms, investigator brochures and summary documents (e.g. in common technical document [ctd] format) that summarize and discuss the data a company gathers in the course of developing a medical product.educational medical writing means writing documents about drugs, devices and biologics for general audiences, and for specific audiences such as health care professionals. these include sales literature for newly launched drugs, data presentations for medical conferences, medical journal articles for nurses, physicians and pharmacists, consumer education and programs and enduring materials for continuing education (ce) or continuing medical education (cme). it plays a very important role in promotion of various pharmaceutical brands both to the hcps and the consumers. different types of communication use different media to present the writings.other types of medical writing include journalism and marketing, both of which can have a medical writing focus.regardless of the type of medical writing, companies either assign it to an in-house writer, or "outsource" it to a freelance or contract medical writer.
+
+organizations
+several professional organizations represent medical writers around the world. these include:
+
+american medical writers association (amwa)
+australasian medical writers association (amwa)
+european medical writers association (emwa)
+indian medical writers association (imwa)
+chinese medical writers community (cmwc)these organizations provide a forum where medical writers meet and share knowledge and experience. they promote professional development and standards of documentation excellence, and help writers find career opportunities. all these organizations offer fundamental medical writing training.
+
+books on medical writing
+stephanie deming of the council of science editors compiled in 2003 a list of books that might be helpful in medical and/or science writing. in 1978 the bmj editor stephen lock recommended hawkins's 1967 book speaking and writing in medicine and 4 other books.
+
+importance of lucidity
+the single most important feature of any article is lucidity. useful guidelines are to write in fairly short sentences, keeping the words and phrases as simple as possible. reading the article aloud is a good way of discovering how intelligible it is and some authors normally write their first drafts by using a tape recorder. it is also helpful to read articles written by masters of medical style, such as richard asher and william boyd.
+
+medical writing in social media
+with the invention of the internet, social media has become a main source of information for patients concerned with certain health issues. it differs from other sources through characteristics such as instantaneous and limitless reach and user-generated content.  unfortunately, these aspects can lead to a lack of quality and reliability. user-generated content often leads to content written by unknown authors where the information itself may be incomplete, unreferenced, or informal. also, unlike evidence-based medicine, social media tends to magnify anecdotal reports. however, there are measures available to decrease this issue. individuals can help lower the amount of health misconceptions online by directly disproving false or misleading claims with clear answers backed up by evidence and listed sources.  while the social media platform can cause communication challenges to occur when discussing health-related topics, there are certain tools one may apply to help. for example, limit the use of technical or scientific jargon. instead, lean towards using plain, everyday language and a short and friendly professional tone. also, identifying one's target audience will allow a more precise and relevant approach. a skilled medical writer understands medical language and culture, and has the ability to use their writing platform to the best of its advantages when targeting a specific group of readers.
+
+medical writing in freelance market
+medical writing is a growing field in the freelance market. freelancers from a wide range of industries offer their services to clients all over the world. medical writers specialize in creating content related to the healthcare industry.freelance medical writers have a variety of skills and experience, and they can provide a range of services, including writing medical articles, research papers, case studies, and regulatory documents. they are often highly educated, with advanced degrees in medicine, biology, or related fields, and they have a deep understanding of the medical terminology and concepts needed to create accurate and informative content.one of the advantages of working with freelance medical writers is the ability to review their portfolio and samples of their work. clients can also read reviews from other clients who have worked with them in the past, which helps them make informed decisions about who to hire and ensures that they receive high-quality work.in addition, freelance medical writers offer a range of pricing options, making it possible to find a writer who fits within your budget. some medical writers charge by the hour, while others charge by the project. this flexibility allows clients to find a writer who can provide the services they need at a price they can afford.
+
+see also
+amwa journal
+medical ghostwriting
+scientific writing
+world association of medical editors (wame)
+
+
+== references ==

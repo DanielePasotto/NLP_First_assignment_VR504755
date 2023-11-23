@@ -1,0 +1,32 @@
+a medical algorithm is any computation, formula, statistical survey, nomogram, or look-up table, useful in healthcare.  medical algorithms include decision tree approaches to healthcare treatment (e.g., if symptoms a, b, and c are evident, then use treatment x) and also less clear-cut tools aimed at reducing or defining uncertainty. a medical prescription is also a type of medical algorithm.
+
+scope
+medical algorithms are part of a broader field which is usually fit under the aims of medical informatics and medical decision-making. medical decisions occur in several areas of medical activity including medical test selection, diagnosis, therapy and prognosis, and automatic control of medical equipment.
+in relation to logic-based and artificial neural network-based clinical decision support systems, which are also computer applications used in the medical decision-making field, algorithms are less complex in architecture, data structure and user interface. medical algorithms are not necessarily implemented using digital computers. in fact, many of them can be represented on paper, in the form of diagrams, nomographs, etc.
+
+examples
+a wealth of medical information exists in the form of published medical algorithms.  these algorithms range from simple calculations to complex outcome predictions.  most clinicians use only a small subset routinely.
+examples of medical algorithms are:
+
+calculators, e.g. an on-line or stand-alone calculator for body mass index (bmi) when stature and body weight are given;
+flowcharts and drakon-charts, e.g. a binary decision tree for deciding what is the etiology of chest pain
+look-up tables, e.g. for looking up food energy and nutritional contents of foodstuffs
+nomograms, e.g. a moving circular slide to calculate body surface area or drug dosages.a common class of algorithms are embedded in guidelines on the choice of treatments produced by many national, state, financial and local healthcare organisations and provided as knowledge resources for day to day use and for induction of new physicians. a field which has gained particular attention is the choice of medications for psychiatric conditions. in the united kingdom, guidelines or algorithms for this have been produced by most of the circa 500 primary care trusts, substantially all of the circa 100 secondary care psychiatric units and many of the circa 10 000 general practices. in the us, there is a national (federal) initiative to provide them for all states, and by 2005 six states were adapting the approach of the texas medication algorithm project or otherwise working on their production.
+a grammar—the arden syntax—exists for describing algorithms in terms of medical logic modules. an approach such as this should allow exchange of mlms between doctors and establishments, and enrichment of the common stock of tools.
+
+purpose
+the intended purpose of medical algorithms is to improve and standardize decisions made in the delivery of medical care. medical algorithms assist in standardizing selection and application of treatment regimens, with algorithm automation intended to reduce potential introduction of errors.  some attempt to predict the outcome, for example critical care scoring systems.
+computerized health diagnostics algorithms can provide timely clinical decision support, improve adherence to evidence-based guidelines, and be a resource for education and research.
+medical algorithms based on best practice can assist everyone involved in delivery of standardized treatment via a wide range of clinical care providers. many are presented as protocols and it is a key task in training to ensure people step outside the protocol when necessary.  in our present state of knowledge, generating hints and producing guidelines may be less satisfying to the authors, but more appropriate.
+
+cautions
+in common with most science and medicine, algorithms whose contents are not wholly available for scrutiny and open to improvement should be regarded with suspicion.
+computations obtained from medical algorithms should be compared with, and tempered by, clinical knowledge and physician judgment.
+
+see also
+artificial intelligence in healthcare
+medical guideline
+odds algorithm
+
+further reading
+johnson, kathy a.; svirbely, john r.; sriram, m.g.; smith, jack w.; kantor, gareth; rodriguez, jorge raul (november 2002). "automated medical algorithms: issues for medical errors". journal of the american medical informatics association. 9 (6 suppl 1): s56–s57. doi:10.1197/jamia.m1228. pmc 419420.
