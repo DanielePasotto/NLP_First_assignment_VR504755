@@ -1,0 +1,60 @@
+a well car, also known as a double-stack car (or also intermodal car/container car), is a type of railroad car specially designed to carry intermodal containers (shipping containers) used in intermodal freight transport. the "well" is a depressed section that sits close to the rails between the wheel trucks of the car, allowing a container to be carried lower than on a traditional flatcar.  this makes it possible to carry a stack of two containers per unit on railway lines (double-stack rail transport) wherever the structure gauge assures sufficient clearance.  the top container is secured to the bottom container either by a bulkhead built into the car — possible when bottom and top containers are the same dimensions, or through the use of inter-box connectors (ibc). four ibcs are needed per well car. in the terminal there are four steps: unlock and lift off the top containers of an inbound train, remove the bottom containers, insert outbound bottom containers, lock assembly after top containers emplaced. generally this is done car-by-car unless multiple crane apparatus are employed.
+advantages to use of well cars include increased stability due to the lower center of gravity of the loads, lower tare weight, and in the case of articulated units, reduced slack action.
+well cars are most common in north america and australia where intermodal traffic is heavy and electrification is less widespread; thus overhead clearances are typically more manageable. in india double stacking of containers is done on flatcars under 7.45 m (24 ft 5+1⁄4 in)-high catenary because the wider 5 ft 6 in (1,676 mm) gauge permits more height while keeping the centre of gravity still low.
+
+history
+southern pacific railroad (sp), along with sealand, devised the first double-stack intermodal car in 1977. sp then designed the first car with acf industries that same year. at first it was slow to become an industry standard, then in 1984 american president lines started working with the thrall company to develop a refined well car and with the union pacific to operate a train service using the new well cars. that same year, the first all "double stack" train left los angeles for south kearny, new jersey, under the name of "stacktrain" rail service. along the way the train transferred from the up to cnw and then to conrail.
+
+multiple unit cars
+each unit of a double-stack car is contains a single well; they often are constructed with three to five cars connected by articulated connectors. the intermediate connectors are supported by the centerplate of single trucks, often a 125-short-ton (112-long-ton; 113 t)-capacity truck but sometimes a 150-short-ton (134-long-ton; 136 t)-capacity one.  
+also, in a number of cases multiple single-well cars (usually 3 or 5) are connected by drawbars and share a single reporting mark. alternatively the multiple single-well cars each share a single truck.
+on both types of multiple-unit cars, the units are typically distinguished by letters, with the unit on one end being the "a" unit, and the unit on the other end being the "b" unit. middle units are labeled starting with "c", and going up to "e" for five-unit cars starting from the "b" unit and increasing towards the "a" unit.
+autonomous trains and terminals have been proposed.
+
+carrying capacity
+double-stack wellcars come in a number of sizes, related to the standard sizes of the containers they are designed to carry. well lengths of 40 ft (12.19 m), 48 ft (14.63 m) and 53 ft (16.15 m) are most common. a number of 45 ft (13.72 m) wells and 56 ft (17.07 m) wells also exist. (the sizes of wells are frequently marked in large letters on the sides of cars to assist yard workers in locating suitable equipment for freight loads.)
+larger containers (45 ft or up) are often placed on top of smaller containers fitting in the available wells to efficiently utilize all available space. all wells are also capable of carrying two 20 ft iso containers in the bottom position.some double-stack well cars have also been equipped with hitches at each end that allow them to carry semi-trailers as well as containers. these are known as "all-purpose" well cars.
+articulated well cars typically have a capacity of 120,000 lb (54,000 kg) per well. highway weight limits in the us restrict most containers to less than 60,000 lb (27,000 kg) so this is adequate for two containers stacked. some single well cars have capacity for two fully loaded 32,500 kg (71,700 lb) containers.
+
+econo stack or twin stack well car
+econo stack (a brand name of gunderson) well cars are a variation of conventional well cars which feature a bulkhead at each end; their main purpose is to give the double-stacked containers more support. a disadvantage is they do not allow 53-foot containers to be stacked on top; however, 45-foot containers still fit and can be stacked on top.  as the empty weight of bulkhead cars is significantly higher than other well cars, they are now unpopular with railroads.
+
+gallery
+well car applications and well car types
+
+usage
+australia – double stack trains operate between perth, adelaide, darwin and parkes, nsw with 6.5 m (21 ft 4 in) clearances. as of 2021, the inland railway between melbourne and brisbane was being built for operation of double stacked trains using wellcars.
+ china – using double stacked container trains under 25 kv ac overhead lines using x2h and x2k type wellcars manufactured by crrc. initial tests where done with a standard 8 ft 6 in (2.59 m) container and a reduced height 8 ft 0 in (2.44 m) container on top, later increasing to a 9 ft 6 in (2.9 m) high hi-cube and a standard 8 ft 6 in (2.59 m) container on top. even after increasing the height of the overhead wire it is not possible to use a stack of two 9 ft 6 in (2.9 m) hi-cube containers on the lines under electrification, even in well cars.
+ kenya – the mombasa-nairobi standard gauge railway operates double-stacked trains using x2k type wellcars manufactured by crrc, the first such trains being launched on october 1, 2018.
+ panama – the panama canal railway runs double stack trains using well cars manufactured by gunderson inc.
+ saudi arabia – saudi railways organization line to dammam
+ united kingdom – the small structure gauges and consequently small loading gauges on british railways mean that intermodal well wagons are required to be able to transport 9 ft 6 in (2.9 m) high intermodal containers on routes where the loading gauge is w9 or smaller.
+
+choke points
+low bridges and narrow tunnels in various locations prevent the operation of double-stack trains until costly upgrades are made. some class i railroad companies in the u.s. have initiated improvement programs to remove such obstructions. examples include the heartland corridor (norfolk southern railway) and national gateway (csx transportation).
+
+see also
+references
+magazine articles
+mainline modeler:fortenberry, curt & bill mckean. - "apl container car". - february 1987. - p.65-69.
+fortenberry, curt & robert l. hundman. - "apl container car part ii the brake system". - march 1987. - p.78-81.
+hundman, robert l., & curt fortenberry. - "apl 45-foot container car". - may 1987. - p.54-57.model railroader:durrenberger, cyril. - "sp/acf double stack cars". - october 1983. - p.83-93.model railroading:bontrager, david a. - "articulated double stacks: a prototype overview". - june 1993. p.24-29.
+bontrager, david a. - "the newest prototype well cars: an abundance of kitbashing possibilities". august 1997. - p.46-49.
+casdorph, david g. and ed mccaslin. - "gunderson's husky-stack: the prototype and detailing a-line's ho model". - october 1995. - p.32-37.
+casdorph, david g. - "nsc 53' drawbarred well car roster and pictorial". - august 2002. - p.30-33
+geiger, doug. - "thrall double-stacks: three-well dttx drawbar-connected car". - october 1994. - p.50-55.
+geiger, doug. - "gunderson husky stack three-well bn drawbar-connected car". - july 1995. - p.48-53.
+geiger, doug. - "gunderson maxi-stack iiis part i: the prototype". - december 1995. - p.58-63.
+geiger, doug. - "maxi-stack well car part i: the prototype". - april 1997. - p.28-31.
+mansfield, jim. - "thrall five-unit double-stack car - series twg50j". - october 1993. - p.19-23.
+mansfield, jim. - "thrall five-unit double-stack car - series aplx 5000". - november 1993. - p.24-25, 27-31.railroad model craftsman:panza, jim & chuck yungkurth. - "thrall's double-stack cars". - january 1989. - p.89-98.
+panza, jim & bruce keating. - "the gunderson husky-stack well car". - july 1992. - p.71-75.
+panza, jim & william halliar. - "thrall stand-alone and drawbar connected well cars". - october 1992. - p.64-68.
+
+external links
+freight cars
+http://people.hofstra.edu/geotrans/eng/ch3en/conc3en/pbdblstk.htmlarchived 2012-03-24 at the wayback machine the 18 ft (5.49 m) here mentioned is too low, it is more like 20 ft 2 in (6.15 m) aar plate "h" loading gauge diagrams compared to uic (pdf & autocad)
+a partnership of two old rivals, time magazine, june 7, 1954
+guide to rail cars
+association of american railroads mechanical division, page 238
+greenbrier 53’ all-purpose double-stack well car

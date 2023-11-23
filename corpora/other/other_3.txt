@@ -1,0 +1,19 @@
+c.a.r.– compass and ruler (also known as z.u.l., which stands for the german "zirkel und lineal") — is a free and open source interactive geometry app that can do geometrical constructions in euclidean and non-euclidean geometry.
+the software is java based.
+the author is rené grothmann of the catholic university of eichstätt-ingolstadt.
+it is licensed under the terms of the gnu general public license (gpl).
+
+assignments
+assignments make possible to create java applets, for a construction exercises.
+these applets can be used from the command line using the appletviewer.
+(previously, they could be run in a browser, but java support in browsers has been disabled in recent years.)
+
+see also
+graphmatica
+geogebra
+carmetal
+compass-and-straightedge construction
+
+external links
+c.a.r.
+history of the c.a.r.

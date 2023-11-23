@@ -1,0 +1,77 @@
+carsharing or car sharing (au, nz, ca, th, & us) or car clubs (uk) is a model of car rental where people rent cars for short periods of time, often by the hour. it differs from traditional car rental in that the owners of the cars are often private individuals themselves, and the carsharing facilitator is generally distinct from the car owner. carsharing is part of a larger trend of shared mobility.
+carsharing enables an occasional use of a vehicle or access to different brands of vehicles. the renting organization may be a commercial business. users can also organize as a company, public agency, cooperative, or ad hoc grouping. the network of cars on the network becomes available to the users through a variety of means, ranging from the simplicity of using an app to unlock the car in real time, to meeting the owner of the car in order to exchange keys. as of january 2020 the world's top city for car sharing is moscow with more than 30,000 vehicles (though in moscow almost all carsharing cars are owned by large facilitators).
+
+history
+early days
+the first reference to carsharing in print identifies the selbstfahrergenossenschaft carshare program in a housing cooperative that got underway in zürich in 1948, but there was no known formal development of the concept in the next few years. by the 1960s, as innovators, industrialists, cities, and public authorities studied the possibility of high-technology transportation – mainly computer-based small vehicle systems (almost all of them on separate guideways) – it was possible to spot some early precursors to present-day service ideas and control technologies.
+the early 1970s saw the first whole-system carshare projects. the procotip system in france lasted only about two years. a much more ambitious project called the witkar was launched in amsterdam by the founders of the 1965 white bicycles project. a sophisticated project based on small electric vehicles, electronic controls for reservations and return, and plans for a large number of stations covering the entire city, the project endured into the mid-1980s before finally being abandoned.
+in july 1977, the first official british experiment in carsharing started in suffolk. an office in ipswich provided a share-a-car service for "putting motorists who are interested in sharing car journeys in touch with each other." in 1978, the agricultural research council granted the university of leeds £16,577 "for an investigation and simulation of carsharing". the scheme was not intended for different drivers of a single car but for a driver offering seats in his car.
+the 1980s and first half of the 1990s was a "coming of age" period for carsharing, with continued slow growth, mainly of smaller non-profit systems, many in switzerland and germany but also on a smaller scale in canada, the netherlands, sweden, and the united states.carsharing in north america was founded in quebec city in 1994 by benoît robert, with a company called communauto that is still a leader in carsharing globally. cycling advocate and environmentalist claire morissette (1950–2007) played a major role in its evolution starting in 1995, when communauto established itself in montreal as a private company. the company goal is to provide a convenient and economical alternative to owning a car.
+in 2005, a novel form of car sharing service, the "libre service integral", later known as free floating, was introduced by vulog and tested from 2007 in antibes citevu mobility service, on the french riviera. an electric car paid by minute, when and how long i need, where i want and where i go". this service was added to communauto in 2012.
+
+boom in the united states
+the first car-sharing company in the u.s. was carsharing portland, founded by dave brook in march by 1998 after a visit from conrad wagner of mobility switzerland. conrad and dave would also help establish flexcar in seattle, which launched in 2000, the same year as competitor zipcar on the east coast. in april 2001 carsharing portland, then with 25 vehicles, merged with flexcar, as its first expansion city. zipcar, (merged with zipcar in 2007), and city car club were all started in 2000. city carshare was founded in the san francisco bay area in 2001, as a non-profit. several car rental companies launched their own carsharing services beginning in 2008, including avis on location by avis, hertz on demand (formerly known as connect by hertz), operating in the u.s. and europe; uhaul car share owned by u-haul, and wecar by enterprise rent-a-car. by 2010, when various peer-to-peer carsharing systems were introduced. as of september 2012 zipcar accounted for 80% of the u.s carsharing market and half of all car-sharers worldwide with 730,000 members sharing 11,000 vehicles.
+in 2008, city carshare introduced the first wheelchair carrying car share vehicle, the access mobile, specifically designed as a fleet vehicle shared with non-wheelchair users.
+carsharing is noted as a tool for achieving vehicle miles traveled and greenhouse gas emissions reduction targets in the california transport plan (ctp) 2040 to reduce congestion and pollution.
+
+development and growth
+carsharing has also spread to other global markets with dense urban populations (such as argentina, brazil, china, india, mexico, russia and turkey) given that population density is often a critical determinant of success for carsharing. successful carsharing development has tended to be associated mainly with densely populated areas, such as city centers and more recently university and other campuses. there are some programs (mostly in europe) for providing services in lower density and rural areas. low-density areas are considered more difficult to serve with carsharing because of the lack of alternative modes of transportation and the potentially larger distance that users must travel to reach the cars.
+many building developers are now incorporating share-cars into their developments as an added value to tenants, and municipal government bodies around the world are starting to stipulate the implementation of a carsharing service in new buildings, as a sustainability initiative. these trends have created a demand for a new model of carsharing – residential, private-access share-cars that are typically underwritten by the homeowner association. in germany a pilot project has been started by the semiconductor manufacturer infineon to replace regular pool vehicles with a corporate carsharing system. replacing private automobiles with shared ones directly reduces demand for parking spaces. the fact that only a certain number of cars can be in use at any one time may reduce traffic congestion at peak times. even more important for congestion, the strong metering of costs provides a cost incentive to drive less. with owned automobiles many expenses are sunk costs and thus independent of how much the car is driven (such as original purchase, insurance, registration, and some maintenance).
+according to navigant consulting, global carsharing services revenue is expected to grow to us$6.2 billion by 2020, with over 12 million members worldwide. the main factors driving the growth of carsharing are the rising levels of congestion faced by city dwellers; shifting generational mindsets about car ownership; the increasing costs of personal vehicle ownership; and a convergence of business models. carsharing operators increasingly opt to brand parts of their fleets with third-party advertising in order to increase revenue and improve competitiveness (transit media).
+for future applications, many carsharing companies invest in plug-in hybrid electric vehicles (phev) to reduce petroleum consumption. one idea is to calculate and compensate all emissions on behalf of your drivers according to the kyoto protocol, e.g. via reforestation schemes. the world's first certified carbon neutral carsharing service is respiro carsharing in madrid and is also done by australian p2p car sharing platform car next door.
+the most important technological innovation to affect the carsharing market is self-driving cars. it is expected that most self-driving vehicles won't be owned by individuals, but will rather be shared. some companies, like ernst & young, have also started to use blockchain technology to record ownership, usage of shared vehicles and insurance information.in july 2018, volkswagen announced its intention to launch an all-electric car-sharing service by 2019. in august 2018, the carsharing startup getaround rose $300 million from softbank. according to moscow's authority, the number of carsharing journeys in the city averaged 30,000 a day between january and september 2018.
+
+global development and comparison in urban regions
+car-sharing is growing in urban regions as more people around the world adopt it. the world's top cities for car-sharing in 2018 were
+tokyo (japan) with 19.8k vehicles, moscow (russia) with 16.5k vehicles, beijing (china) with 15.4k vehicles, shanghai (china) with 13.9k vehicles, guangzhou (china) with 4.2k vehicles.
+
+types of carsharing
+generally, carsharing programs fall into one of four sharing models: round-trip, one-way, peer-to-peer, or fractional.
+
+round-trip carsharing
+members begin and end their trip at the same location, often paying by the hour, mile, or both.
+
+one-way/free-floating carsharing
+one-way carsharing enables users to begin and end their trip at different locations through free floating zones or station-based models with designated parking locations. as of 2017, free-floating carsharing is available in 55 cities and 20 countries worldwide, with 40,000 vehicles and serving 5.6 million users, with europe and north america representing the majority of the market. in europe, free floating services took up more than 65 percent in carsharing membership.the service is expected to reach 14.3 million users with more than 100,000 vehicles by the end of 2022.
+
+by conventional companies
+in corporate car sharing, the company shares the vehicles and allows multiple employees (rather than just one) to make use of a company car, at times when they actually need it. the vehicles are made available from a corporate car sharing pool, and shared for a fixed or flexible period of time. one shared car could replace up to 8 non-shared cars. however, car-sharing does involves an additional processing and associated costs. still, it  reduces fleet-related costs over the long term and allow employees to save not only on costs but also on time.
+
+peer-to-peer carsharing
+peer-to-peer carsharing, sometimes referred to as p2p or personal vehicle sharing, operates similarly to round-trip carsharing in trip and payment type. however, the vehicles themselves are typically privately owned or leased with the sharing system operated by a third-party.
+
+fractional ownership
+fractional ownership allows users to co-own a vehicle and share its costs and use.
+neighborhood fractional ownership carsharing is often promoted as an alternative to owning a car where public transit, walking, and cycling can be used most of the time and a car is only necessary for out-of-town trips, moving large items, or special occasions. it can also be an alternative to owning multiple cars for households with more than one driver.
+
+difference from traditional car rentals
+carsharing differs from traditional car rentals in the following ways:
+
+carsharing is not limited by office hours
+reservation, pickup, and return is all self-service
+vehicles can be rented by the minute, by the hour, as well as by the day
+users are members and have been pre-approved to drive (background driving checks have been performed and a payment mechanism has been established).
+vehicle locations are distributed throughout the service area, and often located for access by public transport.
+insurance: (this section is us specific) state minimum liability insurance (only $5000 in some states), comprehensive and collision insurance. they do not provide uninsured, under-insured or personal injury protection insurance.
+fuel costs are included in the rates.
+vehicles are not serviced (cleaning, fueling) after each use, although certain programs (such as car2go or goget) continuously clean and fuel their fleet.with carsharing, individuals have access to private cars without having costs and responsibilities associated with car ownership (except for fractional ownerships). some carshare operations (csos) cooperate with local car rental firms, in particular in situations wherein classic rental may be the cheaper option.
+the insurance policies on carsharing greatly varies among companies, but all carsharing firms provide insurance that at least meets the legal minimum requirements for the given region of operation. rob lieber of the new york times has criticized carsharing firms such as zipcar for the paltry coverage afforded carsharing drivers.
+
+technology
+the technology of csos varies enormously, from simple manual systems using key boxes and log books to increasingly complex computer-based systems (e.g. partially automated and fully automated systems) with supporting software packages that handle a growing array of back office functions. the simplest csos have only one or two pick-up points, but more advanced systems allow cars to be picked up and dropped off at any available public parking space within a designated operating area.
+once the reservations are completed and confirmed, the car will then be delivered at the time and place scheduled. there will be a small card reader mounted on the windshield. once the customer places their membership card on the reader, it will use what is called blink technology to activate the time and unlock the car. the reader will not work until it is time for that specific reservation. the keys can then be found somewhere inside the car such as the glove compartment. depending on the company, the customer may be provided with a key to a lock box that contains the ignition key itself. in some cases the car can be unlocked using a mobile phone and the car can even be started using the phone as well.
+many car sharing networks price their services as a small start up fee and then a mileage fee for the distance driven in the car. usually the app will include insurance, gas cards, and upkeep to their fleet of cars at no additional charge to the customer.
+
+see also
+sharing economy
+alternatives to car use
+car rental
+carpool
+ecoleasing
+fleet vehicle
+list of carsharing organizations
+ridesharing company
+
+references
+external links
+ media related to carsharing at wikimedia commons

@@ -1,0 +1,432 @@
+a vehicle registration plate, also known as a number plate (british and australian english) or license plate (us english), is a metal or plastic plate attached to a motor vehicle or trailer for official identification purposes. all countries require registration plates for road vehicles such as cars, trucks, and motorcycles. whether they are required for other vehicles, such as bicycles, boats, or tractors, may vary by jurisdiction. the registration identifier is a numeric or alphanumeric id that uniquely identifies the vehicle or vehicle owner within the issuing region's vehicle register. in some countries, the identifier is unique within the entire country, while in others it is unique within a state or province. whether the identifier is associated with a vehicle or a person also varies by issuing agency. there are also electronic license plates.
+
+legal requirements
+in europe, most governments require a registration plate to be attached to both the front and rear of a vehicle, although certain jurisdictions or vehicle types, such as motorcycles, require only one plate, which is usually attached to the rear of the vehicle. special vehicles such as agricultural and construction equipment might have the license plate attached to other parts of the vehicle. national databases relate this number to other information describing the vehicle, such as the make, model, colour, year of manufacture, engine size, type of fuel used, mileage recorded (and other similar data in jurisdictions where vehicles are regularly inspected for roadworthiness every year or two), vehicle identification number (chassis number), and the name and address of the vehicle's registered owner or keeper.
+
+in the vast majority of jurisdictions, the government holds a monopoly on the manufacturing of vehicle registration plates for that jurisdiction. either a government agency or a private company with express contractual authorization from the government makes plates as needed, which are then mailed to, delivered to, or picked up by the vehicle owners. thus, it is normally illegal for private citizens to make and affix their own plates, because such unauthorized private manufacturing is equivalent to forging an official document. alternatively, the government will merely assign plate numbers, and it is the vehicle owner's responsibility to find an approved private supplier to make a plate with that number.in some jurisdictions, plates will be permanently assigned to that particular vehicle for its lifetime. if the vehicle is either destroyed or exported to a different jurisdiction, the plate number is retired or reissued; exported vehicles must be re-registered in the jurisdiction of import. china requires the re-registration of any vehicle that crosses its borders from another country, such as for overland tourist visits, regardless of the length of time it is due to remain there; this has to be arranged with prior approval.  other jurisdictions follow a "plate-to-owner" policy, meaning that when a vehicle is sold the seller removes the current plate(s) from the vehicle. buyers must either obtain new plates or attach plates they already hold, as well as register their vehicles under the buyer's name and plate number. a person who sells a car and then purchases a new one can apply to have the old plates put onto the new car. one who sells a car and does not buy a new one may, depending on the local laws involved, have to turn the old plates in or destroy them, or may be permitted to keep them. some jurisdictions permit the registration of the vehicle with "personal" ("vanity" or "cherished mark") plates.
+in some jurisdictions, plates require periodic replacement, often associated with a design change of the plate itself. vehicle owners may or may not have the option to keep their original plate number, and may have to pay a fee to exercise this option. alternately, or additionally, vehicle owners have to replace a small decal on the plate or use a decal on the windshield to indicate the expiration date of the vehicle registration, periodic safety and/or emissions inspections or vehicle taxation. other jurisdictions have replaced the decal requirement through the use of computerization: a central database maintains records of which plate numbers are associated with expired registrations, communicating with automated number plate readers to enable law-enforcement to identify expired registrations in the field.
+
+placement
+plates are usually fixed directly to a vehicle or to a plate frame that is fixed to the vehicle. sometimes, the plate frames contain advertisements inserted by the vehicle service centre or the dealership from which the vehicle was purchased. vehicle owners can also purchase customized frames to replace the original frames. in some jurisdictions registration plate frames are illegal or have design restrictions. for example, many states, like texas, allow plate frames but prohibit plate frames from covering the name of the state, province, district, native american tribe or country that issued the license plate (when that information appears on the plate). plates are designed to conform to standards with regard to being read by eye in day or at night, or by electronic equipment. some drivers purchase clear, smoke-colored or tinted covers that go over the registration plate to prevent electronic equipment from scanning the registration plate. legality of these covers varies. some cameras incorporate filter systems that make such avoidance attempts unworkable, usually with infra-red filters.
+vehicles pulling trailers, such as caravans and semi-trailer trucks, are typically required to display a third registration plate on the rear of the trailer.
+
+plate design considerations
+an engineering study by the university of illinois published in 1960 recommended that the state of illinois adopt a numbering system and plate design "composed of combinations of characters which can be perceived quickly and accurately, are legible at a distance of approximately 125 feet (38 m) under daylight conditions, and are readily adapted to filing and administrative procedures". it also recommended that a standard plate size of 6 inches (15 cm) by 14 inches (36 cm) be adopted through the united states to replace the earlier 6 inches (15 cm) by 12 inches (30 cm) size to allow longer registration numbers to be displayed without excessively tight spacing or excessively thin or narrow characters.in order to combat registration plate fraud, from the 1920s several jurisdictions developed their own anti-fraud typefaces so that characters cannot be painted or modified to resemble other characters. since the 1990s, many jurisdictions have adopted the fe-schrift typeface.
+english uses twenty-six letters (languages such as german, icelandic and danish have more letters), so assuming that the letters vs. digits must appear in particular locations (common on plates in most jurisdictions, for instance four decimal digits and two letters where the letters must come first, allowing ab1234 but excluding a12b34), allowing for repeating letters and digits, the combinations for each of these will be:
+
+if letters and digits can appear in any order, it is problematic to allow both the letter o and the digit 0 to be used. even if the license plate uses distinguishable characters for the two, someone transcribing the plate may not know which symbol has which meaning, and the owner of plate em6f9vo may get in trouble for something the owner of plate em6f9v0 did. other letter–digit pairs, like i and 1, may be similarly problematic to a lesser degree. allowing for repeating letters and digits, the combinations for each of these will be:
+
+history
+france was the first country to introduce the registration plate with the enactment of the paris police ordinance on 14 august 1893, followed by germany in 1896. the netherlands was the first country to introduce a national registration plate, called a "driving permit", in 1898. initially these plates were just sequentially numbered, starting at 1, but this was changed in 1906.
+in the united states, where each state issues plates, new york state has required plates since 1903 (black numerals on a white background) after first requiring in 1901 only that the owner's initials be clearly visible on the back of the vehicle. at first, plates were not government-issued in most jurisdictions and motorists were obliged to make their own. in 1903, massachusetts was the first state to issue plates.  in 1928, idaho was the first state to put a logo on the plate (the "idaho potato").in spain, the first law to define rules on non-animal vehicle traction was real orden de 1897 de circulación de vehículos cuyo motor no sea la fuerza animal and the registration of vehicles was defined as a provincial task in the reglamento de 1900 para el servicio de coches automóviles por las carreteras.the first spanish registration plate, pm–1, was issued for a clément-talbot on 31 october 1900 in palma de mallorca. from 1901 to 1905 256 vehicles were registered.
+
+materials
+the earliest plates were made  of enamel on metal or ceramic with no backing, which made them fragile and impractical. few of these early plates survived. later experimental materials include cardboard, leather, plastic, and, during wartime shortages, copper and pressed soybeans.
+
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+as of the 21st century, most plates are made out of aluminium.  metal plates are manufactured through one of two processes: embossing or riveting.  for embossing, a plate is placed between dies on each side corresponding to the desired characters and compressed by a press.  for riveting, holes are drilled through the plate and then individual letters are riveted one-by-one to the plate.new technology has allowed for the development of digital license plates. in 2018, michigan approved public act 656, making electronic license plates legal.
+
+sizes
+early 20th century plates varied in size and shape from one jurisdiction to the next, such that if someone moved or the car was resold in a new area, new holes would need to be drilled into the automobile (often on the bumper) to support the new plate, or an adapter plate be made. standardization of plates came in 1957, when automobile manufacturers came to agreement with governments and international standards organizations. while peculiar local variants exist, there are four basic standards worldwide:
+
+520 by 110 mm (20.5 by 4.3 inches) or 520 by 120 mm (20.5 by 4.7 inches) – in the bulk of european countries and many of their former overseas territories, as well as north korea and south korea.
+400 by 130 mm (15.7 by 5.1 inches) – in the mercosur member countries: brazil, argentina, uruguay, and paraguay, originally based on the 1990 brazilian standard.
+305 by 152 mm (12.0 by 6.0 inches) or 305 by 160 mm (12.0 by 6.3 inches) – in the majority of north america and central america, and parts of south america; occasionally in switzerland and liechtenstein; and many persian gulf countries, also allowed for imported vehicles in the united kingdom.
+372 by 135 mm (14.6 by 5.3 inches) – in australia and some other pacific rim countries, about halfway between the dimensions of the other two standards, longer than western hemisphere plates but taller than european ones.additional sizes include:
+
+275–240 by 200–220 mm (10.8–9.4 by 7.9–8.7 inches) – two line pattern, optional in several european countries for 4×4 and imported vehicles;
+290 by 170 mm (11.4 by 6.7 inches) – in russia for imported japanese and american vehicles.
+300 by 80 mm (11.8 by 3.1 inches) – in switzerland and liechtenstein.
+310 by 155 mm (12.2 by 6.1 inches) – in saudi arabia.
+320 by 90 mm (12.6 by 3.5 inches) – in iraq.
+330 by 140 mm (13.0 by 5.5 inches) – in andorra.
+in vietnam:from 330 by 165 mm (13.0 by 6.5 inches) to 520 by 110 mm (20.5 by 4.3 inches) – for car,
+190 by 140 mm (7.5 by 5.5 inches) – for bike.
+330 by 165 mm (13.0 by 6.5 inches) – in japan.
+in monaco:
+340 by 110 mm (13.4 by 4.3 inches) – for the rear,
+260 by 90 mm (10.2 by 3.5 inches) – for the front.
+340 by 150 mm (13.4 by 5.9 inches) – in thailand.
+360 by 110 mm (14.2 by 4.3 inches) – in italy (front plates), and oman.
+360 by 125 mm (14.2 by 4.9 inches) – in new zealand.
+360 by 130 mm (14.2 by 5.1 inches) – in chile.
+380 by 160 mm (15.0 by 6.3 inches) – in taiwan.
+390 by 120 mm (15.4 by 4.7 inches) – in san marino.
+390 by 140 mm (15.4 by 5.5 inches) – in the philippines
+404 by 154 mm (15.9 by 6.1 inches) – in ecuador.
+430 by 110 mm (16.9 by 4.3 inches) – in jordan.
+in indonesia
+275 by 110 mm (10.8 by 4.3 inches) – for two and three wheeled vehicles, in the front and rear.
+430 by 135 mm (16.9 by 5.3 inches) – for four-wheeled vehicles and more, in the front and rear.
+440 by 120 mm (17.3 by 4.7 inches) – in south africa and finland.
+440 by 140 mm (17.3 by 5.5 inches) – in china, but 480 by 140 mm (18.9 by 5.5 inches) for new energy vehicles.
+450 by 100 mm (17.7 by 3.9 inches) – in syria and tunisia.previous sizes included:
+
+190 by 140 mm (7.5 by 5.5 inches) – in vietnam before 2021 for all vehicles.
+320 by 150 mm (12.6 by 5.9 inches) – in paraguay and taiwan; paraguay now uses mercosur size plates.
+330 by 155 mm (13.0 by 6.1 inches) – in south korea, now uses european size plates.
+340 by 110 mm (13.4 by 4.3 inches) – in belgium before 2013.
+340 by 120 mm (13.4 by 4.7 inches) – in luxembourg before 2003.
+350 by 155 mm (13.8 by 6.1 inches) – in uruguay before 2016.
+390 by 120 mm (15.4 by 4.7 inches) – in finland before 2001.
+420 by 120 mm (16.5 by 4.7 inches) – in serbia before 2011, based on yugoslavia's standard.
+
+africa
+algeria
+algerian registration plates are manufactured according to the same standards as their french counterparts (prior to 2009), using the same font and dimensions – although there has been a recent tendency to apply custom typefaces (impact and century gothic have been observed).
+
+botswana
+normal vehicles have number plates starting with the letter b, followed by three digits, followed by three letters. the digits and letters are assigned by a registrar. the three letters never include the letter q, to avoid confusion with o. botswana number plates have a reflective white front and yellow rear background, and black lettering.
+government vehicles all have the prefix "bx", these number plates have a white reflective background with red lettering at the front and white on red at the rear. after 'bx' are the last two numerals of the date of issue and then up to four digits issued serially.
+botswana defence force vehicles have the prefix "bdf" in white on an 'army' green background.
+diplomatic vehicles' number plates start with two numerals which indicate the embassy to which they are attached, then two letters cd (corps diplomatique), cc (consular corps status) or ct (foreign technical and advisory personnel) and another three digits which are serial. the official car of the head of mission uses the letters cmd rather than cd and the private vehicle uses cda.
+this series is allocated by the minister of foreign affairs.botswana is the former british protectorate of bechuanaland, and number plates then used a 'bp' prefix (then bpa, bpb, etc.) followed by up to three digits, in white on black background, the plates being made in the characteristic style of south africa at that time.
+
+burkina faso
+vehicles are fitted with registration plates in the front and rear of the vehicle. motorcycles (50cc or more) must be licensed and only bear rear plates. registration is performed at the local police or gendarmerie station. the first digits of the plate indicate the province in which the vehicle is registered. only plates which meet government standards and are sold by licensed dealers may be fitted.private passenger car registration plates have a white background with black letters and digits. plates exist in a long pattern and a rectangular pattern, similar in size and appearance to french plates. the plate is adorned with a small flag of burkina faso in the shape of the country, inscribed in a black circle. the letters "bf" appear below the circle, also in black. this circle and bf design is to the right of the long plate and to the upper right of the rectangular plate. motorcycle plates are similar to rectangular automobile plates, but smaller.
+commercial registration plates are similar in appearance to private plates, but the background is blue, and the writing and circle are white.
+security forces plates are black with white letters. they are adorned with the emblem of the relevant security service.
+
+cameroon
+the current scheme of regular license plates was introduced in 1985. it has ab1234v formats or ab123vh where ab is the code region, 1234 is the number, and sh is the series. the regular plate has an orange background with black marks. since 2005, to reflect the german fe font used, on the left side of the plate are the emblems of the economic community of central african states code and the cmr emblem.
+
+kenya
+the current series of vehicle registration plates in kenya are on a white plate with black lettering and look quite similar to uk suffix style registrations. the format is lll 000l, where ‘l’ denotes a letter and ‘0’ denotes a digit. the older series of number plates were black with white or silver lettering. the rear plates in the older series of number plates were yellow and black lettering. according to kenya national bureau of statistics there are over 1,626,380 vehicles on kenyan roads as at 2011.
+
+morocco
+new-style (post-1983, black lettering on white) moroccan vehicle registrations have one or two digits to the right of the plate to indicate the town of registration.
+each number is separated by a vertical line.   to the left of the plate are a series of up to 5 digits issued consecutively.  these are separated from the town of registration digits by a hyphen.
+earlier plates (1972–1983, black lettering on white.  pre-1972, white lettering on black) differed in that they could have either one or two numbers to indicate the town of registration.  the group of digits was separated from the rest of the plate by a vertical line.
+the current plates use numerals without script. earlier plates used numerals and included arabic script.
+
+south africa
+south african number plates are unique in each of the provinces. each province has its own number plate design and colors, as well as numbering scheme.
+
+americas
+argentina
+the history of registration plates in argentina can be broken down in two major phases: the decentralized phase (until 1972) and the centralized one (since 1972). during the decentralized phase, registration plates were assigned by each municipality or by the provinces, while during the second phase, the national state took charge of standardizing and centralizing the design and style.
+argentina has used the abc 123 format since 1995. however, from 2016, new registration plates with the logo of mercosur and the ab 123 cd format were implemented. both formats coexist temporarily.
+
+bolivia
+bolivia's current registration plate system consists of four numbers followed by three letters. at the top of the plate, "bolivia" is spelled out. at the top left corner, the bolivian flag may be present, and at the top right corner, a letter denoting the department in which the car is registered, according to the iso 3166-2:bo code, is displayed on either a metal tab on older plates or a sticker on newer plates. the current registration plate design consists of a white background with a blue borderline and blue letters and numbers.
+serial digits progress sequentially from right to left, with the 000 aaa format followed by the 1000aaa format and currently the 4000aaa format.
+older plate serials consisted of three numbers followed by three letters (a to z, except o and q). they had a white background with black letters and numbers.
+
+brazil
+brazil adopted its former system in 1990, which uses the form abc•1234, with a dot between the letters and the numbers. a combination given to a particular vehicle follows it from first issue to the scrapyard: it cannot be transferred to another vehicle. above the combination there was a metallic band with the state abbreviation (sp = são paulo, rj = rio de janeiro, pr = paraná, am = amazonas, etc.) and the name of the municipality in which the vehicle title owner resides. during the first registration of a new vehicle, the registering state issues a registration plate to the vehicle rather than owner, and the serial stays with the vehicle for its life.
+brazil, as a member of mercosur, from september 2018 on, began a new registration system where plates have a blue band at the top with the logo of mercosur on the left, the country's name centered and country flag on the right. on the bottom left, there is the international vehicle registration code for brazil: br. the plates are always white: the letter coloring indicates the category (e.g., black on white: private; blue on white: official, police, fire departments, etc.; red on white: taxis, buses, paid freight, etc.). a new format based on the previous one, abc1d23, was implemented. all used cars, when transferred to another owner, must change to the new format keeping their registration, where only its second number (the fifth position of the alphanumeric combination) shall change to a letter, following the pattern: 0=a, 1=b, 2=c, 3=d, ... 9=j. as of 2020, both formats coexist for the time being.
+
+canada
+in canada, license plates are issued on the provincial or territorial level. federally issued plates are only used by the department of national defence. all provinces issue plates in which the letters and numbers are embossed so that they are slightly raised above its surface. the territory of nunavut introduced the first flat registration plate in canada in july 2012.
+in the canadian provinces and territories of alberta, new brunswick, newfoundland and labrador, the northwest territories, nova scotia, nunavut, prince edward island, quebec, saskatchewan, and the yukon, registration plates are currently only required on the rear of the vehicle. the remaining provinces – british columbia, manitoba, and ontario – require the registration plates to be mounted on both the front and rear of the vehicle. when a person moves from one province to another, they are normally required to obtain new registration plates issued by the new place of residence.
+in 1956, all north american passenger vehicle registration plates (except for french-controlled st. pierre and miquelon), were standardized at a size of 6 in × 12 in (152 mm × 305 mm), although a smaller size is used for certain vehicle classes, such as motorcycles, and for the state of delaware's historic alternate black and white plates, which are 5.25 in × 9.5 in (133 mm × 241 mm). the plates of the northwest territories are shaped like a polar bear but bolt to the standard holes. nunavut inherited this design on its creation but switched to rectangular plates in 2012. canadian forces vehicles that travel on regular roads display registration plates. these vehicles have registration plates issued by the department of national defence. domestic plates were issued by the dnd after 1968.
+most canadian provinces offer personalized or vanity license plates, where one can display their own unique combination of characters.prison inmates in ontario make registration plates.
+
+colombia
+private black-on-yellow plates with the abc·123 format are used in colombia. the municipality of issuance is embossed at the bottom of the plate.
+
+ecuador
+vehicle number plates in ecuador have only one design, with the word "ecuador" appearing in uppercase letters centred at the top of the plate and a unique letter-number combination which consists of three letters (except for motorbikes, diplomatic vehicles and vehicles owned by international organisations) followed by three or more numerical digits. formats in use are abc-123 (old format) and abc-1234 (new format).
+the first letter in the letter-number combination indicates the province of issue. the second letter might be sequential or a "key letter" identifying the type of registration plate; the following letters and numbers are assigned in sequential order to the date the vehicle has been registered.
+
+greenland
+greenlandic vehicle registration plates normally have two letters and five digits. the combination is simply a serial and has no connection with a geographic location, but the digits have a number series based on vehicle type.
+
+mexico
+each mexican state issues registration plates of a different design. most states change designs more or less every third year, with each state on its own plate replacement cycle. every year mexicans pay the tenencia or revalidación de placas ("car plates renewal tax"). a set of mexican plates includes one pair of plates, a windshield sticker, and in a few states a plate sticker. in 2001 the size of the plate number was reduced to accommodate the addition of the state number, a legend indicating the position of the plate on the vehicle (delantera (front) or trasera (rear)), and additional graphics. european-sized plates do exist in mexico, but are not official or legal. these generally contain the same design as the standard-size plate in use at the time, and bear the standard letter and number sequence.
+mexican plates come in several different classifications: private, private border, public, public border, federal public service, fiscal and customs inspection, mexico army, and diplomatic. the border plates were introduced in 1972 and are available in the mexico–usa border zone. this zone is formed by the states of baja california and baja california sur, as well as parts of sonora, chihuahua, coahuila, and tamaulipas. while the state of nuevo león shares a 15 km (9 mi) border with the u.s., it does not have any cities within the border zone.
+
+panama
+in panama, the design of registration plates changes every year and the plates are the standard north american size and shape. they used to be made by prison inmates but are now produced on demand and on site using a press. plates used to have 6 numbers, but since 2013 new plates for new vehicles have 2 letters and 4 numbers. the 2 letters go before the numbers. they have a sticker on one of the corners indicating in which month of the year the plate was issued. on the bottom center of the plate is the year when the plate was issued. they also have holograms on the right edge of the plate. on the top center the plate has the word panama. government vehicles always begin with go. taxis begin with t and are always yellow. school buses say colegial instead of the year the plate was issued. motorcycles begin with m. metro buses begin with mb. plates for motorcycles are about half the standard size. plates of vehicles belonging to the national assembly are always white and have the logo of the national assembly on the left and two numbers on the right and are always white. vehicles of government executives have no registration plate. vehicles from central america can be used freely in panama without having to change plates but only if the vehicle will not be staying indefinitely in panama. vehicles must be checked every year when changing the plate. the plate must be changed every year and once the vehicle is checked a sticker must be attached to the back of the vehicle's windshield. the color of the sticker changes every year.
+
+united states
+the first registration plates in north america appeared in 1903 in the commonwealth of massachusetts. soon after, other states followed suit, with virtually every state having adopted a form of registration plates by 1918.the first registration plates in the united states were made out of leather, rubber, iron, and porcelain, painted on the front in usually two different colors – one for the background and one for the lettering. this scheme held true for most states until about 1920. the front of the plate would usually contain the registration number in large digits, and in smaller lettering on one side of the plate, the two- or four-digit year number, and an abbreviated state name. each year, citizens were usually required to obtain a new registration plate from the state government, which would have a different color scheme than the previous year, making it easier for police to identify whether citizens were current with their vehicle registration.
+even before 1920, some states had adopted the technique of embossing the metal plates with raised lettering and numbering, without porcelain, and applying paint all over the plate, directly onto the metal. minnesota introduced some registration plates during this period with three different years embossed into the plate, so that the plates were valid for three consecutive years (e.g., 1918, 1919, and 1920).
+in the united states, registration plates are issued by each state. the federal government issues plates only for its own vehicle fleet and for vehicles owned by foreign diplomats. in the united states, many native american tribal governments issue plates for their members, while some states provide special issues for tribal members. within each jurisdiction, there may also be special plates for groups such as firefighters or military veterans, and for state or municipality-owned vehicles.
+the appearance of plates is frequently chosen to contain symbols or slogans associated with the issuing jurisdiction. some of these are intended to promote the region. a few make political statements; for example, most plates issued in district of columbia include the phrase "taxation without representation" to highlight d.c.'s lack of a voting representative in the united states congress. more recently, some states have also started to put a web address pertaining to the state (such as pennsylvania, which posts the address of its tourism site). in some states (georgia, iowa, kentucky, mississippi, tennessee, ohio, and some versions in florida), the issuing county is listed at the bottom, while kansas does so with a letter-coded registration sticker; utah did so until 2003. indiana identifies counties with a two-digit code in the lower right corner of its plates. alabama, idaho, montana, ohio, south dakota, wyoming, most nebraska, and some oklahoma standard issue plates designate the county by unique codes, usually numeric (idaho uses a one-letter or one-number/one-letter code; oklahoma uses a one-letter code), either in the plate number or registration sticker. some states, such as new hampshire, new mexico, and new york, formerly used county-coded or county-labeled plates before switching to standard-progression plates.
+
+most states use plates onto which the letters and numbers are embossed so that they are slightly raised above its surface. characters on vermont plates are  engraved onto a large, slightly raised portion of the plate. seventeen states – alabama, arizona, delaware, georgia, idaho, indiana, iowa, kansas, minnesota, montana, nebraska, new jersey, oklahoma, south carolina, south dakota, tennessee, texas, wyoming – and both the district of columbia and puerto rico, have moved to entirely digitally printed "flat" registration plates. several other states, such as colorado, mississippi, missouri, new york, ohio, oregon, washington, west virginia, and wisconsin, produce a flat registration plate only for certain plates, such as personalized license plates and special interest plates. nevada reverted from using flat registration plates to using embossed plates, after using flat plates as a standard issue for a few years.
+the numbering system of registration plates also varies among the jurisdictions. some states issue a motorist a serial that stays with that person as long as they live in that state, while other states periodically issue new serials and completely rotate out any old ones. some states issue registration plates to vehicles rather than owners, and the serial stays with the vehicle for its life. several states do not regularly use certain letters – most commonly the letters i, o, and/or q – in their plates, except on vanity plates, so as not to confuse observers with the numbers one and zero.
+when a person moves from one state to another, they are normally required to obtain new registration plates issued by the new place of residence. some u.s. states will even require a person to obtain new plates if they accept employment in that state, unless they can show that they return to another state to live on a regular basis. the most prominent exceptions to this policy are active duty military service members, who legally do not change residence when they move to a new posting. federal law specifically allows them to choose to either retain the state vehicle registration of their original residence or change registration to their state of assignment.
+in the united states, 21 states – alabama, alaska, arizona, arkansas, delaware, florida, georgia, indiana, kansas, kentucky, louisiana, michigan, mississippi, new mexico, north carolina, ohio, oklahoma, pennsylvania, south carolina, tennessee, and west virginia – do not require an official front registration plate. in nevada, front plates are optional if the vehicle was not designed for a front plate and the manufacturer did not provide an add-on bracket or other means of displaying the front plate. in massachusetts, certain old rear-only plates are grandfathered, but newly issued registrations require both front and rear plates. vehicles owned by the united states postal service, unlike other federally owned civilian vehicles, do not bear registration plates, but rather a postal service number such as on the grumman llv.
+in 1956, all north american passenger vehicle registration plates, except for french-controlled st. pierre and miquelon, were standardized at a size of 6 in × 12 in (152.40 mm × 304.80 mm), although a smaller size is used for certain vehicle classes, such as motorcycles, and for the state of delaware's historic alternate black and white plates, which are 5.25 in × 9.5 in (133.35 mm × 241.30 mm). however, in 2012 puerto rico began issuing optional european-style plates that incorporate the design language of the standard-issue plates in a longer and narrower size typically seen in europe.
+tactical vehicles of the united states military do not bear registration plates, even if they travel regularly on public streets and highways.
+in many u.s. states, registration plates are made by prison inmates. because of this, colloquial terms include "license plate factories" for prison and "making license plates" for serving a prison sentence.
+
+asia
+afghanistan
+afghan registration plates primarily use persian script text and numerals.  the current version was introduced in 2004.
+
+bangladesh
+bangladeshi registration plates use bengali alphabets and bengali numerals.
+in bangladesh, the road transport authority (brta) issues vehicle registration plates for motor vehicles. the vehicle registration plates in bangladesh use bengali alphabets and bengali numerals. the current version of vehicle registration plates started in 1973. the international vehicle registration code for bangladesh is bd.
+the general format of vehicle registration plates in bangladesh is "city – vehicle class alphabet and no – vehicle no". for example, : "dhaka-d-11-9999". the "dhaka" field represents the city name in bengali alphabets, the "d" field represents the vehicle class in bengali alphabets, the "11" field represents the vehicle registration serial in bengali numerals (newer registrations have a higher serial number) and finally, the "9999" field represents the vehicle number of the vehicle in bengali numerals.
+the plates are installed in both the front and rear of the vehicle, with the rear plate permanently attached to the vehicle. the plate is only removed when the vehicle has reached the end of service and has been sold for scrap. new vehicles are not delivered to the purchaser until the plates have been attached at the dealership.
+
+china
+mainland
+the people's republic of china issues vehicles registration plates at its vehicle management offices, under the administration of the ministry of public security.
+the current plates are of the 2007 standard (ga36-2007), blue background and consist a one-character provincial abbreviation, a letter of the latin alphabet corresponding to a certain city in the province, and five numbers or letters of the alphabet (e.g. 京a-12345, for a vehicle in beijing or 粤b-12345 for a vehicle from shenzhen in guangdong province). the numbers are produced at random, and are computer-generated at the issuing office. (a previous registration plate system, with a green background and the full name of the province in chinese characters, actually had a sequential numbering order, and the numbering system was eventually beset with corruption).
+yellow plates are issued to motorcycles and large vehicles, such as coaches and buses. black plates are issued to vehicles belonging to diplomatic missions and foreigners (including hong kong and macau). vehicles registered in hong kong or macau and permitted to enter china would be required to have a separate black plate from china as hong kong and macau operate their own vehicles registration system. the chinese plates for these cars followed the pattern of the provincial character for guangdong (粤), the latin letter "z", 4 letters and/or numbers, ending in the abbreviated character for the territory (e.g. 港 for hong kong and 澳 for macau).
+for motorcycles, the front plate only included five numbers and rear contained the full information (e.g. for a motorcycle registered in shanghai as 沪c•12345, the front plate would be "12345" and the rear plate bears the entire set).
+
+hong kong
+hong kong number plates follow the british system of colouring, with front white and rear yellow plates. the numbering system is two letters and (up to) four digits, e.g. ab1234. registration plate numbers starting with "am" are reserved for government use. the front white and rear yellow background is a reflective material to comply with the bs au145a standard.
+in addition, hong kong started a new scheme in 2006 to allow personalised registration plates, with up to eight selectable letters or numbers.
+
+macau
+macau local registration plates follow the portuguese pre-1992 system of colour and sequence. plates have a black background with white numbers. numbering system starts from m, and then one letter, and then 4 numbers, and separated by "-", e.g. ma-12-34. earlier numbers will only have m instead of ma or mb or mc, etc.
+
+taiwan
+in the republic of china (taiwan), vehicle registration plates are issued by the ministry of transportation and communications. the registration numbers contain latin letters (a to z), arabic numerals (0 to 9) and dash (–), and plates also bear chinese characters.
+
+india
+vehicle registration plates, usually known as number plates, are issued by the regional transport office of each district. most motor vehicles which are used on public roads are required by law to display them.
+the new system which is followed currently in all the states and cities came into effect in the early 1990s. the scheme comprises:
+
+a two letter identification for the state in which the vehicle is registered.
+a two number code to identify the regional transport office (rto) where the vehicle is registered.
+an alphabet code to define the series. (one or two alphabet, depending on vehicle density of the district/rto)
+a four digit serial.for example,  in the case of "mh 10 el 5311", "mh" stands for maharashtra, "10" stands for sangli city rto, and "el 5311" denotes the series and serial number.
+the delhi ncr however uses a modified system wherein an additional alphabet is inserted after the rto code to classify vehicle type. for example, a delhi registration plate may read "dl 12 c ab 0496" where "dl" stands for delhi, "12 c" stands for car, and "ab 0496" is the series and number. in this scheme, 'c' denotes car, 's' denotes scooter/motorcycle, 'r' stands for rickshaw (three-wheeler), 'f' stands for "fancy" or vip numbers irrespective of vehicle type; and "p" for public transport vehicles.
+some states have been adapting the dual letter series code system, for example car series' are ca, cb, cc; motorbike series' are ma, mb and so on. most states however still use the standard series code, denoted by a single letter of the alphabet.
+
+indonesia
+indonesian vehicle plates share the legacy of the dutch colonial era, which do not reflect the regional divisions of the country into provinces, but the old system of karesidenan or residencies. their prefixes are therefore based on this system. there are four types of plates that are used in indonesia, all consisting of a combination of alphabet and numbers.
+
+for commercial and public vehicles, a yellow background with black typeface.
+for private vehicles, a white background with black typeface (from june 2022). before that, a black background with white typeface.
+for government vehicles, a red background with white typeface.
+dealer plates are white background with red typeface, usually for vehicles yet to have legal and confirmed information and owner.besides these normal plates, there are also military plates for army, navy, air force, and also the police. while diplomatic corps get special white plates and black numbering with "cd" prefix. the normal scheme comprises a one or two letters identification for the regencies, followed by an up to four digit numbers for the car's identification, and the last one to three letters are the serial code or district identification. the expiry date of the license is embossed along the bottom and some on the top of the plate. at the middle of the plate number, the numbers are usually random or requested by the vehicle owner and has a maximum of four digits and a maximum of three letters at the end of the vehicle's plate number, for example it could be: (b 1 a), (b 12 ab), (b 123 ab), and (b 1234 abc). sometimes the last maximum three letters at the end of the plate identifies the district region of the registered vehicle by the first letter, for example: (b 1234 wie) which "w" identifies the vehicle is from the region of southern south tangerang city (kota tangerang selatan), banten province. vehicle owners may request their vehicle's last letters plate for their own desire, but would need more affairs by the local police registering it, for example that the owner's name is "adi" then he would make his vehicle's plate number like so: (b 1234 adi).
+example:
+
+b 1234 ab, is mainly a vehicle registered in jakarta, distinguishable from the letter code from the first letter of the plate, "b" represents the following cities: jakarta, depok, tangerang (includes south tangerang), and bekasi. mainly, vehicles registered in 2008 and later starts using three letters at the end of the whole plate, for example: b 1234 abc
+l 123 mn, is a vehicle registered in surabaya, the provincial capital of east java  surabaya code is "l"
+db 787 aa, is a vehicle registered in north sulawesi which includes minahasa and manado which is the capital city of the province. north sulawesi code is "db"
+kt 8910 t, is a vehicle registered in east kalimantan province, tarakan municipality, on borneo island. east kalimantan code is "kt"
+f 8888 lu, is a vehicle registered in bogor city, west java. bogor city code is "f"the plates usually have their expiration dates shown below or very few on the top of the serial numbers, indicating its expiry month and year, so if it says (12•26) it means that the plate expires at december 2026, so the owner of the vehicle should pay tax and get a new plate at that time, to which the process is redone every five years. a new plate design introduced in april 2011 eliminates a white line circling the whole plate and has a thinner typeface until it was replaced in 2022.
+
+iran
+iranian license plates have had european standard dimensions since 2005. each province in iran has multiple unique, two-digit codes that are included at the right end of the license plates in a distinguished square outline, above which the word "ایران" or "iran" has been written. a province's license plates will not be issued with a new code unless all possible combinations with the old code have been issued.
+
+in tehran, the first code to be issued for the province was code 11, and subsequent codes all increased by 11 as well (meaning codes 11, 22, 33, ..., 99 are unique to tehran.) ever since code 99 was fully issued, the new codes for tehran have started from 10 and subsequently increased by 10 (10, 20, 30, ...).private vehicles’ plates are black on white with a blue strip on the left. the code in the square represents the regional codes. the letter can be dependent on where the car's owner's principal address is located. for example, while regional code "83" belongs to fars province, letter "م" (m) is dedicated to residents of larestan county, while letter "هـ" (h) is dedicated to jahrom county residents.
+iran's license plate format is entirely in persian alphabet. it follows the format ## x ### - nn
+
+## ### is the registration code
+x is the series letter. each unique classification of vehicles is assigned a unique letter. for private vehicles, for example, if numbers start from 11 b 111 , the letter b will not change until numbers reach 99 b 999. then, plates will go up to 11 c111. these details are explained further in each section of this article.
+nn is the province code.example:
+
+12 v 345-93, is a vehicle registered in shiraz. distinguishable from the last two digits of the plate,"93" representing fars province. and the letter "v" representing shiraz city.
+12 q 345-99,  is a vehicle registered in tehran. distinguishable from the last two digits of the plate, "99" representing tehran city.
+
+iraq
+japan
+japanese vehicle registration plates fall into two classes: prefectural, used nationwide, and municipal. municipal registration is typically applicable to motor vehicles that will not leave the area, such as light motorcycles.
+in the prefectural system, the top line names the office at which the vehicle is registered, and includes a numeric code that indicates the class of vehicle. the bottom contains one serial letter (typically a kana), and up to four digits. the classes of registration plate are divided by vehicle type and engine size. for private vehicles less than 660 cc (40 cu in), registration plates have black text on a yellow background. above 660 cc (40 cu in), a white plate with green text is used. for commercial, non-private vehicles, the colors of the number plate are inverted. an official seal is applied over one (typically the left) screw, preventing the plate being removed and applied to another car.
+municipal registration plates in japan may vary in color and design.
+
+jordan
+jordan requires its residents to register their motor vehicles and display vehicle registration plates.
+
+korea
+north korea
+north korean vehicle plates follow the pattern xx-##-###, where "xx" is replaced with two hangul syllables) spelling the province name.
+the most common plates are embossed black-on-white to indicate state ownership; plates indicating kpa use are white-on-black. motorcycle plates are black-on-yellow or black-on-orange. the very few privately owned motor vehicles which exist in north korea bear black-on-red plates, while diplomatic plates are white-on-blue. other types of vehicles (trolleys, emergency vehicles, buses/taxis) are indicated with additional numerical prefixes.
+
+south korea
+in south korea, 6 types of registration number plates (3 variations of size, both non-commercial and commercial) are issued currently. prior to 2006, sizes of plates were 335 by 155 mm (13.2 by 6.1 in) for normal vehicles and 440 by 200 mm (17.3 by 7.9 in) for large vehicles (buses with length over 6 metres (19 feet 8 inches) and trucks with payload over 4 t (3.9 long tons; 4.4 short tons)). since november 2006, standard plate size for normal vehicles was changed to 520 by 110 mm (20.5 by 4.3 in), resembling european union standard. nonetheless, older 335 mm (13.2 in) plates are still effective for older vehicles and some models not fit for new standard, which are mostly imported cars. one example is the ford mustang. even cars with 520 mm (20.5 in) plate in front and 335 mm (13.2 in) plate in rear are not rare.
+non-commercial vehicles (nationwide registration number "00-x-0000": x is one hangeul character denoting type of vehicle) bear plates with white background and black letters, while commercial vehicles (region name is added as prefix like "seoul 12 ga 3456") with yellow background and black letters. in older system, non-commercial vehicles plates had green background and white letters.
+there are a few exceptions, including diplomats and united states military.
+
+lebanon
+lebanese vehicle registration plates generally have a blue bar to the left like in european union countries (except without the 12 golden stars) if the plate is european standard. the blue bar is to the top if the plate is north american standard. the blue bar consists of the name of lebanon in arabic (لبنان), the lebanese cedar tree in the middle, and the vehicle's classification all in white. the rest of the plate is white, with a latin letter representing the vehicle's registration area and arabic numbers next to the letter in bold. different colors represent different usages (e.g., red ones are used by taxis and public transport, green ones are for rental vehicles, etc.).
+
+malaysia
+malaysian registration plates are displayed at the front and rear of all private and commercial motorised vehicles in malaysia, as required by law. the issuing of the registration plates is regulated and administered by the malaysian road transport department (malay: jabatan pengangkutan jalan malaysia) or jpj.
+
+nepal
+nepal embossed plate was started from 2017. in nepal, all road vehicles with or without a motor (except bicycles) are tagged with a registration number. registration plates are commonly known as number plates. the registration plate number is issued by the zonal-level transport management office, a government agency under the department of transport management. the registration plates must be placed in the front as well as back of the vehicle.
+
+the president of nepal travels in an official vehicle that has no number on its plates. instead it has the coat of arms of nepal embossed on it.
+current system
+the current format was introduced on 21 august 2017. this format consists of l ll nnnn where:
+l is the category of vehicle,
+ll is a "counter" comprising two letters, which increments after the sequence number reaches 9999.
+nnnn is a sequence number from 0001 to 9999.
+these plates come with a rfid microchip that enables the government to maintain uniformity in issuance of number plates and prevent duplication. similarly, the new number plates also help authorities to maintain digital records of vehicles plying on the roads, collect revenue on time and control auto theft.
+
+pakistan
+eight types of registration plates are used in pakistan. each province and territory issues its own number plate; the federal government issues number plates for foreign diplomats and vehicles owned by the military, police and federal departments (red for foreign diplomats and green for the federal government.) sindh's number plates are yellow with black letters and numbers for private vehicles and black number plates with white letters for commercial vehicles; islamabad, nwfp, azad jammu and kashmir, balochistan and northern areas have white number plates with black letters and numbers. the number plates also have the province or territory's name at the bottom. in punjab however, number plates can be of any color the vehicle owner chooses. but legally it is not allowed. the first 2 letters represent the city the vehicle is registered in.
+from january 1, 2006, punjab has started issuing official number plates for all cars registered in punjab. number plates are of green and white color. the green part is the same all over punjab and has a sign and 'punjab' written on it, while the white part has the number of the vehicle.
+for example:
+
+riz 3725, is a vehicle registered in rawalpindi, punjab.
+mn 3909, is a vehicle registered in multan, punjab.
+lel 06 4520, is a vehicle registered in lahore, punjab. (06 represents year 2006)all number plates use the latin alphabet.
+
+philippines
+saudi arabia
+saudi arabian vehicle plates display both arabic and latin characters.
+
+singapore
+in general, every motor vehicle in singapore has a vehicle registration number. two colour schemes are in use: white-on-black scheme that is standard on cars from dealerships, or the euro black-on-white (front of the vehicle) and black-on-yellow (rear) scheme, of which the number plate has to be made of a reflective plastic or metallic with textured characters which are black (for white-yellow), or white or silver (for black ones). no standardised typeface is used, though all typefaces are based on the charles wright number plate typeface used in the uk. thinner-looking variants are commonly used by sbs transit buses, taxis and goods vehicles. rarely, the fe-schrift font used in germany can be seen – though the use of this font is prohibited by the land transport authority (lta).a typical vehicle registration number comes in the format "sba 1234 a":
+
+s – vehicle class ("s", with some exceptions, stands for a private vehicle since 1984)
+ba – alphabetical series ("i" and "o" are not used to avoid confusion with "1" and "0")
+1234 – numerical series
+a – checksum letter ("f", "i", "n", "o", "q", "v" and "w" are never used as checksum letters; absent on special government vehicle plates and events vehicle plates)
+
+sri lanka
+vehicle registration plates of sri lanka (known in sri lanka as "number plates") started soon after introduction of motorcars in 1903. initially the numbers started with q, and the oldest existing plate is "q 53" of a 1903 wolsley. later the island was divided into sections from "a " to "z" (ex a 123 ), then after world war ii it changed to the two roman letter plates combining pairs of letters in the word ceylon . these series were cl xxxx, ey xxxx, el xxxx . afterwards in 1956 a new system with the sinhala script letter sri (ශ්‍රී) in the middle was introduced, this started from reg no "1 sri 1".
+the current series of car registrations in sri lanka was introduced in 2000 and is on yellow number plates with black characters and a black border. on the left hand side of the number plate is the country emblem, below which is a two-letter region identifier e.g. wp represents the western province. the format of the remainder of the registration is ll – dddd, with l being a letter and d being a number. the previous series of registrations had been in effect since 1956 and was on brighter yellow plates with the format dd – dddd. also they did not have any national emblem or region identifier. taxis have white number plates with red lettering.
+
+thailand
+united arab emirates
+vietnam
+the current vietnamese registration plate design consists of a white background with black characters, each province has a regional number (located on the left side of the plate).
+official and government cars bear blue registration plates, central government plates bear the number 80 followed by the letter a, b or m, diplomatique plates are white with ng wrote in red, company members vehicles are also white registration plate bearing ld letters in black. military registration plates are red with white letter.
+for example, 51x-xxxx would be used for civilian vehicles, 80x-xxxx with blue background for central government vehicles, 80-xxx-ng-xx for diplomatic vehicles, tc-xx-xx for military vehicles and xxld-xxx.xx for company vehicles.
+
+europe
+in the european union (eu), white or yellow number plates of a common format and size are issued throughout, although they are still optional in some member states. nevertheless, some individual member states still use differing non-eu formats – belgium, for example, still permits vehicles to display the older small white number plates with red lettering, and the registration plates that are issued by the government body which assigns these are of the smaller format, too. in 1908 number plates were only three digits and one letter long. italy still permits smaller plates to be attached to the front of a vehicle, while the rear plate complies to the usual eu format. the common design consists of a blue strip on the left of the plate, which has the eu motif (12 yellow stars), along with the country code of the member state in which the vehicle was registered. lettering on the plate must be black on a white or yellow reflective background.
+according to the vienna convention on road traffic, vehicles in cross-border traffic are obliged to display the international vehicle registration code as a distinguishing sign of the country of registration on the rear of the vehicle. this sign may either be placed separately from the registration plate or may be incorporated into the vehicle registration plate. with registration plates in the common eu format, vehicles registered in the eu are no longer required to carry an international code plate or sticker for traveling within the european economic area. the common eu format is also recognized in countries signatory to the vienna convention on road traffic. as are registration plates of other european countries similar to the eu format, such as norwegian ones; with the norwegian flag replacing the circle of stars, or in turkey's case where the blue stripe with the country code is standard but omits the flag over it. both the common eu format, and e.g. norwegian registration plates satisfy the requirements laid out in the vienna convention on road traffic; according to the convention, when the distinguishing sign is incorporated into the registration plate, it must also appear on the front registration plate of the vehicle, and may be supplemented with the flag or emblem of the national state, or the emblem of the regional economic integration organization to which the country belongs.
+diplomatic plates are usually denoted by the letters "cd" in europe which stands for corps diplomatique located usually at the beginning of the number plate (france, belgium, italy) or middle (netherlands, portugal). the united kingdom uses "d" for "diplomat".
+in order to combat registration plate fraud, germany developed a typeface which is called fälschungserschwerende schrift (abbr.: fe-schrift), meaning "falsification-hindering script". it is designed so that, for example, the o cannot be adjusted to look like a q, or vice versa; nor can the p be painted to resemble an r, amongst other changes. this typeface can more easily be read by radar or visual registration plate reading machines, but can be harder to read with the naked eye, especially when the maximum allowed number of eight characters in "engschrift" (narrower script used when available space is limited) are printed on the plate. many countries have since adopted fe-schrift, or developed their own anti-fraud typeface.
+
+denmark
+denmark offers both a european and a domestic style registration plate. they have a fairly similar look, with the eu strip with the letters dk. both styles are in the xx 12 345 format.
+the first two letters run sequentially with no ties to any geographic region.
+the first two digits designate the type of vehicle. for example, 10 through 18 are reserved for motorcycles.
+
+finland
+eu registration plates were introduced in finland in 2001. eu plates are automatically given to all vehicles unless the owner makes a separate request for old model plates. if desired, eu plates can be changed for old model ones at inspection sites. registration plates used in finland are made of aluminium with a reflective membrane coating. numbers and letters are embossed and painted. the embossing height is 1–1.2 mm. the number sequence of the registration plate cannot start with a zero, nor can zero be the only number. the letter combination cd is reserved for diplomatic vehicles.
+usually the next available id is given as the plate number. special registration plates with a selected id are also available upon request. a special registration plate is a regular plate with a special id. the id is subject to certain restrictions and requires a separate application subject to a fee. the application fee for a special registration plate is eur 900.
+a vehicle has one or two plates depending on the vehicle class. in certain cases, a vehicle can also be given an additional plate.
+
+norway
+the registration numbers of cars in norway are maintained by the norwegian ministry of transport and communications. as in most countries, cars are identified only by number plates read visually.
+the current alphanumerical system (two letters followed by five digits) was introduced in 1971. the design of the plates remained the same until 2002, when the road authorities decided on a new font which standardized the width of each character. the new design was unsuccessful due to legibility issues, for example the letters "a" and "r" were often hard to distinguish. from 2006 the font was changed again to improve legibility, and space was provided for a blue nationality stripe with a norwegian flag. from 2009, plates were made of plastic, and produced in a factory at tønsberg. from 2012, plates are again produced in aluminium. also, electric cars have access to plates that begin with either "el", "ek", "ev", "eb", "ec", "ed", "ee", "ef", or "eh".
+
+russia
+current russian registration plates are a mix of french fni, traditional arabic "windows", and soviet "small characters", introduced in 1993.
+there are six types of russian registration plates.
+
+civil plates – white background with black characters. the character format is "@###@@ | rr", where @ is a letter, using only the cyrillic letters а, в, е, к, м, н, о, р, с, т, у, х (those that resemble latin letters), # is a digit and rr is a region number (two or three digits).
+government plates – white background with black characters. the character format is "@###@@ | fl" where fl is the tricolor flag of russia (canceled in 2007).
+police plates – blue background with white characters, format "@#### | rr".
+diplomatic plates – red background with white characters, format "###@### | rr".
+military plates – black background with white characters, format "####@@ | rr".
+route vehicles (buses, trolleys and fixed-run taxies) – yellow background with black characters, format "@@### | rr".
+
+sweden
+vehicle registration plates are white with black characters. the plates have three letters, a space, two digits and lastly one digit or letter. the combination is simply a serial and has no connection with a geographic location. vehicles like police cars, fire trucks, public buses and trolley buses use the same type of plate as normal private cars, and cannot be directly distinguished by the plate alone. it is possible, for a fee, to get a personal plate with one to seven digits.
+taxis have yellow plates, with the same combination of letters and digits as 'normal' cars.
+the diplomatic corps have blue plates. the two first letters indicate the country or organization of the user.
+military vehicles have four to six yellow digits on black background, and may be used for all kinds of vehicles from ordinary automobiles to tanks.
+
+turkey
+turkish car number plates use an indirect numbering system associated with geographical info. in turkey, registration plates are made by authorized private workshops.
+the registration plate is rectangular in shape and made of aluminum. on the left, there is the country code "tr" in a 4×10 cm blue stripe like in eu countries (without the 12 golden stars). the text is in black characters on white background, and for official vehicles white on black. on all vehicles, two plates have to be present, one in front and the other in the rear except for motorcycles and tractors. the serial letters use the turkish letters except ç, ğ, i̇, ö, ş and ü.
+
+ukraine
+ukrainian regular registration plates are issued in european style, using the format ab1234ce (the prefix refers to the region), using cyrillic letters that resemble roman letters (а, в, е, і, к, м, н, о, р, с, т, х). the plates have, at the far left, the ukrainian flag and ua (country code) in a 4×10 cm blue stripe like in eu countries (without the 12 golden stars). there were single-line plates for vehicles and trailers, double-line plates for vehicles with special shaped mounting place, three-lined plates for cycles (except scooters with small two-line plates). a plate with a yellow background is used for public-use vehicles such as taxis or route buses. single-line plates are the standard european size 52 cm × 11 cm (20.5 by 4.3 inches).ukrainian vanity plates are unique in that purchasers may choose any image to be printed on the surface of the plate, to the right of the characters.
+
+united kingdom
+vehicle registration plates, usually known as number plates, have existed in the united kingdom since 1904.  most motor vehicles that are used on public roads are required by law to display them. the motor car act 1903, which came into force on 1 january 1904, required all motor vehicles to be entered on an official vehicle register, and to carry number plates. the act was passed in order that vehicles could be easily traced in the event of an accident or contravention of the law. vehicle registration number plates in the uk are rectangular or square in shape, with the exact permitted dimensions of the plate and its lettering set down in law. most plates are white at the front of the vehicle and yellow at the back, with black lettering, with the exception of classic vehicles, which bear black plates at both front and rear with silver text.
+within the uk itself there are currently two numbering and registration systems: one for the island of great britain, which is administered by the driver and vehicle licensing agency (dvla), and one for northern ireland, administered by the driver & vehicle agency (dva): both have equal status. it is optional to show a national identifier on british number plates. number plates including the "gb" code are valid in countries party to the vienna convention on road traffic if displayed on its own or together with the union jack.
+in 2019, the uk government announced that it was considering introducing green number plates for zero emissions vehicles, making them easier to recognize. consequently, from 2020, zero-emissions vehicles can receive a green band on the left-hand side of number plate (in the same place as the blue coloured band of the national identifier.)
+from 28 september 2021, the uk changed its mark from gb to uk, both in great britain and northern ireland.current code format: ab##cde1983-2001 code format: a###bcd1962-1982 code format: abc###d
+
+australasia
+australia
+in australia, vehicle registration plates, usually known as number plates or 'rego plates', are normally issued by the state or territory government; until 2000 some were issued by the commonwealth government. plates are associated with a vehicle and generally last for its life, though as they become unreadable (or for other reasons) they may be recalled or replaced with newer ones. new plates are issued when the vehicle is registered in another state, or if the owner requests them (though this depends on state laws).
+australian number plates were originally issued with white characters on black plates, black on white, black on yellow and blue on white, with each state and territory being allocated a range of plates inside the larger range aaa000 to zzz999. new south wales, for example, was allocated aaa000 to fzz999, victoria was allocated from gaa000 to mzz999, queensland was allocated naa000 to qzz999 and south australia was allocated from raa000 to tzz999. western australia was allocated uaa000 and xaa000, tasmania and the australia capital territory were allocated the series beginning with w and y respectively. this system worked for a few decades but had been almost completely abandoned by 1980, particularly because some states had exhausted their allocated range of combinations. the northern territory never adopted the system.
+the states then chose their own systems. new south wales, victoria and south australia all retained xxx-nnn, but each started again from aaa-000. queensland reversed the arrangement to nnn-xxx. western australia took nxx-nnn, and the act kept the y plate range but substituted the last digit for a letter, giving yxx-nnx. in 2013, victoria became the last state to abandon the xxx-nnn format.
+current arrangements are listed below.
+all current plates are manufactured to uniform dimensions and are made of pressed aluminium, except for certain special series plates; the form of which differs by state and design.
+in 1942, the government released a new special series only alphabet (xb-aa ops).
+
+current standard australian number plate formats
+australian capital territory
+blue text on white background, with "act" above and "canberra – the nation's capital" below.code format: yab-12c.
+new south wales
+black text on yellow background, with "new south wales" below the plate code. also in circulation are plates showing "new south wales – the first state" and "new south wales – the premier state" with code xxx-nnn, from the 1980s.code format: ab-12-cd.
+victoria
+blue on white background, with "vic – the education state" under the plate code. older plates show, "vic – stay alert stay alive", "victoria – the place to be", "victoria – on the move", or "victoria – the garden state" in green on white.code format: 1ab-2cd.
+queensland
+maroon text (previously green) on white background, with "queensland – sunshine state" or "queensland – the smart state" under the plate code. code format: 123-ab4.
+south australia
+black on white with "south australia" under code. code format: s123-abc.
+western australia
+blue on white with western australia on blue band at top of plate. older plates black on yellow with format nxx-nnn. code format: 1abc-234. even older western australian plates use a locality code, followed by a sequential number, e.g. al 123 being for albany, plate number 123. some rural locations added a central dot to signify if the plate was issued for shire- or town-based drivers. this locality based system is still active, although it needs to be offered or asked for at the time of licensing the vehicle.
+tasmania
+blue on white with "tasmania – explore the possibilities" at bottom and a thylacine between the first letter and two digits. older plates may show "tasmania – holiday isle" or "tasmania – your natural state".code format: a-12-bc.
+northern territory
+orange text on white background with "nt – outback australia" over code. code format: ca-12-bc.to show that a vehicle is registered in australia, a sticker must be displayed in the lower left corner of either the rear left window or windscreen in annual colors on a six-year cycle: blue, red, purple, brown, green and orange. this sticker is issued to the registered owner of the vehicle upon payment of the next year's registration fee, and shows the expiry date of the registration. they are color-coded for easy recognition of the year of expiry. the sticker shows the plate number, vehicle identification number, make, model, and color of the vehicle, along with other such information. this acts as an anti-theft device, because transplanting the plates from one car to another will be in contrast to the details on the sticker.
+
+code format: 123-a4bthe western australia registration sticker shows only the month and year of expiry. however, since the western australian police now have such easy access to registration information based on the number plate via in-car computer systems found in all police vehicles, registration stickers in western australia have been completely scrapped. as of 1 january 2010 they will no longer be required or made – a move that is said to save at least $2 million over 4 years in costs for printing and postage. car owners will also feel the relief of not having to perform the tedious task of removing and re-applying the registration sticker every 6–12 months. as of 1 january 2013 nsw have also scrapped registration stickers. nt also scrapped registration stickers as of 1 january 2014. tasmania scrapped registration stickers as of 1 january 2014.
+in the australian capital territory, vehicles under 4.5 tonnes are no longer required to display registration labels as of 1 july 2013.
+in queensland, when all of the 123-abc combinations had been taken, the plates have the combination 123-ab4. when they run out of combinations for that series the number will move to the left.
+cars owned by the government have special number plates, some also have a crown and symbols.
+
+new zealand
+the current system used in new zealand was adopted in 1964, all vehicles were required to have their plates replaced to this system. the original format in this system was xx-nnnn with the original plate being aa1 plates were on a black background with silver text. in 1986 this was changed to a white reflective background with black text with the first plate in this style being na1. in 2001 the final plate zz9999 was printed and the format was changed to abc-123. in 2006 the text format was changed on all number plates registered after this time.
+personalized number plates were introduced to new zealand in 1987. due to the smaller size and population of new zealand, the same system is used across all of the country. number plates are usually issued by the new zealand transport agency.
+
+antarctica
+there are no private cars in antarctica, and therefore there is no vehicle registration authority. there are other vehicles such as tractors and awds; however, they are not required to display registration plates.
+
+vanity and specialty plates
+in some countries, people can pay extra and get "vanity plates": registration plates with custom text. for example, a vanity registration plate might read "my toy". generally vanity plates are not allowed to have profane, offensive or obscene messages on them, and of course they must also be unique. (dmvs of us states have sometimes received complaints of offensive vanity plates.)
+many countries allow licensed amateur radio operators to obtain registration plates (labeled "amateur radio") with their call signs printed on them, allowing public service officials controlling access to disaster areas to immediately recognize and allow operators into the areas, facilitating their provision of crucial emergency communications. some u.s. states charge lower fees for ham radio plates than for vanity plates. for example, in virginia the annual cost of an amateur radio vanity plate is a mere $1.in the u.s., most provinces of canada, and australia, vehicle owners may also pay extra for specialty plates: with these, the sequence of letters and digits is chosen by the licensing agency – as with regular plates – but the owners select a plate design that is different from the normal registration plate. fees for specialty plates are usually channeled to a specific charity or organization. for example, california has issued the "yosemite plate" and "whale tail plate," both aimed at conservation efforts in the respective domains. some jurisdictions allow for these special plates to also be vanity plates, usually for an additional fee on top of the cost of the plate.
+
+in some australian states, it is possible to purchase "personalized plates", where an individual can choose the color, design, and sometimes even the shape and size of the plate, as well as the displayed text. for example, the government of the state of queensland offers a wide range of possibilities for customization, including some emoji. another style of plate that is common in some states of australia is "euro plates", which are the same size as european plates (rather than the narrower taller australian plates) to fit on the number plate holders in european cars.
+the world record for the most expensive registration plate is us$14 million. the registration plate "1" was bought at an auction in abu dhabi.
+
+offensive and prohibited registration plates
+some registration plate combinations are banned  from being issued by registration authorities. these are typically combinations which, deliberately or otherwise, spell out a message that is likely to offend others. concerns about what is considered offensive differ from country to country. in the united kingdom, these have included combinations with sexual connotations such as bo11 lux and bl04 job. the dvla maintains block lists of possible combinations of letters and digits in an attempt to prevent this. some prohibited plates reflect religious concerns; for example, in new jersey, a woman found she was prohibited from registering the plate 8theist, but permitted to register baptist. a similar registration for athe1st had been rejected in 2013. both prohibitions were later lifted. in manitoba, a plate reading asimil8 was banned as being culturally offensive to indigenous people.
+in 2015, maine passed legislation that removed most censorship from their vanity plate program. plates like getfukt are now allowed.in some states of germany license plates that could be mistaken for nazi codes (with a definition further than strafgesetzbuch section 86a) are prohibited and in some cases even license plates that had existed for decades were not grandfathered in but had to be changed as stricter regulations were applied. the letter combinations kz, hj, ss and sa are not issued for license plates anywhere in germany due to their nazi associations.
+
+temporary registration plates
+some jurisdictions issue temporary registration plates made of cardboard or security paper or even printed on plain paper for newly purchased vehicles, for drivers waiting for plates in the mail, or other registration issues. a common length of time to have temporary plates is 30 days, although ontario offers ten-day permits, and some u.s. states allow temporary tags to be effective for up to 90 days. temporary registration plates are usually either attached to the vehicle in place of the rear registration plate or both registration plates or taped to the inside of the rear windshield, while some states require it to be in the front windshield. expiration dates are usually hand written by regulatory employees or dealership sales personnel, but, due to easy alteration of hand written dates, some states now digitally print the date on the tag. if a driver continues to drive after the permit expires the vehicle can face impounding as an unplated vehicle.
+
+novelty registration plates
+there also exist novelty registration plates often sold in gift or novelty shops. similar to vanity plates, these novelties are printed with an individual's name or other words or phrases, but unlike vanity plates they are not intended for legal identification of an automobile. they can be displayed in the rear window, for example, or on the front of vehicles registered in jurisdictions that only require a valid plate on the rear of the vehicle.
+novelty registration plates are usually installed by motorists or automobile dealerships. while automobile dealerships may install such plates for promoting their business, motorists may install novelty registration plates to express their brand preference or an affiliation with a group, state, country, athletic team, hobby, art, or custom.
+antique auto collectors may use novelty replicas of period registration plates to give their show cars a dated look, or import vehicle owners may use a novelty replica of a foreign plate to give it a foreign image. some states allow year of manufacture registrations where an original, official plate expiring on the model year of an antique car is revalidated. wisconsin, for instance, permits the use of year-of-manufacture plates if the state-issued plates are also carried somewhere within the vehicle. california and ohio also allow the year-of-manufacture plates.
+
+registration plate accessories
+today, plates are commonly attached with screws that mount into threaded fittings on the vehicle but originally nut-and-bolt combinations were needed to fasten the plate to a bracket, which led to the use of varied registration plate ornaments, accessories and attachments. the most common of these include fastening bolts with ornamental heads in a myriad of styles; these are generally legal everywhere providing the plate itself is not obscured. those bolts faced with a colored glass or plastic reflector are termed registration plate jewels. traditionally the front plate would be fastened by an amber or green jewel and the rear by a red jewel, but other colors have become available over the decades including blue, clear and, most recently, purple.
+the manufacture and use of registration plate toppers – attachments and accessories mounted atop plates, often as advertising premiums – has diminished because of the design of modern vehicle bodies that incorporate recessed plate mountings. but older vehicles will usually have room for such attachments that may mention vehicle dealerships, tourist attractions and petroleum companies. some of these commercial toppers also incorporate one or more reflectors or a safety-related message. large stand-alone glass or plastic reflectors or cataphotes – some imprinted with an advertising message – are still common plate toppers whenever registration-plate brackets are able to accommodate them.
+
+international codes
+according to the vienna convention on road traffic, vehicles in cross-border traffic are obliged to display a distinguishing sign of the country of registration on the rear of the vehicle. this sign may either be placed separately from the registration plate or may be incorporated into the vehicle registration plate. when the distinguishing sign is incorporated into the registration plate, it must also appear on the front registration plate of the vehicle, and may be supplemented with the flag or emblem of the national state, or the emblem of the regional economic integration organization to which the country belongs. the distinguishing sign should be displayed on the far left or far right on the registration plate. when a symbol/flag/emblem is also displayed, the distinguishing sign shall obligatory be placed on the far left on the plate. the distinguishing sign shall be positioned so to be easy identifiable and so that it cannot be confused with the registration number or impair its legibility. the distinguishing sign shall therefore be at least a different color from the registration number, or have a different background color to that reserved for the registration number, or be clearly separated from the registration number, preferably with a line.
+the physical requirements for the separate sign are defined in annex 3 of the vienna convention on road traffic, which states that the letters shall be in black on a white background having the shape of an ellipse with the major axis horizontal. the distinguishing sign should not be affixed in such a way that it could be confused with the registration number or impair its legibility.
+the allocation of codes is maintained by the united nations (un) as the distinguishing signs of vehicles in international traffic, being authorized by the un's geneva convention on road traffic (1949) and vienna convention on road traffic (1968). many, but far from all, vehicle codes created since the adoption of iso 3166 coincide with either the iso two- or three-letter codes.
+
+imitation international codes
+in canada, mexico and the united states, where the international oval is not used on vehicles from neighboring countries, putting one on a car is a matter of personal choice. this has given rise to a tourist-driven industry of imitation international code stickers. for example, the island of martha's vineyard off the coast of massachusetts has mv, while the outer banks region of north carolina uses obx. long beach island, new jersey uses "lbi", with the letter "i" substituted with an illustration of the island's lighthouse. the city of key west, florida, uses kw as part of its conch republic 'rebellion' from the u.s. there are also ynp ovals, for yellowstone/yosemite national park. stickers of this sort are usually visibly different from any real international code sticker, but some places sell what could appear to be real stickers, touting that the abbreviation refers to their venue.
+in the united kingdom, imitation international codes are sometimes seen for the various parts of the country. for example, in scotland, oval stickers with écosse or alba (scotland in french and gaelic respectively) are occasionally seen. in wales, drivers commonly display "cym" to indicate cymru (wales).
+in the czech republic, in large cities (notably prague and brno), these imitation international codes are usually used to show the district inside the city where the driver resides (e.g. de for dejvice).
+in spain, there are such codes for regionalist movements, such as cat for catalonia or ast for asturias, which can be often seen in their reflective region.
+
+debate about extending registration to bicycles
+for many years councils in australia have debated whether registration should also be required for bicycle riders.in 2014, randwick councilor charles matthews proposed to impose a $50 registration fee on bicycle riders, which would be used to help fund cycleways being built by the council. this proposal was rejected by other councillors. in 2014 the victorian council of city of bayside tried a similar proposal.
+
+see also
+automatic number plate recognition (anpr)
+
+explanatory footnotes
+references
+external links
+ media related to license plates at wikimedia commons

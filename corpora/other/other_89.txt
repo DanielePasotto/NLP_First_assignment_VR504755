@@ -1,0 +1,84 @@
+a tank car (international union of railways (uic): tank wagon) is a type of railroad car (uic: railway car) or rolling stock designed to transport liquid and gaseous commodities.
+
+history
+timeline
+the following major events occurred in the years noted:
+
+1865: flatcars with banded wooden planks or decking mounted on top are employed for the first time to transport crude oil from the fields of pennsylvania during the pennsylvanian oil rush. laurence myers of philadelphia invented the rotary oil car, as he named it. it was an improvement on a patent from 1851 of a freight car for transporting coal. the new invention patented on july 18, 1865, was for the transportation of crude oil and petroleum. it was the first appearance of an oil tank on a railroad flatcar. three books mention his invention.
+1869: wrought iron tanks, with an approximate capacity of 3,500 us gal (13 m3; 2,900 imp gal) per car, replace wooden tanks.
+1888: tank-car manufacturers sell units directly to the oil companies, with capacities ranging from 6,000 to 10,000 us gal (23–38 m3; 5,000–8,300 imp gal).
+1903: tank-car companies develop construction safety standards. more than 10,000 tank cars are in operation.
+1915: a classification system is developed by the tank-car industry to ensure the correct match of car type to product being shipped. some 50,000 tank cars are in use.
+1930: 140,000 tank cars transport some 103 commodities.
+1940s: virtually every tank car is engaged in oil transport in support of the war effort.
+1945–1950: welding replaces riveting in car construction (both underframes and tanks) for the major manufacturers, including american car & foundry and general american.
+1950: pipelines and tank trucks begin to compete for liquid transport business.
+1963: the union tank car company introduces the "whale belly" tank car.
+
+usage
+north america
+many variants exist due to the wide variety of liquids and gases transported. tank cars can be pressurized or non-pressurized, insulated or non-insulated, and designed for single or multiple commodities. non-pressurized cars have various fittings on the top and may have fittings on the bottom. some of the top fittings are covered by a protective housing. pressurized cars have a pressure plate, with all fittings, and a cylindrical protective housing at the top. loading and unloading are done through the protective housing.
+tank cars are specialized pieces of equipment. as an example, the interior of the car may be lined with a material, such as glass, or other specialized coatings to isolate the tank contents from the tank shell. care is taken to ensure that tank contents are compatible with tank construction.
+as a result of this specialization, tank cars have generally been "one-way" cars. other cars, like boxcars, can easily be reloaded with other goods for the return trip. combinations of the two types were attempted, such as boxcars with fluid tanks slung beneath the floors. while the car could certainly carry a load in both directions, the limited tank size made this unsuccessful.
+a large percentage of tank cars are owned by companies serviced by railroads instead of the railroads themselves. this can be verified by examining the reporting marks on the cars. these marks invariably end in x, meaning that the owner is not a common carrier.
+within the rail industry, tank cars are grouped by their type and not by the cargo carried. food-service tank cars may be lined with stainless steel, glass, or plastic. tank cars carrying dangerous goods are generally made of different types of steel, depending on the intended cargo and operating pressure. they may also be lined with rubber or coated with specialized coatings for tank protection or product purity purpose. the tank heads are also stronger to prevent ruptures during accidents. the whale-belly type is giving way to higher-capacity (longer), yet standard-width, aar plate "c", cars.
+all tank cars undergo periodic inspection for damage and corrosion. pressure relief valves are inspected at every loading. pressurized cars are pressure-tested regularly to ensure the integrity of the tank.
+all tank cars operating throughout north america today feature aar type e double shelf couplers that are designed to prevent disengaging in event of an accident or derailment. this reduces the chance of couplers puncturing adjacent tank cars. however, if cars are prevented from disengaging in a derailment, the torsional forces of a derailing car can be transferred to other cars, resulting in the derailment of the adjacent cars.insulated cars (which may also incorporate heating or refrigeration systems) are used when the contents must be kept at a certain temperature. for example, the linde tank car depicted below carries liquefied argon. cars designed for multiple commodities are constructed of two or more tanks (compartments). each compartment must have separate fittings. the lower capacity and added complexity of multicompartment cars means that they make up a small percentage of the tank car inventory.
+
+specialized applications
+dot-111
+the dot-111 tank car, which is designed to carry liquids such as denatured fuel ethanol, is built to a us standard. the design has been criticized on safety grounds. the train in the lac-mégantic derailment of 2013 was made up of 72 of these cars.
+
+dot-112
+dot-112 tank cars are used in north america to carry pressurized gases. one of these tank cars exploded in waverley, tn, killing 16, when a louisville & nashville train derailed. while the clean up efforts were under way, the tank car, utlx 83013, ended up exploding from a bleve.
+
+dot-114
+dot-114 tank cars are used in north america to carry pressurized gases.
+
+milk cars
+a milk car is a specialized type of tank car designed to carry raw milk between farms, creameries, and processing plants.
+milk is now commonly chilled, before loading, and transported in a glass-lined tank car. such tank cars are often placarded as "food service use only".
+
+liquid hydrogen tank car
+tank cars of this type are designed to carry cryogenic liquid hydrogen (lh2). north american cars are classified as dot113, aar204w, and aar204xt
+
+pickle cars
+a pickle car was a specialized type of tank car designed to carry pickles. this car consisted of several wooden or metal vats (typically three or four) and was often roofed. pickles which are preserved in salt brine were loaded through hatches in the roof.
+
+tank containers
+a tank container, also known as iso tank, is a specialized type of container designed to carry bulk liquids, such as chemicals, liquid hydrogen, gases and food grade products. both hazardous and non hazardous products can be shipped in tank containers. a standard tank container is 20 feet (6.10 m) long, 8 feet (2.44 m) high and 8 feet (2.44 m) wide. the tank, which is made from stainless steel, is held within a box-shaped frame with the same shape as an intermodal container. this allows it to be carried on multiple modes of transport, such as truck, rail and ship.
+
+torpedo wagons
+a torpedo car or bottle car is a type of railroad car used in steel mills to haul molten pig iron from the blast furnace to begin the process of primary steelmaking.
+the thermally-insulated vessel is mounted on trunnions, and designed to endure extremely high temperatures, as well as keeping the metal in a molten state over extended periods of time. the vessel can be pivoted along its longitudinal axis to empty the pig iron into a ladle. the name is derived from the vessel's resemblance to a torpedo.
+
+vinegar cars
+a vinegar car is a specialized type of tank car designed to transport vinegar. the largest such car built was built by morrison railway supply corporation  in 1968. the car's underframe included all of the modern facets of freight car design including roller bearing trucks and cushioning devices built by freightmaster, while the tank that rode on it, made of douglas fir, had a capacity of 17,100 us gallons (65 m3; 14,200 imp gal). the car, in what has been called 'the largest wooden tank car ever built', took 18 months to build.
+the reinhart vinegar car can be seen at the toronto harbourfront museum.vinegar is now moved in ordinary tank cars lined with glass, plastic, or alloy steel.
+
+"whale belly" cars
+in the early 1960s, the union tank car company introduced a series of "whale belly" tank cars which offered increased capacity. these cars carried from 33,000 us gallons (125 m3; 27,478 imp gal) in csox #31084 to as much as 63,000 us gallons (238 m3; 52,458 imp gal) in gatx #96500, which had been conceived as a 'rolling experiment'. the largest tank car ever placed into regular service, utlx #83699, was rated at 50,000 us gallons (189 m3; 41,634 imp gal). it entered service in 1963 and was used for over 20 years. gatx 96500 is now on display at the national museum of transportation in saint louis, missouri. this car is 98 feet (29.87 m) long, weighs 175,000 lb (79,400 kg) empty and rides on four two-axle trucks for weight distribution. it transported diverse substances, such as liquefied petroleum gas (lpg) and anhydrous ammonia.
+
+safety
+where aar couplers are fitted, the aar type "f" coupler is preferred as these are less likely to become separated in a derailment and become a puncture hazard for other tank cars. a type "e" coupler that has shelves over and under the coupler that prevent the coupler sliding out of position after a derailment is used on some hazardous materials tank cars.in addition, some types of tank cars have a second end plate visible from the exterior, to further avoid end punctures.
+it is also preferable if each tap (valve) is recessed within the body of the tank so as to present a reduced knock-off hazard during a derailment.tank cars have been involved in many rail disasters, including the lac-mégantic derailment in quebec in 2013, the nishapur train disaster in iran in 2004, and the viareggio train derailment in italy in 2009.
+
+outside north america
+outside of north america, tank cars are also known as tank wagons or tanker wagons. in the united kingdom tank wagons were traditionally four-wheel vehicles. some long-wheelbase four-wheelers are still in use but bogie vehicles are now used as well.
+
+british tank wagons
+
+see also
+notes
+references
+herron, jim (april 2002). "history of the rail tank car". e-train, the online magazine of the train collectors association. retrieved january 21, 2012.
+white, john h. jr. (1993). the american railroad freight car: from the wood-car era to the coming of steel. baltimore: johns hopkins university press. isbn 0-8018-4404-5. oclc 26130632.
+
+external links
+
+rail whales
+modern tank car homepage
+liquid hydrogen transport by rail
+tank car dimensions
+guide to rail cars
+bureau of transportation

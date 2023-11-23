@@ -1,0 +1,143 @@
+a railroad car, railcar (american and canadian english), railway wagon, railway carriage, railway truck, railwagon, railcarriage or railtruck (british english  and uic), also called a train car, train wagon, train carriage or train truck, is a vehicle used for the carrying of cargo or passengers on a rail transport network (a railroad/railway). such cars, when coupled together and hauled by one or more locomotives, form a train. alternatively, some passenger cars are self-propelled in which case they may be either single railcars or make up multiple units.
+the term "car" is commonly used by itself in american english when a rail context is implicit. indian english sometimes uses "bogie" in the same manner, though the term has other meanings in other variants of english. in american english, "railcar" is a generic term for a railway vehicle; in other countries "railcar" refers specifically to a self-propelled, powered, railway vehicle.
+although some cars exist for the railroad's own use – for track maintenance purposes, for example – most carry a revenue-earning load of passengers or freight, and may be classified accordingly as passenger cars or coaches on the one hand or freight cars (or wagons) on the other.
+
+passenger cars
+passenger cars, or coaches, vary in their internal fittings:
+in standard-gauge railway cars, seating is usually configured into ranges from three to five seats across the width of the car, with an aisle in between (resulting in arrangements of 2+1, 2+2 or 3+2 seats) or at the side. tables may be provided between seats facing one another. alternatively, seats facing in the same direction may have access to a fold-down ledge on the back of the seat in front.
+
+if the aisle is located between seats, seat rows may face the same direction, or be grouped, with twin rows facing each other.
+in some vehicles intended for commuter services, seats are positioned with their backs to the side walls, either on one side or more commonly on both, facing each other across the aisle. this gives a wide accessway and allows room for standing passengers at peak times, as well as improving loading and unloading speeds.
+if the aisle is at the side, the car is usually divided into small compartments. these usually contain six seats, although sometimes in second class they contain eight, and sometimes in first class they contain four.passenger cars can take the electricity supply for heating and lighting equipment from either of two main sources: directly from a head-end power generator on the locomotive via bus cables, or by an axle-powered generator which continuously charges batteries whenever the train is in motion.
+modern cars usually have either air conditioning or windows that can be opened (sometimes, for safety, not so far that one can hang out), or sometimes both. various types of onboard train toilet facilities may also be provided.
+other types of passenger car exist, especially for long journeys, such as the dining car, parlor car, disco car, and in rare cases theater and movie theater car. in some cases another type of car is temporarily converted to one of these for an event.
+observation cars were built for the rear of many famous trains to allow the passengers to view the scenery. these proved popular, leading to the development of dome cars multiple units of which could be placed mid-train, and featured a glass-enclosed upper level extending above the normal roof to provide passengers with a better view.
+sleeping cars outfitted with (generally) small bedrooms allow passengers to sleep through their night-time trips, while couchette cars provide more basic sleeping accommodation.  long-distance trains often require baggage cars for the passengers' luggage. in european practice it used to be common for day coaches to be formed of compartments seating 6 or 8 passengers, with access from a side corridor. in the uk, corridor coaches fell into disfavor in the 1960s and 1970s partially because open coaches are considered more secure by women traveling alone.another distinction is between single- and double deck train cars. an example of a double decker is the amtrak superliner.
+a "trainset" (or "set") is a semi-permanently arranged formation of cars, rather than one created "ad hoc" out of whatever cars are available. these are only broken up and reshuffled 'on shed' (in the maintenance depot). trains are then built of one or more of these 'sets' coupled together as needed for the capacity of that train.
+often, but not always, passenger cars in a train are linked together with enclosed, flexible gangway connections through which passengers and crewmen can walk. some designs incorporate semi-permanent connections between cars and may have a full-width connection, effectively making them one long, articulated 'car'. in north america, passenger cars also employ tightlock couplings to keep a train together in the event of a derailment or other accident.
+many multiple unit trains consist of cars which are semi-permanently coupled into sets: these sets may be joined together to form larger trains, but generally passengers can only move around between cars within a set. this "closed" arrangement keeps parties of travellers and their luggage together, and hence allows the separate sets to be easily split to go separate ways. some multiple-unit trainsets are designed so that corridor connections can be easily opened between coupled sets; this generally requires driving cabs either set to the side or (as in the dutch koploper or the japanese 285 series) above the passenger compartment. these cabs or driving trailers are also useful for quickly reversing the train.
+
+first- and second-class carriages
+it has been common in some systems to differentiate between first- and second-class carriages, with a premium being paid for first-class tickets, and fines imposed for non-compliance. facilities and appurtenances applying to first-class carriages may include
+
+lounge-type seats, improved upholstery and additional hip- and leg-room
+reading lamps, double-glazing, sound treatment
+removable tables and seating amenable for card games
+choice of smoking and non-smoking compartmentsmore recently, mains power outlets and wi-fi facilities have been offered.
+
+passenger car gallery
+passenger car gallery
+
+freight cars
+freight cars (us/canada), goods wagons (uic), or trucks (uk) exist in a wide variety of types, adapted to carry a host of goods. originally there were very few types of cars; the flat car or wagon, and the boxcar (us/canada), covered wagon (uic) or van (uk), were among the first.
+
+types of freight cars
+freight cars or goods wagons are generally categorized as follows:
+
+boxcar (us and canada), covered wagon (uic) or van (uk): fully enclosed car with side or end doors. standard boxcars have about 3.5 times the capacity of a standard semi-trailer.covered wagon (uic), van (uk) or boxcar (us/canada): fully enclosed wagon for moisture-susceptible goods.
+hicube boxcars: high-capacity high-clearance boxcar
+refrigerator car or reefer (us/canada): refrigerated boxcar for fruits and vegetables.
+cargobeamer
+coil car: specialized flat or gondola for heavy sheet metal rolls
+combine car: combined passenger car and boxcar in one wagon
+flatcar (or flat): for larger bulky loads.  specialized flat cars include:
+aircraft parts car: with fixtures for large aircraft parts.
+autorack (also called auto carriers): multi-level flat for automobiles.
+centerbeam cars (us): specialized flat for building materials.
+conflat (uk): specialized flat for containers.
+cargosprinter: self-propelled container flat.
+container flatcar
+depressed-center flatcar or wellcar or lowmac (uk): for high-clearance loads (e.g. transformers and boilers)
+semi-trailer flatcar
+rolling highway: a train designed to carry trucks and/or semi-trailers
+single container car; spine car, a center sill and side sill only car with lateral arms to support intermodal containers. see also well car.
+double container car; well car or double-stack car. cars for transporting intermodal containers with a low deck to allow double stacking, commonly used in articulated form. see also spine car
+schnabel car: for unusually large and heavy industrial equipment (transformers, boilers, reactors, distillation columns,...)
+gondola (us): car with open top, enclosed sides and ends for bulk goods.
+covered hopper: specialized hopper car with a cover for weather sensitive loads (grain, pellets,...)
+open wagon (uic): railway wagon with an open top but enclosed sides and ends, for bulk commodities and other goods that might slide off.
+hoppers: similar to gondolas but with bottom dump doors for easy unloading of things like coal, ore, grain, cement, ballast and the like.  short hoppers for carrying iron ore are called ore jennies in the us.
+lorry (us/canada): an open wagon (uic) or gondola (us/canada) with a tipping trough, often found in mines. see also tippler.
+mine car
+mine cart (e.g., v skip wagon).
+side dump cars: used to transport roadbed materials such as, ballast, riprap, and large stone, and are able to unload anywhere along the track.
+tippler (uk): an open wagon with no doors or roof which are unloaded by being inverted on a wagon tippler (uk) or rotary car dumper (us/canada). they are, used for minerals, such as coal, limestone and iron ore as well as other bulk cargo. see also lorry.
+quarry tub: a type of small railway or tramway wagon used in quarries for the transport minerals, such as coal, limestone and iron ore.
+modalohr road trailer carriers.
+presflo and prestwin (uk), bulk cement wagons
+roll-block: a train designed to carry another railway train
+slate wagon: specialized freight cars used to transport slate
+stock car: ventilated box car for livestock
+tank car (us/canada), tank wagon (uic) or tanker: for liquid or gas.
+british milk tank wagon
+milk car: specialized tank car for milk
+tank cars for bulk loading
+"whale belly" car: high capacity tank car with a "belly".
+transporter wagon: a wagon designed to carry other railway equipment.
+well car
+
+freight car gallery
+north american freight car gallery
+
+aluminium cars
+the first two main-line all aluminum passenger cars were exhibited at the 1933-35 chicago world's fair by pullman company. aluminum freight cars have a higher net-to-tare ratio of 4.9 than traditional steel based wagons, which have 3.65.
+
+non-revenue cars
+non-revenue cars are those that do not derive income for the railroad. they include:
+
+ballast regulator
+ballast tamper
+barrier vehicle or match wagon, with a different coupler at each end
+caboose (us) or brake van (uic), attached to the rear of a freight train to watch out for hazards, assist in reversing moves, and provide rear braking; replaced by end-of-train devices
+catenary maintenance vehicle or tower car, used to maintain overhead lines
+clearance car, special car to check for obstructions
+crew car, also known as outfit car, camp car, or bunkhouse car: a bunk, kitchen, or tool car for railroad employees
+departmental vehicle
+motorised railroad speeder or section / inspection / track maintenance car or its predecessor the manually powered handcar
+maintenance of way (mow) cars for maintaining track and equipment
+office car, a mobile office for a train company
+rail ambulance
+rail bycicle carrier car, rail bicycle rack wagon, trailer (bicycle carrying rail trailers), rail bicycle rack or bicycle carrier wagon.
+rail car mover similar to hirail trucks
+railroad cranes
+railway post office
+road-rail vehicle
+scale test car
+track geometry car
+track tester.
+
+military cars
+military armoured trains use several types of specialized cars:
+
+anti-air: equipped with anti-aircraft guns
+anti-tank: equipped with anti-tank guns, usually in a tank gun turret
+artillery: fielding mixture of artillery guns and machine guns
+command: similar to infantry wagons, but designed to be a train command center
+dodx is the reporting mark for the united states department of defense military traffic management command
+infantry: fielding machine guns, designed to carry infantry units
+machine gun: dedicated to machine guns
+military draisine: armoured trains were sometimes escorted by a kind of a draisine called a 'rail tank'.
+platform: unarmoured, with purposes ranging from transport of ammunition or vehicles, through track repair or derailing protection of railroad ploughs for railroad destruction
+troop sleepers
+the german wehrmacht sometimes used a flatcar to carry a light tank which was used to quickly drive down the ramp to chase partisans escaping away from the tracks.
+
+mobile missile systems
+during the cold war, the soviet union fielded a number of trains that served as mobile missile silos. these trains carried the missile and everything necessary to launch, and were kept moving around the railway network to make them difficult to find and destroy in a first-strike attack. a similar rail-borne system was proposed in the united states of america for the lgm-30 minuteman in the 1960s, and the peacekeeper rail garrison in the 1980s, but neither were deployed.
+
+radar bomb scoring
+the strategic air command's 1st combat evaluation rbs "express" deployed from barksdale air force base with radar bomb scoring units mounted on military railroad cars with supporting equipment, to score simulated thermonuclear bombing of cities in the continental united states.
+
+see also
+notes
+footnotes
+citations
+further reading
+matthias n. forney (1974) [1879]. the railroad car builder's dictionary. dover publications, inc. isbn 9780486229744.
+white, john h. (1978). the american railroad passenger car. baltimore, md: johns hopkins university press. isbn 0801819652. oclc 2798188.
+white, john h. jr. (1993). the american railroad freight car: from the wood-car era to the coming of steel. baltimore: johns hopkins university press. isbn 0-8018-4404-5. oclc 26130632.
+
+external links
+list of railroad car manufacturers by country (in french)
+history of the ralston steel car company, columbus, ohio
+paquette railway solutions, dealing with rolling stock and power
+us air force guard car g-50 strategic air command guard car, rebuilt from army 1943 troop kitchen car #8750. photographed in portola, california at the western pacific railroad museum.

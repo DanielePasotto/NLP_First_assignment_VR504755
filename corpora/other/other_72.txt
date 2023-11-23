@@ -1,0 +1,18 @@
+a clearance car is a type of railroad car in maintenance of way service.  its purpose is to check the clearances around the tracks and ensure that trains conforming to the railroad's standard loading gauge or dynamic envelope will not encounter any obstruction. additionally, by measuring the actual clearances along a route, the railroad can determine whether outsize loads can be accommodated along that route, and the largest size feasible.
+
+design
+early clearance cars simply consisted of an outline of the system loading gauge attached to a railroad car, which would be towed along the route to ensure the clearances were still sufficient.later clearance cars functioned by using physical feelers—rods which extended from the car in all directions which would be deflected back by obstructions.  these would be connected to instrumentation which displayed the actual clearance at that point.  these feelers have an advantage in that they bounce back and do not break if they do hit something.subsequently, clearance cars using lasers for measurement have come into service. these are generally hirail trucks – road vehicles with supplemental rail wheels.
+
+benefits
+the clearance car allowed accurate and speedy measurement of the clearances for a structure.  generally they were only owned by larger railroads; other railroads sometimes leased them for short periods. some were self-propelled, while others were locomotive-hauled.
+
+gallery
+see also
+clearance space
+structure gauge
+wayobjects
+
+references
+external links
+mow equipment page 11 at north east rails, including several clearance cars.
+article on the pennsylvania railroad clearance car at the pennsylvania railroad technical and historical society's site, written by a former clearance car crewmember. — archived 2003-04-07 at the wayback machine

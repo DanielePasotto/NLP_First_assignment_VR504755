@@ -1,0 +1,36 @@
+jellycar (originally known as jellocar) is the first in a series of side-scrolling driving and platform games developed by tim fitzrandolph and released under the pseudonym walaber. initially released independently through xbox live indie games and later ported to devices using apple's ios operating system, jellycar requires players to drive a car across a two-dimensional landscape while maintaining balance by means of (in the case of platforms on which it is supported) accelerometers. the game features soft body physics that give it its distinctive gameplay and style. jellycar's success led fitzrandolph's employer at the time, disney interactive studios, to pick up the series and release two sequels for multiple platforms. as of december 8, 2022, fitzrandolph, now an independent developer, has released a new sequel, jellycar worlds, with permission from disney.
+
+gameplay
+in jellycar, players drive a small car across various platforms and through obstacles in order to reach the goal. the player's car is made out of a gelatinous substance (hence the name), giving it both flexibility and durability. as the player advances through the level, a meter begins to fill; when it fills to capacity, the player can make the car expand and grow into a monster truck, allowing it to traverse larger obstacles for a short period of time.
+
+development
+jellycar designer tim fitzrandolph began developing the game in his spare time at home while working with disney interactive studios. his first version of the game (and a level editor) was created using microsoft's xna development tools and released through the indie games community on xbox live for the xbox 360 gaming console in february 2008. in a november 2011 interview, fitzrandolph explained his intentions with jellycar:
+i was like, maybe i can try making a physics system that would sort of create a custom car, just experiment. when i got it working, i just did a lot of experiments with it, but i didn't really have an idea for a game. except for making a little test for a car, create a little object to do the physics work. so i thought you might have a little object and you can make obstacles and get across gaps and stuff like that.
+after apple unveiled the app store, fitzrandolph purchased an ipod touch with the intent of porting the game to the device. the ios version was first released in october 2008.
+
+reception of jellycar
+jellycar has received generally positive reviews. zach okkema, reviewing the ios version for macworld.com, said the game was "a fun way to pass the time—particularly for kids". jeff noble of appadvice.com said that jellycar was "charming, fun, simple and crazily addictive".
+
+jellycar 2
+soon after the release of the original jellycar on the apple app store, fitzrandolph approached disney mobile, the mobile gaming division of disney interactive studios, about producing a sequel to the game. disney mobile, in need of a new gaming property, agreed to help develop and publish the game. the sequel was codeveloped by disney mobile games studios that is based in beijing. new features offered in the sequel included additional abilities for the car, such as balloons and adhesive tires, and the addition of a built in level editor. fitzrandolph would later describe the experience as "exciting" and "overwhelming":
+i had never thought about what was jellycar, like what are the rules or style or whatever. in the first round of assets, i'd look at it and say that doesn't look like jellycar, and they'd ask what it was supposed to look like. i'd not really thought about that stuff, because it had always been this really personal thing. but it was really exciting, and it's really cool to be a part of that.
+jellycar 2 was first released on ios devices in november 2009, but was later ported to other devices. an ipad-enhanced version launched day-and-date with the ipad itself in april 2010. that november, jellycar 2 was released as a playstation mini on sony's playstation portable system. in 2011, jellycar 2 was ported to nintendo's two major download services, wiiware (in january) and dsiware (in march).
+
+reception of jellycar 2
+the reviews of jellycar 2 have been generally positive. lisa cowdell of gamezebo said that the ios version was "a tasty title you probably want to give a spin", but that the controls could sometimes be "downright frustrating". pspminis.com said that the playstation portable version was "a well conceived game that is simple but 'non-frustratingly' challenging".the reviews for the two nintendo versions were more mixed. in its review of the dsiware version, nintendo life's jacob crites said that jellycar 2 was "dsiware done right: fun, pick-up-and play-style gameplay with a variety of options and tons of replay value", but that "the dsiware size limitations haven't been kind", noting that the level editor was removed to conserve space. as to the wiiware version, patrick elliott, also writing for nintendo life, said the game was "a sweet little port that spreads it on thick". however, ign's audrey drake said the wiiware version was "a downgrade from its mobile predecessors thanks to wonky controls, barely upgraded graphics, and no online connectivity".
+
+jellycar 3
+a second sequel to the original game, jellycar 3 was released in february 2011 on the apple app store. as before, jellycar 3 added more features to the game, such as replays/ghost replays, car customization, and secret goals. a rewind feature was also added, allowing players to back up on the current level and resume at a chosen point; a total of ten rewinds were available, with extra rewinds as in-app purchases. a march 2011 update added new car shapes, new customization options, leaderboards, and the ability to race ghost replays of other players.
+
+reception of jellycar 3
+reviews of jellycar 3 have been generally favorable, with a metacritic rating of 84, based on seven reviews. steve mccaskill of pocket gamer said the game was "an addictive combination of driving and physics-based platforming that manages to overcome one or two minor control issues". in the review for slidetoplay.com, chris reed said that jellycar 3 was "a bouncy, wildly creative romp" and that the march 2011 update "brings more value to an already great game".
+
+discontinuation and removal of jellycar 2 & 3
+disney interactive studios retired jellycar 2 & 3, along with many other applications in spring 2014. they are no longer available for download.
+
+jellycar worlds
+in june 2021, for the first time since 2010, walaber announced on his twitter page and website that a new installment in the series known as jellycar worlds was now in development. progress on updates is broadcast via twitch. walaber also posts videos relating to jellycar worlds on his tiktok and twitter accounts, and makes devlogs on his youtube channel. the game is currently available for $7.99 on nintendo switch and steam, and is included with apple arcade on apple ios.
+
+references
+external links
+jellycar for iphone and ipod touch (app store link)

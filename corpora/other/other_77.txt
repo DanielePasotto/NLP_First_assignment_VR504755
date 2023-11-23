@@ -1,0 +1,20 @@
+in-car entertainment (ice), or in-vehicle infotainment (ivi), is a collection of hardware and software in automobiles that provides audio or video entertainment. in car entertainment originated with car audio systems that consisted of radios and cassette or cd players, and now includes automotive navigation systems, video players, usb and bluetooth connectivity, carputers, in-car internet, and wifi. once controlled by simple dashboards knobs and dials, ice systems can include steering wheel audio controls, handsfree voice control, touch-sensitive preset buttons, and even touch screens on higher-end units. latest models of in-car entertainment systems are coming equipped with rear-view cameras along with side cameras for better safety.
+
+background
+driven by the demand for more connected vehicles, in-car entertainment is getting more and more sophisticated. car makers, electronics and software suppliers, as well as newcomers from the silicon valley (such as google and apple), work together and also compete to come up with infotainment systems that are user-friendly and safe to use. ice systems are increasingly commonplace with newer vehicle models and several auto makers have developed their own systems: ford with sync and myford touch, toyota with entune, cadillac with cue (cadillac user experience), fca with uconnect, etc.
+with the mass adoption of smartphones worldwide, a new issue has emerged: the use of connected devices in the car. according to a 2015 survey conducted by at&t with a sample of over 2,000 us respondents, "7-in-10 people engage in smartphone activities while driving" including social media (40%), web browsing (30%) and even video chatting (10%). this raises safety concerns related to distracted driving and also pushes the automotive industry to integrate those devices in a safe manner. "traditional" car makers increasingly rely on the software and electronics expertise of auto suppliers and technology companies to help them design such systems. google and apple's mobile oss' making the bulk of the market, the two tech companies have developed projection modes (android auto, apple carplay) to enable mobile devices to be operated in vehicles through the dashboard head unit so that the vehicle occupants don't manipulate their devices directly, use an interface they are familiar with, and spend more time with their eyes on the road.
+
+concerns
+safety
+policies regarding in-car entertainment systems are less developed than cell phone usage laws regarding similar distractions in cars. in the united states, 10 states, d.c., guam, and the virgin islands prohibit all drivers from using handheld cell phones while driving. additionally, 39 states, d.c., guam, and the virgin islands ban text messaging for all drivers. however, few states have developed laws to limit the content that drivers can view on in-car entertainment systems.still, researchers are beginning to analyze the potential impact of distracted drivers on the roads. charlie klauer, a researcher at the virginia tech transportation institute, says that drivers who look at screens have a much higher risk of crashing. furthermore, the risk of crashing rises exponentially the longer a driver has taken their eyes off the road.automotive companies like ford and audi contend that they have tested and revised their latest systems in order to reduce the amount of time that drivers spend looking away from the road.
+
+security
+as car infotainment systems can access more and more functions of the vehicle (e.g. through the can bus), concerns have also been voiced about potential remote car hacking (see drive by wire).
+
+see also
+list of auto parts
+list of car audio manufacturers and brands
+automotive head unit – centerpiece of the car's sound and information system
+
+
+== references ==

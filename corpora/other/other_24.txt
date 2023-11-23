@@ -1,0 +1,150 @@
+the automotive industry comprises a wide range of companies and organizations involved in the design, development, manufacturing, marketing, selling, repairing, and modification of motor vehicles. it is one of the world's largest industries by revenue (from 16% such as in france up to 40% to countries like slovakia).the word automotive comes from the greek autos (self), and latin motivus (of motion), referring to any form of self-powered vehicle. this term, as proposed by elmer sperry (1860–1930), first came into use with reference to automobiles in 1898.
+
+history
+the automotive industry began in the 1860s with hundreds of manufacturers pioneering the horseless carriage. early car manufacturing involved manual assembly by a human worker. the process evolved from engineers working on a stationary car, to a conveyor belt system where the car passed through multiple stations of more specialized engineers. starting in the 1960s, robotic equipment was introduced to the process, and today most cars are produced largely with automated machinery.for many decades, the united states led the world in total automobile production, with the u.s. big three general motors, ford motor company and chrysler being the world's three largest auto manufacturers for a time, and g.m. and ford remaining the two largest until mid-2000s. in 1929, before the great depression, the world had 32,028,500 automobiles in use, of which more than 90% produced by the u.s. automobile industry. at that time, the u.s. had one car per 4.87 persons. after 1945, the u.s. produced around three quarters of world's auto production. in 1980, the u.s. was overtaken by japan and then became a world leader again in 1994. japan narrowly passed the u.s. in production the years 2006 and 2007, and in 2008 also china, which in 2009 took the top spot (from japan) with 13.8 million units, although the u.s. surpassed japan in 2011, to become the second-largest automobile industry. in 2017, china reached its top record, of more than 29 million produced vehicles, which was the so far largest margin from that of the u.s. from 1970 (140 models) over 1998 (260 models) to 2012 (684 models), the number of automobile models in the u.s. has grown exponentially.
+
+safety
+safety is a state that implies being protected from any risk, danger, damage, or cause of injury. in the automotive industry, safety means that users, operators, or manufacturers do not face any risk or danger coming from the motor vehicle or its spare parts. safety for the automobiles themselves implies that there is no risk of damage.
+safety in the automotive industry is particularly important and therefore highly regulated. automobiles and other motor vehicles have to comply with a certain number of regulations, whether local or international, in order to be accepted on the market. the standard iso 26262, is considered one of the best practice frameworks for achieving automotive functional safety.in case of safety issues, danger, product defect, or faulty procedure during the manufacturing of the motor vehicle, the maker can request to return either a batch or the entire production run. this procedure is called product recall. product recalls happen in every industry and can be production-related or stem from raw materials.
+product and operation tests and inspections at different stages of the value chain are made to avoid these product recalls by ensuring end-user security and safety and compliance with the automotive industry requirements. however, the automotive industry is still particularly concerned about product recalls, which cause considerable financial consequences.
+
+economy
+in 2007, there were about 806 million cars and light trucks on the road, consuming over 980 billion litres (980,000,000 m3) of gasoline and diesel fuel yearly. the automobile is a primary mode of transportation for many developed economies. the detroit branch of boston consulting group predicted that, by 2014, one-third of world demand would be in the four bric markets (brazil, russia, india, and china). meanwhile, in developed countries, the automotive industry has slowed. it is also expected that this trend will continue, especially as the younger generations of people (in highly urbanized countries) no longer want to own a car anymore, and prefer other modes of transport. other potentially powerful automotive markets are iran and indonesia.
+emerging automobile markets already buy more cars than established markets. 
+according to a j.d. power study, emerging markets accounted for 51 percent of the global light-vehicle sales in 2010. the study, performed in 2010 expected this trend to accelerate. however, more recent reports (2012) confirmed the opposite; namely that the automotive industry was slowing down even in bric countries. in the united states, vehicle sales peaked in 2000, at 17.8 million units.in july 2021, the european commission released its "fit for 55" legislation package, which contains important guidelines for the future of the automotive industry; all new cars on the european market must be zero-emission vehicles from 2035.the governments of 24 developed countries and a group of major car manufacturers including gm, ford, volvo, byd auto, jaguar land rover and mercedes-benz committed to "work towards all sales of new cars and vans being zero emission globally by 2040, and by no later than 2035 in leading markets". major car manufacturing nations like the united states, germany, china, japan and south korea, as well as volkswagen, toyota, peugeot, honda, nissan and hyundai, did not pledge.
+
+environmental impacts
+the global automotive industry is a major consumer of water. some estimates surpass 180,000 l (39,000 imp gal) of water per car manufactured, depending on whether tyre production is included. production processes that use a significant volume of water include surface treatment, painting, coating, washing, cooling, air-conditioning, and boilers, not counting component manufacturing. paintshop operations consume especially large amounts of water because equipment running on water-based products must also be cleaned with water.in 2022, tesla's gigafactory berlin-brandenburg ran into legal challenges due to droughts and falling groundwater levels in the region. brandenburg's economy minister joerg steinbach said that while water supply was sufficient during the first stage, more would be needed once tesla expands the site. the factory would nearly double the water consumption in the gruenheide area, with 1.4 million cubic meters being contracted from local authorities per year — enough for a city of around 40,000 people. steinbach said that the authorities would like to drill for more water there and outsource any additional supply if necessary.
+
+world motor vehicle production
+by year
+by country
+the oica counts over 50 countries that assemble, manufacture, or disseminate automobiles. of those, only 15 countries (boldfaced in the list below) currently possess the capability to design original production automobiles from the ground up.
+
+by manufacturer
+these were the ten largest manufacturers by production volume as of 2017, of which the eight largest were in the top 8 positions since fiat's 2013 acquisition of the chrysler corporation (although the psa group had been in the top 8 1999 to 2012) and the five largest in the top 5 positions since 2007, according to oica, which, however, stopped publishing statistics of motor vehicle production by manufacturer after 2017. all ten remained as the ten largest automakers by sales until the merger between fiat-chrysler and the psa group in early 2021; only renault was degraded to 11th place, in 2022, when being surpassed by both bmw (which became the 10th largest in 2021) and chang'an.
+
+notable company relationships
+stake holding
+it is common for automobile manufacturers to hold stakes in other automobile manufacturers. these ownerships can be explored under the detail for the individual companies.
+notable current relationships include:
+daihatsu holds a 25% stake in perodua.
+daimler holds a 10.0% stake in kamaz.
+daimler holds an 89.29% stake in mitsubishi fuso truck and bus corporation.
+daimler holds a 3.1% in the renault-nissan alliance, while renault-nissan alliance holds a 3.1% share in daimler ag.
+daimler holds a 12% stake in baic group, while baic group holds 5% stake in daimler.
+daimler holds an 85% stake in master motors.
+dongfeng motor holds a 12.23% stake and a 19.94% exercisable voting rights in psa groupe.
+faw group owns 49% of haima automobile.
+fca holds a 10% stake in ferrari.
+fca holds a 67% stake in fiat automobili srbija.
+fca holds 37.8% of tofaş with another 37.8% owned by koç holding.
+fiat automobili srbija owns a 54% stake in zastava trucks.
+fiat industrial owns a 46% stake in zastava trucks.
+fujian motors group holds a 15% stake in king long. fmg, beijing automotive group, china motor, and daimler has a joint venture called fujian benz. fmg, china motor, and mitsubishi motors has a joint venture called soueast, fmg holds a 50% stake, and both china motor and mitsubishi motors holds an equal 25% stake.
+geely automobile holds a 23% stake in the london taxi company.
+geely automobile holds a 49.9% stake in proton holdings and a 51% stake in lotus cars.
+geely holding group holds a 9.69% stake in daimler ag.
+geely holding group holds an 8.3% stake and a 15.9% exercisable voting rights in volvo.
+general motors holds a 93% stake in gm india and saic group holds a 7% stake.
+general motors holds a 48.19% stake in gm korea.
+general motors holds a 20% stake in industries mécaniques maghrébines.
+isuzu owns 10% of industries mécaniques maghrébines.
+marcopolo owns 19% of new flyer industries.
+mitsubishi group holds 20% of mitsubishi motors.
+nissan owns 34% of mitsubishi motors since october 2016, thus having the right to nominate the chairman of mitsubishi motors' board and a third of its directors.
+nissan owns 43% of nissan shatai.
+porsche automobil holding se has a 50.74% voting stake in volkswagen group. the porsche automotive business is fully owned by the volkswagen group.
+renault and nissan motors have an alliance (renault-nissan alliance) involving two global companies linked by cross-shareholding, with renault holding 43.4% of nissan shares, and nissan holding 15% of (non-voting) renault shares.
+renault holds a 25% stake in avtovaz
+renault holds an 80.1% stake in renault samsung.
+saipa holds a 51% stake in pars khodro.
+tata motors holds a 100% stake in jaguar land rover.
+toyota holds a 100% stake in daihatsu.
+toyota holds a 100% stake in hino.
+toyota holds a 4.6% stake in isuzu.
+toyota holds a 5.05% stake in mazda, while mazda holds 0.25% stake in toyota.
+toyota holds a 16.7% stake in subaru corporation, parent company of subaru.
+toyota holds a 4.94% stake in suzuki, while suzuki holds 0.2% stake in toyota.
+volkswagen group holds a 99.55% stake in the audi group.
+volkswagen group holds a 37.73% stake in scania (68.6% voting rights), a 53.7% stake in man se (55.9% voting rights). volkswagen is integrating scania, man, and its own truck division into one division.
+paccar has a 19% stake in tatra.
+zap holds a 51% stake in zhejiang jonway.
+
+joint ventures
+china joint venture
+beijing automotive group has a joint venture with daimler called beijing benz, both companies hold a 50-50% stake. both companies also have a joint venture called beijing foton daimler automobile.
+beijing automotive group also has a joint venture with hyundai called beijing hyundai, both companies hold a 50-50% stake.
+bmw and brilliance have a joint venture called bmw brilliance. bmw owns a 50% stake, brilliance owns a 40.5% stake, and the shenyang municipal government owns a 9.5% stake.
+changan automobile has a joint venture with groupe psa (changan psa), and both hold a 50-50% stake.
+changan automobile has a joint venture with suzuki (changan suzuki), and both hold a 50-50% stake.
+changan automobile has a 50-50% joint venture with mazda (changan mazda).
+changan automobile and ford have a 50-50% joint venture called changan ford.
+changan automobile and jmcg have a joint venture called jiangling motor holding.
+chery has a joint venture with jaguar land rover called chery jaguar land rover, both companies hold a 50-50% stake.
+chery and israel corporation have a joint venture called qoros, and both companies hold a 50-50% stake.
+dongfeng motor and nissan have a 50-50% joint venture called dongfeng motor company.
+daimler ag and byd auto have a joint venture called denza, both companies hold a 50-50% stake.
+daimler ag and geely holding group have a joint venture called smart automobile, both companies hold a 50-50% stake.
+dongfeng motor and psa group have a 50-50% joint venture called dongfeng peugeot-citroën.
+dongfeng motor has a 50-50% joint venture with honda called dongfeng honda.
+dongfeng motor has a joint venture with ab volvo called dongfeng nissan-diesel.
+dongfeng motor has a 50-50% joint venture with renault named dongfeng renault in wuhan, which was founded in the end of 2013
+faw group and general motors has a 50-50 joint venture called faw-gm.
+faw group has a 50-50 joint venture with volkswagen group called faw-volkswagen.
+faw group has a 50-50 joint venture with toyota called sichuan faw toyota motor and both companies also have another joint venture called ranz.
+general motors and saic motor, both have two joint ventures in saic-gm and saic-gm-wuling.
+navistar international and jac has a joint venture called anhui jianghuai navistar.
+
+outside china
+ford and navistar international have a 50-50 joint venture called blue diamond truck.
+ford and sollers jsc have a 50-50 joint venture called ford sollers.
+ford and koç holding have a 50-50 joint venture called ford otosan.
+ford and lio ho group have a joint venture called ford lio ho, ford owns 70% and lio ho group owns 30%.
+general motors and uzavtosanoat have a joint venture called gm uzbekistan, uzavtosanoat owns 75% and general motors owns 25%.
+general motors, avtovaz, and ebrd have a joint venture called gm-avtovaz, both gm and avtovaz owns 41.61% and ebrd owns 16.76%.
+hyundai motor company and kibar holding has a joint venture called hyundai assan otomotiv, hyundai owns 70% and kibar holding owns 30%.
+isuzu and anadolu group have a 50-50% joint venture called anadolu isuzu.
+isuzu and general motors has a 50-50% joint venture called isuzu truck south africa.
+isuzu, sollers jsc, and imperial sojitz have a joint venture called sollers-isuzu, sollers jsc owns 66%, isuzu owns 29%, and imperial sojitz owns 5%.
+mahindra & mahindra and navistar international have a joint venture called mahindra trucks and buses limited. mahindra & mahindra owns 51% and navistar international owns 49%.
+man se and uzavtosanoat have a joint venture called man auto-uzbekistan, uzavtosanoat owns 51% and man se owns 49%.
+psa and toyota have a 50-50% joint venture called toyota peugeot citroën automobile czech.
+psa and ck birla group (avtec) have a 50-50% joint venture called psa avtec powertrain pvt. ltd.
+sollers jsc is involved in joint ventures with ford (ford sollers ) and mazda to produce cars.
+tata motors also formed a joint venture in india with fiat and gained access to fiat's diesel engine technology.
+tata motors and marcopolo have a joint venture called tata marcopolo, where tata owns 51% and marcopolo owns 49%.
+volvo group and eicher motors have a 50-50% joint venture called ve commercial vehicles.
+
+see also
+notes
+references
+further reading
+ajitha, p. v., and ankita nagra. "an overview of artificial intelligence in automobile industry–a case study on tesla cars." solid state technology 64.2 (2021): 503–512. online
+banerjee, preeta m., and micaela preskill. "the role of government in shifting firm innovation focus in the automobile industry" in entrepreneurship, innovation and sustainability (routledge, 2017) pp. 108–129.
+bohnsack, rené, et al. "driving the electric bandwagon: the dynamics of incumbents' sustainable innovation." business strategy and the environment 29.2 (2020): 727–743 online.
+bungsche, holger. "regional economic integration and the automobile industry: automobile policies, division of labour, production network formation and market development in the eu and asean." international journal of automotive technology and management 18.4 (2018): 345–370.
+chen, yuan, c-y. cynthia lin lawell, and yunshi wang. "the chinese automobile industry and government policy." research in transportation economics 84 (2020): 100849. online
+clark, kim b., et al. "product development in the world auto industry." brookings papers on economic activity 1987.3 (1987): 729–781. online
+guzik, robert, bolesław domański, and krzysztof gwosdz. "automotive industry dynamics in central europe." in new frontiers of the automobile industry (palgrave macmillan, cham, 2020) pp. 377–397.
+imran, muhammad, and jawad abbas. "the role of strategic orientation in export performance of china automobile industry." in handbook of research on managerial practices and disruptive innovation in asia (2020): 249–263.
+jetin, bruno. "who will control the electric vehicle market?" international journal of automotive technology and management 20.2 (2020): 156–177. online
+kawahara, akira. the origin of competitive strength: fifty years of the auto industry in japan and the us (springer science & business media, 2012).
+kuboniwa, masaaki. "present and future problems of developments of the russian auto-industry." rrc working paper series 15 (2009): 1–12. online
+lee, euna, and jai s. mah. "industrial policy and the development of the electric vehicles industry: the case of korea." journal of technology management & innovation 15.4 (2020): 71–80. online
+link, stefan j. forging global fordism: nazi germany, soviet russia, and the contest over the industrial order (2020) excerpt; influential overview
+liu, shiyong. "competition and valuation: a case study of tesla motors." iop conference series: earth and environmental science . vol. 692. no. 2. (iop publishing, 2021) online
+miglani, smita. "the growth of the indian automobile industry: analysis of the roles of government policy and other enabling factors." in innovation, economic development, and intellectual property in india and china (springer, singapore, 2019) pp. 439–463.
+qin, yujie, yuqing xiao, and jiawei yuan. "the comprehensive competitiveness of tesla based on financial analysis: a case study." in 2021 international conference on financial management and economic transition (fmet 2021). (atlantis press, 2021). online
+rawlinson, michael, and peter wells. the new european automobile industry (springer, 2016).
+rubenstein, james m. the changing us auto industry: a geographical analysis (routledge, 2002).
+seo, dae-sung. "ev energy convergence plan for reshaping the european automobile industry according to the green deal policy." journal of convergence for information technology 11.6 (2021): 40–48. online
+shigeta, naoya, and seyed ehsan hosseini. "sustainable development of the automobile industry in the united states, europe, and japan with special focus on the vehicles' power sources." energies 14.1 (2021): 78+ online
+ueno, hiroya, and hiromichi muto. "the automobile industry of japan." on industry and business in japan (routledge, 2017) pp. 139–190.
+verma, shrey, gaurav dwivedi, and puneet verma. "life cycle assessment of electric vehicles in comparison to combustion engine vehicles: a review." materials today: proceedings (2021) online.
+vošta, m. i. l. a. n., and a. l. e. š. kocourek. "competitiveness of the european automobile industry in the global context." politics in central europe 13.1 (2017): 69–89. online
+zhu, xiaoxi, et al. "promoting new energy vehicles consumption: the effect of implementing carbon regulation on automobile industry in china." computers & industrial engineering 135 (2019): 211–226. online
+
+external links
+
+ media related to automotive industry at wikimedia commons

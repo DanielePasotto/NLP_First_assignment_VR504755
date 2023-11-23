@@ -1,0 +1,7 @@
+smart car may refer to:
+
+smart (marque), the automobile brand
+smartcar (company), the api developer platform company
+autonomous car, an automobile capable of driving itself
+connected car, an automobile that coordinates its navigation with others'
+vehicular automation, using artificial intelligence to enhance or automate control of a vehicle.
