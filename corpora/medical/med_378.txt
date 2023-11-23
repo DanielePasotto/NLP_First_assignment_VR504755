@@ -1,0 +1,35 @@
+according to the us department of education, the educational commission for foreign medical graduates is "the authorized credential evaluation and guidance agency for non-u.s. physicians and graduates of non-u.s. medical schools who seek to practice in the united states or apply for a u.s. medical residency program.  it provides comprehensive information and resources on licensure, the u.s. medical licensure examination (usmle), residencies, and recognition."through its program of certification, the educational commission for foreign medical graduates (ecfmg) assesses the readiness of international medical graduates to enter residency or fellowship programs in the united states that are accredited by the accreditation council for graduate medical education (acgme).
+ecfmg acts as the registration and score-reporting agency for the usmle for foreign medical students/ graduates, or in short, it acts as the designated dean's office for international medical graduates (imgs) in contrast to the american medical graduates (amgs).
+medical schools in canada that award the m.d. are not assessed by ecfmg, because the liaison committee on medical education historically accredited m.d.-granting institutions in both the u.s. and canada (today, canada has its own accrediting body that generally follows u.s. standards). m.d. graduates of american and canadian institutions are not considered imgs in either country.
+
+history
+ecfmg was founded in 1956, in response to the increase need for the evaluation of the readiness of international medical graduates entering the physician workforce during the 1950 expansion of us healthcare system. its initial name was evaluation service for foreign medical graduates (esfmg). later that year, it was renamed educational council for foreign medical graduates. in conjunction with nbme,
+it created what became known as the ecfmg certification which included examinations and 
+assessments of english language proficiency. in  1974, it merged with the commission on foreign medical graduates and changed its name
+to its current name educational commission for foreign medical graduates.
+
+certification
+the main pathway for international medical graduates who wish to be licensed as a physician in the united states is to complete a u.s. residency hospital program. the general method to apply for residency programs is through the national resident matching program (abbreviated nrmp, but also called "the match"). to participate in the nrmp, an img is required to have an ecfmg certification by the "rank order list certification deadline" time (usually in february of the year of the match).to acquire an ecfmg certification, the candidate must meet these requirements:
+examination requirement: completion of usmle step 1 and usmle step 2 clinical knowledge
+meet the clinical and communication skills requirements (see section)
+medical education credential requirements: a medical diploma of medical education taken at an institution registered in the world directory of medical schools (wdom). the official source to confirm that a medical school meets ecfmg’s requirements, is the world directory at www.wdoms.org. schools that meet the requirements will have an ecfmg note stating this in the schools’ world directory listing.in comparison, regular graduates from medical schools in the united states need to complete usmle steps 1 and 2 as well, but can participate in the nrmp while still doing their final year of medical school before acquiring their medical diplomas. in effect, taking regular administrative delays into account, and with residency programs starting around july, there is a gap of at least half a year for imgs between graduation from medical school and beginning of a residency program.
+
+clinical and communication skills requirements
+the covid-19 global pandemic has brought some changes to the ecfmg certification process. first as aamc suspended temporarily and later eliminated the step 2 cs examination, ecfmg moved to a pathways model for verification of clinical skills. imgs who have already taken step 2 cs may still use it to fulfill this requirement. all other imgs will need:
+
+assessment of communication skills, including english language proficiency through the occupational english test medicine exam
+meet the requirements for one of the pathways below:
+
+certification expiration
+as of april 2021, ecfmg certifications obtained by fulfilling the clinical and communication skills requirements through a pathway will expire in 2022 if the applicant does not enter an acgme-accredited training program in 2021 or 2022. if the applicant enters a training program they become permanent after one year of residency.
+
+projects
+a pilot project was started in 2012 for an electronic verification system of medical credentials from international medical schools, with participation from approximately 20 international medical schools. after completion of this pilot project, ecfmg now allows all medical schools to register for free.effective in 2024, the ecfmg will restrict eligibility to usmle and employment as a doctor in the united states to graduates from medical schools accredited by an agency which is recognized by the world federation for medical education or to an equivalent standard. the accrediting agencies that meet these requirements are:
+
+communication
+international medical schools can send medical student performance evaluations (mspes), medical school transcripts, and letters of recommendation (lors) on behalf of their students and graduates to ecfmg by means of mail, or through digital documents by the ecfmg medical school web portal (emswp).
+
+references
+external links
+education commission for foreign medical graduates
+united states medical licensing examination

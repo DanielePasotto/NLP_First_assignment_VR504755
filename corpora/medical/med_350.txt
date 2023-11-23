@@ -1,0 +1,83 @@
+the u.s. army medical command (medcom) is a direct reporting unit of the u.s. army that formerly provided command and control of the army's fixed-facility medical, dental, and veterinary treatment facilities, providing preventive care, medical research and development and training institutions. on 1 october 2019, operational and administrative control of all military medical facilities transitioned to the defense health agency.
+medcom is commanded by the surgeon general of the united states army. the surgeon general is also head of the u.s. army medical department (the amedd).
+
+peacetime garrison medicine until 2019
+medcom maintained day-to-day health care for soldiers, retired soldiers and the families of both. despite the wide range of responsibilities involved in providing health care in traditional settings, as well as on the battlefield, it was claimed that quality of care compared very favorably with that of civilian health organizations, when measured by civilian standards, according to findings of the dod's civilian external peer review program (ceprp).
+
+deployments
+historically, when army field hospitals deployed, most clinical professional and support personnel came from medcom's fixed facilities. in addition to support of combat operations, deployments were for humanitarian assistance, peacekeeping, and other stability and support operations. under the professional officer filler system (profis), up to 26 percent of medcom physicians and 43 percent of medcom nurses were sent to field units during a full deployment.
+medical personnel are now mtoe assigned personnel, referred to as "maped" or "reverse profis." under the new system, personnel are assigned to the mtoe (modified table of organization and equipment) unit with duty assigned elsewhere to support tda facility operations. to substitute staff, reserve units and individual mobilization augmentees (non-unit reservists) are mobilized to work in medical treatment facilities. the department also provides trained medical specialists to the army's combat medical units, which are assigned directly to combatant commanders.
+many army reserve and army national guard units deploy in support of the army medical department. the army depends heavily on its reserve component for medical support—about 63 percent of the army's medical forces are in the reserve component. the concept of the expeditionary resuscitative surgical team (erst) has been around for several years. however, an official force requisition for erst teams was relayed to ltg nadja west, former army surgeon general, in january 2016. erst falls under the command and control of medical command (medcom) for the us army. erst training consists of 3 weeks that is split between fort sam houston, tx and camp bullis, tx.the first erst team was rapidly integrated and deployed in may 2016 as erst 1. the training conducted to prepare the clinicians chosen for erst is austere, arduous, and stressful. often, clinicians must do complex procedures and care for patients in these training environments for prolonged periods of time, and with limited resources. erst is also trained on operational decision making and planning to better posture them for the special operation forces (sof) environment. the members of the team are selected by their respective military occupational specialty's (mos) consultant to the surgeon general. the consultant for the mos then sends the candidate's name to the surgeon general (tsg) for final approval. selected members must be physically fit, subject matter experts in their fields, and ready to serve in a highly demanding position. an erst consists of elite 8 members. one certified nurse anesthetist (crna), one general surgeon, one orthopaedic physician's assistant (pa), one emergency department physician, one critical care intensivist, one surgical technician, one emergency department critical care rn, and one intensive care/critical care rn. these members have also usually served on prior deployments within their medical capacity.the team can be broken into three sub-units; damage control resuscitation (dcr team), damage control surgery (dcs team), and critical care evacuation team (ccet). the dcr team is composed of the ed physician and er rn. the dcr team consists of the general surgeon, ortho pa, crna, and the surgical technician. ccet team includes the intensivist and icu critical care rn. erst's mission is to deploy far forward with sof units, decreasing the time between point of injury (poi) to surgical care in austere environments while also being as light and mobile as possible. at this time, erst has only served in africa command's area of responsibility (aor).currently, there are only six erst teams in existence. with the deactivation of medical command (medcom), the erst mission will be assumed by another organization within the army as defense health agency (dha) continues to gain control over all tda medical facilities in the army, air force, and navy.
+
+history
+as the post–cold war army shrank, the u.s. army's health services command (hsc) decided to change the way it did business and operate more like a corporation. in 1992, hsc launched "gateway to care", a businesslike approach to health-care delivery. this was to be localized managed care, with improved quality, access and cost. in a design based more on catchment-area management than the previous "champus reform initiative" (cri), u.s. army hospital commanders received more responsibility and managerial authority. eleven "gateway to care sites opened in the spring of 1992. by that fall, all hsc facilities had submitted business plans which were favorably received. starting in 1994, "gateway to care" was gradually absorbed into a new regional defense department tri-service managed-care plan called tricare, which was modeled on cri.
+in august 1993, the u.s. army chief of staff approved a plan to reorganize the amedd. the merger of several medical elements resulted in a new, expanded medical major command under the surgeon general. in october 1993, the "u.s. army medical command (provisional)" began a one-year process of replacing hsc and absorbing other amedd elements. surgeon general lt. gen. alcide m. lanoue commanded the provisional medcom, while maj. gen. richard d. cameron continued as hsc commander. in november 1993, dencom and vetcom were formed as provisional commands under the medcom, to provide real command chains for more efficient control of dental and veterinary units—the first time those specialties had been commanded by the same authorities who provided their technical guidance. the next month, seven medcen commanders assumed command and control over care in their regions. the new "health service support areas" (hssas), under the medcom, had more responsibility and authority than the old hsc regions.
+in march 1994, a merger of medical research and development command, the medical materiel agency and the health facilities planning agency resulted in creation of the medical research, development, acquisition and logistics command (mrdalc), subordinate to the provisional medcom. the mrdalc was soon renamed the u.s. army medical research and development command (usamrmc). then, in june 1994, an additional hssa was formed to supervise medical care in europe, replacing the 7th medical command, which inactivated. that summer, the army environmental hygiene agency formed the basis of the provisional center for health promotion and preventive medicine (chppm).
+thus, in an unprecedented process of unification, u.s. army medicine gradually came together in a new home under the command of the surgeon general. except for the field medical units commanded by the combat commanders, virtually all of army medicine is now part of the medcom. the medcom became fully operational, dropping the "provisional," in october 1994. in 1996, the hssas were renamed regional medical commands and later in 2016, to regional health commands.
+
+transition circa 2019
+"the defense health agency is assuming administration and management responsibilities from the army, navy and air force for all military hospitals and clinics [as of] 1 oct. 2019. congress initiated this change in administration and management because they saw a need for a more flexible, adaptable, effective and integrated system to manage [u.s. military medical] facilities.
+dha will initially oversee these facilities through a direct support relationship with the military medical department intermediate management organizations. the dha will relieve the military departments of this support during a transition period in which responsibility for specific health care and administrative functions are fully transferred from the military departments to the dha.
+dha is establishing a market-based structure to manage the hospitals and clinics. these market organizations will provide shared administrative services to the hospitals and clinics in their region. they will be responsible for generating medical readiness of active duty members and families in their regions, as well as ensuring the readiness of their medical personnel."
+other responsibilities formerly assigned to medcom have also been transferred, as of 1 october 2019. logistics and materiel research and supply have been assigned to united states army materiel command, and medical training is now the responsibility of training and doctrine command (tradoc). the army medical department center & school (ameddc&s) has been renamed the army medical center of excellence. the walter reed national military medical center, bethesda, md, was transferred to the direct control of the defense health agency.
+previous subordinate commands of medcom also included the united states army dental command, fort sam houston, tx.
+the army medical department ("the amedd") remains, as an overall administrative body, including the medical corps, nurse corps, dental corps, veterinary corps, medical service corps, and medical specialist corps.
+
+structure
+office of the surgeon general medical command headquartersambassador program
+amedd dod/va program office
+u.s. army public health center, previously known as the u.s. army center for health promotion & preventive medicine (usachppm) prior to 1 october 2009; it and the u.s. army veterinary command (vetcom) were merged in 2011 to create usaphc.
+rehabilitation and reintegration division
+reserve affairs
+warrior care & transitionmedcom is also divided into regional health commands (rhcs) that oversee day-to-day operations and exercise command and control over the medical treatment facilities in their regions. there are currently four of these regional commands:
+
+regional health command-europe
+landstuhl army medical center, germany
+other hospitals and installations
+regional health command-central
+bayne-jones ach, fort polk, la
+san antonio military medical center, joint base san antonio, tx
+carl r. darnall army medical center, fort hood, tx
+evans ach, fort carson, co
+general leonard wood ach, fort leonard wood, mo
+william beaumont army medical center, ft. bliss, tx
+other hospitals and installations
+regional health command-atlantic
+womack army medical center, ft. bragg, nc
+other hospitals and installations
+regional health command-pacific
+madigan army medical center, joint base lewis-mcchord, wa
+other hospitals and installations
+medical research and development command
+6th medical logistics management center
+armed forces institute of regenerative medicine
+armed forces medical examiner system
+armed forces research institute of medical sciences
+blast injury research program
+clinical and rehabilitative medicine research program
+combat casualty care research program
+congressionally directed medical research programs
+defense centers of excellence for psychological health and traumatic brain injury
+national museum of health and medicine
+u.s. army aeromedical research laboratory
+u.s. army center for environmental health research
+u.s. army dental & craniofacial trauma research directorate
+u.s. army institute of surgical research
+u.s. army medical materiel agency
+u.s. army medical materiel center – europe
+u.s. army medical materiel center – korea
+u.s. army medical materiel development activity
+u.s. army medical research acquisition activity
+u.s. army medical research institute of infectious diseases
+u.s. army medical research institute of chemical defense
+u.s. army research institute of environmental medicine
+walter reed army institute of research
+u.s. army research unit - kenya
+
+see also
+list of former united states army medical units
+
+references
+external links
+https://www.army.mil/armymedicine/
+this article also contains information that originally came from us government publications and websites and is in the public domain.

@@ -1,0 +1,42 @@
+aviation medicine, also called flight medicine or aerospace medicine, is a preventive or occupational medicine in which the patients/subjects are pilots, aircrews, or astronauts. the specialty strives to treat or prevent conditions to which aircrews are particularly susceptible, applies medical knowledge to the human factors in aviation and is thus a critical component of aviation safety.  a military practitioner of aviation medicine may be called a flight surgeon and a civilian practitioner is an aviation medical examiner. one of the biggest differences between the military and civilian flight doctors is the military flight surgeon's requirement to log flight hours.
+
+overview
+broadly defined, this subdiscipline endeavors to discover and prevent various adverse physiological responses to hostile biologic and physical stresses encountered in the aerospace environment.  problems range from life support measures for astronauts to recognizing an ear block in an infant traveling on an airliner with elevated cabin pressure altitude. aeromedical certification of pilots, aircrew and patients is also part of aviation medicine. a final subdivision is the aeromedical transportation specialty. these military and civilian specialists are concerned with protecting aircrew and patients who are transported by airevac aircraft (helicopters or fixed-wing airplanes).
+atmospheric physics potentially affect all air travelers regardless of the aircraft. as humans ascend  through the first 9100–12,300 m (30,000–40,000 ft), temperature decreases linearly at an average rate of 2 °c (3.6 °f) per 305 m (1000 ft). if sea-level temperature is 16 °c (60 °f), the outside air temperature is approximately −57 °c (−70 °f) at 10,700 m (35,000 ft). pressure and humidity also decline, and aircrew are exposed to radiation, vibration and acceleration forces (the latter are also known as "g" forces). aircraft life support systems such as oxygen, heat and pressurization are the first line of defense against most of the hostile aerospace environment. higher performance aircraft provide more sophisticated life support equipment, such as "g-suits" to help the body resist the adverse effects of acceleration, along with pressure breathing apparatus, or ejection seats or other escape equipment.
+every factor contributing to a safe flight has a failure rate. the crew of an aircraft is no different. aviation medicine aims to keep this rate in the humans involved equal to or below a specified risk level. this standard of risk is also applied to airframe, avionics and systems associated with flights.
+aeromedical examinations aim at screening for elevation in risk of sudden incapacitation, such as a tendency towards myocardial infarction (heart attacks), epilepsy or the presence of metabolic conditions diabetes, etc. which may lead to hazardous condition at altitude.  the goal of the aeromedical examination is to protect the life and health of pilots and passengers by making reasonable medical assurance that an individual is fit to fly. other screened conditions such as colour blindness can prevent a person from flying because of an inability to perform a function that is necessary. in this case to tell green from red. these specialized medical exams consist of physical examinations performed by an aviation medical examiner or a military flight surgeon, doctors trained to screen potential aircrew for identifiable medical conditions that could lead to problems while performing airborne duties.  in addition, this unique population of aircrews is a high-risk group for several diseases and harmful conditions due to irregular work shifts with irregular sleeping and irregular meals (usually carbonated drinks and high energy snacks) and work-related stress.
+
+topics in aviation medicine
+1% rule (aviation medicine)
+barany chair
+barodontalgia
+fear of flying
+
+educational institutes
+civil aerospace medical institute
+raf institute of aviation medicine
+
+medical boards & memember associations
+aerospace medical association
+american board of preventive medicine
+american osteopathic board of preventive medicine
+
+see also
+references
+further reading
+zadik, y; chapnik, l; goldstein, l (2007). "in-flight barodontalgia: analysis of 29 cases in military aircrew". aviation, space, and environmental medicine. 78 (6): 593–6. pmid 17571660. retrieved 2008-07-15.
+zadik, y (2006). "barodontalgia due to odontogenic inflammation in the jawbone". aviation, space, and environmental medicine. 77 (8): 864–6. pmid 16909883. retrieved 2008-07-15.
+zadik, y (2006). "dental fractures on acute exposure to high altitude". aviation, space, and environmental medicine. 77 (6): 654–7. pmid 16780246. retrieved 2008-07-15.
+
+external links
+aeromedics - medical retrieval specialists
+aerospace medical association
+civil aerospace medical institute
+directory of us ames designated to perform faa aeromedical examinations for pilots and aircrew
+aviation medicine from the aviation medicine unit at the department of medicine, wellington school of medicine and health sciences, university of otago, new zealand.
+aerospace medicine article from emedicine
+aviation medicine international (ami) inc.
+canadian civil aviation medicine
+medicina aeroespacial colombia
+royal new zealand air force aviation medicine unit
+aerospace medicine - div surg

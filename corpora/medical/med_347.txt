@@ -1,0 +1,44 @@
+a death certificate is either a legal document issued by a medical practitioner which states when a person died, or a document issued by a government civil registration office, that declares the date, location and cause of a person's death, as entered in an official register of deaths.
+an official death certificate is usually required to be provided when applying for probate or administration of a deceased estate. they are also sought for genealogical research. the government registration office would usually be required to provide details of deaths, without production of a death certificate, to enable government agencies to update their records, such as electoral registers, government benefits paid, passport records, transfer the inheritance, etc.
+
+nature of a certificate
+before issuing a death certificate, the authorities usually require a certificate from a physician or coroner to validate the cause of death and the identity of the deceased. in cases where it is not completely clear that a person is dead (usually because their body is being sustained by life support), a neurologist is often called in to verify brain death and to fill out the appropriate documentation. the failure of a physician to immediately submit the required form to the government (to trigger issuance of the death certificate) is often both a crime and cause for loss of one's license to practice. this is because of past cases in which dead people continued to receive public benefits or vote in elections.a full explanation of the cause of death includes any other diseases and disorders the person had at the time of death, even though they did not directly cause the death.the cause of death combined with the occupation and industry information, is used for public health research purposes:
+detecting new illnesses or injuries occurring in relation to specific industries or occupations.
+monitoring known associations between job hazards and illnesses (e.g., black lung disease, once thought to be on the decline within the coal industry, reemerged in 2019).
+calculating burden of illness for specific industries or occupations to prioritize research.
+guiding prevention efforts and more in-depth research on links between work and health.
+
+history
+historically, in europe and north america, death records were kept by the local churches, along with baptism and marriage records. in 1639, in what would become the united states, the massachusetts bay colony was the first to have the secular courts keep these records. by the end of the 19th century, european countries were adopting centralized systems for recording deaths.in the united states, a standard model death certificate was developed around 1910.
+
+specific jurisdictions
+united kingdom
+england and wales
+when someone dies in england and wales, a doctor involved in their care completes a "medical certificate of cause of death" (mccd). this is then forwarded to the register office to register the person's death. the general register office, which is a section of hm passport office, is responsible for civil registration services in england and wales.
+
+scotland
+national registration began in 1855; registrations are rather more detailed.
+
+united states
+in most of the united states, death certificates are considered public domain documents and can therefore be obtained for any individual regardless of the requester's relationship to the deceased. other jurisdictions restrict to whom death certificates are issued. for example, in the state of new york, only close relatives can obtain a death certificate, including the spouse, parent, child or sibling of the deceased, and other persons who have a documented lawful right or claim, documented medical need, or new york state court order.
+
+stillbirths
+united states
+a 2007 article in people magazine revealed that in the case of a stillbirth it is not standard practice to issue both a birth certificate and a death certificate. most states instead issue a "certificate of birth resulting in stillbirth".
+
+see also
+birth certificate
+ghosting (identity theft)
+marriage certificate
+marriage licence
+mortality medical data system (mmds)
+
+references
+external links
+
+mortality data from the u.s. national vital statistics system - see methods - data collection - for copies of death certificates and how to fill them.
+magrane bp, gilliland mgf, and king de. "certification of death by family physicians". american family physician, 1997 oct 1;56(5):1433-8. pmid 9337765.
+swain gr, ward gk, hartlaub pp. "death certificates: let's get it right". american family physician, february 15, 2005. pmid 15742904.
+find free death records gives details on how to apply for death records in each state.
+online death indexes and records lists some online death certificate indexes
+where to write for vital records (including death certificates) from the national center for health statistics

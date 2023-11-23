@@ -1,0 +1,39 @@
+greenway health, llc is a privately-owned vendor of health information technology (hit) including integrated electronic health record (ehr), practice management, and revenue cycle management solutions. intergy, greenway’s cloud-based ehr and practice management solution, serves ambulatory healthcare practices. the company has offices in tampa, florida; carrollton, georgia; and bangalore, india.
+
+history
+medical manager
+the medical manager corporation launched the first medical practice management software, medical manager, developed by michael "mickey" singer, in 1977. headquartered in gainesville, florida, medical manager had one of the largest installed bases of practice management software in the united states at the time of its sale to vista.in april 2000, the medical manager software was adopted into the smithsonian national museum of american history in washington, d.c., under the permanent research collection on information technology. later the same year, medical manager corporation was acquired by healtheon, now known as emdeon.
+
+vitera healthcare solutions
+sage software healthcare, inc., founded in 2000 after the purchase and rebranding of the medical manager software from emdeon, provided ehr and medical practice management software for healthcare providers. the company’s products included intergy, a suite of clinical, financial, reporting, and communication tools for healthcare providers. the company operated under the name sage software healthcare, inc., until november 2011, when it was acquired by vista equity partners for $320 million and renamed vitera healthcare solutions. sage group originally purchased the software from emdeon for $565 million in 2006.in june 2013, vitera acquired the birmingham-based ehr company, successehs, inc. products absorbed into the vitera solutions portfolio include an ehr system, an electronic dental record (edr) system, and a revenue cycle management and practice management service.
+
+successehs
+successehs, inc., was founded in 1995 in birmingham, alabama, as a vendor of ehr and practice management solutions with integrated medical billing services.
+
+greenway medical technologies
+greenway medical technologies, founded in 1999, was an ehr vendor offering a flagship suite of hit products known as primesuite. greenway medical technologies had an initial public offering on feb. 2, 2012, but was taken private again in november 2013 when vista equity partners fully acquired greenway medical and combined it with vitera and successehs, rebranding them as greenway health.
+
+ransomware attack
+in april 2017, approximately 400 users were unable to access patient records for about three weeks due to a ransomware attack on greenway's systems. the company announced that the problem had been fixed on may 12, 2017.
+
+office closures
+in october 2017, greenway announced the closure of its offices in atlanta, birmingham, and lake mary, florida. numerous layoffs were made at the company's carrollton, georgia, office. a total of 120 employees at the atlanta and carrollton locations were affected by the closures, which were completed by the end of january 2018. the closures were in an effort to unify operations in the tampa office, thus making tampa the new headquarters location. many of the impacted employees were given the opportunity to relocate to one of the three remaining offices.
+
+department of justice settlement
+on feb. 6, 2019, greenway was ordered to pay $57.25 million in consequence of a complaint filed by the united states under the false claims act alleging that greenway caused its users to submit false claims to the government by misrepresenting the capabilities of its ehr product “prime suite” and bribing users to induce them to recommend prime suite. the government alleged that greenway concealed information when applying for a certification that would have disqualified it. the government also alleged that greenway violated the anti-kickback statute by paying money and incentives to its client providers to recommend prime suite to prospective new customers.
+
+greenway revenue services
+to help clients improve the profitability of their practices and provide the flexibility needed to meet the unique needs of practices, greenway launched a new greenway revenue services offering, grs select, in march 2021. grs select provides a customizable suite of revenue cycle services designed to simplify billing, alleviate administrative burdens, and identify new revenue opportunities, while allowing practices to maintain full control of their billing.
+
+cloud-based data services
+in july 2020, greenway announced its collaboration with amazon web services (aws) to develop a cloud-based, data services platform, greenway insights™. the platform will provide a regulatory analytics solution to assist clients in meeting reporting requirements and offer revenue cycle insights amid a changing rcm landscape. moving forward, greenway plans to work with aws on other capabilities, including remote patient monitoring and virtual waiting rooms.
+
+telehealth
+in august 2020, greenway announced the launch of greenway telehealth™, a new virtual care solution, in partnership with twilio, a cloud communications platform company. developed to meet the demand for virtual care resulting from the covid-19 pandemic, this hipaa-compliant solution is available to both of greenway’s ehrs, intergy and prime suite.
+
+awards
+in march 2021, greenway was featured on a list of “telehealth companies to know” by becker’s hospital review, a publication for healthcare decision-makers. in february 2020, independent industry research firm frost & sullivan named greenway the winner of its 2020 north american ambulatory revenue cycle management customer value leadership award, citing greenway’s ability to “help customers achieve sustained and long-term revenue gains.” shortly thereafter, the company was named a gold winner in the company rethinking of the year category of the golden bridge awards. 
+business news daily named intergy the most flexible emr, as well as the best customizable practice management software, in its best electronic medical record (emr) software of 2020 report.in march 2023, greenway health’s intergy practice management (pm) solution ranked in the top five as a 2023 'best in klas' overall physician practice vendor.
+
+
+== references ==

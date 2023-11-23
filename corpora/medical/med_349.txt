@@ -1,0 +1,12 @@
+medical image analysis (media) is a peer-reviewed academic journal which focuses on medical and biological image analysis. the journal publishes papers which contribute to the basic science of analyzing and processing biomedical images acquired through means such as magnetic resonance imaging, ultrasound, computed tomography, nuclear medicine, x-ray, optical and confocal microscopy, among others. common topics covered in the journal include feature extraction, image segmentation, image registration, and other image processing methods with applications to diagnosis, prognosis, and computer-assisted interventions.
+alongside  the international journal of computer assisted radiology and surgery, medical image analysis is an official publication of the medical image computing and computer assisted interventions society and is published by elsevier.
+
+see also
+medical imaging
+medical image computing
+computer-assisted interventions
+the miccai society
+
+references
+external links
+journal homepage

@@ -1,0 +1,24 @@
+tetany or tetanic seizure is a medical sign consisting of the involuntary contraction of muscles, which may be caused by disorders that increase the action potential frequency of muscle cells or the nerves that innervate them.
+muscle cramps caused by the disease tetanus are not classified as tetany; rather, they are due to a lack of inhibition to the neurons that supply muscles. tetanic contractions (physiologic tetanus) are a broad range of muscle contraction types, of which tetany is only one.
+
+signs and symptoms
+tetany is characterized by contraction of distal muscles of the hands (carpal spasm with extension of interphalangeal joints and adduction and flexion of the metacarpophalangeal joints) and feet (pedal spasm) and is associated with tingling around the mouth and distally in the limbs.
+
+causes
+the usual cause of tetany is a deficiency of calcium. an excess of phosphate (high phosphate-to-calcium ratio) can also trigger the spasms.
+underfunction of the parathyroid gland can lead to tetany.
+low levels of carbon dioxide cause tetany by altering the albumin binding of calcium such that the ionized (physiologically influencing) fraction of calcium is reduced; one common reason for low carbon dioxide levels is hyperventilation.
+low levels of magnesium can lead to tetany.
+clostridium tetani toxin, via inhibition of glycine-mediated and gaba-ergic neurotransmission, may lead to tetany.an excess of potassium in grass hay or pasture can trigger winter tetany, or grass tetany, in ruminants.
+osteomalacia and rickets due to deficiency of vitamin dmetabolic alkalosis with hypokalemia like gitelman syndrome  and bartter's syndrome can cause tetany. vomiting induced alkalosis and hyperventilation induced respiratory alkalosis also cause tetany because of neuronal irritability.
+
+pathophysiology
+hypocalcemia is the primary cause of tetany. low ionized calcium levels in the extracellular fluid increase the permeability of neuronal membranes to sodium ion, causing a progressive depolarization, which increases the possibility of action potentials. this occurs because calcium ions interact with the exterior surface of sodium channels in the plasma membrane of nerve cells and hypocalcemia effectively increases resting potential (rendering the cells more excitable) since less positive charge is present extracellularly. when calcium ions are absent the voltage level required to open voltage gated sodium channels is significantly altered (less excitation is required). if the plasma ca2+ decreases to less than 50% of the normal value of 9.4 mg/dl, action potentials may be spontaneously generated, causing contraction of peripheral skeletal muscles. hypocalcemia is not a term for tetany but is rather a cause of tetany.
+
+diagnosis
+french professor armand trousseau (1801–1867) devised the maneuver  of occluding the brachial artery by squeezing, to trigger cramps in the fingers. this is now known as the trousseau sign of latent tetany.also, tetany can be demonstrated by tapping anterior to the ear, at the emergence of the facial nerve. a resultant twitch of the nose or lips suggests low calcium levels. this is now known as the chvostek sign.emg studies reveal single or often grouped motor unit discharges at low discharge frequency during tetany episodes.
+
+references
+
+
+== external links ==
