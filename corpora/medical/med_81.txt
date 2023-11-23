@@ -1,0 +1,26 @@
+medical translation is the practice of translating various documents—training materials, medical bulletins, drug data sheets, etc.—for health care, medical devices, marketing, or for clinical, regulatory, and technical documentation. most countries require that companies and organizations translate literature and labeling for medical devices or pharmaceuticals into their national language. documents for clinical trials often require translation for local clinicians, patients, and regulatory representatives. regulatory approval submissions typically must be translated. in addition to linguistic skills, medical translation requires specific training and subject matter knowledge because of the highly technical, sensitive, and regulated nature of medical texts.
+
+process
+medical translation steps can include:
+
+extracting text from the source format
+translating text to the target language
+editing by a separate person to assure adherence to approved terminology and proper style and voice
+publishing the translation in the original format (e.g., word document, web page, e-learning program)
+proofreading to ensure the formatted translation has proper punctuation and line and page breaks, and displays correctly
+reviewing in-country by a native-speaking expert to ensure the translation meets all requirementstranslation agencies may oversee both project management and linguistic aspects.
+
+quality and standards
+the life and death nature of medical texts mandates a strong emphasis on translation quality. the international medical industry is highly regulated, and companies who must translate documentation typically choose translation agencies certified or compliant with one or more of the following standards:
+
+en 15038 — european standard for translation vendor quality (translation-quality standards)
+iso 9001 — quality system standard
+iso 13485 — overarching standard for medical device manufacturebecause of the high amounts of specificities, regulations, and challenges in the field of medical translation, some specialized translation companies have emerged who deal with medical translations exclusively. some of these companies have hired medical practitioners to supervise the translation process.
+
+see also
+tremédica
+
+references
+external links
+4 practical reasons to use a professional translation service
+the challenges of selling in multiple markets

@@ -1,0 +1,28 @@
+a medical dictionary is a lexicon for words used in medicine. the three major  medical dictionaries in the united states are stedman's, taber's, and dorland's. other significant medical dictionaries are distributed by elsevier. dictionaries often have multiple versions, with  content adapted for different user groups. for example stedman's concise medical dictionary and dorland's are for general use and allied health care, while the full text editions are reference works used by medical students, doctors, and health professionals. medical dictionaries are commonly available in print, online, or as downloadable software packages for personal computers and smartphones.
+
+history
+the earliest known glossaries of medical terms were discovered on egyptian papyrus authored around 1600 b.c. other precursors to modern medical dictionaries include lists of terms compiled from the hippocratic corpus in the first century ad.the synonyma simonis genuensis (the synonyms of simon of genoa), attributed to the physician to pope nicholas iv in the year 1288, was printed by antonius zarotus at milan in 1473. referring to a copy held in the library
+of the college of physicians of philadelphia, henry wrote in 1905 that "it is the first edition of the first medical dictionary." however, this claim is disputed as the composition only included lists of herbs and drugs. by the time of antonio guaineri (died in 1440) and savonarola, this work was used alongside others by oribasius, isidore of seville, mondino dei liuzzi, serapion, and pietro d'abano. then, as now, writers struggled with the terminology used in various translations from earlier greek, latin, hebrew, and arabic works. later works by jacques desparts and jacopo berengario da carpi continued building on the synonyma.
+
+definitions
+in medical dictionaries, definitions should to the greatest extent possible be:
+
+simple and easy to understand, preferably even by the general public
+useful clinically or in related areas where the definition will be used.
+specific, that is, by reading the definition only, it should ideally not be possible to refer to any other entity than the one being defined.
+measurable
+reflecting current scientific knowledge
+
+see also
+acronyms in healthcare
+medical classification
+medical terminology
+
+references
+external links
+directory of medical dictionaries on curlie
+directory of medical dictionaries on openmd
+merriam-webster medical dictionary
+thefreedictionary: medical dictionary
+android medical dictionaries on google play
+ios medical dictionaries on apple app store

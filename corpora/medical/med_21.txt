@@ -1,0 +1,129 @@
+the terms medical record, health record and medical chart are used somewhat interchangeably to describe the systematic documentation of a single patient's medical history and care across time within one particular health care provider's jurisdiction. a medical record includes a variety of types of "notes" entered over time by healthcare professionals, recording observations and administration of drugs and therapies, orders for the administration of drugs and therapies, test results, x-rays, reports, etc. the maintenance of complete and accurate medical records is a requirement of health care providers and is generally enforced as a licensing or certification prerequisite.
+the terms are used for the written (paper notes), physical (image films) and digital records that exist for each individual patient and for the body of information found therein.
+medical records have traditionally been compiled and maintained by health care providers, but advances in online data storage have led to the development of personal health records (phr) that are maintained by patients themselves, often on third-party websites. this concept is supported by us national health administration entities and by ahima, the american health information management association.
+because many consider the information in medical records to be sensitive private information covered by expectations of privacy, many ethical and legal issues are implicated in their maintenance, such as third-party access and appropriate storage and disposal. although the storage equipment for medical records generally is the property of the health care provider, the actual record is considered in most jurisdictions to be the property of the patient, who may obtain copies upon request.
+
+uses
+the information contained in the medical record allows health care providers to determine the patient's medical history and provide informed care. the medical record serves as the central repository for planning patient care and documenting communication among patient and health care provider and professionals contributing to the patient's care. an increasing purpose of the medical record is to ensure documentation of compliance with institutional, professional or governmental regulation.
+the traditional medical record for inpatient care can include admission notes, on-service notes, progress notes (soap notes), preoperative notes, operative notes, postoperative notes, procedure notes, delivery notes, postpartum notes, and discharge notes.
+personal health records combine many of the above features with portability, thus allowing a patient to share medical records across providers and health care systems.electronic medical records could also be studied to quantify disease burdens – such as the number of deaths from antimicrobial resistance – or help identify causes of, factors of and contributors to diseases, especially when combined with genome-wide association studies. for such purposes, electronic medical records could potentially be made available in securely anonymized or pseudonymized forms to ensure patients' privacy is maintained.
+
+contents
+a patient's individual medical record identifies the patient and contains information regarding the patient's case history at a particular provider. the health record as well as any electronically stored variant of the traditional paper files contain proper identification of the patient. further information varies with the individual medical history of the patient.
+the contents are generally written with other healthcare professionals in mind.  this can result in confusion and hurt feelings when patients read these notes.  for example, some abbreviations, such as for shortness of breath, are similar to the abbreviations for profanities, and taking "time out" to follow a surgical safety protocol might be misunderstood as a disciplinary technique for children.
+
+media applied
+traditionally, medical records were written on paper and maintained in folders often divided into sections for each type of note (progress note, order, test results), with new information added to each section chronologically. active records are usually housed at the clinical site, but older records are often archived offsite.
+the advent of electronic medical records has not only changed the format of medical records but has increased accessibility of files. the use of an individual dossier style medical record, where records are kept on each patient by name and illness type originated at the mayo clinic out of a desire to simplify patient tracking and to allow for medical research.maintenance of medical records requires security measures to prevent from unauthorized access or tampering with the records.
+
+medical history
+the medical history is a longitudinal record of what has happened to the patient since birth. it chronicles diseases, major and minor illnesses, as well as growth landmarks. it gives the clinician a feel for what has happened before to the patient. as a result, it may often give clues to current disease state. it includes several subsets detailed below.
+
+surgical history
+the surgical history is a chronicle of surgery performed for the patient. it may have dates of operations, operative reports, and/or the detailed narrative of what the surgeon did.
+obstetric history
+the obstetric history lists prior pregnancies and their outcomes. it also includes any complications of these pregnancies.
+medications and medical allergies
+the medical record may contain a summary of the patient's current and previous medications as well as any medical allergies.
+family history
+the family history lists the health status of immediate family members as well as their causes of death (if known). it may also list diseases common in the family or found only in one sex or the other. it may also include a pedigree chart. it is a valuable asset in predicting some outcomes for the patient.
+social history
+the social history is a chronicle of human interactions. it tells of the relationships of the patient, his/her careers and trainings, and religious training. it is helpful for the physician to know what sorts of community support the patient might expect during a major illness. it may explain the behavior of the patient in relation to illness or loss. it may also give clues as to the cause of an illness (e.g. occupational exposure to asbestos).
+habits
+various habits which impact health, such as tobacco use, alcohol intake, exercise, and diet are chronicled, often as part of the social history. this section may also include more intimate details such as sexual habits and sexual orientation.
+immunization history
+the history of vaccination is included. any blood tests proving immunity will also be included in this section.
+growth chart and developmental history
+for children and teenagers, charts documenting growth as it compares to other children of the same age is included, so that health-care providers can follow the child's growth over time. many diseases and social stresses can affect growth, and longitudinal charting can thus provide a clue to underlying illness. additionally, a child's behavior (such as timing of talking, walking, etc.) as it compares to other children of the same age is documented within the medical record for much the same reasons as growth.
+
+medical encounters
+within the medical record, individual medical encounters are marked by discrete summations of a patient's medical history by a physician, nurse practitioner, or physician assistant and can take several forms. hospital admission documentation (i.e., when a patient requires hospitalization) or consultation by a specialist often take an exhaustive form, detailing the entirety of prior health and health care. routine visits by a provider familiar to the patient, however, may take a shorter form such as the problem-oriented medical record (pomr), which includes a problem list of diagnoses or a "soap" method of documentation for each visit. each encounter will generally contain the aspects below:
+
+chief complaint
+this is the main problem (traditionally called a complaint) that has brought the patient to see the doctor or other clinician. information on the nature and duration of the problem will be explored.
+history of the present illness
+a detailed exploration of the symptoms the patient is experiencing that have caused the patient to seek medical attention.
+physical examination
+the physical examination is the recording of observations of the patient. this includes the vital signs, muscle power and examination of the different organ systems, especially ones that might directly be responsible for the symptoms the patient is experiencing.
+assessment and plan
+the assessment is a written summation of what are the most likely causes of the patient's current set of symptoms. the plan documents the expected course of action to address the symptoms (diagnosis, treatment, etc.).
+
+orders and prescriptions
+written orders by medical providers are included in the medical record. these detail the instructions given to other members of the health care team by the primary providers.
+
+progress notes
+when a patient is hospitalized, daily updates are entered into the medical record documenting clinical changes, new information, etc. these often take the form of a soap note and are entered by all members of the health-care team (doctors, nurses, physical therapists, dietitians, clinical pharmacists, respiratory therapists, etc.). they are kept in chronological order and document the sequence of events leading to the current state of health.
+
+test results
+the results of testing, such as blood tests (e.g., complete blood count) radiology examinations (e.g., x-rays), pathology (e.g., biopsy results), or specialized testing (e.g., pulmonary function testing) are included. often, as in the case of x-rays, a written report of the findings is included in lieu of the actual film.
+
+other information
+many other items are variably kept within the medical record. digital images of the patient, flowsheets from operations/intensive care units, informed consent forms, ekg tracings, outputs from medical devices (such as pacemakers), chemotherapy protocols, and numerous other important pieces of information form part of the record depending on the patient and his or her set of illnesses/treatments.
+
+administrative issues
+medical records are legal documents that can be used as evidence via a subpoena duces tecum, and are thus subject to the laws of the country/state in which they are produced. as such, there is great variability in rules governing production, ownership, accessibility, and destruction. there is some controversy regarding proof verifying the facts, or absence of facts in the record, apart from the medical record itself.in 2009, congress authorized and funded legislation known as the health information technology for economic and clinical health act to stimulate the conversion of paper medical records into electronic charts. while many hospitals and doctor's offices have since done this successfully, electronic health vendors' proprietary systems are sometimes incompatible.
+
+demographics
+demographics include patient information that is not medical in nature. it is often information to locate the patient, including identifying numbers, addresses, and contact numbers. it may contain information about race and religion as well as workplace and type of occupation. it also contains information regarding the patient's health insurance. it is common to also find emergency contact information located in this section of the medical chart.
+
+production
+in the united states, written records must be marked with the date and time and scribed with indelible pens without use of corrective paper. errors in the record should be struck out with a single line (so that the initial entry remains legible) and initialed by the author.
+orders and notes must be signed by the author. electronic versions require an electronic signature.
+
+ownership of patient's record
+ownership and keeping of patient's records varies from country to country.
+
+us law and customs
+in the united states, the data contained within the medical record belongs to the patient, whereas the physical form the data takes belongs to the entity responsible for maintaining the record per the health insurance portability and accountability act. patients have the right to ensure that the information contained in their record is accurate, and can petition their health care provider to amend factually incorrect information in their records.there is no consensus regarding medical record ownership in the united states. factors complicating questions of ownership include the form and source of the information, custody of the information, contract rights, and variation in state law. there is no federal law regarding ownership of medical records. hipaa gives patients the right to access and amend their own records, but it has no language regarding ownership of the records. twenty-eight states and washington, d.c., have no laws that define ownership of medical records. twenty-one states have laws stating that the providers are the owners of the records. only one state, new hampshire, has a law ascribing ownership of medical records to the patient.
+
+canadian law and customs
+under canadian federal law, the patient owns the information contained in a medical record, but the healthcare provider owns the records themselves.  the same is true for both nursing home and dental records.  in cases where the provider is an employee of a clinic or hospital, it is the employer that has ownership of the records.  by law, all providers must keep medical records for a period of 15 years beyond the last entry.the precedent for the law is the 1992 canadian supreme court ruling in mcinerney v macdonald.  in that ruling, an appeal by a physician, dr. elizabeth mcinerney,  challenging a patient's access to their own medical record was denied.  the patient, margaret macdonald, won a court order granting her full access to her own medical record.  the case was complicated by the fact that the records were in electronic form and contained information supplied by other providers.  mcinerney maintained that she didn't have the right to release records she herself did not author.  the courts ruled otherwise. legislation followed, codifying into law the principles of the ruling. it is that legislation which deems providers the owner of medical records, but requires that access to the records be granted to the patient themselves.
+
+uk law and customs
+in the united kingdom, ownership of the nhs's medical records has in the past generally been described as belonging to the secretary of state for health and this is taken by some to mean copyright also belongs to the authorities.
+
+german law and customs
+in germany, a relatively new law, which has been established in 2013, strengthens the rights of patients. it states, amongst other things, the statutory duty of medical personnel to document the treatment of the patient in either hard copy or within the electronic patient record (epr). this documentation must happen in a timely manner and encompass each and every form of treatment the patient receives, as well as other necessary information, such as the patient's case history, diagnoses, findings, treatment results, therapies and their effects, surgical interventions and their effects, as well as informed consents. the information must include virtually everything that is of functional importance for the actual, but also for future treatment. this documentation must also include the medical report and must be archived by the attending physician for at least 10 years. the law clearly states that these records are not only memory aids for the physicians, but also should be kept for the patient and must be presented on request.
+in addition, an electronic health insurance card was issued in january 2014 which is applicable in germany (elektronische gesundheitskarte or egk), but also in the other member states of the european union (european health insurance card). it contains data such as: the name of the health insurance company, the validity period of the card, and personal information about the patient (name, date of birth, sex, address, health insurance number) as well information about the patient's insurance status and additional charges. furthermore, it can contain medical data if agreed to by the patient. this data can include information concerning emergency care, prescriptions, an electronic medical record, and electronic physician's letters. however, due to the limited storage space (32kb), some information is deposited on servers.
+
+accessibility
+united states
+in the united states, the most basic rules governing access to a medical record dictate that only the patient and the health-care providers directly involved in delivering care have the right to view the record. the patient, however, may grant consent for any person or entity to evaluate the record. the full rules regarding access and security for medical records are set forth under the guidelines of the health insurance portability and accountability act (hipaa).
+the rules become more complicated in special situations. a 2018 study found discrepancies in how major hospitals handle record requests, with forms displaying limited information relative to phone conversations.
+capacity
+when a patient does not have capacity (is not legally able) to make decisions regarding his or her own care, a legal guardian is designated (either through next of kin or by action of a court of law if no kin exists). legal guardians have the ability to access the medical record in order to make medical decisions on the patient’s behalf. those without capacity include the comatose, minors (unless emancipated), and patients with incapacitating psychiatric illness or intoxication.
+medical emergency
+in the event of a medical emergency involving a non-communicative patient, consent to access medical records is assumed unless written documentation has been previously drafted (such as an advance directive)
+research, auditing, and evaluation
+individuals involved in medical research, financial or management audits, or program evaluation have access to the medical record. they are not allowed access to any identifying information, however.
+risk of death or harm
+information within the record can be shared with authorities without permission when failure to do so would result in death or harm, either to the patient or to others. information cannot be used, however, to initiate or substantiate a charge unless the previous criteria are met (i.e., information from illicit drug testing cannot be used to bring charges of possession against a patient). this rule was established in the united states supreme court case jaffe v. redmond [1].
+
+canada
+in the 1992 canadian supreme court ruling in mcinerney v. macdonald gave patients the right to copy and examine all information in their medical records, while the records themselves remained the property of the healthcare provider.  the 2004 personal health information protection act (phipa) contains regulatory guidelines to protect the confidentiality of patient information for healthcare organizations acting as stewards of their medical records.  despite legal precedent for access nationwide, there is still some variance in laws depending on the province.  there is also some confusion among providers as to the scope of the patient information they have to give access to, but the language in the supreme court ruling gives patient access rights to their entire record.
+
+united kingdom
+in the united kingdom, the data protection acts and later the freedom of information act 2000 gave patients or their representatives the right to a copy of their record, except where information breaches confidentiality (e.g., information from another family member or where a patient has asked for information not to be disclosed to third parties) or would be harmful to the patient's wellbeing (e.g., some psychiatric assessments). also, the legislation gives patients the right to check for any errors in their record and insist that amendments be made if required.
+
+destruction
+in general, entities in possession of medical records are required to maintain those records for a given period. in the united kingdom, medical records are required for the lifetime of a patient and legally for as long as that complaint action can be brought. generally in the uk, any recorded information should be kept legally for 7 years, but for medical records additional time must be allowed for any child to reach the age of responsibility (20 years). medical records are required many years after a patient's death to investigate illnesses within a community (e.g., industrial or environmental disease or even deaths at the hands of doctors committing murders, as in the harold shipman case).
+
+abuses
+the outsourcing of medical record transcription and storage has the potential to violate patient–physician confidentiality by possibly allowing unaccountable persons access to patient data. with the increase of clinical notes being shared as a result of the 21st century cures act, the increase in sensitive terms used in the records of all patients, including minors, are increasingly shared amongst care teams making privacy more complicated. intersex people have historically had their medical records intentionally falsified/concealed, to hide birth sex, and intersex medical procedures. christiane völling became the first intersex person in europe to successfully sue for medical malpractice.falsification of a medical record by a medical professional is a felony in most united states jurisdictions. governments have often refused to disclose medical records of military personnel who have been used as experimental subjects.
+
+data breaches
+given the series of medical data breaches and the lack of public trust, some countries have enacted laws requiring safeguards to be put in place to protect the security and confidentiality of medical information as it is shared electronically and to give patients some important rights to monitor their medical records and receive notification for loss and unauthorized acquisition of health information. the united states and the eu have imposed mandatory medical data breach notifications.patients' medical information can be shared by a number of people both within the health care industry and beyond. the health insurance portability and accessibility act (hipaa) is a united states federal law pertaining to medical privacy that went into effect in 2003. this law established standards for patient privacy in all 50 states, including the right of patients to access to their own records.  hipaa provides some protection, but does not resolve the issues involving medical records privacy.medical and health care providers experienced 767 security breaches resulting in the compromised confidential health information of 23,625,933 patients during the period of 2006–2012.
+
+privacy
+the federal health insurance portability and accessibility act (hipaa) addresses the issue of privacy by providing medical information handling guidelines. not only is it bound by the code of ethics of its profession (in the case of doctors and nurses), but also by the legislation on data protection and criminal law. professional secrecy applies to practitioners, psychologists, nursing, physiotherapists, occupational therapists, nursing assistants, chiropodists, and administrative personnel, as well as auxiliary hospital staff. the maintenance of the confidentiality and privacy of patients implies first of all in the medical history, which must be adequately guarded, remaining accessible only to the authorized personnel. however, the precepts of privacy must be observed in all fields of hospital life: privacy at the time of the conduct of the anamnesis and physical exploration, the privacy at the time of the information to the relatives, the conversations between healthcare providers in the corridors, maintenance of adequate patient data collection in hospital nursing controls (planks, slates), telephone conversations, open intercoms etc.
+
+see also
+references
+external links
+personal medical records from medlineplus
+american health information management association
+medical record privacy - electronic privacy information center (epic)
+
+organizations dealing with medical records
+astm continuity of care record - a patient health summary standard based upon xml, the ccr can be created, read and interpreted by various ehr or electronic medical record (emr) systems, allowing easy interoperability between otherwise disparate entities.
+american health information management association

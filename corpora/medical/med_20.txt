@@ -1,0 +1,216 @@
+a medical procedure is a course of action intended to achieve a result in the delivery of healthcare.
+a medical procedure with the intention of determining, measuring, or diagnosing a patient condition or parameter is also called a medical test. other common kinds of procedures are therapeutic (i.e., intended to treat, cure, or restore function or structure), such as surgical and physical rehabilitation procedures.
+
+definition
+"an activity directed at or performed on an individual with the object of improving health, treating disease or injury, or making a diagnosis." - international dictionary of medicine and biology
+"the act or conduct of diagnosis, treatment, or operation." - stedman's medical dictionary by thomas lathrop stedman
+"a series of steps by which a desired result is accomplished." - dorland's medical dictionary by william alexander newman dorland
+"the sequence of steps to be followed in establishing some course of action." - mosby's medical, nursing, & allied health dictionary
+
+list of medical procedures
+propaedeutic
+auscultation
+medical inspection (body features)
+palpation
+percussion (medicine)
+vital signs measurement, such as blood pressure, body temperature, or pulse (or heart rate)
+
+diagnostic
+lab tests
+biopsy test
+blood test
+stool test
+urinalysis
+cardiac stress test
+electrocardiography
+electrocorticography
+electroencephalography
+electromyography
+electroneuronography
+electronystagmography
+electrooculography
+electroretinography
+endoluminal capsule monitoring
+endoscopy
+colonoscopy
+colposcopy
+cystoscopy
+gastroscopy
+laparoscopy
+laryngoscopy
+ophthalmoscopy
+otoscopy
+sigmoidoscopy
+esophageal motility study
+evoked potential
+magnetoencephalography
+medical imaging
+angiography
+aortography
+cerebral angiography
+coronary angiography
+lymphangiography
+pulmonary angiography
+ventriculography
+chest photofluorography
+computed tomography
+echocardiography
+electrical impedance tomography
+fluoroscopy
+magnetic resonance imaging
+diffuse optical imaging
+diffusion tensor imaging
+diffusion-weighted imaging
+functional magnetic resonance imaging
+positron emission tomography
+radiography
+scintillography
+spect
+ultrasonography
+contrast-enhanced ultrasound
+gynecologic ultrasonography
+intravascular ultrasound
+obstetric ultrasonography
+thermography
+virtual colonoscopy
+neuroimaging
+posturography
+
+therapeutic
+thrombosis prophylaxis
+precordial thump
+politzerization
+hemodialysis
+hemofiltration
+plasmapheresis
+apheresis
+extracorporeal membrane oxygenation (ecmo)
+cancer immunotherapy
+cancer vaccine
+cervical conization
+chemotherapy
+cytoluminescent therapy
+insulin potentiation therapy
+low-dose chemotherapy
+monoclonal antibody therapy
+photodynamic therapy
+radiation therapy
+targeted therapy
+tracheal intubation
+unsealed source radiotherapy
+virtual reality therapy
+physical therapy/physiotherapy
+speech therapy
+phototerapy
+hydrotherapy
+heat therapy
+shock therapy
+insulin shock therapy
+electroconvulsive therapy
+symptomatic treatment
+fluid replacement therapy
+palliative care
+hyperbaric oxygen therapy
+oxygen therapy
+gene therapy
+enzyme replacement therapy
+intravenous therapy
+phage therapy
+respiratory therapy
+vision therapy
+electrotherapy
+transcutaneous electrical nerve stimulation (tens)
+laser therapy
+combination therapy
+occupational therapy
+immunization
+vaccination
+immunosuppressive therapy
+psychotherapy
+drug therapy
+acupuncture
+antivenom
+magnetic therapy
+craniosacral therapy
+chelation therapy
+hormonal therapy
+hormone replacement therapy
+opiate replacement therapy
+cell therapy
+stem cell treatments
+intubation
+nebulization
+inhalation therapy
+particle therapy
+proton therapy
+fluoride therapy
+cold compression therapy
+animal-assisted therapy
+negative pressure wound therapy
+nicotine replacement therapy
+oral rehydration therapy
+
+surgical
+ablation
+amputation
+biopsy
+cardiopulmonary resuscitation (cpr)
+cryosurgery
+endoscopic surgery
+facial rejuvenation
+general surgery
+hand surgery
+hemilaminectomy
+image-guided surgery
+knee cartilage replacement therapy
+laminectomy
+laparoscopic surgery
+lithotomy
+lithotriptor
+lobotomy
+neovaginoplasty
+radiosurgery
+stereotactic surgery
+radiosurgery
+vaginoplasty
+xenotransplantation
+
+anesthesia
+dissociative anesthesia
+general anesthesia
+local anesthesia
+topical anesthesia (surface)
+epidural (extradural) block
+spinal anesthesia (subarachnoid block)
+regional anesthesia
+
+other
+interventional radiology
+screening (medicine)
+
+see also
+algorithm (medical)
+autopsy
+complication (medicine)
+consensus (medical)
+contraindication
+course (medicine)
+drug interaction
+extracorporeal
+guideline (medical)
+iatrogenesis
+invasive (medical)
+list of surgical instruments
+medical error
+medical prescription
+medical test
+minimally invasive
+nocebo
+non-invasive
+physical examination
+responsible drug use
+surgical instruments
+vital signs
+
+
+== references ==

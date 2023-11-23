@@ -1,0 +1,67 @@
+medical restraints are physical restraints used during certain medical procedures to restrain patients with (supposedly) the minimum of discomfort and pain and to prevent them from injuring themselves or others.
+
+rationale
+there are many kinds of mild, safety-oriented medical restraints which are widely used.  for example, the use of bed rails is routine in many hospitals and other care facilities, as the restraint prevents patients from rolling out of bed accidentally.  newborns frequently wear mittens to prevent accidental scratching.  some wheelchair users use a belt or a tray to keep them from falling out of their wheelchairs.  in fact, not using these kinds of restraints when needed can lead to legal liability for preventable injuries.medical restraints are generally used to prevent people with severe physical or mental disorders from harming themselves or others.  a major goal of most medical restraints is to prevent injuries due to falls. other medical restraints are intended to prevent a harmful behavior, such as hitting people.
+ethically and legally, once a person is restrained, the safety and well-being of the restrained person falls upon the restrainer, appropriate to the type and severity of the restraining method.  for example, a person who is placed in a secured room should be checked at regular intervals for indications of distress. at the other extreme, a person who is rendered semi-conscious by pharmacological (or chemical) sedation should be constantly monitored by a well-trained individual who is dedicated to protecting the restrained person's physical and medical safety.  failure to properly monitor a restrained individual may result in criminal and civil prosecution, depending on jurisdiction.
+although medical restraints, used properly, can help prevent injury, they can also be dangerous. the united states food and drug administration (fda) estimated in 1992 that improper use of restraints results in at least 100 deaths each year, most by strangulation. fda also noted reports of injuries — including broken bones and burns — caused by the improper use of restraints. medical restraints in psychiatric hospitals in japan are sometimes kept on patients for weeks and months, and they are thought to have caused several deaths due to deep vein thrombosis and pulmonary embolism. more information about japanese use of restraints is described in the page on physical restraints.
+because of the potential for abuse, the use of medical restraints is regulated in many jurisdictions. at one time in california, psychiatric restraint was viewed as a treatment. however, with the passing of sb-130, which became law in 2004, the use of psychiatric restraint(s) is no longer viewed as a treatment, but can be used as a behavioral intervention when an individual is in imminent danger of serious harm to self or others.
+
+criticism
+in the u.s. in the late 2010s and into the 2020s (so far), restraint of psychiatric patients and/or people with mental disorders (for all purpose other than very temporarily if another person would be in danger) has come under heavy fire from many professionals (such as those in the therapist neurodiversity collective) and human rights groups (such as alliance against seclusion and restraint, inc. a maryland nonprofit), often when pertaining to restraint being used in mental health institutions and against autistic people such as children in u.s. public schools.
+
+types
+there are many types of medical restraint:
+four-point restraints, fabric body holders, straitjackets are typically only used temporarily during psychiatric emergencies.
+restraint masks to prevent patients from biting in retaliation to medical authority in situations where a patient is known to be violent.
+lap and wheelchair belts, or trays that clip across the front of a wheelchair so that the user can't fall out easily, may be used regularly by patients with neurological disorders which affect balance and movement.
+all four side rails being in the upright position on a bed can be considered a restraint.
+safety vests and jackets can be placed on a patient like any other vest garment. they typically have a long strap at each end that can be tied behind a chair or to the sides of a bed to prevent injury or to settle patients for satisfying basic needs such as eating and sleeping. posey vests are commonly used with elderly patients who are at risk of serious injury from falling.
+limb restraints to prevent unwanted activity in various limbs. they are wrapped around the wrists or ankles, and tied to the side of a bed, to prevent self-harm and harm to medical staff. handcuffs are an example of a limb restraint.
+mittens to prevent scratching are common for newborns, but may also be used on psychiatric patients or patients who manage to use their hands to undo limb restraints.
+a papoose board can be used for babies and young children.
+chemical restraints are drugs that are administered to restrict the freedom of movement or to sedate a patient.
+holding the patient's arms down on to chair arms from behind so that another person can force-feed the person, often a child, during aba.
+
+manual techniques
+a number of private national and regional companies teach physical (non-mechanical) restraint techniques for companies and agencies that care for or have custody of people who might become aggressive. the strategies vary widely, with many based on police or martial art pain compliance techniques, with others using only pain-free techniques. most also emphasize verbal de-escalation and defusing skills before using any physical skills. a non-inclusive list:
+
+crisis consultant group (ccg) non-violent physical technique.
+the mandt system.
+non abusive psychological and physical intervention (nappi).
+non-violent crisis intervention (nvci) techniques.
+professional crisis management (pcm).
+professional assault crisis training (proact).
+therapeutic crisis intervention (tci).
+
+adverse effects
+throughout the last decade or so, there has been an increasing amount of evidence and literature supporting the idea of a restraint free environment due to their contradictory and dangerous effects. this is due to the adverse outcomes associated with restraint use, which include: falls and injuries, incontinence, circulation impairment, agitation, social isolation, and even death.
+in a 2017 the guardian article:"if you are a woman who has been sexually or physically abused, and mental health problems in women often have close links to violence and abuse, then a safer environment has to be just that: safe and not a re-traumatising experience. (...) face-down restraint hurts, it is dangerous, and there are some big questions around why it is used more on women than men."  as of 2021 research is still on-going as to how much restraint an cause and/or exacerbate ptsd for the person being restrained. in a systematic review in 2020:"estimation of post-traumatic stress disorder incidence after intervention varies from 25% to 47% and, thus, is not negligible, especially for patients with past traumatic experiences. subjective perception has high interindividual variability, mostly associated with negative emotions".research is also ongoing into the adverse mental health effects on the health workers doing the restraint.
+
+applicable laws
+united states
+current united states law requires that most involuntary medical restraints may only be used when ordered by a physician. such a physician's order, which is subject to renewal upon expiration if necessary, is valid only for a maximum of 24 hours.
+
+japan
+japanese law states that psychiatric hospitals may use restraints on patients only if there is a danger that the patients will harm themselves or others. the law also states that a designated psychiatrist must approve the use of restraints and examine the patient at least every 12 hours to determine whether the situation has changed and the patient should be removed from restraints.
+however, in practice, japanese psychiatric hospitals use restraints fairly often and for long periods.  despite being required to certify every 12 hours whether a patient still needs restraints, japanese psychiatric hospitals keep patients in restraints for a much longer time than hospitals in other countries. according to a survey conducted on 689 patients in 11 psychiatric hospitals in japan, the average time spent in physical restraints is 96 days.
+meanwhile, the average time in most other developed countries is at most several hours to tens of hours.
+the number of people who are physically restrained in japanese psychiatric hospitals continues to increase. in 2014 more than 10,000 people were restrained-the highest ever recorded, and more than double the number a decade earlier. it is thought that some of that increase includes older patients with dementia.  as a result, the japanese ministry of health has revised its guidelines for elderly people in nursing homes to have more restrictions against body restraints. the changes took effect on 1 april 2018.
+
+united kingdom
+the millfields charter is an electronic charter which promotes an end to the teaching to frontline healthcare staff of all prone (face down) restraint holds. in june 2013 the uk government announced that it was considering a ban on the use of face-down restraint in english mental health hospitals.face down restraints are used more often on women and girls than on men. 51 out of 58 mental health trusts use restraints unnecessarily when other techniques would work. organisations opposed to restraints include mind and rethink mental illness. youngminds and agenda claim restraints are "frightening and humiliating" and "re-traumatises" patients especially women and girls who have previously been survivors of physical or sexual abuse.  the charities sent an open letter to health secretary, jeremy hunt showing evidence from 'agenda, the alliance for women and girls at risk', revealing that patients are routinely restrained in some mental health units while others use non-physical ways to calm patients or stop self-harm.  according to the letter over half of women with psychiatric problems have suffered abuse, restraint can cause physical harm, frighten and humiliate the victim.  restraint, specially face down restraint can re-traumatise patients who previously suffered violence and abuse. "mental health units are meant to be caring, therapeutic environments, for people feeling at their most vulnerable, not places where physical force is routine."
+government guidelines state that face down restraint should not be used at all and other types of physical restraint are only for last resort.  research by agenda found one fifth of women and girl patients in mental health units had been physically restrained. some trusts averaged over twelve face down restraints per female patient.  over 6% of women, close to 2,000 were restrained face-down in total more than 4,000 times. the figures vary widely between regions.
+some trusts hardly use restraints, others use them routinely.  a female patient was in several hospitals and units at times for a decade with mental health issues, she said in some units she was  restrained two or three times daily. katharine sacks-jones director of agenda, maintains trusts use restraint when alternatives would work.  sacks-jones maintains women her group speak to repeatedly describe face down restraint as a traumatic experience.  on occasions male nurses have used it when a woman did not want her medication. "if you are a woman who has been sexually or physically abused, and mental health problems in women often have close links to violence and abuse, then a safer environment has to be just that: safe and not a re-traumatising experience. (...) face-down restraint hurts, it is dangerous, and there are some big questions around why it is used more on women than men."  the use of restraints in uk psychiatric facilities is increasing."
+
+prevention
+given the lack of evidence for the effectiveness and the potential harms associated with the use of physical restraints in many settings, efforts to safely decrease their use may be justified. for older people who are hospitalized, approaches to reduce or eliminate physical restraints such as the use of bedrails, belts in chairs, and fixed tables may include pressure sensor bed or chair alarms, however there is no strong evidence that these types of prevention approaches are effective at decreasing reliance on physical restraints.
+
+see also
+sedation
+locking clothing
+restraint chair
+spit hood
+
+references
+
+
+== external links ==

@@ -1,0 +1,40 @@
+a medical emergency is an acute injury or illness that poses an immediate risk to a person's life or long-term health, sometimes referred to as a situation risking "life or limb". these emergencies may require assistance from another, qualified person, as some of these emergencies, such as cardiovascular (heart), respiratory, and gastrointestinal cannot be dealt with by the victim themselves. dependent on the severity of the emergency, and the quality of any treatment given, it may require the involvement of multiple levels of care, from first aiders through emergency medical technicians, paramedics, emergency physicians and anesthesiologists.
+any response to an emergency medical situation will depend strongly on the situation, the patient involved, and availability of resources to help them. it will also vary depending on whether the emergency occurs whilst in hospital under medical care, or outside medical care (for instance, in the street or alone at home).
+
+response
+summoning emergency services
+for emergencies starting outside medical care, a key component of providing proper care is to summon the emergency medical services (usually an ambulance), by calling for help using the appropriate local emergency telephone number, such as 999, 911, 111, 112 or 000. after determining that the incident is a medical emergency (as opposed to, for example, a police call), the emergency dispatchers will generally run through a questioning system such as ampds in order to assess the priority level of the call, along with the caller's name and location.
+
+first aid and assisting emergency services
+those who are trained to perform first aid can act within the bounds of the knowledge they have, whilst awaiting the next level of definitive care.
+those who are not able to perform first aid can also assist by remaining calm and staying with the injured or ill person. a common complaint of emergency service personnel is the propensity of people to crowd around the scene of a victim, as it is generally unhelpful, making the patient more stressed, and obstructing the smooth working of the emergency services. if possible, first responders should designate a specific person to ensure that the emergency services are called. another bystander should be sent to wait for their arrival and direct them to the proper location. additional bystanders can be helpful in ensuring that crowds are moved away from the ill or injured patient, allowing the responder adequate space to work.
+
+legal protections for responders
+to prevent the delay of life-saving aid from bystanders, many states of the usa have "good samaritan laws" which protect civilian responders who choose to assist in an emergency. in many situations, the general public may delay giving care due to fear of liability should they accidentally cause harm.  good samaritan laws often protect responders who act within the scope of their knowledge and training, as a "reasonable person" in the same situation would act.
+the concept of implied consent can protect first responders in emergency situations.  a first responder may not legally touch a patient without the patient's consent.  however, consent may be either expressed or implied:
+if a patient is able to make decisions, they must give expressed, informed consent before aid is given.
+however, if a patient is too injured or ill to make decisions – for example, if they are unconscious, have an altered mental status, or cannot communicate - implied consent applies.  implied consent means that treatment can be given, because it is assumed that the patient would want that care.usually, once care has begun, a first responder or first aid provider may not leave the patient or terminate care until a responder of equal or higher training (such as an emergency medical technician) assumes care. this can constitute abandonment of the patient and may subject the responder to legal liability. care must be continued until the patient is transferred to a higher level of care; the situation becomes too unsafe to continue; or the responder is physically unable to continue due to exhaustion or hazards.
+unless the situation is particularly hazardous and is likely to further endanger the patient, evacuating an injured victim requires special skills, and should be left to the professionals of the emergency medical and fire service.
+
+the chain of survival
+the principles of the chain of survival apply to medical emergencies where the patient is not breathing and has no pulse. this involves four stages:
+
+early access
+early cardiopulmonary resuscitation (cpr)
+early defibrillation
+early advanced life support (als)
+
+clinical response
+within hospital settings, an adequate staff is generally present to deal with the average emergency situation. emergency medicine physicians and anaesthesiologists have training to deal with most medical emergencies, and maintain cpr and advanced cardiac life support (acls) certifications. in disasters or complex emergencies, most hospitals have protocols to summon on-site and off-site staff rapidly.
+both emergency department and inpatient medical emergencies follow the basic protocol of advanced cardiac life support. irrespective of the nature of the emergency, adequate blood pressure and oxygenation are required before the cause of the emergency can be eliminated. possible exceptions include the clamping of arteries in severe hemorrhage.
+
+non-trauma emergencies
+while the golden hour is a trauma treatment concept, two emergency medical conditions have well-documented time-critical treatment considerations: stroke and myocardial infarction (heart attack). in the case of stroke, there is a window of three hours within which the benefit of thrombolytic drugs outweighs the risk of major bleeding. in the case of a heart attack, rapid stabilization of fatal arrhythmias can prevent sudden cardiac arrest. in addition, there is a direct relationship between time-to-treatment and the success of reperfusion (restoration of blood flow to the heart), including a time-dependent reduction in the mortality and morbidity.
+
+see also
+list of medical emergencies
+rescue squad
+surgical emergency
+
+
+== references ==

@@ -1,0 +1,150 @@
+a medical classification is used to transform descriptions of medical diagnoses or procedures into standardized statistical code in a process known as clinical coding. diagnosis classifications list diagnosis codes, which are used to track diseases and other health conditions, inclusive of chronic diseases such as diabetes mellitus and heart disease, and infectious diseases such as norovirus, the flu, and athlete's foot. procedure classifications list procedure code, which are used to capture interventional data. these diagnosis and procedure codes are used by health care providers, government health programs, private health insurance companies, workers' compensation carriers, software developers, and others for a variety of applications in medicine, public health and medical informatics, including:
+
+statistical analysis of diseases and therapeutic actions
+reimbursement (e.g., to process claims in medical billing based on diagnosis-related groups)
+knowledge-based and decision support systems
+direct surveillance of epidemic or pandemic outbreaksthere are country specific standards and international classification systems.
+
+classification types
+many different medical classifications exist, though they occur into two main groupings: statistical classifications and nomenclatures.
+a statistical classification brings together similar clinical concepts and groups them into categories. the number of categories is limited so that the classification does not become too big. an example of this is used by the international statistical classification of diseases and related health problems (known as icd). icd-10 groups diseases of the circulatory system into one "chapter," known as chapter ix, covering codes i00–i99. one of the codes in this chapter (i47.1) has the code title (rubric) supraventricular tachycardia. however, there are several other clinical concepts that are also classified here. among them are paroxysmal atrial tachycardia, paroxysmal junctional tachycardia, auricular tachycardia and nodal tachycardia.
+another feature of statistical classifications is the provision of residual categories for "other" and "unspecified" conditions that do not have a specific category in the particular classification.
+in a nomenclature there is a separate listing and code for every clinical concept. so, in the previous example, each of the tachycardia listed would have its own code. this makes nomenclatures unwieldy for compiling health statistics.
+types of coding systems specific to health care include:
+
+diagnostic codes
+are used to determine diseases, disorders, and symptoms
+can be used to measure morbidity and mortality
+examples: icd-9-cm, icd-10, icd-11
+procedural codes
+they are numbers or alphanumeric codes used to identify specific health interventions taken by medical professionals.
+examples: cpt, hcpcs, icpm, ichi
+pharmaceutical codes
+are used to identify medications
+examples: atc, ndc, icd-11
+topographical codes
+are codes that indicate a specific location in the body
+examples :icd-o, snomed, icd-11
+
+who family of international classifications
+the world health organization (who) maintains several internationally endorsed classifications designed to facilitate the comparison of health related data within and across populations and over time as well as the compilation of nationally consistent data. this "family of international classifications" (fic) include three main (or reference) classifications on basic parameters of health prepared by the organization and approved by the world health assembly for international use, as well as a number of derived and related classifications providing additional details. some of these international standards have been revised and adapted by various countries for national use.
+
+reference classifications
+international statistical classification of diseases and related health problems (icd)icd-10 (10th revision, in use by who since 1994)
+icd-11 (11th revision)
+international classification of functioning, disability and health (icf)
+international classification of health interventions (ichi)
+
+derived classifications
+derived classifications are based on the who reference classifications (i.e. icd and icf). they include the following:
+
+international classification of diseases for oncology, third edition (icd-o-3)
+the icd-10 classification of mental and behavioural disorders – this publication deals exclusively with chapter v of icd-10, and is available as two variants;
+clinical descriptions and diagnostic guidelines, also known as the blue book.
+diagnostic criteria for research, also known as the green book.
+application of the international classification of diseases to dentistry and stomatology, 3rd edition (icd-da)
+application of the international classification of diseases to neurology (icd-10-na)
+eurocat is an extension of the icd-10 chapter xvii, which covers congenital disorders.
+
+national versions
+several countries have developed their own version of who-fic publications, which go beyond a local language translation. many of these are based on the icd:
+
+icd-9-cm was the us' adaptation of icd-9 and was maintained for use until september 2015. starting on october 1, 2015, the centers for medicare and medicaid services (cmms) granted physicians a one-year grace period to begin using icd-10-cm, or they would be denied medicare part b claims.
+icd-10-cm was developed by the us' centers for medicare and medicaid services (cms) and the national center for health statistics (nchs), and has been in use in the us since october 2015 – replacing icd-9-cm.
+icd-10-am was published by australia's national centre for classification in health in 1998 and has since been adopted by a number of other countries.
+
+related classifications
+related classifications in the who-fic are those that partially refer to the reference classifications, e.g. only at specific levels. they include:
+
+international classification of primary care (icpc)icpc-2 plus
+anatomical therapeutic chemical classification system with defined daily doses (atc/ddd)
+assistive products — classification and terminology (iso 9999:2022). who adopted iso 9999 as a related classification in 2003, however, the international organization for standardization (iso) remains responsible for maintaining iso 9999.
+international classification for nursing practice (icnp)
+
+historic fic classifications
+icd versions before icd-9 are not in use anywhere. icd-9 was published in 1977, and superseded by icd-10 in 1994. the last version of icd-10 was published in 2019, and it was replaced by icd-11 on 1 january 2022. as of february 2022, 35 of the 194 member states have made the transition to the latest version of the icd.the international classification of procedures in medicine (icpm) is a procedural classification that has not updated since 1989, and will be replaced by ichi. national adaptions of the icpm includes ops-301, which is the official german procedural classification.international classification of external causes of injury (iceci) was last updated in 2003 and, with the development icd-11, is no longer maintained. the concepts of iceci are represented within icd-11 as extension codes.
+
+other medical classifications
+diagnosis
+the categories in a diagnosis classification classify diseases, disorders, symptoms and medical signs. in addition to the icd and its national variants, they include:
+
+diagnostic and statistical manual of mental disorders (dsm)
+dsm-iv codes
+dsm-5
+international classification of headache disorders 2nd edition (ichd-ii)
+international classification of sleep disorders (icsd)
+online mendelian inheritance in man, database of genetic codes
+orchard sports injury and illness classification system (osiics)
+read codes
+snomed ct
+
+procedure
+the categories in a procedure classification classify specific health interventions undertaken by health professionals. in addition to the ichi and icpc, they include:
+
+australian classification of health interventions (achi)
+canadian classification of health interventions (cci)
+current procedural terminology (cpt)
+health care procedure coding system (hcpcs)
+icd-10 procedure coding system (icd-10-pcs)
+opcs classification of interventions and procedures (opcs-4)
+
+drugs
+drugs are often grouped into drug classes. such classifications include:
+
+rxnorm
+anatomical therapeutic chemical classification system
+medical reference terminology
+national pharmaceutical product index
+
+national drug file-reference terminology (ndf-rt)
+national drug file-reference terminology was a terminology maintained by the veterans health administration (vha). it groups drug concepts into classes. it was part of rxnorm until march 2018.
+
+medication reference terminology (med-rt)
+medication reference terminology (med-rt) is a terminology created and maintained by veterans health administration in the united states. in 2018, it replaced ndf-rt that was used during 2005–2017. med-rt is not included in rxnorm but is included in national library of medicine's umls metathesaurus. prior 2017, ndf-rt was included in rxnorm. the first release of med-rt was in the spring of 2018.the united states food and drug administration requires in its manual of policies and procedures (mapp) 7400.13 dated july 18, 2013 and updated on july 25, 2018, that med-rt be used for selecting an established pharmacologic class (epc) for the highlights of prescribing information in drug labeling.  each epc text phrase is associated with a term known as an epc concept.  epc concepts use a standardized format derived from the u.s. department of veterans affairs, veterans health administration (vha) medication reference terminology (med-rt).  each epc concept also has a unique standardized alphanumeric identifier code, used as the machine-readable tag for the concept.  these codes enable spl indexing.  the exact epc text phrase used in indications and usage in highlights might not be identical to the wording used to describe the epc concept, because the standardized language used for the epc concept might not be considered sufficiently clear to the readers of the labeling. each active moiety also may be assigned moa, pe, and cs standardized indexing concepts, which are also linked to unique standardized alphanumeric identifier codes.  moa, pe, and cs standardized indexing concepts may or may not be related to the therapeutic effect of the active moiety for a particular indication, but they should still be scientifically valid and clinically meaningful.  even if the moa, pe, and cs standardized indexing concepts are not known with certainty to be related to the therapeutic effect, they may still be useful for identifying drug interactions and permitting other safety assessments for a moiety based upon appropriate and relevant considerations, such as enzyme inhibition and enzyme induction.  moa, pe, and cs concepts are maintained in a standardized format as part of the med-rt hierarchy. https://www.fda.gov/media/86437/download
+the united states food and drug administration study data technical conformance guide dated july 2020 states, "6.5 pharmacologic class 6.5.1 medication reference terminology 6.5.1.1 general considerations the veterans administration's medication reference terminology (med-rt) should be used to identify the pharmacologic class(es) of all active investigational substances that are used in a study (either clinical or nonclinical). this information should be provided in the sdtm ts domain when a full ts is indicated. the information should be provided as one or more records in ts, where tsparmcd= pclas. pharmacologic class is a complex concept that is made up of one or more component concepts: mechanism of action (moa), physiologic effect (pe), and chemical structure (cs).51 the established pharmacologic class is generally the moa, pe, or cs term that is considered the most scientifically valid and clinically meaningful. sponsors should include in ts (the full ts) the established pharmacologic class of all active moieties of investigational products used in a study. fda maintains a list of established pharmacologic classes of approved moieties.52 if the established pharmacologic class is not available for an active moiety, then the sponsor should discuss the appropriate moa, pe, and cs terms with the review division. for unapproved investigational active moieties where the pharmacologic class is unknown, the pclas record may not be available." https://www.fda.gov/media/136460/download
+the united states food and drug administration publishes a data standards catalog that lists the data standards and terminologies that fda supports for use in regulatory submissions to better enable the evaluation of safety, effectiveness, and quality of fda-regulated products.  in addition, the fda has the statutory and regulatory authority to require certain standards and terminologies and these are identified in the catalog with the date the requirement begins and, as needed, the date the requirement ends, and information sources. the submission of data using standards or terminologies not listed in the catalog should be discussed with the agency in advance. where the catalog expresses support for more than one standard or terminology for a specific use, the sponsor or applicant may select one to use or can discuss, as appropriate, with their review division.  version 7.0 of the fda data standards catalog dated 03-15-2021, specifies that med-rt was a required terminology by the white house consolidated health informatics initiative in various federal register notices beginning as early as may 6, 2004, for ndas, andas, and certain blas beginning on december 17, 2016, and for certain ind's beginning on december 17, 2017. https://www.fda.gov/media/85137/download
+
+medical devices
+global medical device nomenclature (gmdn), the standard international naming system for medical devices.
+
+other
+classification of pharmaco-therapeutic referrals (cpr)
+logical observation identifiers names and codes (loinc), standard for identifying medical laboratory observations
+medcin, point-of-care terminology, intended for use in electronic health record (ehr) systems
+medical dictionary for regulatory activities (meddra)
+medical subject headings (mesh)
+list of mesh codes
+nursing interventions classification (nic)
+nursing outcomes classification (noc)
+time-item, ontology of topics in medical education
+tnm classification of malignant tumors
+unified medical language system (umls)
+victoria ambulatory coding system (vacs) / queensland ambulatory coding system (qacs), australia
+
+library classification that have medical components
+dewey decimal classification and universal decimal classification (section 610–620)
+national library of medicine classification
+
+icd, snomed and electronic health record (ehr)
+snomed
+the systematized nomenclature of medicine (snomed) is the most widely recognised nomenclature in healthcare. its current version, snomed clinical terms (snomed ct), is intended to provide a set of concepts and relationships that offers a common reference point for comparison and aggregation of data about the health care process. snomed ct is often described as a reference terminology. snomed ct contains more than 311,000 active concepts with unique meanings and formal logic-based definitions organised into hierarchies. snomed ct can be used by anyone with an affiliate license, 40 low income countries defined by the world bank or qualifying research, humanitarian and charitable projects. snomed ct is designed to be managed by computer, and it is a complex relationship concepts.
+
+icd
+the international classification of disease (icd) is the most widely recognized medical classification. maintained by the world health organization (who), its primary purpose is to categorise diseases for morbidity and mortality reporting. however the coded data is often used for other purposes too; including reimbursement practices such as medical billing. icd has a hierarchical structure, and coding in this context, is the term applied when representations are assigned to the words they represent. coding diagnoses and procedures is the assignment of codes from a code set that follows the rules of the underlying classification or other coding guidelines. the current version of the icd, icd-10, was endorsed by who in 1990. who member states began using the icd-10 classification system from 1994 for both morbidity and mortality reporting. the exception was the us, who only began using it for reporting mortality in 1999 whilst continuing to use icd-9-cm for morbidity reporting. the us only adopted its version of icd-10 in october 2015. the delay meant it was unable to compare us morbidity data with the rest of the world during this period. the next major version of the icd, icd-11, was ratified by the 72nd world health assembly on 25 may 2019, and member countries have been able to report data using icd-11 codes since 1 january 2022.icd-11 is a fully digital product with integration of clinical terminology and classification. it allows documentation at any level of detail. it includes extension codes, a terminology system, with medicaments, chemicals, infections agents, histopathology, anatomy and mechanisms, objects and animals, and other elements that serve to describe sources of injury or harm.
+
+comparison
+snomed ct and icd were originally designed for different purposes and each should be used for the purposes for which they were designed. as a core terminology for the ehr, snomed ct and icd-11 provide a common language that enables a consistent way of capturing, and sharing health data across specialities and sites of care. snomed is a highly detailed terminology designed for input not reporting, without a specific use case. icd-11 and snomed, are clinically based, and document whatever is needed for patient care. in contrast to snomed, icd-11 allows full clinical documentation while permitting internationally agreed statistical aggregation for specific use cases. the foundation of icd-11 together with the who classification of health interventions (ichi) and the who classification for functioning, disability and health (icf), comprising also the who lists of anatomy, substances and more, are a complete ecosystem for lossless documentation in digital records and at the same time they address specific usecases for data aggregation in a multilingual, freely usable way. snomed ct and icd are used directly by healthcare providers during the process of care, in addition, icd can be also used for coding after the episode of care, in lower technology environments. snomed ct has multiple hierarchy, whereas there is single primary hierarchy for icd-11 with alternative multiple hierarchies. snomed ct concepts are defined logically by their attributes, as is the case in icd-11, that in addition has textual rules and definitions.
+
+data mapping
+snomed and icd can be coordinated. the national library of medicine (nlm) maps icd-9-cm, icd-10-cm, icd-10-pcs, and other classification systems to snomed. data mapping is the process of identifying relationships between two distinct data models.
+
+veterinary medical coding
+veterinary medical codes include the venom coding group, the u.s. animal hospital codes, and the veterinary extension to snomed ct (vetsct).
+
+see also
+references
+external links
+
+who family of international classifications official site
+medical terminologies at the national library of medicine
+the international health terminology standards development organisation – snomed ct

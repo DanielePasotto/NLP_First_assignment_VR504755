@@ -1,0 +1,48 @@
+this is a list of roots, suffixes, and prefixes used in medical terminology, their meanings, and their etymologies. most of them are combining forms in neo-latin and hence international scientific vocabulary. there are a few general rules about how they combine. first, prefixes and suffixes, most of which are derived from ancient greek or classical latin, have a droppable vowel, usually -o-. as a general rule, this vowel almost always acts as a joint-stem to connect two consonantal roots (e.g. arthr- + -o- + -logy = arthrology), but generally, the -o- is dropped when connecting to a vowel-stem (e.g. arthr- + -itis = arthritis, instead of arthr-o-itis). second, medical roots generally go together according to language, i.e., greek prefixes occur with greek suffixes and latin prefixes with latin suffixes. although international scientific vocabulary is not stringent about segregating combining forms of different languages, it is advisable when coining new words not to mix different lingual roots.
+
+prefixes and suffixes
+the following is an alphabetical list of medical prefixes and suffixes, along with their meanings, origins, and english examples.
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j–k
+l
+m
+n
+o
+p
+q–r
+s
+t
+u
+v
+x–z
+english meanings
+this section contains lists of different root classification (e.g. body components, quantity, description, etc.). each list is alphabetized by english meanings, with the corresponding greek and latin roots given.
+
+roots of the body
+roots of bodily concepts
+body parts and substances
+roots of color
+roots of description
+roots of position
+prefixes of quantity or amount
+see also
+glossary of medicine
+classical compound
+international scientific vocabulary
+list of medical abbreviations
+medical dictionary
+medicine
+list of commonly used taxonomic affixes
+
+references
+external links
+"root words & prefixes: quick reference." learnthatword. n.p., n.d. web. 3 march 2013.

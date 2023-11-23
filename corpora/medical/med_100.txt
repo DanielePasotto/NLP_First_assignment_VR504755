@@ -1,0 +1,15 @@
+in a medical facility, such as a hospital or clinic, a gantry holds radiation detectors and/or a radiation source used to diagnose or treat a patient's illness.  radiation sources may produce gamma radiation, x-rays, electromagnetic radiation, or magnetic fields depending on the purpose of the device.
+
+ct scanner
+the gantry of a computed tomography scanner (ct) is a ring or cylinder, into which a patient is placed.  the x-ray tube and x-ray detector spin rapidly in the gantry, as the patient is moved in and out of the gantry.  the ct scanner produces 3-dimensional x-ray images of the patient.
+
+nuclear magnetic resonance imaging
+an mri gantry remains fixed, and contains cryogenically cooled superconducting electromagnets and radio transmitters that flip protons in hydrogen atoms in the human body via proton nuclear magnetic resonance.  the machine then listens and processes the signals given off by the hydrogen atoms as the protons flip back in order to produce a 3d image of the interior of the patient's body.
+
+radiation therapy
+the gantry of an external beam radiotherapy machine moves a radiation source around a patient.  a linear accelerator (linac) is built into the top part of the gantry in the photo at the right.  the rectangular screen on the right side of the gantry is a cone beam x-ray detector, which is used to help position a patient prior to treatment.
+the gantry is supported by a drive stand, which rotates the gantry on a fixed horizontal axis as the linac revolves around a patient.  a klystron in the drive stand behind the gantry supplies radio frequency energy to the linac.  the linac accelerates a pencil size beam of electrons horizontally.  after leaving the linac, the electrons are deflected and focussed downward by magnets, causing the electrons to strike tungsten target.  the target stops the electrons, and the sudden deceleration results in bremsstrahlung radiation of x-rays.
+the photo below is of a different gantry rotated to about 45°.  the apparatus attached to the left side of the gantry is a cone beam x-ray source, with the x-ray detector on the right side.  prior to treatment, the cone beam x-ray system is used to align the patient's tumor with the radiation. 
+
+
+== references ==

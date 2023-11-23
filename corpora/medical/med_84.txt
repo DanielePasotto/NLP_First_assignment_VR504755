@@ -1,0 +1,83 @@
+medical torture describes the involvement of, or sometimes instigation by, medical personnel in acts of torture, either to judge what victims can endure, to apply treatments which will enhance torture, or as torturers in their own right. medical torture overlaps with medical interrogation if it involves the use of professional medical expertise to facilitate interrogation or corporal punishment, in the conduct of torturous human experimentation or in providing professional medical sanction and approval for the torture of prisoners. medical torture also covers torturous scientific (or pseudoscientific) experimentation upon unwilling human subjects.
+
+medical ethics and international law
+medical torture fundamentally violates medical ethics, which all medical practitioners are expected to adhere to.
+
+the hippocratic oath makes explicit statements against deliberate harm not in the patient's best interests. these statements are often translated as "i will prescribe regimens for the good of my patients according to my ability and my judgment" and "to never deliberately do harm to anyone, for anyone else's interest." (note: these statements are formulations of the ethical principles of beneficence and non-maleficence.)
+in response to the nazi human experimentation on prisoners during world war ii, which were declared at the post-world war ii nuremberg trials to be "crimes against humanity", the world medical association developed the declaration of geneva to supplant the dated hippocratic oath. the declaration of geneva requires medical practitioners to state "[i, the medical practitioner] will maintain the utmost respect for human life from its beginning even under threat and i will not use my medical knowledge contrary to the laws of humanity."
+the nuremberg trials also led to the emergence of the nuremberg code which explicitly outlines the boundaries of acceptable medical experimentation.
+additionally in response to the nazi atrocities, the geneva conventions of 1949 outright prohibits the torture of prisoners of war and other protected non-combatants.
+the world medical association declaration of tokyo (1975) makes a number of specific statements against torture, including "the doctor shall not countenance, condone or participate in the practice of torture".
+also the un convention against torture, which applies to medical personnel in addition to law enforcement officers, military personnel, politicians, and other persons acting in an official capacity, prohibits the use of torture under any circumstance. under article 2(2) of the convention, it states that "no exceptional circumstances whatsoever, whether a state of war or a threat of war, internal political instability or any other public emergency, may be invoked as a justification of torture."
+the un principles of medical ethics relevant to the role of health personnel, particularly physicians, in the protection of prisoners and detainees against torture and other cruel, inhuman or degrading treatment or punishment (un.1982) applies specifically to medical and other health workers but it has no implementation mechanism to ensure enforcement. it is up to state, provincial, and national bodies to enforce the standards in the document.
+the development of command responsibility established criminal liability for all people, including physicians, involved in crimes against humanity.there remain gaps in regulation relating to medical torture in many countries. a higher standard of behaviour is expected of health professionals yet the un principles of medical ethics are not enforceable when governments are complicit in violations. this higher standard is reflected in the principles of beneficence, non-maleficence (above all do no harm), autonomy, justice, dignity and informed consent and these are not covered comprehensively by the un convention against torture.
+
+examples
+between 1937 and 1945, japanese medical personnel who were part of unit 731 participated in the torture and murder of as many as 10,000 chinese, russian, korean, american and other prisoners as well as allied pows during the second sino-japanese war.
+during world war ii, inmates in nazi concentration camps were subjected to medical experiments. josef mengele was the most notorious perpetrator, earning him the nickname "angel of death". some doctors also ensured that inmates were painfully executed. for example, hermann fischer-hüllstrung, who played a role in executing notable inmates such as dietrich bonhoeffer, "had the job of reviving political prisoners after they had been hanged until they were almost dead, in order to prolong the agony of their dying."
+between 1970 and 1971, mentally disorienting interrogation techniques were used against interned prisoners captured in northern ireland, including white noise. the irish government complained to the european commission for human rights, who found britain guilty of torture; however the higher european court of human rights ruled that the british government's actions were "inhuman and degrading but did not constitute torture".
+in soviet mental hospitals used to hold political prisoners, very unpleasant medications were given to these "patients" as a means of punishment.  a psychiatric diagnosis was devised to describe people who oppose government policies.
+in 1978, "pisaot menuh" ("human experiments") were performed on seventeen political prisoners held at the infamous prison tuol sleng in phnom penh under the khmer rouge.
+a study called "the aversion project" found that gay conscripts in the south african defence forces (sadf) during the apartheid era had been forced to submit to "curing" their homosexuality, both by electroshock therapies and by botched sex changes.
+there have been numerous claims that electroconvulsive therapy and prefrontal lobotomies and similar psychiatric treatments have sometimes been performed not in the patient's best interests, but rather as punishment for misbehaviour or to otherwise make the patient easier to manage. a classic example of this is the lake alice, new zealand atrocity which occurred in the early 1970s. children admitted to the lake alice hospital's open child and adolescent unit were routinely punished with unmodified ect (that is, ect without anesthesia). some governments (e.g. norway and new zealand) have since begun paying reparations to patients who suffered such treatments. the world health organization has called for a ban on unmodified ect, and states no form of it should be used on children.
+in 2016, a group consisting of 71 british medical doctors urged that israel's membership in the world medical association should be revoked, alleging that israeli doctors performed state-endorsed "medical torture" on palestinians. however, no official motion for expulsion was ever filed, nor were these allegations upheld by the world medical association.
+
+purported medical or professional complicity
+according to the center for constitutional rights' when healers harm campaign, health professionals were complicit in the torture and abuse of detainees during u.s. president george w. bush's "war on terror".  health professionals, including medical doctors, psychiatrists, medical examiners, psychologists, and nurses, have been implicated in the torture and abuse of prisoners in cia secret prisons and military detention centers, such as those in guantánamo, afghanistan, and iraq.
+health professionals are accused of:
+
+crafting abusive tactics and falsely legitimizing their use;
+advised interrogators on methods of abuse that would exploit prisoners’ vulnerabilities;
+using medical procedures to harm prisoners;
+gauging pain and monitoring interrogations that risked leaving prisoners in need of treatment;
+checking prisoners to certify that they were capable of surviving additional abuse;
+conditioning medical or mental health treatment on cooperation with interrogation;
+sharing confidential patient information that was used to harm patients;
+covering up evidence of torture and abuse; and
+turning a blind eye to cruel treatment.to date, no state licensing boards or professional associations have investigated – or recognized, in some cases – abusive conduct by individual members of their professions.  in 2009, after years of denial, the american psychological association finally recognized that psychologists had engaged in torture.  however, the american psychological association has not recognized that psychologists were involved in the bush administration’s torture policy.  some criticize the apa for failing to respond to allegations of “collusion between apa officials and the national security apparatus in providing ethical cover for psychologists’ participation in detainee abuse."although the american medical association has made clear that physicians should not be involved in interrogations of any kind, it continues to insist that it has “no specific knowledge of doctors being involved in abuse or torture,” despite evidence to the contrary, including government documents and office of legal counsel memos, a report by the international committee of the red cross and multiple accounts by survivors.some other accounts of medical or professional complicity in torture include:
+
+the sere ("survival, evasion, resistance and escape") program's chief psychologist, col. morgan banks, issued guidance in early 2003 for the "behavioral science consultants" who helped to devise guantánamo's interrogation strategy although he has emphatically denied that he had advocated the use of sere counter-resistance techniques to break down detainees. the new yorker notes that in november, 2001 banks was detailed to afghanistan, where he spent four months at bagram air base, "supporting combat operations against al qaeda and taliban fighters".
+confidential medical records of guantánamo prisoners were used to identify physical and psychological weaknesses that could be exploited during abusive interrogation.
+a 2005 report by human rights watch suggested that torture was routine under the appointed iraqi government.
+dr. j. c. carothers, british colonial kenyan psychiatrist, has been implicated by some recent academic historians in designing interrogation of mau mau prisoners. his advice was published by the kenya government as the psychology of mau mau, in 1954.
+similarly, it has been implied that interim iraqi prime minister dr. ayad allawi violated his obligation to medical ethics whilst serving as western european chief of secret police for the baathist government of saddam hussein. however, the same sources allege that allawi had abandoned his medical education at that point and his medical degree "was conferred upon him by the baath party."
+
+in fiction
+actor michael palin plays a medical torturer in director terry gilliam's 1985 dark comedic dystopian film brazil.
+in the film adaptation of george orwell's nineteen eighty-four the main character, winston smith, is subjected to medical torture by the thought police.
+actor gregory peck plays nazi medical torturer josef mengele in director franklin j. schaffner's the boys from brazil.
+actor laurence olivier plays nazi torturer dentist christian szell in director john schlesinger's 1976 marathon man.
+the film one flew over the cuckoo's nest, starring jack nicholson, depicts abuse of psychiatric techniques including electroconvulsive therapy and lobotomy.
+in the popular series, 24, various forms of medical torture (including hallucinogens and injections) are utilized to obtain confessions and information from high-threat terrorists being interrogated in the fictional counter-terrorist unit (ctu) of the united states.
+in anthony burgess' book a clockwork orange, alex, the anti-hero of the book, undergoes a fictional medical torture program called 'the ludovico technique', in which he is given a nausea-inducing drug, strapped to a chair with his eyelids forced open and forced to watch hours of films of extreme violence and rape to condition him to associate feelings of nausea with rape and violence.
+the theme of the 2009 horror film the human centipede (first sequence) is that of a sadistic, psychopathic retired surgeon torturing three people by surgically connecting them mouth to rectum, forcing the last two to swallow the excrement of the person in front of them and physically beating all three of them if they try to rebel or escape.
+the 2008 horror film autopsy focused on an insane doctor who runs a hospital where victims are lured in and experimented with, so that the doctor can find a cure for his wife's terminal disease.
+in the book dearly devoted dexter by jeff lindsay the central antagonist is a character nicknamed 'dr. danco' who surgically removes all body parts not necessary for life from his victims as what is revealed to be forfeits in a twisted game of hangman, carrying out the operations with the victim conscious and watching the procedures in a mirror.
+the multi-perspective novel the sea and poison (shusaku endo, 1957; translated by michael gallagher) depicts the vivisection experiments performed by japanese doctors on american soldiers during world war ii. kei kumai's 1986 drama film the sea and poison is based on this book (original film title "umi to dokuyaku").
+dr. jane payne, a character in the children's book wayside school gets a little stranger, is a sadistic dentist who pulls more teeth than is necessary in order to get extra money.
+in the ajin manga, the ajins are immortal humans who are captured and tracked by the government in order to become test subjects for medical torture, and many experiments which implies amputations without anesthesia, repeated murdering and torture for studying their immortality.
+
+see also
+notes
+bibliography
+dr. j.c. carothers, m.b. d.p.m. 1954. the psychology of the mau mau.  government printer, nairobi, colony and protectorate of kenya.
+carolina elkins.  2005. imperial reckoning: the untold story of britain's gulag in kenya.  new york: henry holt.  isbn 0-8050-7653-0.
+steven h. miles, abu ghraib: its legacy for military medicine; the lancet volume 364 issue 9435, page 725 (august 2004) [1]related editorials:
+the lancet editorial staff, "how complicit are doctors in abuses of detainees?"; the lancet volume 364 issue 9435, page 637
+harvey rishikof and michael schrage, "technology vs. torture";  slate, august 18, 2004.
+cnn editorial staff, ethicist questions medical workers' role in abuse.; cnn.com, august 19, 2004. [2]
+john carvel, "abu ghraib doctors knew of torture, says lancet report"; the guardian, august 20, 2004.
+mikki van zyl, jeanelle de gruchy, sheila lapinsky, simon lewin and graeme reid, the aversion project—psychiatric abuses in the south african defence force during the apartheid era.; south african medical journal volume 91 issue 3, page 216 (march 2001) [3] [4]related editorials:
+paul kirk, "mutilated by the military: apartheid army forced gay soldiers into sex change operations"; mail & guardian, july 28, 2000 ]
+ana simo, "south africa: apartheid military forced gay troops into sex-change operations", the gully, august 25, 2000
+s. predag, south african gays terrorized during apartheid era; lesbian news, volume 26 issue 3 (october 2000)
+ben kiernan, the pol pot regime: race, power, and genocide in cambodia under the khmer rouge, 1975-1979; yale university press, 2002. pp. 438–439. isbn 0-300-09649-6.
+joost r. hiltermann. "deaths in israeli prisons." journal of palestine studies. spring 1990. vol. 19: issue 3. pp. 101–110.
+elliott valenstein. great and desperate cures: the rise and decline of psychosurgery and other radical treatments for mental illness (basic books, 1986). isbn 0465027105.
+stephen n. xenakis. "from the medics: unhealthy silence." the washington post. feb. 6, 2005. p. b4.
+
+external links
+declaration of geneva (at foot of page)
+nuremberg code
+wma official website
+when healers harm

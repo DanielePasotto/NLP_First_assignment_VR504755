@@ -1,0 +1,22 @@
+medical kiosks are computerized, electronic kiosks. some function as patient check-in stations at hospitals or doctors' offices. other, more advanced kiosks can perform basic diagnostic tests on patients. most medical kiosks have touchscreens and can be classified as interactive kiosks.
+
+check-in kiosks
+patient self-check-in kiosks can replace the clerks at the front desk.
+
+diagnostic kiosks
+diagnostic kiosks can be used to address shortages of physicians in rural areas throughout the world.
+
+staffed vs unstaffed
+staffed
+staffed kiosks can do a variety of tests.
+
+unstaffed
+unstaffed kiosks require only monthly maintenance.  although tests can still be done (blood pressure, spirometry, heart rate and ecg, blood glucose, and height/weight/bmi), there is not much variety.
+
+see also
+common-use self-service
+interactive kiosk
+k67 kiosk
+
+
+== references ==

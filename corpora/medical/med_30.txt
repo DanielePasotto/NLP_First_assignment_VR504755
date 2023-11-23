@@ -1,0 +1,29 @@
+a medical robot is a robot used in the medical sciences. they include surgical robots. these are in most telemanipulators, which use the surgeon's activators on one side to control the "effector" on the other side.
+
+types
+surgical robots: these robots either allow surgical operations to be carried out with better precision than an unaided human surgeon or allow remote surgery where a human surgeon is not physically present with the patient.
+rehabilitation robots: it facilitates and support the lives of infirm, elderly people, or those with dysfunction of body parts affecting movement. these robots are also used for rehabilitation and related procedures, such as training and therapy.
+biorobots: a group of robots designed to imitate the cognition of humans and animals.
+telepresence robots: it allows off-site medical professionals to move, look around, communicate, and participate from remote locations.
+pharmacy automation: robotic systems to dispense oral solids in a retail pharmacy setting or preparing sterile iv admixtures in a hospital pharmacy setting.
+companion robot: it has the capability to engage emotionally with users keeping them company and alerting if there is a problem with their health.
+disinfection robot: it has the capability to disinfect a whole room in mere minutes, generally using pulsed ultraviolet light. they are being used to fight ebola virus disease.
+hospital robots - with a pre-programmed layout of their environment and built-in sensors, hospital robots deliver medications, meals and specimens around hospitals.
+ robotic prosthetics - focuses on providing their wearers with life-like limb functionality.
+laboratory robots - types of robots found in labs are specially designed to either automate processes or assist lab technicians in completing repetitive tasks.
+
+see also
+biothreat
+robots in healthcare
+hospi
+open-source robotics
+robot & frank
+
+references
+external links
+medical robotics text book
+medical robots conference archived 2014-11-02 at the wayback machine
+robotic iv automation - riva
+where are the elder care robots?
+notable chinese firms emerging in medical robots sector archived 2019-10-19 at the wayback machine (ieee)
+medical robots- towards robotics

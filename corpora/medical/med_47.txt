@@ -1,0 +1,61 @@
+medical statistics deals with applications of statistics to medicine and the health sciences, including epidemiology, public health, forensic medicine, and clinical research. medical statistics has been a recognized branch of statistics in the united kingdom for more than 40 years but the term has not come into general use in north america, where the wider term 'biostatistics' is more commonly used. however, "biostatistics" more commonly connotes all applications of statistics to biology. medical statistics is a subdiscipline of statistics. "it is the science of summarizing, collecting, presenting and interpreting data in medical practice, and using them to estimate the magnitude of associations and test hypotheses. it has a central role in medical investigations. it not only provides a way of organizing information on a wider and more formal basis than relying on the exchange of anecdotes and personal experience, but also takes into account the intrinsic variation inherent in most biological processes."
+
+pharmaceutical statistics
+pharmaceutical statistics is the application of statistics to matters concerning the pharmaceutical industry.  this can be from issues of design of experiments, to analysis of drug trials, to issues of commercialization of a medicine.there are many professional bodies concerned with this field including:
+
+european federation of statisticians in the pharmaceutical industry (efspi)
+statisticians in the pharmaceutical industry (psi)there are also journals including:
+
+statistics in medicine
+pharmaceutical statistics
+
+clinical biostatistics
+clinical biostatistics is concerned with research into the principles and methodology used in the design and analysis of clinical research and to apply statistical theory to clinical medicine.there is a society for clinical biostatistics with annual conferences since its founding in 1978.clinical biostatistics is taught in postgraduate biostatistical and applied statistical degrees, for example as part of the bca master of biostatistics program in australia.
+
+basic concepts
+for describing situationsincidence (epidemiology) vs. prevalence vs. cumulative incidence
+many medical tests (such as pregnancy tests) have two possible results: positive or negative. however, tests will sometimes yield incorrect results in the form of false positives or false negatives. false positives and false negatives can be described by the statistical concepts of type i and type ii errors, respectively, where the null hypothesis is that the patient will test negative. the precision of a medical test is usually calculated in the form of positive predictive values (ppvs) and negative predicted values (npvs). ppvs and npvs of medical tests depend on intrinsic properties of the test as well as the prevalence of the condition being tested for. for example, if any pregnancy test was administered to a population of individuals who were biologically incapable of becoming pregnant, then the test's ppv will be 0% and its npv will be 100% simply because true positives and false negatives cannot exist in this population.
+mortality rate vs. standardized mortality ratio vs. age-standardized mortality rate
+pandemic vs. epidemic vs. endemic vs. syndemic
+serial interval vs. incubation period
+cancer cluster
+sexual network
+years of potential life lost
+maternal mortality rate
+perinatal mortality rate
+low birth weight ratiofor assessing the effectiveness of an intervention
+absolute risk reduction
+control event rate
+experimental event rate
+number needed to harm
+number needed to treat
+odds ratio
+relative risk reduction
+relative risk
+relative survival
+minimal clinically important difference
+
+related statistical theory
+survival analysis
+proportional hazards models
+active control trials: clinical trials in which a kind of new treatment is compared with some other active agent rather than a placebo.
+adls(activities of daily living scale): a scale designed to measure physical ability/disability that is used in investigations of a variety of chronic disabling conditions, such as arthritis. this scale is based on scoring responses to questions about self-care, grooming, etc.
+actuarial statistics: the statistics used by actuaries to calculate liabilities, evaluate risks and plan the financial course of insurance, pensions, etc.
+
+see also
+herd immunity
+false positives and false negatives
+rare disease
+hilda mary woods – the first author (with william russell) of the first british textbook of medical statistics, published in 1931
+
+references
+further reading
+altman, d.g. (1991), practical statistics for medical research, crc press, isbn 978-0-412-27630-9
+armitage, p.; berry, g.; matthews, j.n.s. (2002), statistical methods in medical research, blackwell, isbn 978-0-632-05257-8
+bland, j. martin (2000), an introduction to medical statistics (3rd ed.), oxford: oup, isbn 978-0-19-263269-2
+kirkwood, b.r.; sterne, j.a.c. (2003), essential medical statistics (2nd ed.), blackwell, isbn 978-0-86542-871-3
+petrie, aviva; sabin, caroline (2005), medical statistics at a glance (2nd ed.), wileyblackwell, isbn 978-1-4051-2780-6
+onwude, joseph (2008), learn medical statistics (2nd ed.), designsonline.co.uk
+
+external links
+health-eu portal eu health statistics

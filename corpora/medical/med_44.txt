@@ -1,0 +1,19 @@
+the medical profile (hebrew: פרופיל רפואי) is a numerical system utilised by the israel defense forces (idf) to indicate the medical fitness of individuals for different roles within the idf. the medical profile, denoted on a scale from 21 (indicating the lowest level of fitness and resulting in automatic disqualification from idf service) to 97 (representing peak fitness and enabling individuals to apply for any unit within the idf), plays a crucial role in evaluating an individual's suitability for various positions within the idf. a medical profile rating of 64 or lower renders individuals ineligible for direct combat roles.
+
+known profile numbers
+combatant
+97: perfectly healthy and fit for field combat units, in the elite units in the corps as well as in the combat battalions. in cases of very mild problems (such as the need for glasses), a note is added that does not lower the profile, but dismisses the soldier from volunteering to be a part of the elite units. since 2005, soldiers can be accepted for the flight training course with glasses (up to 1 diopter).
+82: a slight problem (for example: color blindness). unfit for elite combat units but fit for infantry and the combat battalions.
+72: a moderate problem (knee or back problems, mild asthma, allergies or a high level of myopia – above 7 diopters). unfit for infantry service, but eligible for several combat units like the armored corps, artillery, air defense, specific roles in the field intelligence corps and the caracal battalion.
+65: a problem or injury caused during the military service.
+
+non-combatant
+64: a serious problem (asthma, low bmi, high blood pressure, mental health issues). unfit for combat.
+45: a very serious problem (severe asthma, severe orthopedic problems, severe mental status, hiv positive). unfit for combat service and many military courses.
+35: a special profile for people with diabetes, the hearing impaired and people with epilepsy. able to serve in various roles with certain limitations due to their medical condition.
+25: individuals who received a profile of 21 and nonetheless applied to volunteer (and are accepted) for military service.
+24: temporarily unfit for service (severe sensitivity to bee stings, temporary low bmi, anemia). the soldier gets a temporary exemption and gets monitored every few months with the possibility of raising his profile.
+21: totally unfit for military service for health reasons (physical or mental). individuals with this profile can still apply to volunteer for military service by getting a profile of 30. see profile 21.
+
+
+== references ==

@@ -1,0 +1,151 @@
+medical genetics is the branch of medicine that involves the diagnosis and management of hereditary disorders. medical genetics differs from human genetics in that human genetics is a field of scientific research that may or may not apply to medicine, while medical genetics refers to the application of genetics to medical care. for example, research on the causes and inheritance of genetic disorders would be considered within both human genetics and medical genetics, while the diagnosis, management, and counselling people with genetic disorders would be considered part of medical genetics.
+in contrast, the study of typically non-medical phenotypes such as the genetics of eye color would be considered part of human genetics, but not necessarily relevant to medical genetics (except in situations such as albinism). genetic medicine is a newer term for medical genetics and incorporates areas such as gene therapy, personalized medicine, and the rapidly emerging new medical specialty, predictive medicine.
+
+scope
+medical genetics encompasses many different areas, including clinical practice of physicians, genetic counselors, and nutritionists, clinical diagnostic laboratory activities, and research into the causes and inheritance of genetic disorders. examples of conditions that fall within the scope of medical genetics include birth defects and dysmorphology, intellectual disabilities, autism, mitochondrial disorders, skeletal dysplasia, connective tissue disorders, cancer genetics, and prenatal diagnosis. medical genetics is increasingly becoming relevant to many common diseases. overlaps with other medical specialties are beginning to emerge, as recent advances in genetics are revealing etiologies for morphologic, endocrine, cardiovascular, pulmonary, ophthalmologist, renal, psychiatric, and dermatologic conditions. the medical genetics community is increasingly involved with individuals who have undertaken elective genetic and genomic testing.
+
+subspecialties
+in some ways, many of the individual fields within medical genetics are hybrids between clinical care and research. this is due in part to recent advances in science and technology (for example, see the human genome project) that have enabled an unprecedented understanding of genetic disorders.
+
+clinical genetics
+clinical genetics a medical specialty with particular attention to hereditary disorders. branches of clinical genetics include:
+
+1. prenatal genetics
+couples at risk of having a child with a genetic disorder preconception or while pregnant
+high risk prenatal screening results
+abnormal fetal ultrasound
+2. pediatric genetics
+birth defects
+developmental disability, autism, epilepsy
+short stature and skeletal dysplasia
+3. adult genetics
+cardiomyopathy and cardiac dysrhythmias
+inherited kidney disease
+dementia and neurodegeneration
+connective tissue disease
+4. cancer genetics
+breast/ovarian cancer
+bowel cancer
+endocrine tumorsexamples of genetic syndromes that are commonly seen in the genetics clinic include chromosomal rearrangements (e.g. down syndrome, 22q11.2 deletion syndrome, turner syndrome, williams syndrome), fragile x syndrome, marfan syndrome, neurofibromatosis, huntington disease, familial adenomatous polyposis, and many more.
+
+training and qualification
+in the united states, physicians who practice clinical genetics are accredited by the american board of medical genetics and genomics (abmgg). in order to become a board-certified practitioner of clinical genetics, a physician must complete a minimum of 24 months of training in a program accredited by the abmgg. individuals seeking acceptance into clinical genetics training programs must hold an m.d. or d.o. degree (or their equivalent) and have completed a minimum of 12 months of training in an acgme-accredited residency program in internal medicine, pediatrics, obstetrics and gynecology, or other medical specialty.in australia and new zealand, clinical genetics is a three-year advanced training program for those who already have their primary medical qualification (mbbs or md) and have successfully completed basic training in either paediatric medicine or adult medicine. training is overseen by the royal australasian college of physicians with the australasian association of clinical geneticists contributing to authorship of the curriculum via their parent organization, the human genetics society of australasia.
+
+metabolic/biochemical genetics
+metabolic (or biochemical) genetics involves the diagnosis and management of inborn errors of metabolism in which patients have enzymatic deficiencies that perturb biochemical pathways involved in metabolism of carbohydrates, amino acids, and lipids. examples of metabolic disorders include galactosemia, glycogen storage disease, lysosomal storage disorders, metabolic acidosis, peroxisomal disorders, phenylketonuria, and urea cycle disorders.
+
+cytogenetics
+cytogenetics is the study of chromosomes and chromosome abnormalities. while cytogenetics historically relied on microscopy to analyze chromosomes, new molecular technologies such as array comparative genomic hybridization are now becoming widely used. examples of chromosome abnormalities include aneuploidy, chromosomal rearrangements, and genomic deletion/duplication disorders.
+
+molecular genetics
+molecular genetics involves the discovery of and laboratory testing for dna mutations that underlie many single gene disorders. examples of single gene disorders include achondroplasia, cystic fibrosis, duchenne muscular dystrophy, hereditary breast cancer (brca1/2), huntington disease, marfan syndrome, noonan syndrome, and rett syndrome. molecular tests are also used in the diagnosis of syndromes involving epigenetic abnormalities, such as angelman syndrome, beckwith-wiedemann syndrome, prader-willi syndrome, and uniparental disomy.
+
+mitochondrial genetics
+mitochondrial genetics concerns the diagnosis and management of mitochondrial disorders, which have a molecular basis but often result in biochemical abnormalities due to deficient energy production.
+there exists some overlap between medical genetic diagnostic laboratories and molecular pathology.
+
+genetic counseling
+genetic counseling is the process of providing information about genetic conditions, diagnostic testing, and risks in other family members, within the framework of nondirective counseling. genetic counselors are non-physician members of the medical genetics team who specialize in family risk assessment and counseling of patients regarding genetic disorders. the precise role of the genetic counselor varies somewhat depending on the disorder.
+when working alongside geneticists, genetic counselors normally specialize in pediatric genetics which focuses on developmental abnormalities present in newborns, infants or children. the major goal of pediatric counseling is attempting to explain the genetic basis behind the child's developmental concerns in a compassionate and articulated manner that allows the potentially distressed or frustrated parents to easily understand the information. as well, genetic counselors normally take a family pedigree, which summarizes the medical history of the patient's family. this then aids the clinical geneticist in the differential diagnosis process and help determine which further steps should be taken to help the patient.
+
+history
+although genetics has its roots back in the 19th century with the work of the bohemian monk gregor mendel and other pioneering scientists, human genetics emerged later. it started to develop, albeit slowly, during the first half of the 20th century. mendelian (single-gene) inheritance was studied in a number of important disorders such as albinism, brachydactyly (short fingers and toes), and hemophilia. mathematical approaches were also devised and applied to human genetics. population genetics was created.
+medical genetics was a late developer, emerging largely after the close of world war ii (1945) when the eugenics movement had fallen into disrepute. the nazi misuse of eugenics sounded its death knell. shorn of eugenics, a scientific approach could be used and was applied to human and medical genetics. medical genetics saw an increasingly rapid rise in the second half of the 20th century and continues in the 21st century.
+
+current practice
+the clinical setting in which patients are evaluated determines the scope of practice, diagnostic, and therapeutic interventions. for the purposes of general discussion, the typical encounters between patients and genetic practitioners may involve:
+
+referral to an out-patient genetics clinic (pediatric, adult, or combined) or an in-hospital consultation, most often for diagnostic evaluation.
+specialty genetics clinics focusing on management of inborn errors of metabolism, skeletal dysplasia, or lysosomal storage diseases.
+referral for counseling in a prenatal genetics clinic to discuss risks to the pregnancy (advanced maternal age, teratogen exposure, family history of a genetic disease), test results (abnormal maternal serum screen, abnormal ultrasound), and/or options for prenatal diagnosis (typically non-invasive prenatal screening, diagnostic amniocentesis or chorionic villus sampling).
+multidisciplinary specialty clinics that include a clinical geneticist or genetic counselor (cancer genetics, cardiovascular genetics, craniofacial or cleft lip/palate, hearing loss clinics, muscular dystrophy/neurodegenerative disorder clinics).
+
+diagnostic evaluation
+each patient will undergo a diagnostic evaluation tailored to their own particular presenting signs and symptoms. the geneticist will establish a differential diagnosis and recommend appropriate testing. these tests might evaluate for chromosomal disorders, inborn errors of metabolism, or single gene disorders.
+
+chromosome studies
+chromosome studies are used in the general genetics clinic to determine a cause for developmental delay or intellectual disability, birth defects, dysmorphic features, or autism. chromosome analysis is also performed in the prenatal setting to determine whether a fetus is affected with aneuploidy or other chromosome rearrangements. finally, chromosome abnormalities are often detected in cancer samples. a large number of different methods have been developed for chromosome analysis:
+
+chromosome analysis using a karyotype involves special stains that generate light and dark bands, allowing identification of each chromosome under a microscope.
+fluorescence in situ hybridization (fish) involves fluorescent labeling of probes that bind to specific dna sequences, used for identifying aneuploidy, genomic deletions or duplications, characterizing chromosomal translocations and determining the origin of ring chromosomes.
+chromosome painting is a technique that uses fluorescent probes specific for each chromosome to differentially label each chromosome. this technique is more often used in cancer cytogenetics, where complex chromosome rearrangements can occur.
+array comparative genomic hybridization is a newer molecular technique that involves hybridization of an individual dna sample to a glass slide or microarray chip containing molecular probes (ranging from large ~200kb bacterial artificial chromosomes to small oligonucleotides) that represent unique regions of the genome. this method is particularly sensitive for detection of genomic gains or losses across the genome but does not detect balanced translocations or distinguish the location of duplicated genetic material (for example, a tandem duplication versus an insertional duplication).
+
+basic metabolic studies
+biochemical studies are performed to screen for imbalances of metabolites in the bodily fluid, usually the blood (plasma/serum) or urine, but also in cerebrospinal fluid (csf). specific tests of enzyme function (either in leukocytes, skin fibroblasts, liver, or muscle) are also employed under certain circumstances. in the us, the newborn screen incorporates biochemical tests to screen for treatable conditions such as galactosemia and phenylketonuria (pku). patients suspected to have a metabolic condition might undergo the following tests:
+
+quantitative amino acid analysis is typically performed using the ninhydrin reaction, followed by liquid chromatography to measure the amount of amino acid in the sample (either urine, plasma/serum, or csf). measurement of amino acids in plasma or serum is used in the evaluation of disorders of amino acid metabolism such as urea cycle disorders, maple syrup urine disease, and pku. measurement of amino acids in urine can be useful in the diagnosis of cystinuria or renal fanconi syndrome as can be seen in cystinosis.
+urine organic acid analysis can be either performed using quantitative or qualitative methods, but in either case the test is used to detect the excretion of abnormal organic acids. these compounds are normally produced during bodily metabolism of amino acids and odd-chain fatty acids, but accumulate in patients with certain metabolic conditions.
+the acylcarnitine combination profile detects compounds such as organic acids and fatty acids conjugated to carnitine. the test is used for detection of disorders involving fatty acid metabolism, including mcad.
+pyruvate and lactate are byproducts of normal metabolism, particularly during anaerobic metabolism. these compounds normally accumulate during exercise or ischemia, but are also elevated in patients with disorders of pyruvate metabolism or mitochondrial disorders.
+ammonia is an end product of amino acid metabolism and is converted in the liver to urea through a series of enzymatic reactions termed the urea cycle. elevated ammonia can therefore be detected in patients with urea cycle disorders, as well as other conditions involving liver failure.
+enzyme testing is performed for a wide range of metabolic disorders to confirm a diagnosis suspected based on screening tests.
+
+molecular studies
+dna sequencing is used to directly analyze the genomic dna sequence of a particular gene. in general, only the parts of the gene that code for the expressed protein (exons) and small amounts of the flanking untranslated regions and introns are analyzed. therefore, although these tests are highly specific and sensitive, they do not routinely identify all of the mutations that could cause disease.
+dna methylation analysis is used to diagnose certain genetic disorders that are caused by disruptions of epigenetic mechanisms such as genomic imprinting and uniparental disomy.
+southern blotting is an early technique basic on detection of fragments of dna separated by size through gel electrophoresis and detected using radiolabeled probes. this test was routinely used to detect deletions or duplications in conditions such as duchenne muscular dystrophy but is being replaced by high-resolution array comparative genomic hybridization techniques. southern blotting is still useful in the diagnosis of disorders caused by trinucleotide repeats.
+
+treatments
+each cell of the body contains the hereditary information (dna) wrapped up in structures called chromosomes. since genetic syndromes are typically the result of alterations of the chromosomes or genes, there is no treatment currently available that can correct the genetic alterations in every cell of the body. therefore, there is currently no "cure" for genetic disorders. however, for many genetic syndromes there is treatment available to manage the symptoms. in some cases, particularly inborn errors of metabolism, the mechanism of disease is well understood and offers the potential for dietary and medical management to prevent or reduce the long-term complications. in other cases, infusion therapy is used to replace the missing enzyme. current research is actively seeking to use gene therapy or other new medications to treat specific genetic disorders.
+
+management of metabolic disorders
+in general, metabolic disorders arise from enzyme deficiencies that disrupt normal metabolic pathways. for instance, in the hypothetical example:
+
+a ---> b ---> c ---> d aaaa ---> bbbbbb ---> cccccccccc ---> (no d)
+x y z x y | (no or insufficient z)
+eeeee
+
+compound "a" is metabolized to "b" by enzyme "x", compound "b" is metabolized to "c" by enzyme "y", and compound "c" is metabolized to "d" by enzyme "z".
+if enzyme "z" is missing, compound "d" will be missing, while compounds "a", "b", and "c" will build up. the pathogenesis of this particular condition could result from lack of compound "d", if it is critical for some cellular function, or from toxicity due to excess "a", "b", and/or "c", or from toxicity due to the excess of "e" which is normally only present in small amounts and only accumulates when "c" is in excess. treatment of the metabolic disorder could be achieved through dietary supplementation of compound "d" and dietary restriction of compounds "a", "b", and/or "c" or by treatment with a medication that promoted disposal of excess "a", "b", "c" or "e". another approach that can be taken is enzyme replacement therapy, in which a patient is given an infusion of the missing enzyme "z" or cofactor therapy to increase the efficacy of any residual "z" activity.
+
+dietdietary restriction and supplementation are key measures taken in several well-known metabolic disorders, including galactosemia, phenylketonuria (pku), maple syrup urine disease, organic acidurias and urea cycle disorders. such restrictive diets can be difficult for the patient and family to maintain, and require close consultation with a nutritionist who has special experience in metabolic disorders. the composition of the diet will change depending on the caloric needs of the growing child and special attention is needed during a pregnancy if a woman is affected with one of these disorders.
+
+medicationmedical approaches include enhancement of residual enzyme activity (in cases where the enzyme is made but is not functioning properly), inhibition of other enzymes in the biochemical pathway to prevent buildup of a toxic compound, or diversion of a toxic compound to another form that can be excreted. examples include the use of high doses of pyridoxine (vitamin b6) in some patients with homocystinuria to boost the activity of the residual cystathione synthase enzyme, administration of biotin to restore activity of several enzymes affected by deficiency of biotinidase, treatment with ntbc in tyrosinemia to inhibit the production of succinylacetone which causes liver toxicity, and the use of sodium benzoate to decrease ammonia build-up in urea cycle disorders.
+
+enzyme replacement therapycertain lysosomal storage diseases are treated with infusions of a recombinant enzyme (produced in a laboratory), which can reduce the accumulation of the compounds in various tissues. examples include gaucher disease, fabry disease, mucopolysaccharidoses and glycogen storage disease type ii. such treatments are limited by the ability of the enzyme to reach the affected areas (the blood brain barrier prevents enzyme from reaching the brain, for example), and can sometimes be associated with allergic reactions. the long-term clinical effectiveness of enzyme replacement therapies vary widely among different disorders.
+
+other examples
+angiotensin receptor blockers in marfan syndrome & loeys-dietz
+bone marrow transplantation
+gene therapy
+
+career paths and training
+there are a variety of career paths within the field of medical genetics, and naturally the training required for each area differs considerably. the information included in this section applies to the typical pathways in the united states and there may be differences in other countries. us practitioners in clinical, counseling, or diagnostic subspecialties generally obtain board certification through the american board of medical genetics.
+
+ethical, legal and social implications
+genetic information provides a unique type of knowledge about an individual and his/her family, fundamentally different from a typically laboratory test that provides a "snapshot" of an individual's health status. the unique status of genetic information and inherited disease has a number of ramifications with regard to ethical, legal, and societal concerns.
+on 19 march 2015, scientists urged a worldwide ban on clinical use of methods, particularly the use of crispr and zinc finger, to edit the human genome in a way that can be inherited. in april 2015 and april 2016, chinese researchers reported results of basic research to edit the dna of non-viable human embryos using crispr. in february 2016, british scientists were given permission by regulators to genetically modify human embryos by using crispr and related techniques on condition that the embryos were destroyed within seven days. in june 2016 the dutch government was reported to be planning to follow suit with similar regulations which would specify a 14-day limit.
+
+societies
+the more empirical approach to human and medical genetics was formalized by the founding in 1948 of the american society of human genetics. the society first began annual meetings that year (1948) and its international counterpart, the international congress of human genetics, has met every 5 years since its inception in 1956. the society publishes the american journal of human genetics on a monthly basis.
+medical genetics is recognized as a distinct medical specialty. in the u.s., medical genetics has its own approved board (the american board of medical genetics) and clinical specialty college (the american college of medical genetics). the college holds an annual scientific meeting, publishes a monthly journal, genetics in medicine, and issues position papers and clinical practice guidelines on a variety of topics relevant to human genetics.
+in australia and new zealand, medical geneticists are trained and certified under the auspices of the royal australasian college of physicians, but professionally belong to the human genetics society of australasia and its special interest group, the australasian association of clinical geneticists, for ongoing education, networking and advocacy.
+
+bioethics
+research
+the broad range of research in medical genetics reflects the overall scope of this field, including basic research on genetic inheritance and the human genome, mechanisms of genetic and metabolic disorders, translational research on new treatment modalities, and the impact of genetic testing
+
+basic genetics research
+basic research geneticists usually undertake research in universities, biotechnology firms and research institutes.
+
+allelic architecture of disease
+sometimes the link between a disease and an unusual gene variant is more subtle. the genetic architecture of common diseases is an important factor in determining the extent to which patterns of genetic variation influence group differences in health outcomes. according to the common disease/common variant hypothesis, common variants present in the ancestral population before the dispersal of modern humans from africa play an important role in human diseases. genetic variants associated with alzheimer disease, deep venous thrombosis, crohn disease, and type 2 diabetes appear to adhere to this model. however, the generality of the model has not yet been established and, in some cases, is in doubt. some diseases, such as many common cancers, appear not to be well described by the common disease/common variant model.another possibility is that common diseases arise in part through the action of combinations of variants that are individually rare. most of the disease-associated alleles discovered to date have been rare, and rare variants are more likely than common variants to be differentially distributed among groups distinguished by ancestry. however, groups could harbor different, though perhaps overlapping, sets of rare variants, which would reduce contrasts between groups in the incidence of the disease.
+the number of variants contributing to a disease and the interactions among those variants also could influence the distribution of diseases among groups. the difficulty that has been encountered in finding contributory alleles for complex diseases and in replicating positive associations suggests that many complex diseases involve numerous variants rather than a moderate number of alleles, and the influence of any given variant may depend in critical ways on the genetic and environmental background. if many alleles are required to increase susceptibility to a disease, the odds are low that the necessary combination of alleles would become concentrated in a particular group purely through drift.
+
+population substructure in genetics research
+one area in which population categories can be important considerations in genetics research is in controlling for confounding between population substructure, environmental exposures, and health outcomes. association studies can produce spurious results if cases and controls have differing allele frequencies for genes that are not related to the disease being studied, although the magnitude of this problem in genetic association studies is subject to debate. various methods have been developed to detect and account for population substructure, but these methods can be difficult to apply in practice.population substructure also can be used to advantage in genetic association studies. for example, populations that represent recent mixtures of geographically separated ancestral groups can exhibit longer-range linkage disequilibrium between susceptibility alleles and genetic markers than is the case for other populations. genetic studies can use this admixture linkage disequilibrium to search for disease alleles with fewer markers than would be needed otherwise. association studies also can take advantage of the contrasting experiences of racial or ethnic groups, including migrant groups, to search for interactions between particular alleles and environmental factors that might influence health.
+
+see also
+full genome sequencing
+inborn error of metabolism
+predictive medicine
+
+references
+further reading
+peter harper; lois reynolds; tilli tansey, eds. (2010). clinical genetics in britain: origins and development. wellcome witnesses to contemporary medicine. history of modern biomedicine research group. isbn 978-0-85484-127-1. wikidata q29581774.
+
+external links
+genetics home reference
+the national human genome research institute hosts an information center
+the phenomizer – a tool for clinical diagnostics in medical genetics. phenomizer
