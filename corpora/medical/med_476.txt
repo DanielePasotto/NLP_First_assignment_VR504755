@@ -1,0 +1,113 @@
+a biomedical scientist is a scientist trained in biology, particularly in the context of medical laboratory sciences or laboratory medicine. these scientists work to gain knowledge on the main principles of how the human body works and to find new ways to cure or treat disease by developing advanced diagnostic tools or new therapeutic strategies. the research of biomedical scientists is referred to as biomedical research.
+
+description
+the specific activities of the biomedical scientist can differ in various parts of the world and vary with the level of education. generally speaking, biomedical scientists conduct research in a laboratory setting, using living organisms as models to conduct experiments. these can include cultured human or animal cells grown outside of the whole organism, small animals such as flies, worms, fish, mice, and rats, or, rarely, larger animals and primates. biomedical scientists may also work directly with human tissue specimens to perform experiments as well as participate in clinical research.
+biomedical scientists employ a variety of techniques in order to carry out laboratory experiments. these include:
+
+molecular and biochemical techniques
+electrophoresis and blotting
+immunostaining
+chromatography
+mass spectrometry
+pcr and sequencing
+microarrays
+imaging technologies
+light, fluorescence, and electron microscopy
+mri
+pet
+x-ray
+genetic engineering/modification
+transfection
+viral transduction
+transgenic model organisms
+electrophysiology techniques
+patch clamp
+eeg, ekg, erg
+in silico techniques
+bioinformatics
+computational biology
+
+level of education
+biomedical scientists typically obtain a bachelor of science degree, and usually take postgraduate studies leading to a diploma, master or doctorate. this degree is necessary for faculty positions at academic institutions, as well as senior scientist positions at most companies. some biomedical scientists also possess a medical degree (md, do, pharmd, doctor of medical laboratory sciences[mlsd], mbbs, etc.) in addition to an academic degree.
+
+work environment
+academics
+this category includes tenured faculty positions at universities, colleges, non-profit research institutes, and sometimes hospitals. these positions usually afford more intellectual freedom and give the researcher more latitude in the direction and content of the research. scientists in academic settings, in addition to conducting experiments, will also attend scientific conferences, compete for research grant funding, publish scientific papers, and teach classes.
+
+industry
+industry jobs refer to private sector jobs at for-profit corporations. in the case of biomedical scientists, employment is usually at large pharmaceutical companies or biotechnology companies. positions in industry tend to pay higher salaries than those at academic institutions, but job security compared to tenured academic faculty is significantly less. researchers in industry tend to have less intellectual freedom in their research than those in the academic sector, owing to the ultimate goal of producing marketable products that benefit the company.
+
+non-traditional career paths
+in recent years, more biomedical scientists have pursued careers where advanced education and experience in biomedical research is needed outside of traditional laboratory research. these areas include patent law, consulting, public policy, and science journalism.  the primary reason for growth in these areas is that in recent years fewer positions are available in traditional academic research relative to the number of seekers; approximately 15-20% of phd life scientists will obtain a tenure-track position or lab-head position in industry.
+
+united kingdom
+biomedical sciences, as defined by the uk quality assurance agency for higher education benchmark statement in 2015 includes those science disciplines whose primary focus is the biology of human health and disease and ranges from the generic study of biomedical sciences and human biology to more specialised subject areas such as pharmacology, human physiology and human nutrition. it is underpinned by relevant basic sciences including anatomy and physiology, cell biology, biochemistry, microbiology, genetics and molecular biology, immunology, mathematics and statistics, and bioinformatics."biomedical scientist" is the protected title used by professionals qualified to work unsupervised within the pathology department of a hospital. the biomedical sciences are made up of the following disciplines; biochemistry, haematology, immunology, microbiology, histology, cytology, and transfusion services. these professions are regulated within the united kingdom by the health and care professions council. anyone who falsely claims to be a biomedical scientist commits an offence and could be fined up to £5000.each department specialises in aiding the diagnosis and treatment of disease. entry to the profession requires an institute of biomedical science (ibms) accredited bsc honours degree followed by a minimum of 12 months laboratory training in one of the pathology disciplines, however the actual time spent training can be considerably longer. trainees are also required to complete a certificate of competence training portfolio, this requires gathering extensive amounts of evidence to demonstrate professional competence. at the end of this period the trainees portfolio and overall competence are assessed; if successful, a certificate of competence is awarded, which can be used to apply for registration with the hcpc. state registration indicates that the applicant has reached a required standard of education and will follow the guidelines and codes of practice created by the health and care professions council. the nhs, the largest employer of biomedical scientist, now run the 'practitioners training program' in conjunction with several universities which includes a years experienced as a part of a 3-year degree. this is known as bsc healthcare science (life science) 
+biomedical scientists are the second largest profession registered by the health and care professions council and make up a vital component of the health care team. many of the decisions doctors make are based on the test results generated by biomedical scientists. despite this, much of the general public are unaware of biomedical scientists and the important role they play.biomedical scientists are not confined to nhs laboratories. biomedical scientists along with scientists in other inter-related medical disciplines seek out to understand human anatomy, genetics, immunology, physiology and behaviour at all levels. this is sometimes achieved through the use of model systems that are homologous to various aspects of human biology. the research that is carried out either in universities or pharmaceutical companies by biomedical scientists has led to the development of new treatments for a wide range of degenerative and genetic disorders. stem cell biology, cloning, genetic screening/therapies and other areas of biomedical science have all been generated by the work of biomedical scientists from around the world.
+
+education
+biomedical science graduate programs are maintained at academic institutions and medical schools around the world, and some biomedical graduate programs are administered jointly by an academic institution and a business, hospital, or independent research institute. while graduate students historically committed to a particular research specialty, such as molecular biology, biochemistry, genetics, or developmental biology, the recent trend (particularly in the united states) is to offer interdisciplinary programs that do not specialize and instead aim to incorporate a broad education in multiple biological disciplines.
+initially, graduate students usually rotate through the laboratories of several faculty researchers, after which the student commits to joining a particular laboratory for the remainder of his or her education. the remaining time is spent conducting original research under the direction of the principal investigator to complete and publish a dissertation. unlike undergraduate and professional schools, there is no set time period for graduate education. students graduate once a thesis project of significant scope to justify the writing of their dissertation has been completed, a point that is determined by the student's principal investigator as well as his or her faculty advisory committee. the average time to graduation can vary between institutions, but most programs average around 5–6 years.biomedical scientists typically study in undergraduate majors that are focused on biological sciences, such as genetics, immunology, biochemistry, microbiology, zoology, biophysics, etc.
+
+united kingdom
+education programmes have traditionally encompassed an initial bachelor's degree, which is presupposed for two years of further studies eventually earning the students a medicine master's examina. many students choose to study on (for as much as) another 4 years to earn a phd degree, at this time the students specialize in a certain areas such as nephrology, neurology, oncology or virology.
+in the uk specifically, prospective undergraduate students wishing to undertake a bsc in biomedical sciences are required to apply via the ucas application system (usually during the final year of college or sixth form secondary school). a phd in biomedicine is however required for most higher research and teaching positions, which most colleges and universities offer. these graduate degree programs may include classroom and fieldwork, research at a laboratory, and a dissertation. although a degree in a medicine or biology (biochemistry, microbiology, zoology, biophysics) is common, recent research projects also need graduates in statistics, bioinformatics, physics and chemistry. abilities preferred for entry in this field include: technical, scientific, numerical, written, and oral skills.
+university departments offering degree programmes and/or research in biomedical sciences are represented by the heads of university centres of biomedical sciences (hucbms). hucbms was established in 1993 and has an international membership. the co-founders of hucbms were prof terry baker (bradford university), prof gerry mckenna (ulster), dr ray jones (portsmouth) and john clarke (cardiff metropolitan)
+
+areas of specialization
+biomedical scientists can focus on several areas of specialty, including:
+
+biochemistry: studies the chemical composition of cells, and in serum/plasma, and the chemistry behind biological processes
+molecular biology: studies the molecular makeup and processes of living organisms
+biophysics: studies mechanical and electrical energy in living cells and tissues
+cell biology: studies cell-level organization and processes
+cytopathology: studies cell obtained by different means from human and sometimes animal bodies, using microscope and recent technologies to evaluate morphology, molecular pathology changes by molecular diagnostics. also cytopathology involves cancer screening such cervical, breast, colon and prostate cancers.
+computational biology and bioinformatics: uses computer modeling and data analysis to understand biological systems
+developmental biology: studies the growth and development of organisms and focuses on diseases of abnormal development
+epidemiology: studies the incidence and transmission of diseases in a population and population characteristics (behaviors, environment, etc.) that associate with diseases
+genetics: studies dna and genes of humans and animals, as well as diseases caused by abnormal or mutated dna.
+haematology: studies of the blood, such as blood cells, and mechanisms of coagulation.
+blood transfusion: studies of transfusion science (although frequently linked to haematology, it is however a specialist discipline in its own right).
+histopathology: studies tissues for disease diagnosis, using histological, histochemical, immunohistochemical analysis or molecular genetic techniques for diagnostics.
+immunology: studies the immune system
+microbiology: studies characteristics of microorganisms such as bacteria and their role in human health
+neuroscience: studies on function and structure the nervous system, including the brain
+oncology (a.k.a. cancer biology): studies the causes and characteristics of cancer
+parasitology: studies parasites
+pathology: studies the underlying causes and bodily effects of disease through examination of organs, tissues, and cells
+pharmacology: studies effects of drugs on biological systems
+physiology: studies how various body systems function at macroscopic, microscopic and molecular levels
+virology: studies viruses and viral diseases
+medicinal chemistry: studies compound for medicinal usage
+toxicologyhowever, recent trends in biomedical graduate education (particularly in the united states) are for biomedical scientists to remain interdisciplinary and to not specialize. this approach emphasizes focus on a particular body or disease process as a whole and drawing upon the techniques of multiple specialties.
+
+salaries and job growth
+united kingdom
+in the united kingdom, the salaries for biomedical scientists range from £28,407 (band 5) to £81,138 (band 8c)  plus high cost area supplements and out of hours payments, depending on experience, education, and position. entry-level biomedical scientists start at band 5, specialist biomedical scientists at band 6, senior biomedical scientists at band 7, lead biomedical scientists/laboratory managers at band 8a, deputy general managers at band 8b and general managers at band 8c. job growth for the profession has been forecasted as follows:
+
+united states
+according to the us bureau of labor statistics (bls), the 2010-2011 occupational outlook report suggests that biomedical scientist employment is expected "to increase 40 percent over the 2008-18 decade, much faster than the average for all occupations."according to the 2010 bls report, the median salaries for biomedical scientists in the united states in particular employment areas are:
+
+these figures include the salaries of post-doctoral fellows, which are paid significantly less than employees in more permanent positions.
+
+see also
+md-phd
+biomedical research: basic research or applied research conducted to aid the body of knowledge in the field of medicine
+medicine: a branch of the health sciences concerned with maintaining or restoring human health
+research: a  process of inquiry aimed at discovering, interpreting, and revising facts
+scientist: an expert in at least one area of science who uses the scientific method to do research
+animal testing: the use of animals in experiments
+biology: the study of life
+nurse scientist
+clinical laboratory scientist
+health profession: profession in which a person exercises skill or provides a health-related service
+human experimentation: medical experiments performed on human beings
+medical research council (uk)
+society of biology
+united states national academy of sciences
+
+references
+external links
+uk institute of biomedical science (ibms)
+resources at prospects
+resources at health careers
+heads of university centres of biomedical sciences (hucbms)  heads of university centres of biomedical science (hucbms)

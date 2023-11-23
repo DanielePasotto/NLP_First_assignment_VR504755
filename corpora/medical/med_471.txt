@@ -1,0 +1,203 @@
+hospital emergency codes are coded messages often announced over a public address system of a hospital to alert staff to various classes of on-site emergencies. the use of codes is intended to convey essential information quickly and with minimal misunderstanding to staff while preventing stress and panic among visitors to the hospital. such codes are sometimes posted on placards throughout the hospital or are printed on employee identification badges for ready reference.
+hospital emergency codes have varied widely by location, even between hospitals in the same community. confusion over these codes has led to the proposal for and sometimes adoption of standardized codes. in many american, canadian, new zealand and australian hospitals, for example "code blue" indicates a patient has entered cardiac arrest, while "code red" indicates that a fire has broken out somewhere in the hospital facility.
+in order for a code call to be useful in activating the response of specific hospital personnel to a given situation, it is usually accompanied by a specific location description (e.g., "code red, second floor, corridor three, room two-twelve"). other codes, however, only signal hospital staff generally to prepare for the consequences of some external event such as a natural disaster.
+
+standardised color codes
+australia
+australian hospitals and other buildings are covered by australian standard 4083 (1997)
+code black: personal threat
+code blue: medical emergency
+code brown: external emergency (disaster, mass casualties etc.)
+code orange: evacuation
+code purple: bomb threat
+code red: fire
+code yellow: internal emergency
+
+canada
+alberta
+codes in alberta are prescribed by alberta health services.
+code black: bomb threat/suspicious package
+code blue: cardiac arrest/medical emergency
+code brown: chemical spill/hazardous material
+code green: evacuation
+code grey: shelter in place/air exclusion
+code orange: mass casualty incident
+code purple: hostage situation
+code red: fire
+code white: violence/aggression
+code yellow: missing patient
+code 66: rapid medical intervention to prevent the patient deteriorating
+
+british columbia
+codes used in british columbia, prescribed by the british columbia ministry of health.
+code amber: missing or abducted infant or child
+code black: bomb threat
+code blue: cardiac and/or respiratory arrest
+code brown: hazardous spill
+code green: evacuation
+code grey: system failure
+code orange: disaster or mass casualties
+code pink: pediatric emergency and/or obstetrical emergency
+code red: fire
+code white: aggression
+code yellow: missing patient
+code silver: active shooter
+code 77: stroke
+code 99: incoming trauma
+
+manitoba
+codes used in manitoba as defined in wrha policy,"codes: standardized emergency"; policy# 50.00.010
+
+code red: fire
+code blue: cardiopulmonary arrest
+code orange: disaster (external influx of patients)
+code green: evacuation
+code yellow: missing patient/resident
+code black: bomb threat/search
+code white: violent incident
+code brown: internal chemical spill
+code grey: external air contamination (exclusion)
+code pink: abduction (infant, child, dependant adult)
+
+nova scotia
+the following codes are in use in nova scotia.
+code black: bomb threat
+code blue: cardio/respiratory arrest, choking, or other life-threatening emergency
+code brown: hazardous substance spill/release
+code census: emergency department overcrowding
+code green precautionary: evacuation (precautionary)
+code green stat: evacuation (crisis)
+code grey: external air exclusion/shelter in place
+code orange: external disaster/reception of mass casualties
+code pink: pediatric emergency and/or obstetrical emergency
+code red: fire
+code silver: person with a weapon
+code white: violent person(s)/situation
+code yellow: missing patient/client
+
+ontario
+in ontario, a standard emergency response code set by the ontario hospital association is used, with minor variations for some hospitals.
+code amber: missing child/child abduction
+code aqua: flood
+code black: bomb threat/suspicious object
+code blue: cardiac arrest/medical emergency – adult
+code brown: in-facility hazardous spill
+code green: evacuation (precautionary)
+code green stat: evacuation (crisis)
+code grey: infrastructure loss or failure
+code grey button-down: external air exclusion
+code orange: disaster
+code orange cbrn: cbrn (chemical, biological, radiological, and nuclear) disaster
+code pink: cardiac arrest/medical emergency – infant/child
+code purple: hostage taking/gang activity
+code red: fire
+code silver: gun threat/shooter
+code white: violent/behavioural situation
+code yellow: missing person
+code 33: obstetrical emergency
+
+quebec
+the following codes are in use in quebec.
+code black: bomb threat/suspicious object
+code blue: adult cardiac or respiratory arrest, loss of consciousness
+code brown: in-facility hazardous spill
+code green: evacuation
+code orange: external disaster
+code pink: pediatric cardiac or respiratory arrest, loss of consciousness
+code purple: infant/neonatal cardiac or respiratory arrest
+code red: fire
+code white: violent patient
+code yellow: missing or lost patient
+
+saskatchewan
+codes used in saskatchewan, prescribed by the saskatchewan health authority.
+code red: fire/smoke
+code orange: incoming casualties/expanded services
+code green: evacuation/relocation
+code black: bomb threat/suspicious package
+code purple: hostage taking
+code white: aggressive/hostile/combative person
+code yellow: missing person
+code blue: cardiac/respiratory arrest
+code brown: hazardous material/chemical spill
+code silver: active assailant/person with a weapon
+
+yukon
+the following codes are in use in yukon.
+code black: bomb threat
+code blue: cardiac or respiratory arrest
+code brown: hazardous material
+code gold: earthquake (yukon has the highest seismic activity rate in canada)
+code green stage 1: partial evacuation to a safe area within the building
+code green stage 2: complete evacuation of the building
+code grey: shelter in place/air exclusion
+code orange: mass casualty
+code red: fire
+code white: aggressive behaviour
+lockdown: violent situation/hostage taking
+code yellow: missing patient
+
+united kingdom
+in the uk, hospitals have standardised codes across individual nhs trusts (england and wales) and health boards (scotland), but there are not many standardised codes across the entire nhs. this allows for differences in demands on hospitals in different areas, and also for hospitals of different roles to communicate different alerts according to their needs (e.g., a major trauma centre like st. george's hospital in south london has different priority alert needs to a rural community hospital like west berkshire community hospital).
+some more standardised codes are as follows:
+
+code black: hospital at capacity – no available beds for new admissions from a&e. a code black is declared by the hospital's general bed manager, who then relays this to the local ambulance service and posts updates for local healthcare services such as gps and district nursing teams.
+code red: this is the united kingdom's rapid response code. this call gets specialist doctors and trauma teams to the location for assistance in things like major traumas and deteriorating patients in situations like choking or airway compromise. this call also can be used to activate a major hemorrhage protocol in the event of a massive bleed. this call is referred to as code red, staff assist, trauma protocol or rapid response. this is the only emergency protocol which has a code. the only other is what is announced as a mass casualty protocol not any codes. this is to show a major incident has taken place like a terrorist attack and the protocol is activated to alert specialists and begin special emergency procedures like mass casualty triage and decontamination.
+major haemorrhage protocol – activated via the code red system. a peri-arrest call is put out, but the transfusion lab is also alerted. a specified number of units of o-negative packed red blood cells, and sometimes fresh frozen plasma and platelets, are immediately sent to the location of the call. the transfusion lab will cross-match any saved blood samples for the patient, or await an urgent cross-match sample to be sent. once this is done, units matching the patient's blood type will be continually sent until the major haemorrhage protocol is stood down.otherwise, non-colour codes are mostly used across the nhs:
+
+2222 (crash call or peri-arrest call) – dialling 2222 from any internal phone in nearly all nhs hospitals will connect the caller immediately to the switchboard. the caller can then specify the type of cardiac arrest or peri-arrest call (usually adult, paediatric (or neo-natal) or obstetric) and give a location (eg "adult cardiac arrest, surgical admissions unit, ground floor b block" or "obstetric peri-arrest, obstetric theatres, 4th floor maternity wing") and the switchboard will bleep the members of the relevant cardiac arrest or peri-arrest team. some uk hospitals do not have a peri-arrest team, and the cardiac arrest team can be used for urgent medical emergencies where cardiac arrest is imminent.
+3333 (security alert)
+4444 (fire alert)
+'fast bleep' codes – a 2222 call for a specific member of staff. for example, in status epilepticus, it is not necessary to call the crash team (as is done in cardiac arrest) but a fast bleep can be made to the on-call anaesthetist to come urgently.
+trauma call – adult (trauma centres only): usually called over a pa system across the emergency department, triggering a 'trauma call' paging request to all members of the trauma team - including a trauma surgeon and senior members their surgical team, an anaesthetist and odp, emergency medicine consultant or registrar and members of their team (this will be usually be an fy1 or sho). trauma calls are similar to 'resus codes' used in the us.
+trauma call – paediatric (trauma centres only): triggers a 'trauma call' paging request to all members of the paediatric trauma team - including a trauma surgeon and senior members of their surgical team, often additionally a paediatric surgeon, a paediatric anaesthetist, odp, (paediatric) emergency medicine consultant or registrar and members of their team (this will be usually be an fy1 or sho).
+
+united states
+in 2000, the hospital association of southern california (hasc) determined that a uniform code system was needed after three people were killed in a shooting incident at a hospital after the wrong emergency code was called. while codes for fire (red) and medical emergency (blue) were similar in 90% of california hospitals queried, 47 different codes were used for infant abduction and 61 for combative person. in light of this, the hasc published a handbook titled healthcare facility emergency codes: a guide for code standardization listing various codes and has strongly urged hospitals to voluntarily implement the revised codes.
+in 2003, maryland mandated that all acute hospitals in the state have uniform codes.in 2008, the oregon association of hospitals & health systems, oregon patient safety commission, and washington state hospital association formed a taskforce to standardize emergency code calls. after both states had conducted a survey of all hospital members, the taskforce found many hospitals used the same code for fire (code red); however, there were tremendous variations for codes representing respiratory and cardiac arrest, infant and child abduction, and combative persons. after deliberations and decisions, the taskforce suggested the following as the hospital emergency code:
+amber alert/code adam: infant/child abduction
+code black: bomb threat
+code blue: heart or respiration stops (an adult or child’s heart has stopped or they are not breathing)
+code brown: used to indicate severe weather
+code clear: announced when emergency is over
+code gray: combative person (combative or abusive behavior by patients, families, visitors, staff or physicians); if a weapon is involved code silver should be called
+code green: emergency activation.
+code orange: hazardous spills (a hazardous material spill or release; unsafe exposure to spill)
+code pink: infant abduction, pediatric emergency and/or obstetrical emergency
+code red: fire (also someone smoking in facility) (alternative: massive postpartum hemorrhage)
+code silver: weapon or hostage situation
+code white: neonatal emergency, aggressive person or evacuation dependent on hospital. in some hospitals, an aggressive person is called as a code violet.
+external triage: external disaster (external emergencies impacting hospital including: mass casualties; severe weather; massive power outages; and nuclear, biological, and chemical incidents)
+internal triage: internal emergency (internal emergency in multiple departments including: bomb or bomb threat; computer network down; major plumbing problems; and power or telephone outage.)
+rapid response team: medical team needed at bedside (a patient’s medical condition is declining and needs an emergency medical team at the bedside) prior to heart or respiration stopping
+
+plain-language alerts
+in 2015, the south carolina hospital association formed a work group to develop plain language standardization code recommendations. abolishing all color codes was suggested. in 2016, the texas hospital association encouraged the use of standardized plain language emergency alerts at all texas hospitals. the only color code that was still recommended was "code blue," meaning a cardiac arrest.
+plain language alerts are announced using the following format: "alert type + description + location (general to specific) + instructions (if applicable)."  for example, if a patient in icu bed 4 went into cardiac arrest, the alert would be "medical alert + code blue + second floor + intensive care unit + bed 4."
+
+codes
+note: different codes are used in different hospitals.
+
+code blue
+"code blue” is used to indicate that a patient requires resuscitation or is in need of immediate medical attention, most often as the result of a respiratory arrest or cardiac arrest. when called overhead, the page takes the form of "code blue, [floor], [room]" to alert the resuscitation team where to respond. every hospital, as a part of its disaster plans, sets a policy to determine which units provide personnel for code coverage. in theory any medical professional may respond to a code, but in practice, the team makeup is limited to those with advanced cardiac life support or other equivalent resuscitation training. frequently these teams are staffed by physicians from anesthesia, internal medicine or emergency medicine, respiratory therapists, pharmacists, and nurses. a code team leader will be a physician in attendance on any code team; this individual is responsible for directing the resuscitation effort and is said to "run the code".
+this phrase was coined at bethany medical center in kansas city, kansas. the term "code" by itself is commonly used by medical professionals as a slang term for this type of emergency, as in "calling a code" or describing a patient in arrest as "coding" or "coded".
+
+australian standard
+californian standardin some hospitals or other medical facilities, the resuscitation team may purposely respond slowly to a patient in cardiac arrest, a practice known as "slow code", or may fake the response altogether for the sake of the patient's family, a practice known as "show code". such practices are ethically controversial, and are banned in some jurisdictions.
+
+variations
+"plan blue" was used at st. vincent's hospital in new york city to indicate arrival of a trauma patient so critically injured that even the short delay of a stop in the er for evaluation could be fatal; "plan blue" was called out to alert the surgeon on call to go immediately to the er entrance and take the patient for immediate surgery.
+
+"doctor" codes
+"doctor" codes are often used in hospital settings for announcements over a general loudspeaker or paging system that might cause panic or endanger a patient's privacy. most often, "doctor" codes take the form of "paging dr. sinclair", where the doctor's "name" is a code word for a dangerous situation or a patient in crisis, e.g.: "paging dr. firestone, third floor," to indicate a possible fire on the floor specified.
+
+"resus" codes
+specific to emergency medicine, incoming patients in immediate danger of life or limb, whether presenting via ambulance or walk-in triage, are paged locally within the emergency department as "resus" [ri:səs] codes. these codes indicate the type of emergency (general medical, trauma, cardiopulmonary or neurological) and type of patient (adult or pediatric). an estimated time of arrival may be included, or "now" if the patient is already in the department. the patient is transported to the nearest open trauma bay or evaluation room, and is immediately attended by a designated team of physicians and nurses for purposes of immediate stabilization and treatment.
+
+see also
+inspector sands, code used over pa system in british public transport to indicate a serious situation
+vessel emergency codes codes used on cruise ships.
+
+references
+external links
+codes listing, texas tech university health sciences center

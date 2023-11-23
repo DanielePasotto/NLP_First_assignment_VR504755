@@ -1,0 +1,26 @@
+medical foods are foods that are specially formulated and intended for the dietary management of a disease that has distinctive nutritional needs that cannot be met by normal diet alone. in the united states they were defined in the food and drug administration's 1988 orphan drug act amendments and are subject to the general food and safety labeling requirements of the federal food, drug, and cosmetic act. in europe the european food safety authority established definitions for "foods for special medical purposes" (fsmps) in 2015.
+
+definition
+medical foods, called "food for special medical purposes" in europe, are distinct from the broader category of foods for special dietary use, from traditional foods that bear a health claim, and from dietary supplements. in order to be considered a medical food the product must, at a minimum:
+be a food for oral ingestion or tube feeding (nasogastric tube)
+be labeled for the dietary management of a specific medical disorder, disease or condition for which there are distinctive nutritional requirements, and
+be intended to be used under medical supervision.medical foods can be classified into the following categories:
+
+nutritionally complete formulas
+nutritionally incomplete formulas
+formulas for metabolic disorders
+oral rehydration products
+
+regulation
+medical foods are regulated by the us food and drug administration under the food drug and cosmetic act regulations.  21 cfr 101.9(j) (8).the term medical food, as defined in section 5(b) of the orphan drug act (21 u.s.c. 360ee (b) (3)) is "a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation."medical foods are not required to undergo premarket review or approval by fda. additionally, they are exempted from the labeling requirements for health claims and nutrient content claims under the nutrition labeling and education act of 1990. in 2016 the fda published an update: guidance for industry: frequently asked questions about medical foods; second edition. definitions and labeling requirements are included.
+
+see also
+clinical nutrition
+parenteral nutrition
+nutraceutical
+lipid emulsion
+fad diets
+
+references
+external links
+fda presentation dated march 2012 on regulation of medical foods
