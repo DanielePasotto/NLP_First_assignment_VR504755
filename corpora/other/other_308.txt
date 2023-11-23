@@ -1,0 +1,61 @@
+the term catholic bible can be understood in two ways. more generally, it can refer to a christian bible that includes the whole 73-book canon recognized by the catholic church, including some of the deuterocanonical books (and parts of books) of the old testament which are in the greek septuagint collection, but which are not present in the hebrew masoretic text collection. more specifically, the term can refer to a version or translation of the bible which is published with the catholic church's approval, in accordance with catholic canon law.
+according to the decretum gelasianum (a work written by an anonymous scholar between ad 519 and 553), catholic church officials cited a list of books of scripture presented as having been made canonical at the council of rome (382). later, the catholic church formally affirmed its canon of scripture with the synod of hippo (393), followed by a council of carthage (397), another council of carthage (419), the council of florence (1431–1449), and the council of trent (1545–1563). the canon consists of 46 books in the old testament and 27 books in the new testament, for a total of 73 books in the catholic bible.
+
+books included
+the catholic bible is composed of 73 books: an old testament of 46 books (including 7 deuterocanonical books and additional deuterocanonical content in 2 books) and a new testament of 27 books.
+
+old testament (46 books)
+the 7 deuterocanonical books are indicated by an asterisk (*) and the 2 books with additional deuterocanonical material by a plus sign (+)
+
+pentateuch (5): genesis, exodus, leviticus, numbers, deuteronomy
+historical books (16): joshua, judges, ruth, 1 samuel, 2 samuel, 1 kings, 2 kings, 1 chronicles, 2 chronicles, ezra, nehemiah, tobit (*), judith (*), esther (+), 1 maccabees (*), 2 maccabees (*)
+poetic books (7): job, psalms, proverbs, ecclesiastes, song of songs, wisdom of solomon (*), sirach (*)
+prophetic books (18): isaiah, jeremiah, lamentations, baruch (*), ezekiel, daniel (+), hosea, joel, amos, obadiah, jonah, micah, nahum, habakkuk, zephaniah, haggai, zechariah, malachithe sixto-clementine vulgate and the original douay rheims bible also included in an appendix three books whose canonicity was questioned: prayer of manasseh, 3 esdras, and 4 esdras.
+
+new testament (27 books)
+the gospels (4): matthew, mark, luke, john
+historical book (1): acts of the apostles
+pauline epistles (13): romans, 1 corinthians, 2 corinthians, galatians, ephesians, philippians, colossians, 1 thessalonians, 2 thessalonians, 1 timothy, 2 timothy, titus, philemon
+hebrews (1)
+general epistles (7): james, 1 peter, 2 peter, 1 john, 2 john, 3 john, jude
+prophetic book (1): apocalypse of john
+
+canon law
+the term "catholic bible" also refers to a bible published in accordance with the prescriptions of catholic canon law, which states:
+
+books of the sacred scriptures cannot be published unless the apostolic see or the conference of bishops has approved them. for the publication of their translations into the vernacular, it is also required that they be approved by the same authority and provided with necessary and sufficient annotations.
+with the permission of the conference of bishops, catholic members of the christian faithful in collaboration with separated brothers and sisters can prepare and publish translations of the sacred scriptures provided with appropriate annotations.
+
+principles of translation
+without diminishing the authority of the texts of the books of scripture in the original languages, the council of trent declared the vulgate the official translation of the bible for the latin church, but did not forbid the making of translations directly from the original languages. before the middle of the 20th century, catholic translations were often made from that text rather than from the original languages. thus ronald knox, the author of what has been called the knox bible, a formal equivalence mode bible, wrote: "when i talk about translating the bible, i mean translating the vulgate." today, the version of the bible that is used in official documents in latin is the nova vulgata, a revision of the vulgate.the original bible text is, according to catholics, "written by the inspired author himself and has more authority and greater weight than any, even the very best, translation whether ancient or modern".the principles expounded in pope pius xii's encyclical divino afflante spiritu regarding exegesis or interpretation, as in commentaries on the bible, apply also to the preparation of a translation. these include the need for familiarity with the original languages and other cognate languages, the study of ancient codices and even papyrus fragments of the text and the application to them of textual criticism, "to insure that the sacred text be restored as perfectly as possible, be purified from the corruptions due to the carelessness of the copyists and be freed, as far as may be done, from glosses and omissions, from the interchange and repetition of words and from all other kinds of mistakes, which are wont to make their way gradually into writings handed down through many centuries".
+
+catholic english versions
+the following are english versions of the bible that correspond to the description above and canon law:
+
+in 2013, the message - catholic / ecumenical edition was also published, with the deuterocanonical books translated by a catholic scholar, william griffin.
+
+differences from catholic lectionaries
+lectionaries for use in the liturgy differ somewhat in text from the bible versions on which they are based. many liturgies, including the roman, omit some verses in the biblical readings that they use.another difference concerns the usage of the tetragrammaton. yahweh appears in some bible translations such as the jerusalem bible (1966) throughout the old testament. long-standing jewish and christian tradition holds that the name is not to be spoken in worship or printed in liturgical texts out of reverence. a 2008 letter from the congregation for divine worship and the discipline of the sacraments explicitly forbids the use of the name in worship texts, stating: "for the translation of the biblical text in modern languages, intended for the liturgical usage of the church, what is already prescribed by n. 41 of the instruction liturgiam authenticam is to be followed; that is, the divine tetragrammaton is to be rendered by the equivalent of adonai/kyrios; lord, signore, seigneur, herr, señor, etc."currently, there is only one lectionary reported to be in use corresponding exactly to an in-print catholic bible translation: the ignatius press lectionary based on the revised standard version, second catholic (or ignatius) edition (rsv-2ce) approved for liturgical use in the antilles and by former anglicans in the personal ordinariates.in 2007 the catholic truth society published the "cts new catholic bible", consisting of the original 1966 jerusalem bible text revised to match its use in lectionaries throughout most english-speaking countries, in conformity with the directives of the congregation for divine worship and the discipline of the sacraments and the pontifical biblical commission.in 2012, the united states conference of catholic bishops "announced a plan to revise the new testament of the new american bible revised edition so a single version can be used for individual prayer, catechesis and liturgy" in the united states. after developing a plan and budget for the revision project, work began in 2013 with the creation of an editorial board made up of five people from the catholic biblical association (cba). the revision is now underway and, after the necessary approvals from the bishops and the vatican, is expected to be done around the year 2025.
+
+differences from other christian bibles
+bibles used by catholics differ in the number and order of books from those typically found in bibles used by protestants, as catholic bibles retain in their canon seven books that are regarded as non-canonical in protestantism (though regarding them as non-canonical, many protestant bibles traditionally include these books and others as an intertestamental section known as the apocrypha, totaling to an 80 book bible, e.g. the king james version with apocrypha). as such, its canon of old testament texts is somewhat larger than that in translations used by protestants, which are typically based exclusively on the shorter hebrew and aramaic masoretic text. on the other hand, its canon, which does not accept all the books that are included in the septuagint, is shorter than that of some churches of eastern and oriental orthodoxy, which recognize other books as sacred scripture. according to the greek orthodox church, "the translation of the seventy [the septuagint] was for the church the apostolic bible, to which both the lord and his disciples refer. [...] it enjoys divine authority and prestige as the bible of the indivisible church of the first eight centuries. it constitutes the old testament, the official text of our orthodox church and remains the authentic text by which the official translations of the old testament of the other sister orthodox churches were made; it was the divine instrument of pre-christ evangelism and was the basis of orthodox theology."the greek orthodox church generally considers psalm 151 to be part of the book of psalms, the prayer of manasseh as the final chapter of 2 chronicles, and accepts the "books of the maccabees" as four in number, but generally places 4 maccabees in an appendix.the bible of the tewahedo churches differs from the western and greek orthodox bibles in the order, naming, and chapter/verse division of some of the books. the ethiopian "narrow" biblical canon includes 81 books altogether: the 27 books of the new testament; the old testament books found in the septuagint and that are accepted by the eastern orthodox (more numerous than the catholic deuterocanonical books); and in addition enoch, jubilees, 1 esdras, 2 esdras, rest of the words of baruch and 3 books of ethiopian maccabees (ethiopian books of maccabees entirely different in content from the 4 books of maccabees of the eastern orthodox). a "broader" ethiopian new testament canon includes 4 books of "sinodos" (church practices), 2 "books of covenant", "ethiopic clement", and "ethiopic didascalia" (apostolic church-ordinances). this "broader" canon is sometimes said to include with the old testament an 8-part history of the jews based on the writings of titus flavius josephus, and known as "pseudo-josephus" or "joseph ben gurion" (yosēf walda koryon).
+
+see also
+biblical canon
+christian biblical canons
+congregation for the doctrine of the faith
+council of trent
+dei verbum
+divino afflante spiritu
+dynamic and formal equivalence
+encyclopaedia biblica
+international commission on english in the liturgy
+liturgiam authenticam
+pontifical biblical commission
+protestant bible
+second vatican council
+
+notes
+
+
+== references ==
