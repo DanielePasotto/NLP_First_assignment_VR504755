@@ -1,0 +1,123 @@
+this is a full list of color palettes for notable video game console hardware.
+for each unique palette, an image color test chart and sample image (original true color version follows) rendered with that palette (without dithering unless otherwise noted) are given. the test chart shows the full 8-bit, 256 levels of the red, green and blue (rgb) primary colors and cyan, magenta and yellow complementary colors, along with a full 8-bit, 256 levels grayscale. gradients of full saturation of intermediate colors (orange, yellow-green, green-cyan, blue-cyan, violet, and red-magenta), and a full hue spectrum are also present. color charts are not gamma corrected.
+
+atari
+atari 2600
+the television interface adaptor (tia) is the custom computer chip that generated graphics for the atari video computer system game console. 
+it generated different yiq color palettes dependent on the television signal format used.
+
+ntsc
+with the ntsc format, a 128-color palette was available, built based on eight luma values and 15 combinations of i and q chroma signals (plus i = q = 0 for a pure grayscale):
+
+the above image assumes there is no limit on the number of colors per scan line. with the system's actual color restrictions (and proper change in aspect ratio), the same image would look very different:
+
+pal
+with the pal format, a 104-color palette was available. 128-color entries could still be selected, but due to the different color encoding scheme, 32 color entries results in the same eight shades of gray:
+
+the above image assumes there is no limit on the number of colors per scanline. with the system's actual color restrictions (and proper change in aspect ratio), the same image would look very different:
+
+secam
+the secam palette was reduced to a simple 3-bit rgb, containing only 8 colors (black, blue, red, magenta, green, cyan, yellow and white) by mapping the luma values:
+
+modern hardware-assisted implementation
+the moviecart (by rob bairos) is a modern (2022) cartridge that implements sophisticated display techniques that allow more realistic images to be displayed on the atari 2600. the moviecart format offers 80 pixels horizontally, and 192 (ntsc) or 242 (pal, secam) scanlines of resolution. each line effectively has 10 multiplexed sprites displayed in groups of 5 on alternating frames. each of the sprites can have its own colour. a sophisticated encoding algorithm allows arbitrary images to be displayed using all the colours available on the console, with some limitations related to colour changes. the encoder dithers and optimises colour usage to minimise errors in image reproduction.
+note that the original atari 2600 hardware is still being used to display these images; the 6507 microprocessor is retrieving colours from memory, and the tia chip is still producing the video data. 
+the following images are screen grabs using the gopher2600 emulator, but increased in brightness to match what the human eye actually sees when viewing on hardware.
+
+pal
+resolution: 80 x 242 (128 colours)
+
+ntsc
+resolution: 80 x 192 (128 colours)
+
+secam
+resolution: 80 x 242 (8 colours)
+
+lynx
+the atari lynx used a 4096-color palette. the video hardware was custom built and designed by jay miner and dave morse it used two chips, named mikey and suzy.
+resolution was 160×102 pixels and it was possible to use 16 simultaneous colors per scanline.
+
+nintendo
+nintendo entertainment system
+the picture processing unit (ppu) used in the nintendo entertainment system generates color based on a composite video palette.the 54-colors can be created based on four luma values, twelve combinations of i and q chroma signals and two series of i = q = 0 for several pure grays.
+there are two identical whites, one of the blacks has less-than-zero brightness, and one of the lighter grays is within 2% of another, so sometimes the palette has been reported to have 52 to 55 colors.
+in addition to this, it had 3 color emphasis bits which can be used to dim the entire palette by any combination of red, green and blue. this extends the total available colors to 448, but inconveniently divided into 8 variations of the base 56. because it affects the whole palette at once it may be considered more of a filter effect applied to the image, rather than an increased palette range.
+the ppu produces colors outside of the tv color gamut, resulting in some colors being presented differently on different tv systems.
+
+the nes ppu uses a background palette with up to 13 of these colors at a time, consisting of one common backdrop color and four subpalettes of three colors, chosen from the above set. the ppu's video memory layout allows choosing one subpalette for each 16×16 pixel area of the background. (a special video mode of the mmc5 mapper overrides this, assigning a subpalette to each 8×8-pixel tile.) sprites have an additional set of four 3-color subpalettes (with color 0 being transparent in each) and every 8x8 or 8x16 pixels can have their own subpalette, allowing for a total of 12 different colors to use for sprites at any given time, or a total of 25 on-screen colors.
+because of the constraints mentioned above, converting a photograph often results in attribute clash at 16×16-pixel boundaries. conversions with and without dithering follow, using the hex palette 0f160608 0f162720 0f090010 0f0a1910 (the repeated 0f represents black as the common backdrop color).
+
+game boy
+the original game boy uses a monochrome 4-shade palette. because the non-backlit lcd display background is greenish, this results in a "greenscale" graphic display, as it is shown in the simulated image (at game boy display resolution), below. the game boy pocket and game boy light uses a monochrome 4-shade palette using actual gray.
+
+super nintendo entertainment system
+the picture processing unit (ppu) used in the super nintendo entertainment system has a 15-bit rgb (32,768 color) palette, with up to 256 simultaneous colors.
+however, while the hardware palette can only contain 256 entries, in most display modes the graphics are arranged into between 2 and 4 layers, and these layers can be combined using additive or subtractive color blending. 
+because these blended colors are calculated by the hardware itself, and do not have to be represented by any of the existing palette entries, the actual number of visible colors onscreen at any one time can be much higher.
+the exact number depends on the number of layers, and the combination of colors used by these layers, as well as what blending mode and graphical effects are in use. in theory it can show the entire 32,768 colors, but in practice this is rarely the case for reasons such as memory use. most games use 256-color mode, with 15-color palettes assigned to 8x8 pixel areas of the background.
+
+game boy color
+the game boy color systems use a 15-bit rgb (32,768 colors) palette.
+the specific game boy color (type 3) game cartridges presents up to 56 colors without the use of special programming techniques from the full 32,768. from these, 32 are for a background palette, plus 8 hardware sprite palettes, with 3 colors plus transparent each. typically sprite palettes share some colors (black, white or others), so the total colors displayed may be less than 56.
+though there is a 56 color limit, this in of itself is a palette storage limit and not an actual hardware limitation. as such, the programmer can swap out the palettes on a per-scanline basis. because of this ability to swap out the palettes each scanline, over eight thousand colors can actually appear on screen per frame when programmed on a per-scanline basis.
+
+when an older monochrome original game boy game cartridge (type 1) is plugged-in, if certain combinations of the controls are held during startup (or if the game is recognized from a hard-coded list in the device's rom), the games are colorized with one of the factory 12 false color palettes. in this mode, games can have from 4 to 10 colors, four are for the background plane palette and there are two more hardware sprite plane palettes, with three colors plus transparent each. if the system does not have a palette stored for a game, it defaults to the "dark green" palette.
+the following shows these startup palettes (background plus both sprite planes) and the combination of controls used (the names are taken from the game boy color user's manual; the colors are simulated):
+
+game boy advance
+the game boy advance/advance sp/micro systems also uses a 15-bit rgb palette, and along with the original and color modes, they have also a specific highcolor 32,768 colors mode. the lcd displays of the micro and some models of the sp are backlit, giving brighter images.
+
+nintendo ds
+the nintendo ds has a display capable of using 18-bit rgb color palette, making a total of 262,144 possible colors; of these, 32,767 simultaneous colors can be displayed at once. the 18-bit color palette is only available in 3d video mode or in 2d modes when blending effects are used. the other video modes are similar to the gba, but feature some enhancements. for example, the ds provides a number of 16 extended 256 color palettes for backgrounds as well as sprites on each of the two screens, allowing for a total of 8192 colors per frame (the practical number may be less due to some of the colors being considered transparent). the handheld's successor, nintendo ds lite, has brighter screens which makes some old gba and nds titles look different.
+
+nintendo 3ds
+the nintendo 3ds has a 24-bit rgb palette.
+
+sega
+master system
+the master system had a 6-bit rgb palette (64 colors), with 31 colors on-screen at once. it is possible to display all 64 colors at once using raster effects (line interrupts). the console used a proprietary chip called video display processor (vdp) with the same internal design as the texas instruments tms9918 (used in the sg-1000), although with enhanced features such as extra colors.there are only 512 different 8x8 tile patterns to cover the screen though, when 768 would be required for a complete 256x192 screen. this means that at least 1/3 of the tiles will have to be repeated. to help maximize tile reuse, they can be flipped either vertically or horizontally. the 64 sprites of 8x16 pixels can also be used to help to cover the screen (max 8 per scanline).
+because of the constraints mentioned above, there are no current accurate simulated screen images available for the sega master system.
+
+mega drive/genesis and pico
+the mega drive/genesis and pico used the sega 315-5313 (yamaha ym7101) video display processor, providing a 9-bit rgb palette (512 colors, up to approximately 1500 including shadow and highlight mode) with up to 61 colors on-screen at once without raster effects (4 palette lines of 16 colors each, palette indices $x0 are definable but considered as transparent, and can only be used as the background color).
+
+game gear
+the game gear had a 12-bit rgb palette (4096 colors), with 32 colors on-screen at once.
+
+32x
+the sega 32x had a 15-bit rgb palette (32768 colors), with all colors available for display.
+
+nec
+turbografx-16
+the turbografx-16 used a 9-bit rgb palette consisting of 512 colors with 482 colors on-screen at once (16 background palettes of 16 colors each, with at least 1 common color among all background palettes, and 16 sprite palettes of 15 colors each, plus transparent which is visible as the overscan area).
+
+fairchild
+channel f
+the fairchild channel f is able to use one plane of graphics and one of four background colors per line, with three plot colors to choose from (red, green, and blue) that turned into white if the background is set to black, at a resolution of 128 × 64, with approximately 102 × 58 pixels visible. in total there are 8 possible colors.
+
+mattel electronics
+intellivision
+the intellivision graphics are powered by the standard television interface chip (stic), generating a 16-color palette.
+
+epoch
+super cassette vision
+the super cassette vision, equipped with an epoch tv-1 video processor, uses a 16-color palette.
+
+magnavox
+odyssey 2
+the magnavox odyssey 2 is equipped with an intel 8244 (ntsc) or 8245 (pal) custom ic, and uses a 4-bit rgbi color palette. bits 0 to 2 define grid color, bits 3 to 5 define background color, bit 6 defines grid luminance (0=dim/1=bright) and bit 7 is unused.
+
+see also
+color depth
+computer monitor
+indexed color
+list of 8-bit computer hardware palettes
+list of 16-bit computer hardware palettes
+list of color palettes
+list of home computers by video hardware
+list of monochrome and rgb color formats
+list of software palettes
+palette (computing)
+
+
+== references ==

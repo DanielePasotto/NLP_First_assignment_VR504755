@@ -1,0 +1,13 @@
+tax avoiders is a single-player video game for the atari 2600 released in 1982. it was conceived by darrell wagner at dunhill electronics; he was billed on the packaging as a "licensed tax consultant and former irs revenue agent". the game was developed by todd clark holm, "an independant [sic] investment advisor, registered with the s.e.c.". game designed by john simonds and published by american videogame.
+
+gameplay
+the object of tax avoiders is to help "john q" become a millionaire within one game year by collecting income and avoiding taxes. there are two alternating game phases. in one, the player moves around the screen, collecting dollar bills and avoiding red tape; this represents maximizing income for the quarter. at the end of the quarter, the other phase has the player move around to manage his investments while another sprite oscillates between an internal revenue service (irs) agent, a certified public accountant (cpa), and an investment advisor. if the player is caught by the irs agent, he is audited, and always loses the audit, which takes 50% of his income. if he encounters the cpa, he is charged a fee but gains new tax-sheltered investment options. if he encounters the investment advisor, he can maximize his tax-sheltered investment returns.
+
+see also
+list of atari 2600 games
+
+references
+ian bogost (2007). persuasive games: the expressive power of videogames. mit press. pp. 51–52, 350. isbn 978-0-262-02614-7.
+
+external links
+tax avoiders can be played for free in the browser at the internet archive

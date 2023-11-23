@@ -1,0 +1,28 @@
+sanitarium is a psychological horror point-and-click adventure video game that was originally released for microsoft windows. it was developed by dreamforge intertainment and published by asc games in 1998. it was a commercial success, with sales around 300,000 units. in 2015, it was ported to ios and android devices.
+
+plot
+after a car accident knocks him unconscious, a man awakens from a coma, his face fully bandaged, to find that he has been admitted to a dilapidated sanitarium and that he cannot remember who he is or where he came from, or how he came to be there. his fellow inmates seem to know him simply as "max".
+as he delves deeper into the asylum's corridors in search of answers, max finds himself transported to various obscure and otherworldly locations: a small town inhabited only by malformed children and overseen by a malevolent alien entity known only as "mother", a demented circus surrounded by an endless ocean and terrorized by a squid-like individual, an alien hive overrun by cyborg insects, and an aztec village devastated by the return of the god quetzalcoatl. between each episode, max returns to the asylum grounds, blending real and unreal, each time closer to regaining his memory and unraveling the truth surrounding the mysterious dr. morgan, head of the asylum. he remembers the death of his younger sister sarah years ago and the real reason behind his institutionalization. it is revealed that max was working on a cure for a deadly disease, but his rival, jacob morgan, didn't like this. he sabotaged max's car and caused him to have an accident. max is in a coma, trapped in a dreamworld. he must wake up and expose dr. morgan's crimes.
+
+gameplay
+the game uses an isometric perspective and a non-tiled 2d navigational system. each world and setting carries a distinct atmosphere that presents either the real world, the imaginary world, or a mix of both of the main protagonist. in many cases, it is unclear to the player if the world the character is currently in is real or a product of max's own imagination. this indistinction underlines much of the horror portrayed in the game.the game is separated into different levels or "chapters" with each having a different style and atmosphere. the player must find clues, solve puzzles and interact with other characters to reach a final challenge where the player must reach the end of a path while avoiding obstacles. if the player fails to do so (by, for instance, getting killed) then the player is transported back to the beginning of the path without losing progress, thus a game over in this game is non-existent. when the player reaches the end of the path, a cinematic is played and the game proceeds to the next chapter.
+
+release
+the game was published by asc games.
+
+reception
+the pc and ios versions received favorable reviews according to the review aggregation website gamerankings. next generation said that the former version was "still vastly different and thoroughly entertaining. if only more companies would take gaming into as different a direction, our jobs would be a lot more interesting."the pc version was commercially successful. according to mike nicholson of dreamforge, the game sold roughly 300,000 units. chris kellner of dtp entertainment, which handled the same pc version's german localization, reported its lifetime sales between 10,000 and 50,000 units in the region.according to pc accelerator, the pc version was a "critical success" that helped to raise dreamforge intertainment's profile as a company.
+
+awards
+the pc version won the "best adventure" award, tied with grim fandango, at computer gaming world's 1999 premier awards. the staff wrote that the game "came from out of nowhere to provide the creepiest, most compelling, and best-told story of the year, bar none". computer games strategy plus' best of 1998 awards, the fifth annual pc gamer awards, gamespot's best and worst of 1998 awards, ignpc's best of 1998 awards and the academy of interactive arts & sciences' (aias) 2nd annual interactive achievement awards all nominated the same pc version as the best adventure game of 1998, but eventually lost these awards to grim fandango. the staff of pc gamer remarked that the same pc version has beautiful graphics, interesting characters, and well-designed puzzles.the game was also a nominee for gamespot's "best story" and aias' "outstanding achievement in character or story development", which were ultimately awarded to starcraft and pokémon red and blue, respectively.
+
+legacy
+in 2013, a programmer from the sanitarium development team announced a project on kickstarter called shades of sanity that was touted as the spiritual successor to sanitarium. the project failed to attain funding. in 2015, a kickstarter-funded adventure game called stasis was released by a south african independent studio the brotherhood. it has been compared to sanitarium.on october 29, 2015, dotemu released an ios port of the game with touchscreen controls, dynamic hint system, achievements and automatic save system.in 2011, adventure gamers named the pc version the 36th-best adventure game ever released.on august 1, 2022, scummvm added support for playing sanitarium using the original windows game files, enabling it to be played on the various platforms scummvm itself supports.
+
+see also
+john saul's blackstone chronicles
+
+references
+external links
+sanitarium at mobygames
+sanitarium at imdb

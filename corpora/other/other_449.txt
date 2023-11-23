@@ -1,0 +1,9 @@
+the castle is a video game released by ascii corporation in 1986 for the fm-7 and x1 computers. it was later ported to the msx and nec branded personal computers, and got a single console port for the sg-1000. the game is set within a castle containing 100 rooms, most of which contain one or more puzzles.
+it was followed by castlequest (castle excellent in japan). both games are early examples of the metroidvania genre.
+
+gameplay
+the object of the game is to navigate through the castle to rescue the princess. the player can push certain objects throughout the game to accomplish progress. in some rooms, the prince can only advance to the next room by aligning cement blocks, honey jars, candle cakes, and elevator controlling block. additionally, the player's progress is blocked by many doors requiring a key of the same color to unlock, and a key is removed from the player's inventory upon use. the prince must be standing on a platform next to the door to be able to unlock it, and cannot simply jump or fall and press against the door. the player can navigate the castle with the help of a map that can be obtained early in the game. the map will provide the player with a matrix of 10x10 rooms and will highlight the room in which the princess is located and the rooms that he had visited. the player must also avoid touching enemies like knights, bishops, wizards, fire spirits, attack cats and phantom flowers.
+
+references
+external links
+the castle at mobygames

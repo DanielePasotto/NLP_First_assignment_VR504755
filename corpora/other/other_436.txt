@@ -1,0 +1,60 @@
+a number of games have been published based on the dune universe created by frank herbert.
+
+card games
+dune (1997): collectible card game produced by five rings publishing group/last unicorn games and later wizards of the coast. each player leads a planetary house, "battling, conniving, and bribing its way to greatness ... players bid for powerful characters, search for the life-prolonging spice melange, avoid sandworms, engage in interstellar commerce, and, naturally, try to kill each other".
+
+board games
+dune (1979/2019): avalon hill/gale force nine
+dune (1984): parker brothers
+dune: imperium (2020): dire wolf
+
+role-playing games
+dune: chronicles of the imperium (2000): last unicorn games. delayed by legal issues and then a corporate buyout of last unicorn by wizards of the coast, a "limited edition" run of 3000 copies of a core rule-book was initially published, pending wizards of the coast's conversion of the game to its d20 role-playing game system and a subsequent wider release. the game was later discontinued, but was eventually published by wizards of the coast after the acquisition. val mayerik did interior art for the game.
+dune: a dream of rain (2004): evil twin games; unlicensed fan-made game, based on the d20 system.
+dune: adventures in the imperium (2021): modiphius entertainment. its release coincided with the 2021 dune film.
+
+video games
+to date, there have been five licensed dune-related video games released. there have also been many dune-based muds (multi-user dimension) and browser-based online games, all created and run by fans.
+
+dune (1992)
+1992's dune from cryo interactive/virgin interactive blends adventure with strategy. loosely following the story of the 1965 novel dune and using many visual elements from the 1984 film of the same name by david lynch, the game casts the player as paul atreides, with the ultimate goal of driving the harkonnens from the planet dune and taking control of its valuable export, the spice. key to success is the management of spice mining, military forces, and ecology as the player amasses allies and skills. one aspect of the game allows the player to terraform arrakis from a desert into a fertile and green planet, at the cost of sandworm habitat and reduced melange spice production.
+
+dune ii (1992)
+dune ii: the building of a dynasty, later retitled dune ii: battle for arrakis for the european release and the mega drive/genesis port, was released in december 1992 from westwood studios/virgin interactive. often considered to be the first "mainstream modern real-time strategy game", dune ii established many conventions of the genre. only loosely connected to the plot of the novels or films, the game pits three interplanetary houses — the atreides, the harkonnens, and the ordos — against each other for control of the planet arrakis and its valuable spice, all while fending off the destructive natural forces of the harsh desert planet itself.
+
+dune 2000 (1998)
+dune 2000, a 1998 remake of dune ii from intelligent games/westwood studios/virgin interactive, added improved graphics and live-action cutscenes. though gameplay is similar to its predecessor, dune 2000 features an enhanced storyline and functionality.
+
+emperor: battle for dune (2001)
+emperor: battle for dune (intelligent games/westwood studios/electronic arts) was released on june 12, 2001. a sequel to dune 2000, the real-time strategy game features 3d graphics and live-action cutscenes, and casts players as atreides, harkonnens, or ordos.
+
+frank herbert's dune (2001)
+released in 2001 by cryo interactive/dreamcatcher interactive, frank herbert's dune is a 3d video game based on the 2000 sci fi channel miniseries of the same name. as paul muad'dib atreides, the player must become leader of the fremen, seize control of dune, and defeat the evil baron harkonnen. the game was not a commercial or critical success, and cryo subsequently filed for bankruptcy in july 2002.
+
+dune generations (2001, cancelled)
+in 2001, cryonetworks disclosed information about dune generations, an online, 3d real-time strategy game set in the dune universe. an official website for the upcoming game featured concept images, a brief background story and description of the persistent gameworld, and a list of frequently asked questions. the game would be constructed using cryo's own online multimedia development framework scol.within "the infrastructure of a permanent and massive multiplayer world that exists online", dune generations would let players assume control of a dynasty in the dune universe, with the goal of first mastering the natural resources of their own homeworlds and ultimately rising in power and influence through conflicts and alliances with other player dynasties. each of the three available dynasty types - traders, soldiers, or mercenaries - would provide a different playing experience, all with the long-term goal of gaining control of arrakis and its valuable spice.a preview video trailer was released in november 2001. the game was still in the alpha testing stage in february 2002, and the project was ultimately halted after cryo filed for bankruptcy in july.
+
+dune: ornithopter assault (2002, cancelled)
+dune: ornithopter assault was developed by hungarian studio soft brigade 2 for the game boy advance, but was cancelled in 2002. the game was to be a 3d air-to-ground shooter featuring 20 missions, five modes, and multiplayer link cable connectivity. without the license, the game was eventually released as elland: the crystal wars on pc.
+
+dune wars mod for civilization iv (2009)
+the dune wars mod is a total conversion of civilization iv: beyond the sword to the dune setting. the mod was featured by tom chick in the relaunched tom vs bruce series. in 2015 an updated version of the mod called dune wars: revival was released.
+
+dune: spice wars (2022)
+dune: spice wars is released on steam in early access by french development studio shiro games on april 26, 2022. the game is inspired by dune and dune 2 with a strong influence by the books rather than the movies. the new game is a hybrid of rts and 4x game mechanism, according to the studio: "is it an rts or a 4x? it is both. the game is real time, but the pace is slower than in a typical rts (and you can pause and fast forward). the game also features exploration, territory control, economic growth, combat, politics and spying, features that make it a true 4x game but do not detract from the core rts experience that players would expect."
+
+dune: awakening (tba)
+dune: awakening is an upcoming open-world action survival mmo game set on the planet arrakis, where players can enjoy exploration of dune. it was first announced by its publisher and developer funcom on gamescom opening night live 2022; the release date has not been revealed, and it will be released on ps5, pc and xbox series x/s. the first trailer was premiered on august 23, 2022.
+
+online games
+dunemush
+dune ii was an unlicensed, online multiplayer mush active in the early 1990s.
+
+behind the dune
+behind the dune is an unlicensed online flash single player game first released in 2016. the game is based on dune (1992) by cryo interactive.
+
+references
+external links
+dune video game series at mobygames
+frank herbert's dune games at uvlist.net
+dune games at dune2k.com

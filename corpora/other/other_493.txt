@@ -1,0 +1,97 @@
+video game design is the process of designing the content and rules of video games in the pre-production stage and designing the gameplay, environment, storyline and characters in the production stage. some common video game design subdisciplines are world design, level design, system design, content design, and user interface design. within the video game industry, video game design is usually just referred to as "game design", which is a more general term elsewhere.
+the video game designer is very much like the director of a film; the designer is the visionary of the game and controls the artistic and technical elements of the game in fulfillment of their vision. however, with very complex games, such as mmorpgs or a big budget action or sports title, designers may number in the dozens. in these cases, there are generally one or two principal designers and many junior designers who specify subsets or subsystems of the game. as the industry has aged and embraced alternative production methodologies such as agile, the role of a principal game designer has begun to separate - some studios emphasizing the auteur model while others emphasizing a more team oriented model. in larger companies like electronic arts, each aspect of the game (control, level design) may have a separate producer, lead designer and several general designers.
+video game design requires artistic and technical competence as well as sometimes including writing skills. historically, video game programmers have sometimes comprised the entire design team. this is the case of such noted designers as sid meier, john romero, chris sawyer and will wright. a notable exception to this policy was coleco, which from its very start separated the function of design and programming. as video games became more complex, computers and consoles became more powerful, the job of the game designer became separate from the lead programmer. soon, game complexity demanded team members focused on game design. many early veterans chose the game design path eschewing programming and delegating those tasks to others.
+
+overview
+video game design starts with an idea, often a modification on an existing concept. the game idea will fall within one or several genres. designers often experiment with mixing genres. the game designer usually produces an initial game proposal document containing the concept, gameplay, feature list, setting and story, target audience, requirements and schedule, staff and budget estimates.many decisions are made during the course of a game's development about the game's design; it is the responsibility of the designer to decide which elements will be implemented. for example, consistency with the game's vision, budget or hardware limitations. design changes have a significant positive or negative impact on required resources.the designer may use scripting languages to implement and preview design ideas without necessarily modifying the game's codebase. a game designer often plays video games and demos to follow the markets' development.over time, it has become common for a game designer's name to misleadingly be given an undue amount of association to the game, neglecting the rest of the development team. this is in stark contrast to the industries' origins, when creators were often given little to no recognition. coincidentally, this lack of credit lead warren robinett to create the first easter egg in a video game.
+funding, traditionally provided by game publishers, who may have specific expectations from a game, must be taken into account, as most video games are market-driven — developed to sell for profit. however, if financial issues do not influence designer's decisions, the game becomes design- or designer-driven; few games are designed this way because of lack of funding, though it is becoming more common among indie game developers, alongside alternative sources of funding. alternatively, a game may be technology-driven, such as quake (1996), to show off a particular hardware achievement or to market the game engine. finally, a game may be art-driven, such as myst (1993) and journey (2012), mainly to show off impressive visuals designed by artists.in rules of play (2004), katie salen and eric zimmermann write:
+
+a game designer is a particular kind of designer, much like a graphic designer, industrial designer or architect. a game designer is not necessarily a programmer, visual designer or project manager, although sometimes he or she can also play these roles in the creation of a game. a game designer might work alone or as part of a larger team. a game designer might create card games, social games, video games or any other kind of game. the focus of a game designer is designing game play, conceiving and designing rules and structures that result in an experience for players.
+thus game design, as a discipline, requires a focus on games in and of themselves. rather than placing games in the service of another field such as sociology, literary criticism, or computer science, our aim is to study games within their own disciplinary space. because game design is an emerging discipline, we often borrow from other areas of knowledge — from mathematics and cognitive science; from semiotics and cultural studies. we may not borrow in the most orthodox manner, but we do so in the service of helping to establish a field of game design proper.
+
+game designer
+a game designer is a person who designs gameplay, conceiving and designing the rules and structure of a game. many designers start their career in testing departments, other roles in game development or in classroom conditions, where mistakes by others can be seen first-hand.
+lead designer coordinates the work of other designers and is the main visionary of the game. lead designer ensures team communication, makes large design decisions and presents design outside of the team. often the lead designer is technically and artistically astute. keeping well-presented documentation also falls within the lead designer responsibilities. lead designer may be the founder of a game development company or a promoted employee.
+game mechanics designer or systems designer designs and balances the game's rules.
+level designer or environment designer is a position becoming prominent in the recent years. level designer is the person responsible for creating game environment, levels and missions.
+planner is a term referring to a game designer in the japanese video game industry, where game designers are typically credited as planners.
+
+compensation
+in 2010, a game designer with more than six years of experience earned an average of us$65,000 (£44,761.22 sterling), us$54,000 (£37,186.24) with three to six years of experience and $44,000 (£30,299.90) with less than 3 years of experience. lead designers earned $75,000 (£51,647.56)  with three to six years of experience and $95,000 (£65,420.24) with more than six years of experience. in 2013, a game designer with less than 3 years of experience earned, on average, $55,000 (£37,874.88). a game designer with more than 6 years of experience made, on average, $105,000 (£72,306.58). the average salary of these designers varies depending on their region. as of 2015 the salary of experienced workers has shifted to approximately us$87,000 (£59,911.17) as of january 17, 2020, the average annual pay for a game designer in the united states is $130,000 a year.
+
+disciplines
+world design
+world design is the creation of a backstory, setting and theme for the game; often done by a lead designer. world design can also be the creation of a universe or a map, as well as topics or areas that are likely to be pursued by the player. it is a map referenced for creation of everything as it shows where it is and allows for the most logistical design in any given game. world design shapes the direction the game goes towards.
+
+system design
+system design is the creation of game rules and underlying mathematical patterns. system design is the enacted simulation of a game designed to interact or react with the player. the "experience" a player has with a game is attributed to how the game's system is designed. a complex system with depth leads to a more unpredictable strand of events to immerse the player into the video game.
+
+content design
+content design is the creation of characters, items, puzzles, missions, or any aspect of the game that is not required for it to function properly and meet the minimum viable product standard. in essence, content is the complexity added to a minimum viable product to increase its value.
+
+game writing
+game writing involves writing dialogue, text and story.this is one of the first steps that go into making a video game. this encompasses many different elements of the process. writing in video games also includes the elements in which the literature is presented. voice acting, text, picture editing and music are all elements of game writing.
+
+level design
+level design is the construction of world levels and its features.level design makes use of many different fields to create a game world. lighting, space, framing, color and contrast are used to draw a player's attention. a designer can then use these elements to guide or direct the player in a specific direction through the game world or mislead them.
+
+user interface design
+user interface (ui) design deals with the construction the user interactions and feedback interface, like menus or heads-up displays.the user interface also incorporates game mechanics design. deciding how much information to give the player and in what way allows the designer to inform the player about the world, or perhaps leave them uninformed. another aspect to consider is the method of input a game will use and deciding to what degree a player can interact with a game with these inputs. these choices have a profound effect on the mood of the game, as it directly affects the player in both noticeable and subtle ways.
+user interface design in video games has unique goals. a conscious decision has to be made regarding the amount of information to relay to the player. however, the ui in games do not have to be absolutely streamlined. players expect challenges and are willing to accept them as long as the experience is sufficiently rewarding. by the same token, navigating or interaction with a game's ui can be satisfying without the need to be effortless.
+
+audio design
+audio design involves the process of creating or incorporating all of the sounds that are in the game, like music, sound effects or voice acting. this includes the theme song and jingles used in title screens and menus.
+
+user experience design
+the disciplines listed above all combine to form the discipline of game feel. it ensures that the flow of the game and the user interaction with the game elements are functioning smoothly.
+
+game elements
+narrative
+numerous games have narrative elements which give a context to an event in a game, making the activity of playing it less abstract and enhance its entertainment value, although narrative elements are not always clearly present or present at all. the original version of tetris is an example of a game apparently without narrative. some narratologists claim that all games have a narrative element. some go further and claim that games are essentially a form of narrative. narrative in practice can be the starting point for the development of a game or can be added to a design that started as a set of game mechanics.
+
+gameplay
+gameplay is the interactive aspects of video game design. gameplay involves player interaction with the game, usually for the purpose of gameplay is entertainment, education or training.
+
+design process
+the design process varies from designer to designer and companies have different formal procedures and philosophies.
+the typical "textbook" approach is to start with a concept or a previously completed game and from there create a game design document. this document is intended to map out the complete game design and acts as a central resource for the development team. this document should ideally be updated as the game evolves throughout the production process.designers are frequently expected to adapt to multiple roles of widely varying nature; for example, concept prototyping can be assisted with the use of pre-existing engines and tools like gamemaker studio, unity, godot or construct. level designs might be done first on paper and again for the game engine using a 3d modeling tool. scripting languages are used for many elements—ai, cutscenes, gui, environmental processes, and many other behaviors and effects—that designers would want to tune without a programmer's assistance. setting, story and character concepts require a research and writing process. designers may oversee focus testing, write up art and audio asset lists and write game documentation. in addition to the skillset, designers are ideally clear communicators with attention to detail and ability to delegate responsibilities appropriately.design approval in the commercial setting is a continuous process from the earliest stages until the game ships.when a new project is being discussed (either internally or as a result of dialogue with potential publishers), the designer may be asked to write a sell-sheet of short concepts, followed by a one or two-page pitch of specific features, audience, platform and other details. designers will first meet with leads in other departments to establish agreement on the feasibility of the game given the available time, scope and budget. if the pitch is approved, early milestones focus on the creation of a fleshed-out design document. some developers advocate a prototyping phase before the design document is written to experiment with new ideas before they become part of the design.as production progresses, designers are asked to make frequent decisions about elements missing from the design. the consequences of these decisions are hard to predict and often can only be determined after creating the full implementation. these are referred to as the unknowns of the design and the faster they are uncovered, the less risk the team faces later in the production process. outside factors such as budget cuts or changes in milestone expectations also result in cuts to the design and while overly large cuts can take the heart out of a project, cuts can also result in a streamlined design with only the essential features, polished well.towards the end of production, designers take the brunt of responsibility for ensuring that the gameplay remains at a uniform standard throughout the game, even in very long games. this task is made more difficult under "crunch" conditions, as the entire team may begin to lose sight of the core gameplay once pressured to hit a date for a finished and bug-free game.
+
+game design tools
+traditionally, game designers used simple tools like word, excel or just plain pen and paper. as the field has evolved and player agency and localization started to play a bigger role in game development, the need for professional tools has emerged for this particular field.examples of software for narrative design and storytelling include articy:draft 3 and twine. tools like these often help to inform the earliest stages of the design and development process, before visual content and software development is started in earnest.
+there are various kinds of free 3d design software available to the public, from the mainly graphically focussed, such as blender, to game engines and software development toolkits, such as unreal engine and unity, that promote communities that self-educate as well as market 3d models and tutorials for beginners.
+
+see also
+game art design
+list of video game designers
+list of video gaming topics
+list of books about video games
+first playable demo
+educational game design
+narrative designer
+
+references
+sources
+adams, ernest; rollings, andrew (2003). andrew rollings and ernest adams on game design. new riders publishing. isbn 1-59273-001-9.
+bates, bob (2004). game design (2nd ed.). thomson course technology. isbn 1-59200-493-8.
+bethke, erik (2003). game development and production. texas: wordware publishing, inc. isbn 1-55622-951-8.
+brathwaite, brenda; schreiber, ian (2009). challenges for game designers. charles river media. isbn 978-1-58450-580-8.
+moore, michael e.; novak, jeannie (2010). game industry career guide. delmar: cengage learning. isbn 978-1-4283-7647-2.
+oxland, kevin (2004). gameplay and design. addison wesley. isbn 0-321-20467-0.
+salen, katie; zimmerman, eric (2003). rules of play: game design fundamentals. mit press. isbn 0-262-24045-9.
+shahrani, sam (april 25, 2006). "educational feature: a history and analysis of level design in 3d computer games". archived from the original on 2009-04-22. retrieved 29 march 2010.
+
+external links
+
+game design veteran tom sloper's game biz advice, including lessons on game design
+acm queue article "game development: harder than you think" by jonathan blow
+the art of computer game design by chris crawford
+game design at curlie
+example game design document by chris taylor
+"so you wanna be a game designer" at gamespot
+the designer at the wayback machine (archived january 7, 2008) at eurocom
+the philosophy of game design (part 1) archived 2013-11-05 at the wayback machine at the escapist
+gdp2: game designs and game design patterns collection archived 2016-10-21 at the wayback machine hosted by interactive institute
+the chemistry of game design at gamasutra - by daniel cook
+daniel cook: game design theory i wish i had known when i started video from youtube
+hunger games archived 2015-05-11 at the wayback machine (january 2015). "a new wave of videogames offers lessons in powerlessness, scarcity and inevitable failure. what makes them so compelling?" will wiles, aeon
+investigating the polish school of video gaming

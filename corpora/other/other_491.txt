@@ -1,0 +1,130 @@
+emergency is a series of real-time strategy simulation video games by german developer sixteen tons entertainment, designed by ralph stock. in the games, players control emergency services—namely police, fire, emergency medical services, and technical services—and command operations to handle a variety of emergencies.
+the first game in the series, emergency: fighters for life, was published by topware interactive in 1998. emergency 2: the ultimate fight for life was published by take-two interactive in 2002. take-two would also publish emergency 3: mission life in 2005 and emergency 4: global fighters for life in 2006. since 2010, deep silver has controlled publishing operations of the emergency series and its spin-offs.
+
+overview
+gameplay
+controls and graphics are typical of real-time strategy (rts) games: the left-mouse button selects unit(s) and the right-mouse button commands movement or action(s) of the selected unit(s). the camera uses typical isometric angles of the rts genre. missions in emergency usually start off with a short cinematic cutscene to familiarize the player with the situation. the missions take on a standard system of events in numerical order, each individual mission harder and more demanding than the last. each mission requires players to carefully choose which units to deploy to effectively handle the incident. since emergency 5, missions (renamed events) take on a different system. all events of a campaign, multiplayer, or free play mode can be attended in one game session without loading screens. between each major event, the player deals with standard dynamic emergencies such as car accidents, medical emergencies, crimes, fires, missing persons, pipeline ruptures or others.
+
+multiplayer
+while all games of the main and spin-off series can be played offline and in single-player mode, an online cooperative multiplayer mode is also supported since emergency 4. emergency hq can only be played with a continuous internet connection, which is usual for multiplayer mobile games. emergency hq lacks a multiplayer mode, instead having clan-like rescue alliances where players can communicate via in-game chat and help each other by loaning units for their missions. every player can create such a rescue alliance and invite other players. these alliances compete against other alliances in the league, where the combined scores of the active alliance members are compared.
+
+setting
+most emergency games are set in present-day germany. the settings of early entries were inspired by germany but otherwise fictional, while later entries are mostly set in real cities such as cologne, hamburg, munich, and berlin. some games have introductory missions set in the past, such as in the middle ages where the player must handle witch-hunts and plague outbreaks. unofficial third-party mods exist to change the setting to other locales such as the united states, united kingdom, and other countries in europe.
+
+games
+emergency: fighters for life
+emergency: fighters for life is the first game in the emergency series. released on july 31, 1998 it has 30 scenarios, which are ordered by increasing difficulty. the scenarios include, for example, an accident at a race track, a plane crash, a flood, a traffic accident and a bomb threat, as well as scenarios based on true events such as ramstein airshow disaster. players can choose from up-to 20 different rescue vehicles.
+
+reception
+emergency: fighters for life became the headstone of the emergency series, creating a world for the modding community and a long-term franchise for sixteen tons entertainment. 
+it has a metacritic score of 71%.
+
+emergency 2: the ultimate fight for life
+emergency 2: the ultimate fight for life, released on november 11, 2002, has a campaign with 25 scenarios. the missions ranging from a train accident at a rail crossing to airplane crashes and an alien invasion. the number of emergency vehicles has increased to over 25. the graphics engine and visual style have been revised, and for the first time the emergency units are able to move within buildings.
+on 24 july 2003, a deluxe edition of emergency 2 was released, which features two new missions and voice control features.
+
+emergency 3: mission:life
+known as emergency 3 in north america, this installment is the first to use a 3d engine and a movable camera angle instead of a 2d engine. in addition there are 20 new missions, as well as two new game-modes; endless and challenge, where the player handles an infinite amount of everyday emergency situations.
+in emergency 3, players can use deploy more than 25 different rescue vehicles. previously divided into police, fire and emergency medical services, emergency 3 introduced technical forces, geared to handle a wide variety of miscellaneous issues formerly resolved by other units. as a result, the mobile crane and bridge layer vehicle were moved under them from the fire department. tech units are, however, always referred to as "technical assistants", as the german term "thw" would have created trademark violations.
+emergency 3 also introduces the ability for players to use an editor software. this allows the player to create custom maps, emergencies, missions, vehicles, personnel and custom game features. this inspired a growing modding community to create modifications based on different cities and countries emergency services.
+
+emergency 4: global fighters for life
+known as 911: first responders in north america, released april 2006, the game's campaign now feature mandatory interludes and objectives before players can proceed to the next large-scale operation. for overseas missions, one has to select a handful of units with the limited room on the tech plane, and rely on them for the entire mission. for the first time in the emergency series, there is also a cooperative multiplayer mode, where players can join online lobbies where the host decides either online free-play or missions to play. the previous graphics engine and controls are optimized compared to its predecessor. in emergency 4, players also have the opportunity not only to play campaign mode but also in a free-play mode to play and to achieve high scores.
+emergency 4: global fighters for life contains 20 missions and the endless and challenge free play modes. it is also the first in the series to support multiplayer gameplay.
+the deluxe release includes three extra missions, support for voice commands, plus some additional game features. 
+the game allows the player to use over 25 emergency vehicles plus varieties of rescue personnel. the abilities of the tec forces have been extended since their addition in emergency 3: fire department bulldozers have returned from emergency 2 as tech wheel loaders for obstacle removal, while the new recovery helicopter and its winch allows engineers to access and rescue people in unreachable, grounded locations. the medical rescue helicopter has been downgraded into a standard air ambulance.
+the game can be extended with several modifications by the community, such as the winterberg mod or the los angeles mod.
+besides german and english, the game has been translated into spanish, italian, czech, and polish.
+
+reception
+spieletipps.de may 1, 2006 – 86% ″disasters have never been more awesome! but clever fighting calls for precise planning - that motivates!″
+pc games june 6 - 65% "emergency 4 attracts fire department 3 past - but just barely."
+pc powerplay may 6 - 84% "terrific fire spectacle. here's my incentive is huge, to master a perfect mission."
+gamestar june 6 - 73% "atmospheric rescue simulation."
+pc action june 6 - 62% "lovers of the preceding parts and other people finding great patience!"
+
+emergency 5
+emergency 5 is the fifth installment of the emergency series and was released in november 2014. innovating on the campaign missions, emergency 5 mixes both campaign and free mode for a more fluid and atmospheric experience. whilst several improvements were made to the game, the title was not received as well as its predecessor. due to performance problems at its first release, and the drastically changed ″emergency world builder″ (the replacement for the previous mod editor), several mod creators refused to move over from emergency 4. while modding is explored in emergency 5, it did not receive the expected level of attention.
+besides german and english, emergency 5 has been translated into french, italian and spanish.
+
+new custom engine
+a new graphics engine built upon ogre was introduced in emergency 5 to replace its predecessor's, aimed to add more detail and create a more realistic atmosphere.
+
+the music
+the main theme of emergency 5 was composed by benny oschmann from dynamedion, a german music composition and production company. the style of the score is a mix of a classic orchestral melody played on strings, accompanied by modern rock sounds.
+
+the complete emergency
+in 2018, a collection of almost all previous emergency titles (with the exception of the first one as well as emergency police) was also released for the anniversary of the game series. the ″classics″ are now also available as download via steam. however, apart from the current patches for emergency 20, this collection offers nothing new.
+
+spin-off games
+emergency police
+emergency police is a spin-off released in 2001. it contains 15 missions, was developed by sixteen tons entertainment and published by koch media. it uses the same graphics and controls like emergency - fighters for life and features a new unit, the swat. other than emergency, emergency police only contains police missions, for example hostage situations and many more.
+
+reception
+gamestar rated emergency police with 48%.
+
+emergency 2012: the quest for peace
+emergency 2012 is the first installment of a spin-off series which was developed by quadriga games, published by deep silver, and uses trinigy's vision engine.
+
+reception
+pc games november 5, 2010 – 80% ″demanding strategy instead of lame sim.″
+
+emergency 2013 (expansion)
+emergency 2013 is the second installment of the spin-off series which was developed by quadriga games, published by deep silver. this is an expansion pack for emergency 2012 and will add four new campaign missions focusing on volcanic disasters, a new freeplay map and new missions to owners of emergency 2012. still controversial it was stated that the emergency 20xx games were not primarily aimed at die-hard emergency fans, but was to draw new players into the series and to take the graphics engine to its peak.
+
+reception
+4players december 7, 2012 — 56% ″a washing up of the predecessor, which offers too little new content.″
+
+emergency 2014 (expansion)
+emergency 2014 is the third and final installment of the spin-off series which was developed by quadriga games, published by deep silver. this second expansion pack for emergency 2012 focusing on meteor disasters. similar to emergency 2013 it features 4 new campaign missions, a new larger freeplay map, and 3 new units. emergency 2014 was released 15 november 2013.
+
+reception
+spieletest.at april 14, 2014 – 70% ″despite slight operational weaknesses, it is simply fun to keep order on the scene of major disasters or small accidents with the large vehicle fleet under enormous time pressure.″
+
+emergency 2016 (expansion)
+this is a new version of emergency 5, containing several new vehicles, 5 new missions, as well as a medieval mission featuring plague doctors. some new mechanics are added in the game as well, for instance, police officers are equipped with pistols unlike the original emergency 5 version, which limited this firearm to be exclusively for swat operatives.
+
+reception
+computerbild spiele october 25, 2015 – 2,7 (satisfactory) ″despite all its weaknesses, ′emergency 2016′ has its appeal.″
+
+emergency 2017 (expansion)
+emergency 2017 is the new version of emergency 2016. it includes the emergency 2016 campaign as well as a new campaign, again starting in the middle ages.
+
+reception
+gamestar december 29, 2016 – 58% ″the actually quite decent catastrophe simulator suffers from a dull ai and inadequate scope.″
+
+emergency 20 (anniversary edition)
+emergency 20 is a replacement for emergency 2017 and additionally recreates 10 missions from the early games of the series to celebrate 20 years of the emergency franchise. after completing a classic mission, a making-of video with the developer speaking about the history of that mission gets unlocked.
+
+mobile games
+emergency ds
+in november 2008, an emergency port for nintendo ds named emergency ds was published by rondomedia. the game includes five scenarios, each with four missions – some of them known from earlier emergency games.
+
+reception
+in 2009, emergency ds was nominated for the first german computer games award (dcp) in the category "best mobile game".
+
+emergency for ios and android
+in emergency for mobile devices, the player controls 18 different units of firefighters, ambulance, police and technical service. the game includes 13 different catastrophe scenarios and was released in june 2012 for apple ios and in march 2013 for android. six more catastrophe scenarios can be added via two in-game purchases, each adding three scenarios.
+
+reception
+according to golem.de the ipad-version of emergency is recommendable, not only for fans of the pc version. in 2013, emergency for ipad was nominated for the german computer games award.
+
+emergency hq
+emergency hq is the first free-to-play-spin-off for android and ios. the game was released in 2018. in the missions, the player calls the needed rescue units and gives them orders via tapping a button in their ring menu and selecting a target. after completing a mission successfully, the player gets coins and mission points. with the coins, players can upgrade their vehicles and buildings, as well as buy decorations for their base. with the earned mission points, players can climb the leaderboard of their league. players can also form rescue alliances and support each other. typically for a free-to-play game, waiting times for upgrades can be decreased with a premium currency that can be purchased with real money.
+
+reception
+according to the pocket pc-magazine, emergency hq is a successful implementation of the emergency game principle: “in conclusion: a strong classic re-issued for the mobile gaming market”.
+
+reception
+emergency has become the best known title by sixteen tons entertainment. emergency hq has more than 1,000,000 downloads in the playstore.
+the series for the pc received overall mixed reviews from critics, with ratings ranging from 39% to 86% for different titles of the series. emergency ds, emergency 2012 and emergency ipad have been nominated for the german computer games award.
+as of 2019, emergency has an active modding community for more than a decade. although emergency is a game ″not for everyone," critics praise the unusual setting and love for detail in the game design. according to feuerwehr-magazin, a german magazine for firefighters, emergency is still one of the best firefighting games in 2019.
+
+see also
+emergency fire response
+the firemen
+the ignition factor
+
+references
+external links
+world of emergency official emergency site

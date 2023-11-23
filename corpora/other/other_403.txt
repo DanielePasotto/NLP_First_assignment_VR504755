@@ -1,0 +1,36 @@
+killer list of videogames (klov) is a website featuring an online encyclopedia devoted to cataloging arcade games past and present. it is the video game department of the international arcade museum, and has been referred to as "the imdb for players".
+
+overview
+the klov's encyclopedia contains extensive entries for more than 4,650 machines made from 1971 through the present. it has cabinet, control panel and marquee images, screen shots and even 3d models of the machine in some cases. entries have machine technical information, a game description, cabinet information, lists cheats, tricks and bugs, discusses conversions and game play, lists trivia and fix information and discusses the game's legacy (such as sequels or similar games it inspired). nearly 1000 entries even have the complete technical manual and/or schematics available for download.
+the klov's entries are heavily weighted for classic arcade games: that is, games released during the golden age of arcade games. most arcade games have an entry, though entries for newer games tend to be spotty. the more popular a game was, the more extensive the entry is likely to be.
+the encyclopedia database is actually a subset of that on the international arcade museum's web site, which expands on the videogame entries with an additional 9,000 entries on other types of coin-operated machines such as pinball machines, slot machines, vending, trade stimulators, and scales.
+the site features a "machine of the moment" and maintains a list of "the top 100 videogames". the site also hosts message boards where collectors and fans can ask questions and get answers from experts, and buy or sell arcade games and parts. it also publishes news related to arcade games.
+
+history
+1980s:
+in the mid-1980s that a master list of coin-operated video games was slowly built by arcade enthusiasts communicating via dial-up bulletin board systems.
+1991:
+this text list became "coin-ops a poppin' - killer list of videogames" in 1991. its first known maintainer was mike hughey, and its second, jeff hansen.
+1992:
+jonathan deitch took over the management of both lists in 1992, which then received frequent updates during his watch. he moved the lists into their first structured database using the database part of the software package appleworks on an apple ii computer. the klov was distributed via bbs systems, as well as via the internet usenet group "rec.games.video.arcade", both of which also provided a reference source for updates to the list.
+1994:
+in 1994 or 1995, a classic arcade game collector in minnesota by the name of brian johnson volunteered to take on upkeep of the list and became the new "klov keeper", a title used to refer to the maintainer of the klov by the usenet collector community at the time. the klov launched as a full brand on or before november 9, 1995. johnson was instrumental in developing the klov's web site from a simple list to a full web-based encyclopedia. johnson's efforts included breaking up the list into a complete online encyclopedia with distinct pages for each entry, rewriting all the content, including pictures in as many listings as was possible, and in general creating a user-friendly and searchable website. visitors could submit suggested changes to johnson, who could then edit any entries by hand.
+1999:
+in late 1999, the klov finally reached 2000 entries. by this time the increasing level of submissions and suggestions was becoming nearly unmanageable for any single person to keep up with, and the work load began to exceed johnson's available time.
+2000:
+in january 2000, greg mclemore became the klov keeper. his company, webmagic, registered the internet domain name 'klov.com' for the site on january 13, and continues to provide substantial financial support for the klov to this day as a chief sponsor.
+community message forums were quickly added to the site, as was a new moderated wiki-style information update system to allow multiple people to administer user contributions. as before, users contributions were screened before being added, though updates were now tracked and submissions would be automatically tied to the record they belonged to.
+2001:
+the following year brought expanded support for hand held mobile devices. after a long beta testing period, version 1.0 of the "klov for palm 7" application was released on may 25. this 100% free application allowed anyone with a palm 7 wireless pda to access klov game entries with text and graphics while on the road. this application is no longer maintained since modern cell phones such as the iphone and palm pre can directly display the klov's offerings via built in modern web browsers.
+additionally, after receiving well over 100,000 messages, the klov's popular message forums were updated in 2001, and the new system, have since received an additional 850,000+ messages to date.
+2002:
+in december 2002, the international arcade museum was formed to expand on work done by the klov over the previous decade. greg mclemore remained the klov keeper and webmagic remained a chief financial contributor. the klov officially became part of the international arcade museum.
+2006:
+on january 23, 2006, the international arcade museum assumed operation of the video arcade preservation society (vaps), the leading collector's group and census taker serving the coin-operated video game community. the vaps.org web site was also converted to work on the lamp platform, and links between the klov and vaps were created. each individual game's entry in klov has a dynamic account of the video arcade preservation society's (vaps) current statistics regarding collector ownership of that particular game.
+2009:
+in 2009, the klov's message forums were upgraded and moved as the forums were serving both sites and have sections about all types of coin-operated machines in addition to videogame sections. the old forum url continues to work as a redirect to the new address.
+
+references
+external links
+the international arcade museum website (formerly klov)
+the video arcade preservation society (vaps) website

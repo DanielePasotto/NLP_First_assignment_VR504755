@@ -1,0 +1,43 @@
+game art design is a subset of game development involving the process of creating the artistic aspects of video games. video game art design begins in the pre-production phase of creating a video game. video game artists are visual artists involved from the conception of the game who make rough sketches of the characters, setting, objects, etc. these starting concept designs can also be created by the game designers before the game is moved into actualization. sometimes, these concept designs are called "programmer art". after the rough sketches are completed and the game is ready to be moved forward, those artists or more artists are brought in to develop graphic designs based on the sketches.
+the art design of a game can involve anywhere from two people and up. small gaming companies tend to not have as many artists on the team, meaning that their artist must be skilled in several types of art development, whereas the larger the company, although an artist can be skilled in several types of development, the roles each artist plays becomes more specialized.
+
+overview
+a game's artwork included in media, such as demos and screenshots, has a significant impact on customers, because artwork can be judged from previews, while gameplay cannot.artists work closely with designers on what is needed for the game.tools used for art design and production are known as art tools. these can range from pen and paper to full software packages for both 2d and 3d art. a developer may employ a tools team responsible for art production applications. this includes using existing software packages and creating custom exporters and plug-ins for them.
+
+history
+video game art development began when video games started to be created. when game development started, the game artists were also the programmers, which is often why very old games like pong lack any sort of creativity and were very minimalistic. it was not until the early 1980s that art began to become more developmentally intricate. one of the first video game artists who contributed more shape and two-dimensional characters was shigeru miyamoto, who created mario and donkey kong.starting in the early 1990s, art requirements in video games were allowed to increase greatly because there was more room in the budget for art. video game art began to be in 3d around 1994, before which it had mainly been 2d art design. this required the artist and programmer to work in congruence very carefully, in the beginning, due to the foreign nature of 3d in video games.as the hardware of video games and technology on a whole advances, the ability to develop art for video games increases exponentially. in more recent years many games have developed a much more realistic art design where some artists choose to have a more stylistic approach to the game. there are some games that aim for realism, modelling characters after real actors and using real film to create the back-up the artistry to make it as real as possible, like in until dawn.
+
+video game artist
+there are several roles under the art development umbrella. each role plays an important part in creating the art for the video game. depending on the size of the game production company, there may be anywhere from two people and up working on the game. the fewer people working on art design, the more jobs people will have to create the different facets of the game. the number of artists working on a game can also be dependent on the type of game being created. for most games there are many roles that must be filled to create characters, objects, setting, animation, and texturizing the game.video game artists must use the same design principles that any other kind of artists use. this adds to the aesthetic value of the art created for video games. the greater understanding of these techniques adds to games to make them have a unique experience.
+
+lead artist / art director
+the art director/lead artist is a person who monitor the progress of the other artists to make sure that the art for the game is staying on track. the art director is there to ensure that all the art created works cohesively. they manage their team of artists and distribute projects. the art director often works with other departments in the game and is involved from the conception of the game until the game is finished.
+
+2d artists
+concept artist: a video game artist who works with game designers to produce concept art (such as character and environment sketches) and shape the "look of the game". a concept artist's job is to follow the art director's vision. the produced art may be in traditional media, such as drawings or clay molds, or 2d software, such as adobe photoshop. concept art produced in the beginning of the production serves as a guide for the rest of development. concept art is used for demonstration to the art director, producers and stakeholders.storyboard artist (or storyboarder): a concept artist who designs and articulates scene sequences for review before main art production. they work with the concept artists and designers of the game from conception, to create an outline for the rest of the artists to follow. sometimes this is passed on to other departments, like game writers and programmers, for a base of their work. they develop the cinematics of the game. the storyboards that are created breakdown scenes and how the camera will move.
+texture artist: a video game artist who creates and applies textures (skins) to the work that has been created by the 3d modellers (polygon meshes). often 2d/texture artists are the same people as the 3d modellers. the texture artist gives depth to the art in a video game, applying shading, gradients, and other classic art techniques through art development software.
+sprite artist: a video game artist who creates non-static characters and objects or sprites for 2d games. each sprite may consist of several frames used for animation.
+map artist (or background modeller): a video game artist who creates static art assets for game levels and maps, such as environmental backdrops or terrain images for 2d games.
+interface artist: a video game artist who works with the interface programmer and designer to produce game interface, such as game menus, huds, etc.
+
+3d artists
+3d modeller: a video game artist who uses digital software (e.g. maya, 3ds max, blender) to create characters, environments (such as buildings), and objects such as weapons an vehicles. any 3d component of a game is done by a 3d modeller.environmental artist: a 3d modeller who works specifically to model the environment of a game. they also work with texturing and colours. they create the terrain that is featured in a video game. environmental artists build the world, the layout, and the landscapes of the video game.
+the animator: a video game artist responsible for bringing life to the characters, the environment, and anything that moves in a game. they use 3d programs to animate these components to make the game as real as possible. the animators often work with technical artists who aid in making the characters able to move in a realistic way.
+lighting artist: a video game artist who works on the light dynamics of a video game. lighting artists adjust colours and brightness to add mood to the game. the lighting changes made in a video game depends on the type of game being created. the goal of the lighting artist is to create a mood that suits the scene and the game.
+
+compensation
+in 2010 an artist or animator with less than three years of experience on average earned us$45k a year. artists with three to six years of experience earned us$61k. an artist with more than six years of experience earned $90k.a lead artist or technical artist earned $66k with three to six years of experience; and $97k with more than six years of experience and an art director with six and more years of experience earned on average, $105k a year.
+
+see also
+game development
+video game design
+video game graphics
+texture artist
+
+notes
+references
+bates, bob (2004). game design (2nd ed.). thomson course technology. isbn 1-59200-493-8.
+bethke, erik (2003). game development and production. texas: wordware publishing, inc. isbn 1-55622-951-8.
+chandler, heather maxwell (2009). the game production handbook (2nd ed.). hingham, massachusetts: infinity science press. isbn 978-1-934015-40-7.
+mcguire, morgan; jenkins, odest chadwicke (2009). creating games: mechanics, content, and technology. wellesley, massachusetts: a k peters. isbn 978-1-56881-305-9.
+moore, michael e.; novak, jeannie (2010). game industry career guide. delmar: cengage learning. isbn 978-1-4283-7647-2.

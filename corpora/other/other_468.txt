@@ -1,0 +1,49 @@
+pang , originally released in japan as pomping world and known in north america as buster bros., is a 1989 action game released by mitchell corporation for arcades in 1989. it was the tenth game released for capcom's cp system arcade hardware.the basic gameplay is identical to a much earlier 1983 japanese msx computer game called cannon ball (also released in 1983 on the zx spectrum as bubble buster). cannon ball was made by japanese publishers hudson soft, and it was licensed by mitchell corporation six years later to make pang.in the game, players must finish a round-the-world quest to destroy bouncing balloons that are terrorising several of earth's landmarks and cities. the fight to save the earth begins on mount fuji, japan, where the players must pass all three stages before moving on to the next location.
+conversions, all titled pang, were released across europe by ocean software in 1990 for the zx spectrum, commodore 64, amstrad cpc, amiga, and atari st.
+
+gameplay
+there are 50 stages at 17 locations: mount fuji, mount keirin, the temple of the emerald buddha, angkor wat, ayers rock, the taj mahal, leningrad, paris, london, barcelona, athens, egypt, mount kilimanjaro, new york, mayan ruins, antarctica, and finally easter island.
+each location has a unique background that shows the area's most famous landmarks. the stages contain a different layout of blocks, some that disappear after being shot, others that do not, and still others that are hidden and can reveal bonuses.
+the stages start with differing numbers and sizes of balloons. the largest balloon divides for the first three times it is popped; after the fourth and smallest balloon is popped it vanishes. each player starts with a single harpoon. when a balloon is popped, special weapons may drop down.
+the other weapons include:
+
+double wire, a twin harpoon that allows two shots at once.
+power wire, a grappling hook that stays attached to the ceiling or block for a short period of time. this time can be decreased by rapidly pressing the fire button.
+vulcan missile, a high-caliber gun that works much like a machine gun allowing rapid shots.there is no ammunition limit to any weapon. the names of the weapons differ between the monitor bezel (given above) and the game's attract mode. other bonuses include:
+
+a force field that protects the player from one hit by a ball or enemy.
+an hourglass that slows the balls down.
+a clock which stops the balls for a short time.
+dynamite that pops all of the balloons down to their smallest size simultaneously.at a certain point in the stage, a food item will drop down that is worth several hundred (or thousand in the later stages) bonus points. these are different and of increasing value, until a 48,000-point cake slice is reached; thereafter the bonuses are all cake slices, alternating between 48,000 and 50,000 points.
+if a player touches a balloon of any size, the player dies and both players must start the stage again.
+when both players touch a balloon at the same time, only player 1 will lose a life but this is somewhat offset because when both players reach a bonus or weapon simultaneously only player 1 will get it.
+players start with 3-5 lives depending on the dip switch setting. extra lives are also given when certain point totals have been accumulated. the stage ends when all of the balloons are successfully cleared. the game ends after all stages have been completed and our heroic duo ride their jeep into the sunset on an easter island beach.
+in the pc engine version the easter island level has three stages instead of two and there is another location, space, after it. there are 18 locations and 54 stages.
+
+release
+the arcade version was released by mitchell corporation in japan and europe. in japan, it was called pomping world, and in europe it was called pang. when the arcade version was released in north america and canada by capcom usa, the name was changed to buster bros.
+a turbografx-cd version was released by hudson soft as pomping world in japan and as buster bros. in north america and canada. a game boy version was also released by hudson soft, titled pang or buster bros.. the game was ported to the zx spectrum, commodore 64, amstrad cpc, amiga and atari st by ocean software, all titled pang and only released in europe. the commodore 64 and amstrad cpc+/gx4000 conversions were available on cartridge only.
+
+reception
+the arcade game was a hit in japan, and had a successful launch in north america. in hong kong, it was the top-grossing conversion kit in january 1990.the arcade game received a positive review from commodore user magazine, scoring it 8 out of 10.the zx spectrum version, titled pang, was awarded a 94% in the february 1991 issue of your sinclair and was placed at number 74 in the "your sinclair official top 100". amiga power were even more enthusiastic, listing it as the 11th best game ever in their initial top 100 list, published with amiga format in april 1991 as a preview of the magazine.
+
+legacy
+the game was the start of a long series of games:
+
+pomping world aka. pang, buster bros. (1989)
+super pang aka. super buster bros. (1990)
+pang 3 aka. buster buddies (1995)
+mighty! pang (2000)
+pang mobile (2009)
+pang: magical michael (2010)the first three games were released as a compilation on the playstation under the name of super pang collection (buster bros. collection in north america) in 1997. the first two versions of the game were included in the playstation portable game capcom puzzle world in 2007.
+
+notes
+references
+external links
+pomping world at the killer list of videogames
+pang at the killer list of videogames
+buster bros at the killer list of videogames
+super pang at the killer list of videogames
+super buster bros at the killer list of videogames
+pang 3 at the killer list of videogames
+mighty! pang at the killer list of videogames
