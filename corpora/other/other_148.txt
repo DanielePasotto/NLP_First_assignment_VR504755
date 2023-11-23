@@ -1,0 +1,84 @@
+computer science and artificial intelligence laboratory (csail) is a research institute at the massachusetts institute of technology (mit) formed by the 2003 merger of the laboratory for computer science (lcs) and the artificial intelligence laboratory (ai lab). housed within the ray and maria stata center, csail is the largest on-campus laboratory as measured by research scope and membership. it is part of the schwarzman college of computing but is also overseen by the mit vice president of research.
+
+research activities
+csail's research activities are organized around a number of semi-autonomous research groups, each of which is headed by one or more professors or research scientists. these groups are divided up into seven general areas of research:
+
+artificial intelligence
+computational biology
+graphics and vision
+language and learning
+theory of computation
+robotics
+systems (includes computer architecture, databases, distributed systems, networks and networked systems, operating systems, programming methodology, and software engineering, among others)in addition, csail hosts the world wide web consortium (w3c), the main international standards organization for the world wide web.
+
+history
+computing research at mit began with vannevar bush's research into a differential analyzer and claude shannon's electronic boolean algebra in the 1930s, the wartime mit radiation laboratory, the post-war project whirlwind and research laboratory of electronics (rle), and mit lincoln laboratory's sage in the early 1950s. at mit, research in the field of artificial intelligence began in late 1950s.
+
+project mac
+on july 1, 1963, project mac (the project on mathematics and computation, later backronymed to multiple access computer, machine aided cognitions, or man and computer) was launched with a $2 million grant from the defense advanced research projects agency (darpa). project mac's original director was robert fano of mit's research laboratory of electronics (rle). fano decided to call mac a "project" rather than a "laboratory" for reasons of internal mit politics – if mac had been called a laboratory, then it would have been more difficult to raid other mit departments for research staff. the program manager responsible for the darpa grant was j. c. r. licklider, who had previously been at mit conducting research in rle, and would later succeed fano as director of project mac.
+project mac would become famous for groundbreaking research in operating systems, artificial intelligence, and the theory of computation. its contemporaries included project genie at berkeley, the stanford artificial intelligence laboratory, and (somewhat later) university of southern california's (usc's) information sciences institute.
+an "ai group" including marvin minsky (the director), john mccarthy (inventor of lisp), and a talented community of computer programmers were incorporated into project mac. they were interested principally in the problems of vision, mechanical motion and manipulation, and language, which they view as the keys to more intelligent machines. in the 1960s and 1970s the ai group developed a time-sharing operating system called incompatible timesharing system (its) which ran on pdp-6 and later pdp-10 computers.the early project mac community included fano, minsky, licklider, fernando j. corbató, and a community of computer programmers and enthusiasts among others who drew their inspiration from former colleague john mccarthy. these founders envisioned the creation of a computer utility whose computational power would be as reliable as an electric utility. to this end, corbató brought the first computer time-sharing system, compatible time-sharing system (ctss), with him from the mit computation center, using the darpa funding to purchase an ibm 7094 for research use. one of the early focuses of project mac would be the development of a successor to ctss, multics, which was to be the first high availability computer system, developed as a part of an industry consortium including general electric and bell laboratories.
+in 1966, scientific american featured project mac in the september thematic issue devoted to computer science, that was later published in book form. at the time, the system was described as having approximately 100 tty terminals, mostly on campus but with a few in private homes. only 30 users could be logged in at the same time. the project enlisted students in various classes to use the terminals simultaneously in problem solving, simulations, and multi-terminal communications as tests for the multi-access computing software being developed.
+
+ai lab and lcs
+in the late 1960s, minsky's artificial intelligence group was seeking more space, and was unable to get satisfaction from project director licklider. minsky found that although project mac as a single entity could not get the additional space he wanted, he could split off to form his own laboratory and then be entitled to more office space. as a result, the mit ai lab was formed in 1970, and many of minsky's ai colleagues left project mac to join him in the new laboratory, while most of the remaining members went on to form the laboratory for computer science. talented programmers such as richard stallman, who used teco to develop emacs, flourished in the ai lab during this time.
+those researchers who did not join the smaller ai lab formed the laboratory for computer science and continued their research into operating systems, programming languages, distributed systems, and the theory of computation. two professors, hal abelson and gerald jay sussman, chose to remain neutral — their group was referred to variously as switzerland and project mac for the next 30 years.among much else, the ai lab led to the invention of lisp machines and their attempted commercialization by two companies in the 1980s: symbolics and lisp machines inc. this divided the ai lab into "camps" which resulted in a hiring away of many of the talented programmers. the incident inspired richard stallman's later work on the gnu project. "nobody had envisioned that the ai lab's hacker group would be wiped out, but it was." ... "that is the basis for the free software movement — the experience i had, the life that i've lived at the mit ai lab — to be working on human knowledge, and not be standing in the way of anybody's further using and further disseminating human knowledge".
+
+csail
+on the fortieth anniversary of project mac's establishment, july 1, 2003, lcs was merged with the ai lab to form the mit computer science and artificial intelligence laboratory, or csail. this merger created the largest laboratory (over 600 personnel) on the mit campus and was regarded as a reuniting of the diversified elements of project mac.in 2018, csail launched a five-year collaboration program with iflytek, a company sanctioned the following year for allegedly using its technology for surveillance and human rights abuses in xinjiang. in october 2019, mit announced that it would review its partnerships with sanctioned firms such as iflytek and sensetime. in april 2020, the agreement with iflytek was terminated.csail moved from the school of engineering to the newly formed schwarzman college of computing by february 2020.
+
+offices
+from 1963 to 2004, project mac, lcs, the ai lab, and csail had their offices at 545 technology square, taking over more and more floors of the building over the years. in 2004, csail moved to the new ray and maria stata center, which was built specifically to house it and other departments.
+
+outreach activities
+the imara (from swahili word for "power") group sponsors a variety of outreach programs that bridge the global digital divide. its aim is to find and implement long-term, sustainable solutions which will increase the availability of educational technology and resources to domestic and international communities. these projects are run under the aegis of csail and staffed by mit volunteers who give training, install and donate computer setups in greater boston, massachusetts, kenya, native american indian tribal reservations in the american southwest such as the navajo nation, the middle east, and fiji islands. the communitech project strives to empower under-served communities through sustainable technology and education and does this through the mit used computer factory (ucf), providing refurbished computers to under-served families, and through the families accessing computer technology (fact) classes, it trains those families to become familiar and comfortable with computer technology.
+
+notable researchers
+(including members and alumni of csail's predecessor laboratories)
+
+macarthur fellows tim berners-lee, erik demaine, dina katabi, daniela l. rus, regina barzilay, peter shor, richard stallman, and joshua tenenbaum
+turing award recipients leonard m. adleman, fernando j. corbató, shafi goldwasser, butler w. lampson, john mccarthy, silvio micali, marvin minsky, ronald l. rivest, adi shamir, barbara liskov, michael stonebraker, and tim berners-lee
+ijcai computers and thought award recipients terry winograd, patrick winston, david marr, gerald jay sussman, rodney brooks
+rolf nevanlinna prize recipients madhu sudan, peter shor, constantinos daskalakis
+gödel prize recipients shafi goldwasser (two-time recipient), silvio micali, maurice herlihy, charles rackoff, johan håstad, peter shor, and madhu sudan
+grace murray hopper award recipients robert metcalfe, shafi goldwasser, guy l. steele, jr., richard stallman, and w. daniel hillis
+textbook authors harold abelson and gerald jay sussman, richard stallman, thomas h. cormen, charles e. leiserson, patrick winston, ronald l. rivest, barbara liskov, john guttag, jerome h. saltzer, frans kaashoek, clifford stein, and nancy lynch
+david d. clark, former chief protocol architect for the internet; co-author with jerome h. saltzer (also a csail member) and david p. reed of the influential paper "end-to-end arguments in systems design"
+eric grimson, expert on computer vision and its applications to medicine, appointed chancellor of mit march 2011
+bob frankston, co-developer of visicalc, the first computer spreadsheet
+seymour papert, inventor of the logo programming language
+joseph weizenbaum, creator of the eliza computer-simulated therapist
+
+notable alumni
+robert metcalfe, who later invented ethernet at xerox parc and later founded 3com
+marc raibert, who created the robot company boston dynamics
+drew houston, co-founder of dropbox
+colin angle and helen greiner who, with previous csail director rodney brooks, founded irobot
+jeremy wertheimer, who developed ita software used by travel websites like kayak and orbitz
+max krohn, co-founder of okcupid
+
+directors
+directors of project macrobert fano, 1963–1968
+j. c. r. licklider, 1968–1971
+edward fredkin, 1971–1974
+michael dertouzos, 1974–1975directors of the artificial intelligence laboratorymarvin minsky, 1970–1972
+patrick winston, 1972–1997
+rodney brooks, 1997–2003directors of the laboratory for computer sciencemichael dertouzos, 1975–2001
+victor zue, 2001–2003directors of csailrodney brooks, 2003–2007
+victor zue, 2007–2011
+anant agarwal, 2011–2012
+daniela l. rus, 2012–
+
+csail alliances
+csail alliances is the industry connection arm of mit’s computer science and artificial intelligence laboratory (csail). csail alliances offers companies programs to connect with the research, faculty, students, and startups of csail by providing organizations with opportunities to learn about the research, engage with students, explore collaborations with researchers, and join research initiatives such as fintech at csail, mit future of data, and machine learning applications.
+
+see also
+references
+further reading
+"a marriage of convenience: the founding of the mit artificial intelligence laboratory" (pdf)., chious et al. — includes important information on the incompatible timesharing system
+weizenbaum. rebel at work: a documentary film with and about joseph weizenbaum
+garfinkel, simson (1999). abelson, hall (ed.). architects of the information society: thirty-five years of the laboratory for computer science at mit. cambridge, massachusetts: mit press. isbn 0-262-07196-7.
+
+external links
+official website of csail, successor of the ai lab
+"a marriage of convenience: the founding of the mit artificial intelligence laboratory", chious et al. — includes important information on the incompatible timesharing system.

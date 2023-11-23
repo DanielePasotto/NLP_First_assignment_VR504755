@@ -1,0 +1,30 @@
+artificial intelligence researchers have developed several specialized programming languages for artificial intelligence:
+
+languages
+artificial intelligence markup language (aiml) is an xml dialect for use with artificial linguistic internet computer entity (a.l.i.c.e.)-type chatterbots.
+c# can be used to develop high level machine learning models using microsoft’s .net suite. ml.net was developed to aid integration with existing .net projects, simplifying the process for existing software using the .net platform.
+lisp was the first language developed for artificial intelligence. it includes features intended to support programs that could perform general problem solving, such as lists, associations, schemas (frames), dynamic memory allocation, data types, recursion, associative retrieval, functions as arguments, generators (streams), and cooperative multitasking.
+smalltalk has been used extensively for simulations, neural networks, machine learning, and genetic algorithms. it implements a pure and elegant form of object-oriented programming using message passing.
+prolog is a declarative language where programs are expressed in terms of relations, and execution occurs by running queries over these relations. prolog is particularly useful for symbolic reasoning, database and language parsing applications. prolog is widely used in ai today.
+stanford research institute problem solver (strips) is a language to express automated planning problem instances. it expresses an initial state, the goal states, and a set of actions. for each action preconditions (what must be established before the action is performed) and postconditions (what is established after the action is performed) are specified.
+planner is a hybrid between procedural and logical languages. it gives a procedural interpretation to logical sentences where implications are interpreted with pattern-directed inference.
+pop-11 is a reflective, incrementally compiled programming language with many of the features of an interpreted language. it is the core language of the poplog programming environment developed originally by the university of sussex, and recently in the school of computer science at the university of birmingham which hosts the poplog website, it is often used to introduce symbolic programming techniques to programmers of more conventional languages like pascal, who find pop syntax more familiar than that of lisp. one of pop-11's features is that it supports first-class functions.
+r is widely used in new-style artificial intelligence, involving statistical computations, numerical analysis, the use of bayesian inference, neural networks and in general machine learning. in domains like finance, biology, sociology or medicine it is considered one of the main standard languages. it offers several paradigms of programming like vectorial computation, functional programming and object-oriented programming.
+python is widely used for artificial intelligence, with packages for several applications including general ai, machine learning, natural language processing, and artificial neural networks. the application of ai to develop programs that do human-like jobs and portray human skills is machine learning. both artificial intelligence and machine learning are closely connected and are being used widely today.
+haskell is a very good language for ai. lazy evaluation and the list and logict monads make it easy to express non-deterministic algorithms, which is often the case. infinite data structures are great for search trees. the language's features enable a compositional way to express algorithms. the only drawback is that working with graphs is a bit harder at first because of functional purity.
+wolfram language includes a wide range of integrated machine learning capabilities, from highly automated functions like predict and classify to functions based on specific methods and diagnostics. the functions work on many types of data, including numerical, categorical, time series, textual, and image.
+julia, e.g. for machine learning, using native or non-native libraries.
+mojo can run some python programs, and supports programmability of ai hardware.
+
+see also
+glossary of artificial intelligence
+list of constraint programming languages
+list of computer algebra systems
+list of logic programming languages
+list of constructed languages
+fifth-generation programming language
+
+notes
+
+
+== references ==

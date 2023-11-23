@@ -1,0 +1,80 @@
+artificial intelligence (ai) has a range of uses in government. it can be used to further public policy objectives (in areas such as emergency services, health and welfare), as well as assist the public to interact with the government  (through the use of virtual assistants, for example). according to the harvard business review, "applications of artificial intelligence to the public sector are broad and growing, with early experiments taking place around the world." hila mehr from the ash center for democratic governance and innovation at harvard university notes that ai in government is not new, with postal services using machine methods in the late 1990s to recognise handwriting on envelopes to automatically route letters. the use of ai in government comes with significant benefits, including efficiencies resulting in cost savings (for instance by reducing the number of front office staff), and reducing the opportunities for corruption. however, it also carries risks.
+
+uses of ai in government
+the potential uses of ai in government are wide and varied, with deloitte considering that "cognitive technologies could eventually revolutionize every facet of government operations". mehr suggests that six types of government problems are appropriate for ai applications:
+resource allocation - such as where administrative support is required to complete tasks more quickly.
+large datasets - where these are too large for employees to work efficiently and multiple datasets could be combined to provide greater insights.
+experts shortage - including where basic questions could be answered and niche issues can be learned.
+predictable scenario - historical data makes the situation predictable.
+procedural - repetitive tasks where inputs or outputs have a binary answer.
+diverse data - where data takes a variety of forms (such as visual and linguistic) and needs to be summarised regularly.mehr states that "while applications of ai in government work have not kept pace with the rapid expansion of ai in the private sector, the potential use cases in the public sector mirror common applications in the private sector."potential and actual uses of ai in government can be divided into three broad categories: those that contribute to public policy objectives; those that assist public interactions with the government; and other uses.
+
+contributing to public policy objectives
+there are a range of examples of where ai can contribute to public policy objectives. these include:
+
+receiving benefits at job loss, retirement, bereavement and child birth almost immediately, in an automated way (thus without requiring any actions from citizens at all)
+social insurance service provision
+classifying emergency calls based on their urgency (like the system used by the cincinnati fire department in the united states)
+detecting and preventing the spread of diseases
+assisting public servants in making welfare payments and immigration decisions
+adjudicating bail hearings
+triaging health care cases
+monitoring social media for public feedback on policies
+monitoring social media to identify emergency situations
+identifying fraudulent benefits claims
+predicting a crime and recommending optimal police presence
+predicting traffic congestion and car accidents
+anticipating road maintenance requirements
+identifying breaches of health regulations
+providing personalised education to students
+marking exam papers
+assisting with defence and national security (see artificial intelligence § military and applications of artificial intelligence § other fields in which ai methods are implemented respectively).
+making symptom based health chatbot ai vaid for diagnosis
+
+assisting public interactions with government
+ai can be used to assist members of the public to interact with government and access government services, for example by:
+
+answering questions using virtual assistants or chatbots (see below)
+directing requests to the appropriate area within government
+filling out forms
+assisting with searching documents (e.g. ip australia's trade mark search)
+scheduling appointmentsexamples of virtual assistants or chatbots being used by government include the following:
+
+launched in february 2016, the australian taxation office has a virtual assistant on its website called "alex". as at 30 june 2017, alex could respond to more than 500 questions, had engaged in 1.5 million conversations and resolved over 81% of enquiries at first contact.
+australia's national disability insurance scheme (ndis) is developing a virtual assistant called "nadia" which takes the form of an avatar using the voice of actor cate blanchett. nadia is intended to assist users of the ndis to navigate the service. costing some $4.5 million, the project has been postponed following a number of issues. nadia was developed using ibm watson, however, the australian government is considering other platforms such as microsoft cortana for its further development.
+the australian government's department of human services uses virtual assistants on parts of its website to answer questions and encourage users to stay in the digital channel. as at december 2018, a virtual assistant called "sam" could answer general questions about family, job seeker and student payments and related information. the department also introduced an internally-facing virtual assistant called "melisshr" to make it easier for departmental staff to access human resources information.
+estonia is building a virtual assistant which will guide citizens through any interactions they have with the government. automated and proactive services "push" services to citizens at key events of their lives (including births, bereavements, unemployment, ...). one example is the automated registering of babies when they are born.
+
+other uses
+other uses of ai in government include:
+
+translation
+language interpretation pioneered by the european commission's directorate general for interpretation and florika fink-hooijer.
+drafting documents
+
+potential benefits
+ai offers potential efficiencies and costs savings for the government. for example, deloitte has estimated that automation could save us government employees between 96.7 million to 1.2 billion hours a year, resulting in potential savings of between $3.3 billion to $41.1 billion a year. the harvard business review has stated that while this may lead a government to reduce employee numbers, "governments could instead choose to invest in the quality of its services. they can re-employ workers' time towards more rewarding work that requires lateral thinking, empathy, and creativity — all things at which humans continue to outperform even the most sophisticated ai program."
+
+risks
+risks associated with the use of ai in government include ai becoming susceptible to bias, a lack of transparency in how an ai application may make decisions, and the accountability for any such decisions.ai in governance and the economic world might make the market more difficult for companies to keep up with the increases in technology. large u.s. companies like apple and google are able to dominate the market with their latest and most advanced technologies. this gives them an advantage over smaller companies that do not have the means of advancing as far in the digital technology fields with ai.
+
+see also
+government by algorithm
+ai for good
+project cybersyn
+civic technology
+e-government
+applications of artificial intelligence
+lawbot
+regulation of artificial intelligence
+existential risk from artificial general intelligence
+artificial general intelligence
+singleton (global governance)
+
+references
+further reading
+"destination unknown: exploring the impact of artificial intelligence on government working paper". centre for public impact (a bcg foundation). retrieved 31 march 2019.
+cornish, lisa (5 december 2018). "bringing intelligence to government decision-making". the mandarin. retrieved 12 january 2019.
+garner, catherine (4 december 2018). "demystifying artificial intelligence". the canberra times. archived from the original on 12 january 2019. retrieved 12 january 2019.
+london, dan (6 june 2018). "powering ai for government". cio. retrieved 12 january 2019.
+"hello, world: artificial intelligence and its use in the public sector" (pdf). oecd observatory of public sector innovation. retrieved 20 december 2019.

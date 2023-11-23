@@ -1,0 +1,21 @@
+the ai boom (also known as the ai spring) refers to an ongoing period of rapid and unprecedented development in the field of artificial intelligence, with the generative ai race being a key component of this boom, which began in earnest with the founding of openai in 2016 or 2017. openai's generative ai systems, such as its various gpt models (starting in 2018) and dall-e (2021), have played a significant role in driving this development.in 2022, large language models were improved to where they could be used for chatbot applications; text-to-image-models were at a point where they were almost indiscernible from human-made imagery; and speech synthesis software was able to replicate human speech efficiently.over the course of late 2022 and 2023, dozens of new websites and ai chatbots were made live as big tech has tried to gain a foothold in the market and has led to an unprecedented increase in the ubiquity of ai tools.public reaction to the ai boom has been mixed, with some parties hailing the new possibilities that ai creates, its potential for benefiting humanity, and sophistication, while other parties denounced it for threatening job security, being 'uncanny' in its responses, and for giving flawed responses based on the programming.
+
+language model
+gpt-3 is a large language model that was released in 2020 by openai and is capable of generating high-quality human-like text that can be hard to determine whether it was written by a human or not. an upgraded version called gpt-3.5 was used in chatgpt, which later garnered attention for its detailed responses and articulate answers across many domains of knowledge. a new version called gpt-4 was released on march 14, 2023, and was used in the microsoft bing search engine. other language models have been released such as palm by google and llama by meta platforms.
+in january 2023, deepl write, an ai-based tool to improve monolingual texts, was released.
+
+text-to-image models
+one of the first text-to-image models to capture widespread public attention was openai's dall-e, a transformer system announced in january 2021. a successor capable of generating more complex and realistic images, dall-e 2, was unveiled in april 2022, followed by stable diffusion, an open source alternative, releasing in august 2022.following other text-to-image models, language model-powered text-to-video platforms such as damo, make-a-video, imagen video and phenaki can generate video from text and/or text/image prompts.
+
+speech synthesis
+15.ai was one of the first publicly available speech synthesis software that allowed people to generate natural emotive high-fidelity text-to-speech voices from an assortment of fictional characters from a variety of media sources. it was first released on march 2020. elevenlabs unveiled a website where users are able to upload voice samples to that allowed it to generate voices from them. the company was criticized after users were able to abuse its software to generate controversial statements in the vocal style of celebrities, public officials, and other famous individuals and raised concerns that it could be used to generate deepfakes that were more convincing. an unofficial song created using the voices of musicians drake and the weeknd in speech synthesis software raised questions about the ethics and legality of similar software.
+
+see also
+ai winter, a period of reduced funding and interest in artificial intelligence research
+history of artificial intelligence
+history of artificial neural networks
+hype cycle
+technological singularity
+
+
+== references ==

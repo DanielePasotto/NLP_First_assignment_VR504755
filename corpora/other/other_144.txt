@@ -1,0 +1,16 @@
+artificial intelligence: a modern approach (aima) is a university textbook on artificial intelligence, written by stuart j. russell and peter norvig. it was first published in 1995 and the fourth edition of the book was released on 28 april 2020. it is used in over 1400 universities worldwide and has been called "the most popular artificial intelligence textbook in the world". it is considered the standard text in the field of artificial intelligence.
+the book is intended for an undergraduate audience but can also be used for graduate-level studies with the suggestion of adding some of the primary sources listed in the extensive bibliography.  programs in the book are presented in pseudo code with implementations in java, python, lisp, javascript and scala available online. there are also unsupported implementations in prolog, c++, c#, and several other languages.
+
+brief details
+this book gives detailed information about the working of algorithms in a.i. many modern ai like chatgpt and bard (chatbot) are programmed with the scenarios just like this book. the writers peter norvig and  stuart j. russell published the first edition of the book in 1995 and published four edition of the book, the last edition was published in 2020.
+
+editions
+1st edition: published in 1995 with red cover
+2nd edition: published in 2003 with green cover
+3rd edition: published in 2009 with blue cover
+4th edition : published in 2020 with  purple cover
+
+references
+external links
+"aima" (1st ed.). s russell.
+"aima". computer science division (4th ed.). berkeley coe.

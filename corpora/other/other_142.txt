@@ -1,0 +1,19 @@
+the quantum artificial intelligence lab (also called the quantum ai lab or quail) is a joint initiative of nasa, universities space research association, and google (specifically, google research) whose goal is to pioneer research on how quantum computing might help with machine learning and other difficult computer science problems. the lab is hosted at nasa's ames research center.
+
+history
+the quantum ai lab was announced by google research in a blog post on may 16, 2013. at the time of launch, the lab was using the most advanced commercially available quantum computer, d-wave two from d-wave systems.on october 10, 2013, google released a short film describing the current state of the quantum ai lab.on october 18, 2013, google announced that it had incorporated quantum physics into minecraft.in january 2014, google reported results comparing the performance of the d-wave two in the lab with that of classical computers. the results were ambiguous and provoked heated discussion on the internet.
+on 2 september 2014, it was announced that the quantum ai lab, in partnership with uc santa barbara, would be launching an initiative to create quantum information processors based on superconducting electronics.on the 23rd of october 2019, the quantum ai lab announced in a paper that it had achieved quantum supremacy.
+
+see also
+artificial intelligence
+glossary of artificial intelligence
+google brain
+google x
+
+references
+external links
+official website (nasa)
+official website (usra)
+official website (google)
+official website (google quantum ai)
+google plus profile

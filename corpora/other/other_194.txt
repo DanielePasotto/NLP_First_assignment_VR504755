@@ -1,0 +1,20 @@
+artificial intelligence: a guide for thinking humans is a 2019 nonfiction book by santa fe institute professor melanie mitchell. the book provides an overview of artificial intelligence (ai) technology, and argues that people tend to overestimate the abilities of artificial intelligence.
+
+overview
+mitchell describes the fears her mentor, cognitive scientist and ai pioneer douglas hofstadter, has expressed that advances of artificial intelligence could turn human beings into "relics". mitchell offers examples of ai systems like watson that are trained to master specific tasks, and points out that such computers lack the general intelligence that humans have. mitchell argues that achieving superintelligence would require that machines acquire commonsense reasoning abilities that are nowhere in sight: "today's ai is far from general intelligence, and i don’t believe that machine 'superintelligence' is anywhere on the horizon." mitchell addresses 13 pages to "trustworthy and ethical ai". mitchell states artificial intelligence is vulnerable to errors, to racial bias, and to malicious hacking such as surprisingly easy adversarial attacks: "if there are statistical associations in the training data... the machine will happily learn those instead of what you wanted it to learn." mitchell also includes lighthearted content, such as documenting the star trek computer's status as an aspirational lodestar within the ai community.
+
+reception
+a review in library journal praised the book's historical overview as "a worthy and compelling narrative in itself". kirkus reviews judged that despite a minority of the book being "too abstruse", most of the book was "surprisingly lucid". publishers weekly called the book "accessible" and "worthy", and judged the book should "assuage lay readers' fears about ai". the new yorker characterized it as reassuring, and also as "accessible" despite its technical nature.
+in the chicago tribune, author john warner states mitchell is a "clear, cogent and interesting" writer who "knows what she's talking about". warner notes "mitchell is not particularly worried" about ai triggering a technological singularity, and that he trusts her expertise: "the book makes a case that we're much farther from self-driving cars than the popular hype would have us believe... (the book) has also enhanced my appreciation for the complexity and ineffability of human cognition." mitchell finds the book empowering, stating that the things we may see as human flaws help to make us intelligent in ways computers can't match, and that mitchell's insights help to validate warner's own handpicked book recommendations despite the existence of automated amazon recommendations. in skeptic, computer programmer peter kassan compares the book favorably with "histrionic" works such as life 3.0, you look like a thing and i love you, and the age of spiritual machines. kassan calls the book "the most intelligent book on the subject" and praises mitchell for being "measured, cautious, and often skeptical", unlike "most active practitioners in the field".in the christian science monitor, author barbara spindel states the "lucid", "clear-eyed" and "fascinating" book does a good job documenting that artificial general intelligence is nowhere near, and believes that "many readers will be reassured to know that we will not soon have to bow down to our computer overlords." spindel expresses surprise that mitchell goes on to express her personal passion toward trying to solve the puzzle of commonsense reasoning and presumably enable the development of superintelligent machines: "while computers won't surpass humans anytime soon, not everyone will be convinced that the effort to help them along is a good idea".
+
+see also
+history of artificial intelligence
+progress in artificial intelligence
+
+references
+external links
+publisher page on book
+author page on book
+author presentation on book
+brief author interview (katu)
+radio interview with author (wbur)

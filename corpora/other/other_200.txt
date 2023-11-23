@@ -1,0 +1,43 @@
+in australia, the australian artificial intelligence institute (australian ai institute, aaii, or a2i2) was a government-funded research and development laboratory for investigating and commercializing artificial intelligence, specifically intelligent software agents.
+
+history
+the aaii was started in 1988 as an initiative by the hawke government and closed in 1999. it was backed by support from the computer power group, sri international and the victorian state government. the director of the group was michael georgeff who came from sri, contributing his experience with the prs and vision in the domain of intelligent agents. it was located in the melbourne suburb of carlton before moving to more spacious premises in the city centre of melbourne, victoria. at its peak it had more than 40 staff and took up two floors of an office building on the corner of latrobe and russell streets.
+in the late 1990s, the aaii spun out agentis international (agentis business solutions) to address the commercialization of the developed technology. another company, agent oriented software (aos) was formed by a number of ex-aaii staff to pursue agent technology developing jack intelligent agents. after the aaii shutdown, those staff that remained and the intellectual property were transferred to agentis international.
+
+projects
+this section summarizes a selection of the software and commercial projects that came out of the aaii:
+
+procedural reasoning system (prs) ongoing development and application of prs in collaboration with sri international
+distributed multi-agent reasoning system (dmars) an agent-oriented development and implementation environment for building complex, distributed, time-critical systems. developed as a c++ extension to prs.
+smart whole air mission model (swarmm) an agent-oriented simulation system developed by aaii in conjunction with and for the air operations division (aod) of the dsto.
+optimal aircraft sequencing using intelligent scheduling (oasis) an air traffic management system written in the prs that accurately estimated aircraft arrival time, determined an optima sequence for landings and alerted operators as to the actions required to achieve the sequence.  it was designed to reduce air traffic congestion and maximize the use of runways.  a prototype was developed for sydney airport using dmars called horizon.
+single point of contact (spoc) was a system developed for optus to assist customer service representatives to meet the objective to meet 98% of customer enquirers with a single point of contact with the company. the system was built using dmars and involved a multilayer architecture.
+
+technical notes
+over the course of its existence, the aaii released more than 75 of public technical notes [1]. this section lists an available selection of these notes.
+
+anand s. rao; michael p. georgeff (1991). "asymmetry thesis and side-effect problems in linear-time and branching-time intention logics". aaii tech note. 13. citeseerx 10.1.1.56.8036.
+anand s. rao; michael p. georgeff (1991). "modeling rational agents within a bdi-architecture". aaii tech note. 14. citeseerx 10.1.1.41.3036.
+anand s. rao; michael p. georgeff (1991). "intelligent real-time network management". aaii tech note. 15. citeseerx 10.1.1.48.3297.
+michael p. georgeff (1991). "situated reasoning and rational behaviour". aaii tech report. 21. citeseerx 10.1.1.50.789.
+anand s. rao; michael p. georgeff (1995). "bdi agents: from theory to practice" (pdf). aaii tech report. 56. archived from the original (pdf) on 17 june 2011. retrieved 7 july 2009.
+
+current australian artificial intelligence institute
+a research institute was newly named the australian artificial intelligence institute (aaii) in august 2020. formerly the centre for artificial intelligence (cai) which launched in march 2017, the centre expanded into an institute as a result of its rapid growth. aaii operates at the university of technology sydney, australia. it has 35 permanent research staff, 8 research labs and 200+ phd students. areas of research include computational intelligence, deep learning, transfer learning, large-scale graph processing, autonomous machine learning, and brain-computer interfaces.
+
+see also
+distributed multi-agent reasoning system
+belief-desire-intention software model
+procedural reasoning system
+
+references
+further reading
+michael peter georgeff, anand s. rao, "a profile of the australian artificial intelligence institute," ieee intelligent systems, vol. 11, no. 6, pp. 89–92, dec. 1996
+m. georgeff, a. rao, "rational software agents: from theory to practice", in "agent technology: foundations, applications, and markets", pages 139-160, springer-verlag new york, inc., secaucus, nj, 1998
+making space for big ideas, the age, 18 november 2004
+
+external links
+aaii website on the internet archive
+agent oriented software pty. ltd.
+oasis (optimal aircraft sequencing using intelligent scheduling)
+[2]

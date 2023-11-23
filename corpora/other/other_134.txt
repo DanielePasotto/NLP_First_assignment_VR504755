@@ -1,0 +1,31 @@
+artificial intelligence marketing (aim) is a form of marketing that leverages artificial intelligence concepts and models such as machine learning and bayesian networks to achieve marketing goals. the main difference between aim and traditional forms of marketing resides in the reasoning, which is performed by a computer algorithm rather than a human.
+artificial intelligence is used in various digital marketing spaces, such as content marketing, email marketing, online advertisement (in combination with machine learning), social media marketing, affiliate marketing, and beyond.
+
+behavioral targeting
+behavioral targeting refers to the act of reaching out to a prospect or customer with communication based on implicit or explicit behavior shown by the customer's past. understanding of behaviors is facilitated by marketing technology platforms such as web analytics, mobile analytics, social media analytics, and trigger-based marketing platforms. artificial intelligence marketing provides a set of tools and techniques that enable behavioral targeting.
+machine learning is used to improve the efficiency of behavioral targeting. additionally, to prevent human bias in behavioral targeting at scale, artificial intelligence technologies are used. the most advanced form of behavioral targeting aided by artificial intelligence is called algorithmic marketing.
+
+collect, reason, act
+artificial intelligence marketing principles are based on the perception-reasoning-action cycle found in cognitive science. in the context of marketing, this cycle is adapted to form the collect, reason and act cycle.
+
+collect
+this term relates to all activities which aim to capture customer or prospect data; for example on social media platforms, where the platform will measure the duration of time a post was viewed. whether taken online or offline, this data is then saved into customer or prospect databases.
+
+reason
+this is the stage where data is transformed into information and, eventually, intelligence or insight. this is the phase where artificial intelligence and machine learning in particular play a key role.
+
+act
+with the intelligence gathered in the reason stage, one can then act. in the context of marketing, an act would be an attempt to influence a prospect or customer purchase decision using an incentive driven message.
+in an unsupervised model, the machine in question would take the decision and act according to the information it received in the collect stage.
+
+see also
+marketing and artificial intelligence
+targeted advertising
+online advertising
+market segmentation § statistical techniques used in segmentation
+
+references
+further reading
+baesens bart, stijn viaene, dirk van den poel, jan vanthienen, and guido dedene. (2002), "bayesian neural network learning for repeat purchase modelling in direct marketing", european journal of operational research, 138 (1), 191–211.
+lou hirsh (2002), "how artificial intelligence decodes customer behavior", crmdaily.com.
+yahoo research center machine learning.

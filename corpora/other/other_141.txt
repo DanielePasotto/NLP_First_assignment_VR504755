@@ -1,0 +1,9 @@
+open-source artificial intelligence is the application of open source practices to the development of artificial intelligence resources.
+many open-source artificial intelligence products are variations of other existing tools and technology which major companies have shared as open-source software.companies often developed closed products in an attempt to keep a competitive advantage in the marketplace. a journalist for wired explored the idea that open-source ai tools have a development advantage over closed products, and could overtake them in the marketplace.popular open-source artificial intelligence project categories include large language models, machine translation tools, and  chatbots.for software developers to produce open-source artificial intelligence resources, they must trust the various other open-source software components they use in its development.
+
+large language models
+llama
+llama (large language model meta ai) is a family of large language models (llms), released by meta ai starting in february 2023.  osi disagrees with claim of llama 2 being open source arguing that "meta’s license for the llama models and code does not meet this standard; specifically, it puts restrictions on commercial use for some users (paragraph 2) and also restricts the use of the model and software for certain purposes (the acceptable use policy)."
+
+
+== references ==

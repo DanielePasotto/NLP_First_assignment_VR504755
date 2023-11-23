@@ -1,0 +1,66 @@
+the association for the advancement of artificial intelligence (aaai) is an international scientific society devoted to promote research in, and responsible use of, artificial intelligence. aaai also aims to increase public understanding of artificial intelligence (ai), improve the teaching and training of ai practitioners, and provide guidance for research planners and funders concerning the importance and potential of current ai developments and future directions.
+
+history
+the organization was founded in 1979 under the name "american association for artificial intelligence" and changed its name in 2007 to "association for the advancement of artificial intelligence". it has in excess of 4,000 members worldwide. in its early history, the organization was presided over by notable figures in computer science such as allen newell, edward feigenbaum, marvin minsky and john mccarthy.  since july 2022, francesca rossi has been serving as president. she will serve as president until july 2024 when president-elect stephen smith will begin his term.
+
+conferences and publications
+the aaai provides many services to the artificial intelligence community.  the aaai sponsors many conferences and symposia each year as well as providing support to 14 journals in the field of artificial intelligence.  aaai produces a quarterly publication, ai magazine, which seeks to publish significant new research and literature across the entire field of artificial intelligence and to help members to keep abreast of research outside their immediate specialties. the magazine has been published continuously since 1980.
+aaai organises the "aaai conference on artificial intelligence", which is considered to be one of the top conferences in the field of artificial intelligence.
+
+awards
+in addition to aaai fellowship, the aaai grants several other awards:
+
+acm-aaai allen newell award
+the acm-aaai allen newell award is presented to an individual selected for career contributions that have breadth within computer science, or that bridge computer science and other disciplines. this endowed award is accompanied by a prize of $10,000, and is supported by the association for the advancement of artificial intelligence (aaai), association for computing machinery (acm), and by individual contributions.past recipients:
+fred brooks (1994)
+joshua lederberg (1995)
+carver mead (1997)
+saul amarel (1998)
+nancy leveson (1999)
+lotfi a. zadeh (2000)
+ruzena bajcsy (2001)
+peter chen (2002)
+david haussler and judea pearl (2003)
+richard p. gabriel (2004)
+jack minker (2005)
+karen spärck jones (2006)
+leonidas guibas (2007)
+barbara j. grosz and joseph halpern (2008)
+michael i. jordan (2009)
+takeo kanade (2010)
+stephanie forrest (2011)
+moshe tennenholtz and yoav shoham (2012)
+jon kleinberg (2014)
+eric horvitz (2015)
+jitendra malik (2016)
+margaret a. boden (2017)
+henry kautz (2018)
+lydia kavraki and daphne koller (2019)
+moshe y. vardi and hector j. levesque (2020)
+carla gomes (2021)
+stuart russell and bernhard schölkopf (2022)
+
+aaai/eaai outstanding educator award
+the annual aaai/eaai outstanding educator award was created in 2016 to honor a person (or group of people) who has made major contributions to ai education that provide long-lasting benefits to the ai community.
+past recipients:
+peter norvig and stuart russell (2016)
+sebastian thrun (2017)
+todd w. neller (2018)
+ashok goel (2019)
+marie desjardins (2020)
+michael wooldridge (2021)
+ai4k12.org team: david s. touretzky, christina gardner-mccune, fred g. martin, and deborah seehorn (2022)
+ayanna howard (2023)
+
+aaai squirrel ai award for artificial intelligence for the benefit of humanity
+the aaai squirrel ai award for artificial intelligence for the benefit of humanity is a $1 million award that recognizes the positive impacts of ai to meaningfully improve, protect, and enhance human life.
+
+membership grades
+aaai senior members
+senior member status is designed to recognize aaai members who have achieved significant accomplishments within the field of artificial intelligence. to be eligible for nomination for senior member, candidates must be consecutive members of aaai for at least five years and have been active in the professional arena for at least ten years. applications should include information that details the candidate's scholarship, leadership, and/or professional service.
+
+see also
+list of computer science awards
+
+
+== references ==

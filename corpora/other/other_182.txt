@@ -1,0 +1,54 @@
+mental health is an important aspect of overall well-being, it has been widely recognized that artificial intelligence (ai) technologies can play a significant role in improving mental health care. ai in the mental health field is an emerging field that uses ai techniques such as machine learning, natural language processing, and other ai technologies to analyze large amounts of data to identify patterns, predict outcomes, and improve the delivery of mental health care.
+
+background
+mental illness are the first in global burden of diseases, accounting for about 1 billion people affected by mental health and addiction disorders in 2016, constituting about 6% of the world population at the time, with a relatively proportional representation between men and women. this amounts to about 162.5 disability-adjusted life years (daly) lost when adding all the years that the patients suffering from these illnesses have lost due to their diseases' morbidities, mortalities, and quality of life. in recent years and due to covid-19 mental health illnesses have increased, with a marked increase in loneliness, suicidality, and substance use just to name a few. the problem is then made worse due to the shortage in healthcare providers and licensed psychiatrists and therapists worldwide. this is further complicated by the longitudinal sessions required for many disorders to treat using various psychotherapy approaches (ex. dialectical behaviour therapy, cognitive behavioural therapy, exposure with response prevention, family therapy, etc...), leading to a heavy burden on the provider, patient, and reimbursement institutions. this then leaves a huge gap for more innovative healthcare to come in and fill the gap to provide quality care for those in need, here the prospect of artificial intelligence (ai) can make a huge impact in the lives of millions, contingent on its proper and intentional implementation and integration in the healthcare system. the ai market in healthcare is estimated to grow from a $5 billion industry in 2020 to $45 billion in 2026. next we will explore the meaning of ai and the kinds that exist in the present.
+
+the different types of artificial intelligence
+as of 2020, there was no food and drug administration (fda) approval for ai in the field of psychiatry, this may be due to the large and complex dataset which is required to train any ai model in psychiatric decision making or analysis. the biggest two domains of ai that are currently widely available for multiple applications are machine learning (ml) and natural language processing (nlp).
+
+machine learning
+ml is exactly what it sounds like. it is a way for a computer to learn from large datasets presented to it, with few assumptions to begin with. it requires structured databases, unlike scientific research which begins with a hypothesis, ml begins by looking at the data and finding its own hypothesis based on the patterns it detects. it then creates algorithms to be able to predict new information, based on the created algorithm and pattern it was able to generate from the original dataset. this model of ai is data driven, it requires a huge amount of structured data, an obstacle in the field of psychiatry which relies mostly on complex dsm-5 definitions for diseases, with a lot of its patient encounters being based on interview and story telling on the part of the patient. it is for those reasons that some researchers adopted a different method to creating ml models to be used in psychiatry based on trained models in different fields, a process termed transfer learning.transfer learning is akin to what humans do on a daily basis, where we learn and practice how to perform certain tasks and then we transfer those skill to different situation, ever expanding on those basic skills and developing more complex ones. for example, when  a toddler is learning how to handle money for the first time, their parents do not immediately task the toddler with going grocery shopping by themselves, initially the parent may adopt a transfer learning method. the toddler has already been learning to speak and interact with strangers supervised by his parents and teachers, the toddler then in a stepwise fashion takes that skill and transfers it to interacting with a cashier with his parents, then the toddler is entrusted with handing out the money to the cashier. when the toddler is comfortable doing that task the parents can then tell the toddler to maybe take that learnt experience and apply it in a gas station, the parents can then tell the toddler to replace handing over money to a. cashier with the idea of handing over any other object. as the toddler gets older they accumulate many simple skills that can be combined and transferred to different situations resulting in an adult individual capable of taking on many of the worlds challenges and complex tasks. this method, transfer learning, was used by researchers to develop a modified algorithm to detect alcoholism vs. non-alcoholism, and on another occasion the same method was used to detect the signs of post-traumatic stress disorder.
+
+natural language processing
+as was discussed previously in the section for ml, one of the obstacles for ai is finding or creating an organized dataset to train and develop a useful algorithm. this is where nlp can help with. nlp is a technique that takes in semantic, lexical, speech recognition, and optical character recognition to take in unstructured data and turn it into a structured one. this is crucial because many of the diagnoses and dsm-5 mental health disorders are diagnosed by speech and doctor patient interview, utilising the clinician's skill for behavioural pattern recognition and translating into medically relevant information to be documented and used for diagnoses. nlp can be used to extract, order and structure data on patients from their everyday interaction and not just during a clinical visit, with this comes many ethical issues that will be discussed later.
+
+applications
+diagnosis
+ai with the use of nlp and ml can be used to diagnose individuals with mental health disorders. it can be used to differentiate closely similar disorders based on their initial presentation to inform timely treatment before disease progression, for example it may be able to differentiate unipolar form bipolar depression from imaging and medical scans or differentiating between different forms od dementia. ai has the potential to also identify novel diseases that were overlooked due to the heterogeneity of presentation of a single disorder, this means that while many people get diagnosed with depression, that depression may take on different forms and be enacted in different behaviours - ai may parse through the variability of human expression and potentially identify different types of depression or maybe a completely different form of disease that may have been being misidentified in medicine.
+ai may also have the ability to collect data from various forms that were previously inaccessible to physicians such as wellness apps, health tracking sensors, social media posts, images of individuals, speech patterns and thought content, internet searches, traffic cameras, driving habits, or places frequented. this of course is not a comprehensive list of the sources that data can be gathered by ai, but they do illustrate some of the posed ethical, political, and personal implications that may be associated with their use - this will be discussed later in the article.
+
+prognosis
+ai can be used to create accurate predictions for disease progression once diagnosed. ai algorithms do not have to follow the current assumptions on diseases and can formulate their own hypotheses and tests to validate new algorithms to predict disease progression and quality of life. in fact, some studies have used neuroimaging, electronic health records, genetic, and speech data to predict how depression would present in patients, their risk for suicidality or substance abuse, or functional outcomes.
+
+treatment
+in psychiatry, in many cases multiple drugs are trialed with the patients until the correct combination or regimen is reached to effectively treat their ailment - ai can be used to predict treatment response based on observed data collected from the various sources that it would theoretically have at it disposable. this would essentially bypass all the time, effort, resources needed and burden placed on both patients and clinicians.
+
+benefits
+ai in mental health offers several benefits, such as:
+
+improving the accuracy of diagnosis: ai-based systems can analyze data from various sources, such as brain imaging and genetic tests, to identify biomarkers of mental health conditions and improve the accuracy of diagnosis.
+personalized treatment: ai-based systems can analyze data from ehrs, brain imaging, and genetic tests to identify the most effective treatment for specific individuals.
+improving access to mental health care: ai-based systems can be used to deliver mental health interventions, such as cognitive behavioral therapy, in virtual environments, which can improve access to mental health care in areas where access is limited.
+
+criticism
+ai in mental health is still an emerging field and there are still some concerns and criticisms about the use of ai in this area, such as:
+
+lack of data: there is a lack of data available to train ai systems, which limits their ability to identify patterns in mental health conditions and predict outcomes.
+bias: ai systems can be biased if the data used to train them is biased. this can lead to inaccurate predictions and unfair treatment of certain groups of people.
+privacy: the use of ai in mental health raises concerns about privacy, as large amounts of personal data are collected and analyzed.
+
+conclusion
+mental health conditions such as depression, anxiety, and post-traumatic stress disorder (ptsd) are major public health concerns, and they affect a large proportion of the population. traditional methods of mental health care, such as psychotherapy and medication, have been shown to be effective, but they also have limitations. for example, access to mental health care can be limited in certain areas, and it can be difficult to accurately diagnose and treat mental health conditions. ai technologies have the potential to improve the diagnosis and treatment of mental health conditions by providing new insights and identifying patterns that may not be visible to human experts.
+
+see also
+artificial intelligence detection software
+ai alignment
+artificial intelligence in healthcare
+artificial intelligence
+glossary of artificial intelligence
+clinical decision support system
+computer-aided diagnosis
+health software
+
+
+== references ==

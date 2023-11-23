@@ -1,0 +1,36 @@
+in artificial intelligence (ai), anticipation occurs when an agent makes decisions based on its explicit beliefs about the future. more broadly, "anticipation" can also refer to the ability to act in appropriate ways that take future events into account, without necessarily explicitly possessing a model of the future events.
+the concept stays in contrast to the reactive paradigm, which is not able to predict future system states.
+
+in ai
+an agent employing anticipation would try to predict the future state of the environment (weather in this case) and make use of the  predictions in the decision making. for example,
+
+if the sky is cloudy and the air pressure is low,
+  it will probably rain soon
+     so take the umbrella with you.
+otherwise
+  leave the umbrella home.
+
+these rules explicitly take into account possible future events.
+in 1985, robert rosen defined an anticipatory system as follows:
+a system containing a predictive model of itself and/or its environment,
+which allows it to change state at an instant in accord
+with the model's predictions pertaining to a later instant.to some extent, rosen's definition of anticipation applies to any system incorporating machine learning.  at issue is how much of a system's behaviour should or indeed can be determined by reasoning over dedicated representations, how much by on-line planning, and how much must be provided by the system's designers.
+
+in animals
+humans can make decisions based on explicit beliefs about the future. more broadly, animals can act in appropriate ways that take future events into account, although they may not necessarily have an explicit cognitive model of the future; evolution may have shaped simpler systemic features that result in adaptive anticipatory behavior in a narrow domain. for example, hibernation is anticipatory behavior, but does not appear to be driven by a cognitive model of the future.
+
+see also
+action selection
+cognition
+dynamic planning
+the history of artificial intelligence
+mindraces
+nature and nurture
+the physical symbol system hypothesis
+strong ai
+robert rosen
+teleonomy
+
+references
+external links
+mindraces: from reactive to anticipatory cognitive embodied systems, 2004

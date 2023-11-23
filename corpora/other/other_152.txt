@@ -1,0 +1,111 @@
+in artificial intelligence, an intelligent agent (ia) is an agent acting in an intelligent manner; it perceives its environment, takes actions autonomously in order to achieve goals, and may improve its performance with learning or acquiring knowledge. an intelligent agent may be simple or complex: a thermostat or other control system is considered an example of an intelligent agent, as is a human being, as is any system that meets the definition, such as a firm, a state, or a biome.
+leading ai textbooks define "artificial intelligence" as the "study and design of intelligent agents", a definition that considers goal-directed behavior to be the essence of intelligence. goal-directed agents are also described using a term borrowed from economics, "rational agent".an agent has an "objective function" that encapsulates all the ia's goals. such an agent is designed to create and execute whatever plan will, upon completion, maximize the expected value of the objective function. for example, a reinforcement learning agent has a "reward function" that allows the programmers to shape the ia's desired behavior, and an evolutionary algorithm's behavior is shaped by a "fitness function".intelligent agents in artificial intelligence are closely related to agents in economics, and versions of the intelligent agent paradigm are studied in cognitive science, ethics, the philosophy of practical reason, as well as in many interdisciplinary socio-cognitive modeling and computer social simulations. 
+intelligent agents are often described schematically as an abstract functional system similar to a computer program. abstract descriptions of intelligent agents are called abstract intelligent agents (aia) to distinguish them from their real-world implementations. an autonomous intelligent agent is designed to function in the absence of human intervention. intelligent agents are also closely related to software agents (an autonomous computer program that carries out tasks on behalf of users).
+
+as a definition of artificial intelligence
+artificial intelligence: a modern approach defines an "agent" as 
+
+"anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators"
+it defines a "rational agent" as:
+
+"an agent that acts so as to maximize the expected value of a performance measure based on past experience and knowledge."
+it also defines the field of "artificial intelligence research" as:
+
+"the study and design of rational agents"
+padgham & winikoff (2005) agree that an intelligent agent is situated in an environment and responds in a timely (though not necessarily real-time) manner to changes in the environment. however, intelligent agents must also proactively pursue goals in a flexible and robust way. optional desiderata include that the agent be rational, and that the agent be capable of belief-desire-intention analysis.kaplan and haenlein define artificial intelligence as "a system's ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation." this definition is closely related to that of an intelligent agent.
+
+advantages
+philosophically, this definition of artificial intelligence avoids several lines of criticism. unlike the turing test, it does not refer to human intelligence in any way. thus, there is no need to discuss if it is "real" vs "simulated" intelligence (i.e., "synthetic" vs "artificial" intelligence) and does not indicate that such a machine has a mind, consciousness or true understanding (i.e., it does not imply john searle's "strong ai hypothesis"). it also doesn't attempt to draw a sharp dividing line between behaviors that are "intelligent" and behaviors that are "unintelligent"—programs need only be measured in terms of their objective function.
+more importantly, it has a number of practical advantages that have helped move ai research forward. it provides a reliable and scientific way to test programs; researchers can directly compare or even combine different approaches to isolated problems, by asking which agent is best at maximizing a given "goal function".  it also gives them a common language to communicate with other fields—such as mathematical optimization (which is defined in terms of "goals") or economics (which uses the same definition of a "rational agent").
+
+objective function
+an agent that is assigned an explicit "goal function" is considered more intelligent if it consistently takes actions that successfully maximize its programmed goal function. the goal can be simple ("1 if the ia wins a game of go, 0 otherwise") or complex ("perform actions mathematically similar to ones that succeeded in the past"). the "goal function" encapsulates all of the goals the agent is driven to act on; in the case of rational agents, the function also encapsulates the acceptable trade-offs between accomplishing conflicting goals. (terminology varies; for example, some agents seek to maximize or minimize a "utility function", "objective function", or "loss function".)goals can be explicitly defined or induced. if the ai is programmed for "reinforcement learning", it has a "reward function" that encourages some types of behavior and punishes others. alternatively, an evolutionary system can induce goals by using a "fitness function" to mutate and preferentially replicate high-scoring ai systems, similar to how animals evolved to innately desire certain goals such as finding food. some ai systems, such as nearest-neighbor, instead of reason by analogy, these systems are not generally given goals, except to the degree that goals are implicit in their training data. such systems can still be benchmarked if the non-goal system is framed as a system whose "goal" is to accomplish its narrow classification task.systems that are not traditionally considered agents, such as knowledge-representation systems, are sometimes subsumed into the paradigm by framing them as agents that have a goal of (for example) answering questions as accurately as possible; the concept of an "action" is here extended to encompass the "act" of giving an answer to a question. as an additional extension, mimicry-driven systems can be framed as agents who are optimizing a "goal function" based on how closely the ia succeeds in mimicking the desired behavior. in the generative adversarial networks of the 2010s, an "encoder"/"generator" component attempts to mimic and improvise human text composition. the generator is attempting to maximize a function encapsulating how well it can fool an antagonistic "predictor"/"discriminator" component.while symbolic ai systems often accept an explicit goal function, the paradigm can also be applied to neural networks and to evolutionary computing. reinforcement learning can generate intelligent agents that appear to act in ways intended to maximize a "reward function". sometimes, rather than setting the reward function to be directly equal to the desired benchmark evaluation function, machine learning programmers will use reward shaping to initially give the machine rewards for incremental progress in learning. yann lecun stated in 2018 that "most of the learning algorithms that people have come up with essentially consist of minimizing some objective function." alphazero chess had a simple objective function; each win counted as +1 point, and each loss counted as -1 point. an objective function for a self-driving car would have to be more complicated. evolutionary computing can evolve intelligent agents that appear to act in ways intended to maximize a "fitness function" that influences how many descendants each agent is allowed to leave.the theoretical and uncomputable aixi design is a maximally intelligent agent in this paradigm; however, in the real world, the ia is constrained by finite time and hardware resources, and scientists compete to produce algorithms that can achieve progressively higher scores on benchmark tests with real-world hardware.
+
+classes of intelligent agents
+russel and norvig's classification
+russell & norvig (2003) group agents into five classes based on their degree of perceived intelligence and capability:
+
+simple reflex agents
+simple reflex agents act only on the basis of the current percept, ignoring the rest of the percept history. the agent function is based on the condition-action rule: "if condition, then action".
+this agent function only succeeds when the environment is fully observable. some reflex agents can also contain information on their current state which allows them to disregard conditions whose actuators are already triggered.
+infinite loops are often unavoidable for simple reflex agents operating in partially observable environments. if the agent can randomize its actions, it may be possible to escape from infinite loops.
+
+model-based reflex agents
+a model-based agent can handle partially observable environments. its current state is stored inside the agent maintaining some kind of structure that describes the part of the world which cannot be seen. this knowledge about "how the world works" is called a model of the world, hence the name "model-based agent".
+a model-based reflex agent should maintain some sort of internal model that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. percept history and impact of action on the environment can be determined by using the internal model. it then chooses an action in the same way as reflex agent.
+an agent may also use models to describe and predict the behaviors of other agents in the environment.
+
+goal-based agents
+goal-based agents further expand on the capabilities of the model-based agents, by using "goal" information. goal information describes situations that are desirable. this provides the agent a way to choose among multiple possibilities, selecting the one which reaches a goal state. search and planning are the subfields of artificial intelligence devoted to finding action sequences that achieve the agent's goals.
+
+utility-based agents
+goal-based agents only distinguish between goal states and non-goal states. it is also possible to define a measure of how desirable a particular state is. this measure can be obtained through the use of a utility function which maps a state to a measure of the utility of the state. a more general performance measure should allow a comparison of different world states according to how well they satisfied the agent's goals. the term utility can be used to describe how "happy" the agent is.
+
+a rational utility-based agent chooses the action that maximizes the expected utility of the action outcomes - that is, what the agent expects to derive, on average, given the probabilities and utilities of each outcome. a utility-based agent has to model and keep track of its environment, tasks that have involved a great deal of research on perception, representation, reasoning, and learning.
+
+learning agents
+learning has the advantage that it allows the agents to initially operate in unknown environments and to become more competent than its initial knowledge alone might allow. the most important distinction is between the "learning element", which is responsible for making improvements, and the "performance element", which is responsible for selecting external actions.
+the learning element uses feedback from the "critic" on how the agent is doing and determines how the performance element, or "actor", should be modified to do better in the future.  the performance element is what we have previously considered to be the entire agent: it takes in percepts and decides on actions.
+the last component of the learning agent is the "problem generator". it is responsible for suggesting actions that will lead to new and informative experiences.
+
+weiss's classification
+weiss (2013) defines four classes of agents:
+
+logic-based agents – in which the decision about what action to perform is made via logical deduction.
+reactive agents – in which decision making is implemented in some form of direct mapping from situation to action.
+belief-desire-intention agents – in which decision making depends upon the manipulation of data structures representing the beliefs, desires, and intentions of the agent; and finally,
+layered architectures – in which decision making is realized via various software layers, each of which is more or less explicitly reasoning about the environment at different levels of abstraction.
+
+other
+in 2013, alexander wissner-gross published a theory pertaining to freedom and intelligence for intelligent agents.
+
+hierarchies of agents
+to actively perform their functions, intelligent agents today are normally gathered in a hierarchical structure containing many “sub-agents”. intelligent sub-agents process and perform lower-level functions. taken together, the intelligent agent and sub-agents create a complete system that can accomplish difficult tasks or goals with behaviors and responses that display a form of intelligence.
+generally, an agent can be constructed by separating the body into the sensors and actuators, and so that it operates with a complex perception system that takes the description of the world as input for a controller and outputs commands to the actuator. however, a hierarchy of controller layers is often necessary to balance the immediate reaction desired for low-level tasks and the slow reasoning about complex, high-level goals.
+
+agent function
+a simple agent program can be defined mathematically as a function f (called the "agent function") which maps every possible percepts sequence to a possible action the agent can perform or to a coefficient, feedback element, function or constant that affects eventual actions:
+
+  
+    
+      
+        f
+        :
+        
+          p
+          
+            ∗
+          
+        
+        →
+        a
+      
+    
+    {\displaystyle f:p^{\ast }\rightarrow a}
+  agent function is an abstract concept as it could incorporate various principles of decision making like calculation of utility of individual options, deduction over logic rules, fuzzy logic, etc.the program agent, instead, maps every possible percept to an action.we use the term percept to refer to the agent's perceptional inputs at any given instant. in the following figures, an agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.
+
+applications
+hallerbach et al. discussed the application of agent-based approaches for the development and validation of automated driving systems via a digital twin of the vehicle-under-test and microscopic traffic simulation based on independent agents. waymo has created a multi-agent simulation environment carcraft to test algorithms for self-driving cars. it simulates traffic interactions between human drivers, pedestrians and automated vehicles. people's behavior is imitated by artificial agents based on data of real human behavior. the basic idea of using agent-based modeling to understand self-driving cars was discussed as early as 2003.
+
+alternative definitions and uses
+"intelligent agent" is also often used as a vague marketing term, sometimes synonymous with "virtual personal assistant". some 20th-century definitions characterize an agent as a program that aids a user or that acts on behalf of a user. these examples are known as software agents, and sometimes an "intelligent software agent" (that is, a software agent with intelligence) is referred to as an "intelligent agent".
+according to nikola kasabov, ia systems should exhibit the following characteristics:
+accommodate new problem solving rules incrementally
+adapt online and in real time
+are able to analyze themselves in terms of behavior, error and success.
+learn and improve through interaction with the environment (embodiment)
+learn quickly from large amounts of data
+have memory-based exemplar storage and retrieval capacities
+have parameters to represent short- and long-term memory, age, forgetting, etc.
+
+see also
+notes
+inline references
+other references
+domingos, pedro (september 22, 2015). the master algorithm: how the quest for the ultimate learning machine will remake our world. basic books. isbn 978-0465065707.
+russell, stuart j.; norvig, peter (2003). artificial intelligence: a modern approach (2nd ed.). upper saddle river, new jersey: prentice hall. chapter 2. isbn 0-13-790395-2.
+kasabov, n. (1998). "introduction: hybrid intelligent adaptive systems". international journal of intelligent systems. 13 (6): 453–454. doi:10.1002/(sici)1098-111x(199806)13:6<453::aid-int1>3.0.co;2-k. s2cid 120318478.
+weiss, g. (2013). multiagent systems (2nd ed.). cambridge, ma: mit press. isbn 978-0-262-01889-0.
+
+external links
+coneural

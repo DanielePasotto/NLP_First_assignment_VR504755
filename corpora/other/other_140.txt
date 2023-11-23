@@ -1,0 +1,29 @@
+== context ==
+
+intelligent systems
+intelligence is conventionally defined in terms of goal-achieving, problem-solving, or pattern-recognizing capability. recent development in machine learning gives rise to systems that can attempt to emulate those intelligent behaviours. alphago, a machine learning system developed by deepmind, became the first computer program to win a go game against a human professional player.
+
+sentient beings
+one major buddhist goal is to remove suffering for all sentient beings, also known as the bodhisattva vow. one question for buddhist analysis of ai may concern how to relate principles to artificial systems that have been deemed sentient beings or how to develop such systems in ways that relate to buddhist concepts.
+
+buddhist principles in ai system design
+somparn promta and kenneth einar himma
+scholars somparn promta and kenneth einar himma have said that, for buddhists, the advancement of artificial intelligence can only be instrumentally good, not good a priori. perhaps, then, the main tasks of ai designers and developers may be two-fold: to set ethical and pragmatic goals for ai systems, and to fulfil the goals with ai in morally permissible manners. promta and himma say that applying buddhist principles to accomplish these tasks may be possible and practical.
+prompta and himmar say there are two prima-facie goals for creating artificially intelligent systems. the first goal is to create these systems, in such a way that maximally fulfils our crude sensory desires and worldly instincts of survival, just as we did for designing other tools in general. s. promta et al. maintains that, it is possible that the majority of ai developers implicitly pursue this goal when they design ai machines, as can be observed by their over-scrutiny of superficial technicalities of these machines, instead of their wider functionalities.  the second goal, on the other hand, is to transcend these desires and  instincts. according to buddhism, this goal is more worth pursuing than the former one. in brahmajāla sutta, the buddha holds that sensuality, as well as the beliefs and instincts they induce, are what confines beings to suffering.  expounding his four noble truths (pali: cattāri ariyasaccāni) in minor malunkya sutta, the buddha also takes eliminating suffering to be the first priority of human life.  the buddhists then conclude that we can not only reduce, but also eliminate all suffering by transcending and overcoming our instincts of survival, and s. promta et al. see the potential of how artificial intelligence can help us achieving this.
+
+thomas doctor, olaf witkowski, elizaveta solomonova, bill duane, michael levin
+inspired by the bodhisattva vow, thomas doctor, olaf witkowski, elizaveta solomonova, bill duane, and michael levin proposed the slogan ''intelligence as care'' to try revising the current convention of defining intelligence.  it then follows that, one proposal for improving the current ai system design is to use bodhisattva vow as a guiding principle for setting ai design goals. generally, bodhisattva vow has four components; upon taking the vow, one makes a strong commitment (pali: adhiṭṭhāna) to achieve the following: 
+
+to liberate all beings (from suffering), which are boundless;
+to extirpate all suffering, which are countless;
+to be established in all techniques of practicing dharma (pali: dhammakkhandha,  sanskrit: dharmaskandha), which are endless;
+to experience the ultimate and highest enlightenment (sanskrit: अनुत्तर सम्यक् सम्बोधि, romanized: anuttara-samyak-saṃbodhi). in essence, t. doctor et al. defined the bodhisattva vow as a formal commitment to exercise infinite care, to alleviate all stress, suffering, or duḥkha, for all sentient beings: "for the sake of all sentient life, i shall achieve awakening."
+
+generally
+generally, some believe that, from the nonviolence principle of buddhism, artificial intelligence should not be used to cause harm.
+
+notable buddhism-inspired ai instantiations
+while exploring the possibilities of realizing spiritual figures digitally, p. pataranutaporn et al. implemented a chatbot, named ''buddha bot'', as an ai embodiment of the buddha. it allows users to ask it questions and have conversations with it. it uses machine learning concepts to process languages and give responses.in 2017, a funeral service began using ''pepper", a semi-humanoid robot that was created by japanese manufacturer softbank robotics. notable for its capability of discerning human emotions and recognizing facial expressions, it mainly provides funeral services and preaches buddhist teachings to people.
+
+
+== references ==

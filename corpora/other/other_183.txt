@@ -1,0 +1,84 @@
+artificial life (often abbreviated alife or a-life) is a field of study wherein researchers examine systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry. the discipline was named by christopher langton, an american theoretical biologist, in 1986. in 1987 langton organized the first conference on the field, in los alamos, new mexico. there are three main kinds of alife, named for their approaches: soft, from software; hard, from hardware; and wet, from biochemistry. artificial life researchers study traditional biology by trying to recreate aspects of biological phenomena.
+
+overview
+artificial life studies the fundamental processes of living systems in artificial environments in order to gain a deeper understanding of the complex information processing that define such systems.  these topics are broad, but often include evolutionary dynamics, emergent properties of collective systems, biomimicry, as well as related issues about the philosophy of the nature of life and the use of lifelike properties in artistic works.
+
+philosophy
+the modeling philosophy of artificial life strongly differs from traditional modeling by studying not only "life-as-we-know-it" but also "life-as-it-might-be".a traditional model of a biological system will focus on capturing its most important parameters. in contrast, an alife modeling approach will generally seek to decipher the most simple and general principles underlying life and implement them in a simulation. the simulation then offers the possibility to analyse new and different lifelike systems.
+vladimir georgievich red'ko proposed to generalize this distinction to the modeling of any process, leading to the more general distinction of "processes-as-we-know-them" and "processes-as-they-could-be".at present, the commonly accepted definition of life does not consider any current alife simulations or software to be alive, and they do not constitute part of the evolutionary process of any ecosystem. however, different opinions about artificial life's potential have arisen:
+
+the strong alife (cf. strong ai) position states that "life is a process which can be abstracted away from any particular medium" (john von neumann). notably, tom ray declared that his program tierra is not simulating life in a computer but synthesizing it.
+the weak alife position denies the possibility of generating a "living process" outside of a chemical solution. its researchers try instead to simulate life processes to understand the underlying mechanics of biological phenomena.
+
+software-based ("soft")
+techniques
+cellular automata were used in the early days of artificial life, and are still often used for ease of scalability and parallelization.  alife and cellular automata share a closely tied history.
+artificial neural networks are sometimes used to model the brain of an agent.  although traditionally more of an artificial intelligence technique, neural nets can be important for simulating population dynamics of organisms that can learn.  the symbiosis between learning and evolution is central to theories about the development of instincts in organisms with higher neurological complexity, as in, for instance, the baldwin effect.
+neuroevolution
+
+notable simulators
+this is a list of artificial life and digital organism simulators:
+
+program-based
+program-based simulations contain organisms with a complex dna language, usually turing complete.  this language is more often in the form of a computer program than actual biological dna.  assembly derivatives are the most common languages used. an organism "lives" when its code is executed, and there are usually various methods allowing self-replication. mutations are generally implemented as random changes to the code. use of cellular automata is common but not required. another example could be an artificial intelligence and multi-agent system/program.
+
+module-based
+individual modules are added to a creature.  these modules modify the creature's behaviors and characteristics either directly, by hard coding into the simulation (leg type a increases speed and metabolism), or indirectly, through the emergent interactions between a creature's modules (leg type a moves up and down with a frequency of x, which interacts with other legs to create motion).  generally, these are simulators that emphasize user creation and accessibility over mutation and evolution.
+
+parameter-based
+organisms are generally constructed with pre-defined and fixed behaviors that are controlled by various parameters that mutate.  that is, each organism contains a collection of numbers or other finite parameters. each parameter controls one or several aspects of an organism in a well-defined way.
+
+neural net–based
+these simulations have creatures that learn and grow using neural nets or a close derivative.  emphasis is often, although not always, on learning rather than on natural selection.
+
+complex systems modeling
+mathematical models of complex systems are of three types: black-box (phenomenological), white-box (mechanistic, based on the first principles) and grey-box (mixtures of phenomenological and mechanistic models). in black-box models, the individual-based (mechanistic) mechanisms of a complex dynamic system remain hidden.  black-box models are completely nonmechanistic. they are phenomenological and ignore a composition and internal structure of a complex system. due to the non-transparent nature of the model, interactions of subsystems cannot be investigated. in contrast, a white-box model of a complex dynamic system has ‘transparent walls’ and directly shows underlying mechanisms. all events at the micro-, meso- and macro-levels of a dynamic system are directly visible at all stages of a white-box model's evolution. in most cases, mathematical modelers use the heavy black-box mathematical methods, which cannot produce mechanistic models of complex dynamic systems. grey-box models are intermediate and combine black-box and white-box approaches.  creation of a white-box model of complex system is associated with the problem of the necessity of an a priori basic knowledge of the modeling subject. the deterministic logical cellular automata are necessary but not sufficient condition of a white-box model. the second necessary prerequisite of a white-box model is the presence of the physical ontology of the object under study. the white-box modeling represents an automatic hyper-logical inference from the first principles because it is completely based on the deterministic logic and axiomatic theory of the subject. the purpose of the white-box modeling is to derive from the basic axioms a more detailed, more concrete mechanistic knowledge about the dynamics of the object under study. the necessity to formulate an intrinsic axiomatic system of the subject before creating its white-box model distinguishes the cellular automata models of white-box type from cellular automata models based on arbitrary logical rules. if cellular automata rules have not been formulated from the first principles of the subject, then such a model may have a weak relevance to the real problem.
+
+hardware-based ("hard")
+hardware-based artificial life mainly consist of robots, that is, automatically guided machines able to do tasks on their own.
+
+biochemical-based ("wet")
+biochemical-based life is studied in the field of synthetic biology. it involves research such as the creation of synthetic dna. the term "wet" is an extension of the term "wetware". efforts toward "wet" artificial life focus on engineering live minimal cells from living bacteria mycoplasma laboratorium and in building non-living biochemical cell-like systems from scratch.
+in may 2019, researchers reported a new milestone in the creation of a new synthetic (possibly artificial) form of viable life, a variant of the bacteria escherichia coli, by reducing the natural number of 64 codons in the bacterial genome to 59 codons instead, in order to encode 20 amino acids.
+
+open problems
+how does life arise from the nonliving?generate a molecular proto-organism in vitro.
+achieve the transition to life in an artificial chemistry in silico.
+determine whether fundamentally novel living organizations can exist.
+simulate a unicellular organism over its entire life cycle.
+explain how rules and symbols are generated from physical dynamics in living systems.what are the potentials and limits of living systems?determine what is inevitable in the open-ended evolution of life.
+determine minimal conditions for evolutionary transitions from specific to generic response systems.
+create a formal framework for synthesizing dynamical hierarchies at all scales.
+determine the predictability of evolutionary consequences of manipulating organisms and ecosystems.
+develop a theory of information processing, information flow, and information generation for evolving systems.how is life related to mind, machines, and culture?demonstrate the emergence of intelligence and mind in an artificial living system.
+evaluate the influence of machines on the next major evolutionary transition of life.
+provide a quantitative model of the interplay between cultural and biological evolution.
+establish ethical principles for artificial life.
+
+related subjects
+agent-based modeling is used in artificial life and other fields to explore emergence in systems.
+artificial intelligence has traditionally used a top down approach, while alife generally works from the bottom up.
+artificial chemistry started as a method within the alife community to abstract the processes of chemical reactions.
+evolutionary algorithms are a practical application of the weak alife principle applied to optimization problems.  many optimization algorithms have been crafted which borrow from or closely mirror alife techniques. the primary difference lies in explicitly defining the fitness of an agent by its ability to solve a problem, instead of its ability to find food, reproduce, or avoid death. the following is a list of evolutionary algorithms closely related to and used in alife:
+ant colony optimization
+bacterial colony optimization
+genetic algorithm
+genetic programming
+swarm intelligence
+multi-agent system – a multi-agent system is a computerized system composed of multiple interacting intelligent agents within an environment.
+evolutionary art uses techniques and methods from artificial life to create new forms of art.
+evolutionary music uses similar techniques, but applied to music instead of visual art.
+abiogenesis and the origin of life sometimes employ alife methodologies as well.
+quantum artificial life applies quantum algorithms to artificial life systems.
+
+history
+criticism
+alife has had a controversial history. john maynard smith criticized certain artificial life work in 1994 as "fact-free science".
+
+see also
+references
+external links
+artificial life at curlie
+international society of artificial life
+artificial life journal, at mit press journal
+the artificial life lab, a virtual environment lab

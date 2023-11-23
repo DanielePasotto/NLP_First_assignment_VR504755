@@ -1,0 +1,30 @@
+the joint artificial intelligence center (jaic) (pronounced "jake") was an american organization on exploring the usage of artificial intelligence (ai) (particularly edge computing), network of networks and ai-enhanced communication for use in actual combat. in february 2022, jaic was integrated into the chief digital and artificial intelligence office (cdao).a subdivision of the united states armed forces, it was created in june 2018. the organization's stated objective was to "transform the us department of defense by accelerating the delivery and adoption of ai to achieve mission impact at scale. the goal is to use ai to solve large and complex problem sets that span multiple combat systems; then, ensure the combat systems and components have real-time access to ever-improving libraries of data sets and tools."
+
+history
+jaic was originally proposed to congress on june 27, 2018; that same month, it was established under the defense department's chief information officer (cio), itself subordinate to the office of the secretary of defense (osd), to coordinate department-wide ai efforts. throughout 2020, jaic started financially engaging with the ai industry for the development of specific applications.current proposals for jaic include giving it the authority as a financial entity to acquire its own technology, and elevating its position to be under the deputy secretary of defense.on 24 june 2021 the department of defense gathered reporters for an ai symposium in which it announced the launch of an "ai and data accelerator (ada) initiative" in which, over the month of july, data teams would work directly with military personnel to provide a proof of concept in data-driven warfare and to observe the possible obstacles for such implementation.on 1 june 2022 jaic, the defense digital service, and the office of advancing analytics were fully merged into a unified organization, the chief digital and artificial intelligence officer (cdao). jaic, dds, and the other groups within cdao will cease to be recognized as entities.
+
+successor
+note: as more information becomes available, this section may be split off
+the chief digital and artificial intelligence office (cdao) or chief digital and artificial intelligence officer  is dr. craig martell.  usaf secretary frank kendall has signalled that the cdao will have an approach to solving the dod-wide joint all-domain command and control (jadc2) problem: "deputy defense secretary kathleen hicks has already asked martell to take a leading role in the discussions about jadc2".  martell's approach is bottom-up starting with each agency, working one-by-one, preserving what is important for each agency. however connectivity between nodes is currently the critical resource for jadc2.on 30 january 2023 the cdao announced a series of global information dominance experiments (gides). 
+gide 5 is being held 30 january — 3 february 2023 (monday—thursday) at the pentagon, and at multiple combatant commands (and therefore across the global information grid for jadc2). the experiment is twofold: 1) "to identify where we may have barriers in policy, security, connectivity, user-interface, or other areas that prohibit data sharing across the joint force"; and 2) "to show how data, analytics, and ai can improve joint workflows in a variety of missions from global integrated deterrence through targeting and fires".gide 6 was held from june 5th to july 26th 2023 with allies and partners, to exercise combined joint all-domain command and control (cjadc2).
+
+reaction to large language models
+dr. martell has expressed apprehension over the large language models of ai such as chatgpt.us air force secretary frank kendall notes that ai tools to aid decision-making will likely find application. however the us will apply ethical constraints.
+
+technology
+ai-powered surveillance
+the usaf has expressed interest in ai-based surveillance for operations based in centcom. interest in these operations has grown from $600 million to $2.5 billion, from 2016 to 2021.
+
+neuromorphic computing
+jaic's primary area of interest is edge computing, as even more sensor technologies are being added to weapon systems and military vehicles. the edge processors that will be used are neuromorphic processors that will perform neural network computations on the sensor itself without having to send the data to a central processor, thus increasing the robustness of the combat network. jaic plans to access the u.s. commercial sector and academia to recruit professionals in the fields of neuromorphic technology and ai safety. see § data fabric
+
+network of networks
+joint all-domain command and control (jadc2) is an initiative of the military's network of networks, as each branch of the us armed forces (army, air force, navy, marines and coast guard) intends to have its own communications network. the jadc2 project would integrate all those networks into a larger network on all spatial scales. ′connect every sensor, every shooter′, being the tagline.jadc2 confers on the us the capability to "move data globally at scale". —gen. chance saltzman, us space force
+
+joint common foundation
+"the dod’s cloud-based ai development and experimentation platform"
+
+list of directors
+
+
+== notes and references ==

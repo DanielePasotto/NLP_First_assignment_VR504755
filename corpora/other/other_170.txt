@@ -1,0 +1,24 @@
+artificial intelligence system (ais) was a volunteer computing project undertaken by intelligence realm, inc. with the long-term goal of simulating the human brain in real time, complete with artificial consciousness and artificial general intelligence. they claimed to have found, in research, the "mechanisms of knowledge representation in the brain which is equivalent to finding artificial intelligence", before moving into the developmental phase.
+
+history
+the project's initial goal was recreating the largest brain simulation to date, performed by neuroscientist eugene m. izhikevich of the neurosciences institute in san diego, california. izhikevich simulated 1 second of activity of 100 billion neurons (the estimated number of neurons in the human brain) in 50 days using a cluster of 27 3-gigahertz processors.  he extrapolated that a real-time simulation of the brain could not be achieved before 2016.  the project aimed to disprove this prediction.
+artificial intelligence system announced on on sep 5, 2007 that they will use the berkeley open infrastructure for network computing (boinc) software to perform intensive calculations.
+on july 12, 2008, the first phase of the project had been completed by reaching the 100 billion neuron mark. the project then continued to simulate neurons while they completed the development of other related applications.
+
+application description
+the application is a brain network test system that reenacts biophysical sensory cells characterized as numerical models and use the hodgkin–huxley model to portray the properties of brain cells
+the rundown of models will keep developing and will ultimately arrive at many models
+the test system gets information from xml records that contain cell properties which portray behavior
+the test system will process the framework's way of behaving over the long haul
+calculation results will be saved in records
+
+conclusion
+artificial intelligence system had successfully simulated over 700 billion neurons by april 2009 and the project reported 7119 participants in january, 2010ais was last seen working on the post data stage before the website was no longer available after november 2010.
+
+see also
+artificial consciousness
+blue brain
+outline of artificial intelligence
+
+
+== references ==

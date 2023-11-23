@@ -1,0 +1,12 @@
+in artificial intelligence (ai), particularly machine learning (ml), ablation is the removal of a component of an ai system. an ablation study investigates the performance of an ai system by removing certain components to understand the contribution of the component to the overall system. 
+the term is an analogy with biology (removal of components of an organism), and is particularly used in the analysis of artificial neural nets by analogy with ablative brain surgery. other analogies include other neuroscience biological systems such as drosophilla central nervous system and the vertebrate brain. 
+ablation studies require that a system exhibit graceful degradation: the system must continue to function even when certain components are missing or degraded. according to some researchers, ablation studies have been deemed a convenient technique in investigating artificial intelligence and its durability to structural damages.ablation studies damage and/or remove certain components in a controlled setting to investigate all possible outcomes of system failure; this characterizes how each action impacts the system's overall performance and capabilities. the ablation process can be used to test systems that perform tasks such as speech recognition, visual object recognition, and robot control.
+
+history
+the term is credited to allen newell, one of the founders of artificial intelligence, who used it in his 1974 tutorial on speech recognition, published in newell (1975). the term is by analogy with ablation in biology. the motivation was that, while individual components are engineered, the contribution of an individual component to the overall system performance is not clear; removing components allows this analysis.newell compared the human brain to artificial computers. with this in thought, newell saw both as knowledge systems whereas procedures such as ablation can be performed on both to test certain hypotheses.
+
+see also
+muntzing
+
+
+== references ==

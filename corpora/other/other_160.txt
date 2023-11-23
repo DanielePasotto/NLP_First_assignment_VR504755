@@ -1,0 +1,52 @@
+artificial intelligence markup language (aiml) is an xml dialect for creating natural language software agents.
+
+history
+the xml dialect called aiml was developed by richard wallace and a worldwide free software community between 1995 and 2002. aiml formed the basis for what was initially a highly extended eliza called "a.l.i.c.e." ("artificial linguistic internet computer entity"), which won the annual loebner prize competition in artificial intelligence three times, and was also the chatterbox challenge champion in 2004.
+because the a.l.i.c.e. aiml set was released under the gnu gpl, and because most aiml interpreters are offered under a free or open source license, many "alicebot clones" have been created based upon the original implementation of the program and its aiml knowledge base. free aiml sets in several languages have been developed and made available by the user community. there are aiml interpreters available in java, ruby, python, c++, c#, pascal, and other languages (see below).
+a semi-formal specification and a w3c xml schema for aiml are available.
+since early 2013, the a.l.i.c.e foundation has been working on a draft specification for aiml 2.0.
+
+elements of aiml
+aiml contains several elements. the most important of these are described in further detail below.
+
+categories
+categories in aiml form the fundamental unit of knowledge. a category consists of at least two further elements: the pattern and template elements. here is a simple category:
+
+when this category is loaded, an aiml bot will respond to the input "what is your name" with the response "my name is michael n.s evanious."
+
+patterns
+a pattern is a string of characters intended to match one or more user inputs. a literal pattern like
+
+what is your name
+
+will match only one input, ignoring case: "what is your name". but patterns may also contain wildcards, which match one or more words. a pattern like
+
+what is your *
+
+will match an infinite number of inputs, including "what is your name", "what is your shoe size", "what is your purpose in life", etc.
+the aiml pattern syntax is a very simple pattern language, substantially less complex than regular expressions and as such less than level 3 in the chomsky hierarchy. 
+to compensate for the simple pattern matching capabilities, aiml interpreters can provide preprocessing functions to expand abbreviations, remove misspellings, etc.
+the aiml syntax itself is at least as complex as finite state machines and as such at least of level 3 in the chomsky hierarchy. this is because a state correlates to one topic. to implement that behavior, the topic should have a "*" pattern to make sure, that the state is not left accidentally. a state transit is implemented with the <think><set name="topic">state2</set></think> tag. this way, the bot will be able to "remember" the topic talked about or even user privileges, which are gained during the chat.
+
+templates
+a template specifies the response to a matched pattern. a template may be as simple as some literal text, like
+
+my name is john.
+
+a template may use variables, such as the example
+
+my name is <bot name="name"/>.
+
+which will substitute the bot's name into the sentence, or
+
+you told me you are <get name="user-age"/> years old.
+
+which will substitute the user's age (if known) into the sentence.
+template elements include basic text formatting, conditional response (if-then/else), and random responses.
+templates may also redirect to other patterns, using an element called srai (symbolic reduction in artificial intelligence). this can be used to implement synonymy, as in this example (where cdata is used to avoid the need for xml escaping):
+
+the first category simply answers an input "what is your name" with a statement of the bot's name. the second category, however, says that the input "what are you called" should be redirected to the category that matches the input "what is your name"—in other words, it is saying that the two phrases are equivalent.
+templates can contain other types of content, which may be processed by whatever user interface the bot is talking through. so, for example, a template may use html tags for formatting, which can be ignored by clients that don't support html.
+
+
+== references ==

@@ -1,0 +1,62 @@
+artificial intelligence and music (aim) is a common subject in the international computer music conference, the computing society conference and the international joint conference on artificial intelligence. the first international computer music conference (icmc) was held in 1974 at michigan state university. current research includes the application of ai in music composition, performance, theory and digital sound processing.
+a key part of this field is the development of music software programs which use ai to produce music. as with applications in other fields, ai in music also simulates mental tasks. a prominent feature is the capability of an ai algorithm to learn based on past data, such as in computer accompaniment technology, wherein the ai is capable of listening to a human performer and performing accompaniment. artificial intelligence also drives interactive composition technology, wherein a computer composes music in response to a live performance. there are other ai applications in music that cover not only music composition, production, and performance but also how music is marketed and consumed. several music player programs have also been developed to use voice recognition and natural language processing technology for music voice control.
+
+history
+in 1960, russian researcher rudolf zaripov published worldwide first paper on algorithmic music composing using the "ural-1" computer.in 1965, inventor ray kurzweil premiered a piano piece created by a computer that was capable of pattern recognition in various compositions. the computer was then able to analyze and use these patterns to create novel melodies. the computer debuted on the quiz show i've got a secret, and stumped the hosts until film star henry morgan guessed ray's secret.in 1997, an artificial intelligence program named experiments in musical intelligence (emi) appeared to outperform a human composer at the task of composing a piece of music to imitate the style of bach.
+
+software applications
+interactive scores
+multimedia scenarios in interactive scores are represented by
+temporal objects,
+temporal relations, and
+interactive objects. examples of temporal objects are sounds, videos and light controls.
+temporal objects can be triggered by interactive objects (usually launched by the user) and
+several temporal objects can be executed simultaneously.  a temporal object may contain
+other temporal objects:  this hierarchy allows us to control the start or end of a temporal
+object by controlling the start or end of its parent.  hierarchy is ever-present in all kinds
+of music:  music pieces are often hierarchized by movements, parts, motives, measures,
+among other segmentations.
+
+computer accompaniment (carnegie mellon university)
+the computer music project at cmu develops computer music and interactive performance technology to enhance human musical experience and creativity. this interdisciplinary effort draws on music theory, cognitive science, artificial intelligence and machine learning, human computer interaction, real-time systems, computer graphics and animation, multimedia, programming languages, and signal processing.
+
+chuck
+developed at princeton university by ge wang and perry cook, chuck is a text-based, cross-platform language that allows real-time synthesis, composition, performance, and analysis of music. it is used by slork (stanford laptop orchestra) and plork (princeton laptop orchestra).
+
+jukedeck
+jukedeck was a website that let people use artificial intelligence to generate original, royalty-free music for use in videos. the team started building the music generation technology in 2010, formed a company around it in 2012, and launched the website publicly in 2015. the technology used was originally a rule-based algorithmic composition system, which was later replaced with artificial neural networks. the website was used to create over 1 million pieces of music, and brands that used it included coca-cola, google, uktv, and the natural history museum, london. in 2019, the company was acquired by bytedance.
+
+morpheus
+morpheus is a research project by dorien herremans and elaine chew at queen mary university of london, funded by a marie skłodowská-curie eu project. the system uses an optimization approach based on a variable neighborhood search algorithm to morph existing template pieces into novel pieces with a set level of tonal tension that changes dynamically throughout the piece. this optimization approach allows for the integration of a pattern detection technique in order to enforce long term structure and recurring themes in the generated music. pieces composed by morpheus have been performed at concerts in both stanford and london.
+
+aiva
+created in february 2016, in luxembourg, aiva is a program that produces soundtracks for any type of media. the algorithms behind aiva are based on deep learning architectures aiva has also been used to compose a rock track called on the edge, as well as a pop tune love sick in collaboration with singer taryn southern, for the creation of her 2018 album "i am ai".
+
+google magenta
+google's magenta team has published several ai music applications and technical papers since their launch in 2016. in 2017 they released the nsynth algorithm and dataset, and an open source hardware musical instrument, designed to facilitate musicians in using the algorithm. the instrument was used by notable artists such as grimes and yacht in their albums. in 2018, they released a piano improvisation app called piano genie. this was later followed by magenta studio, a suite of 5 midi plugins that allow music producers to elaborate on existing music in their daw. in 2023, their machine learning team published a technical paper on github that described musiclm, a private text-to-music generator developed.
+
+riffusion
+copyright
+the question of who owns the copyright to ai music outputs remain uncertain. when ai is used as a collaborative tool as a function of the human creative process, current us copyright laws are likely to apply. however, music outputs solely generated by ai are not granted copyright protection. in the compendium of u.s. copyright office practices, the copyright office has stated that it would not grant copyrights to “works that lack human authorship” and “the office will not register works produced by a machine or mere mechanical process that operates randomly or automatically without any creative input or intervention from a human author.” in february 2022, the copyright review board rejected an application to copyright ai-generated artwork on the basis that it "lacked the required human authorship necessary to sustain a claim in copyright."
+
+see also
+algorithmic composition
+automatic content recognition
+computational models of musical creativity
+generative artificial intelligence
+list of music software
+music information retrieval
+openai § musenet and jukebox (music)
+
+references
+further reading
+understanding music with ai: perspectives on music cognition archived 2021-01-10 at the wayback machine. edited by mira balaban, kemal ebcioglu, and otto laske. aaai press.
+proceedings of a workshop held as part of ai-ed 93, world conference on artificial intelligence in education on music education: an artificial intelligence approach
+tanguiane (tangian), andranick (1993). artificial perception and music recognition. lecture notes in artificial intelligence. vol. 746. berlin-heidelberg: springer. isbn 978-3-540-57394-4.
+
+external links
+the music informatics research group
+institut de recherche et coordination acoustique/ musique
+interdisciplinary centre for research in music
+mixdevil - is ai good gor music producers
+opendream

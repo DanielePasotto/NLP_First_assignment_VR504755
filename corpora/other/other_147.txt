@@ -1,0 +1,39 @@
+artificial intelligence for it operations (aiops) is a term coined by gartner in 2016 as an industry category for machine learning analytics technology that enhances it operations analytics. aiops is the acronym of "artificial intelligence operations". such operation tasks include automation, performance monitoring and event correlations among others.there are two main aspects of an aiops platform: machine learning and big data. in order to collect observational data and engagement data that can be found inside a big data platform and requires a shift away from sectionally segregated it data, a holistic machine learning and analytics strategy is implemented against the combined it data.the goal is to enable it transformation, receive continuous insights which provide continuous fixes and improvements via automation. this is why aiops can be viewed as ci/cd for core it functions.given the inherent nature of it operations, which is closely tied to cloud deployment and the management of distributed applications, aiops has increasingly led to the coalescence of machine learning and cloud research.
+
+process
+the normalized data is suitable to be processed through machine learning algorithms to automatically reduce noise and identify the probable root cause of incidents. the main output of such stage is the detection of any abnormal behavior from users, devices or applications. 
+noise reduction can be done by various methods, but most of the research in the field points to the following actions:
+
+analysis of all incoming alerts;
+remove duplicates;
+identify the false positives;
+early anomaly, fault and failure (aff) detection and analysis.anomaly detection - another step in any aiops process is based on the analysis of past behavior of users, equipment and applications. anything that strays from that behavior baseline is considered unusual and flagged as abnormal.
+root cause determination is usually done by passing incoming alerts through algorithms that take into consideration correlated events as well as topology dependencies. the algorithms on which ai are basing their functioning can be influenced directly, essentially by "training" them.
+
+use
+a very important use of aiops platforms is related to the analysis of large and unconnected datasets, such as the johns hopkins covid-19's data published through github. the data in this example is pulled from a large number of un-normalized databases  - aggregated data (10 sources), us regional data (113 sources) and non-us data (37 sources), which are unuseable considering the needed emergency response time by the traditional analysis models.
+generally, the main areas of use for aiops platforms and principles are
+automation of tasks (devops)
+machine learning platforms
+augmented reality
+agent-based simulations
+internet of things (iot)
+ai optimized hardware
+natural language generation
+streaming data platforms
+conversational bi and analyticsdeployment and integration testing
+system configuration
+service quality monitoring and anomaly detection
+resource scheduling and optimization
+capacity/workload management and prediction
+hardware/software failure prediction
+auto-diagnosis and problem localization
+incident management
+auto service healing
+data center management
+customer support
+security
+privacy
+
+
+== references ==

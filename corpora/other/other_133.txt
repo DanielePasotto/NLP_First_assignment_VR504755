@@ -1,0 +1,105 @@
+progress in artificial intelligence (ai) refers to the advances, milestones, and breakthroughs that have been achieved in the field of artificial intelligence over time. ai is a multidisciplinary branch of computer science that aims to create machines and systems capable of performing tasks that typically require human intelligence. artificial intelligence applications have been used in a wide range of fields including medical diagnosis, economic-financial applications, robot control, law, scientific discovery, video games, and toys. however, many ai applications are not perceived as ai:  "a lot of cutting edge ai has filtered into general applications, often without being called ai because once something becomes useful enough and common enough it's not labeled ai anymore." "many thousands of ai applications are deeply embedded in the infrastructure of every industry." in the late 1990s and early 21st century, ai technology became widely used as elements of larger systems, but the field was rarely credited for these successes at the time.
+kaplan and haenlein structure artificial intelligence along three evolutionary stages: 1) artificial narrow intelligence – applying ai only to specific tasks; 2) artificial general intelligence – applying ai to several areas and able to autonomously solve problems they were never even designed for; and 3) artificial super intelligence – applying ai to any area capable of scientific creativity, social skills, and general wisdom.to allow comparison with human performance, artificial intelligence can be evaluated on constrained and well-defined problems.  such tests have been termed subject matter expert turing tests.  also, smaller problems provide more achievable goals and there are an ever-increasing number of positive results.
+humans still substantially outperform both gpt-4 and models trained on the conceptarc benchmark that scored 60% on most, and 77% on one category, while humans 91% on all and 97% on one category.
+
+current performance
+there are many useful abilities that can be described as showing some form of intelligence. this gives better insight into the comparative success of artificial intelligence in different areas.
+ai, like electricity or the steam engine, is a general-purpose technology. there is no consensus on how to characterize which tasks ai tends to excel at. some versions of moravec's paradox observe that humans are more likely to outperform machines in areas such as physical dexterity that have been the direct target of natural selection. while projects such as alphazero have succeeded in generating their own knowledge from scratch, many other machine learning projects require large training datasets. researcher andrew ng has suggested, as a "highly imperfect rule of thumb", that "almost anything a typical human can do with less than one second of mental thought, we can probably now or in the near future automate using ai."games provide a high-profile benchmark for assessing rates of progress; many games have a large professional player base and a well-established competitive rating system. alphago brought the era of classical board-game benchmarks to a close when artificial intelligence proved their competitive edge over humans in 2016. deep mind’s alphago ai software program defeated the world’s best professional go player lee sedol. games of imperfect knowledge provide new challenges to ai in the area of game theory; the most prominent milestone in this area was brought to a close by libratus' poker victory in 2017. e-sports continue to provide additional benchmarks; facebook ai, deepmind, and others have engaged with the popular starcraft franchise of videogames.broad classes of outcome for an ai test may be given as:
+
+optimal: it is not possible to perform better (note: some of these entries were solved by humans)
+super-human: performs better than all humans
+high-human: performs better than most humans
+par-human: performs similarly to most humans
+sub-human: performs worse than most humans
+
+optimal
+tic-tac-toe
+connect four: 1988
+checkers (aka 8x8 draughts): weakly solved (2007)
+rubik's cube: mostly solved (2010)
+heads-up limit hold'em poker: statistically optimal in the sense that "a human lifetime of play is not sufficient to establish with statistical significance that the strategy is not an exact solution" (2015)
+
+super-human
+othello (aka reversi): c. 1997
+scrabble: 2006
+backgammon: c. 1995–2002
+chess: supercomputer (c. 1997); personal computer (c. 2006); mobile phone (c. 2009); computer defeats human + computer (c. 2017)
+jeopardy!: question answering, although the machine did not use speech recognition (2011)
+arimaa: 2015
+shogi: c. 2017
+go: 2017
+heads-up no-limit hold'em poker: 2017
+six-player no-limit hold'em poker: 2019
+gran turismo sport: 2022
+
+high-human
+crosswords: c. 2012
+freeciv: 2016
+dota 2: 2018
+bridge card-playing: according to a 2009 review, "the best programs are attaining expert status as (bridge) card players", excluding bidding.
+starcraft ii: 2019
+mahjong: 2019
+stratego: 2022
+no-press diplomacy: 2022
+hanabi: 2022
+natural language processing
+
+par-human
+optical character recognition for iso 1073-1:1976 and similar special characters.
+classification of images
+handwriting recognition
+facial recognition
+visual question answering
+squad 2.0 english reading-comprehension benchmark (2019)
+superglue english-language understanding benchmark (2020)
+some school science exams (2019)
+some tasks based on raven's progressive matrices
+many atari 2600 games (2015)
+
+sub-human
+optical character recognition for printed text (nearing par-human for latin-script typewritten text)
+object recognition
+various robotics tasks that may require advances in robot hardware as well as ai, including:
+stable bipedal locomotion: bipedal robots can walk, but are less stable than human walkers (as of 2017)
+humanoid soccer
+speech recognition: "nearly equal to human performance" (2017)
+explainability. current medical systems can diagnose certain medical conditions well, but cannot explain to users why they made the diagnosis.
+many tests of fluid intelligence (2020)
+bongard visual cognition problems, such as the bongard-logo benchmark (2020)
+visual commonsense reasoning (vcr) benchmark (as of 2020)
+stock market prediction: financial data collection and processing using machine learning algorithms
+angry birds video game, as of 2020
+various tasks that are difficult to solve without contextual knowledge, including:
+translation
+word-sense disambiguation
+
+proposed tests of artificial intelligence
+in his famous turing test, alan turing picked language, the defining feature of human beings, for its basis. the turing test is now considered too exploitable to be a meaningful benchmark.the feigenbaum test, proposed by the inventor of expert systems, tests a machine's knowledge and expertise about a specific subject. a paper by jim gray of microsoft in 2003 suggested extending the turing test to speech understanding, speaking and recognizing objects and behavior.proposed "universal intelligence" tests aim to compare how well machines, humans, and even non-human animals perform on problem sets that are generic as possible. at an extreme, the test suite can contain every possible problem, weighted by kolmogorov complexity; however, these problem sets tend to be dominated by impoverished pattern-matching exercises where a tuned ai can easily exceed human performance levels.
+
+exams
+according to openai, in 2023 chatgpt gpt-4 scored the 90th percentile on the uniform bar exam. on the sats, gpt-4 scored the 89th percentile on math, and the 93rd percentile in reading & writing. on the gres, it scored on the 54th percentile on the writing test, 88th percentile on the quantitative section, and 99th percentile on the verbal section. it scored in the 99th to 100th percentile on the 2020 usa biology olympiad semifinal exam. it scored a perfect "5" on several ap exams.independent researchers found in 2023 that chatgpt gpt-3.5 "performed at or near the passing threshold" for the three parts of the united states medical licensing examination. gpt-3.5 was also assessed to attain a low, but passing, grade from exams for four law school courses at the university of minnesota. gpt-4 passed a text-based radiology board–style examination.
+
+competitions
+many competitions and prizes, such as the imagenet challenge, promote research in artificial intelligence. the most common areas of competition include general machine intelligence, conversational behavior, data-mining, robotic cars, and robot soccer as well as conventional games.
+
+past and current predictions
+an expert poll around 2016, conducted by katja grace of the future of humanity institute and associates, gave median estimates of 3 years for championship angry birds, 4 years for the world series of poker, and 6 years for starcraft. on more subjective tasks, the poll gave 6 years for folding laundry as well as an average human worker, 7–10 years for expertly answering 'easily googleable' questions, 8 years for average speech transcription, 9 years for average telephone banking, and 11 years for expert songwriting, but over 30 years for writing a new york times bestseller or winning the putnam math competition.
+
+chess
+an ai defeated a grandmaster in a regulation tournament game for the first time in 1988; rebranded as deep blue, it beat the reigning human world chess champion in 1997 (see deep blue versus garry kasparov).
+
+go
+alphago defeated a european go champion in october 2015, and lee sedol in march 2016, one of the world's top players (see alphago versus lee sedol). according to scientific american and other sources, most observers had expected superhuman computer go performance to be at least a decade away.
+
+human-level artificial general intelligence (agi)
+ai pioneer and economist herbert a. simon inaccurately predicted in 1965: "machines will be capable, within twenty years, of doing any work a man can do". similarly, in 1970 marvin minsky wrote that "within a generation... the problem of creating artificial intelligence will substantially be solved."four polls conducted in 2012 and 2013 suggested that the median estimate among experts for when agi would arrive was 2040 to 2050, depending on the poll.the grace poll around 2016 found results varied depending on how the question was framed. respondents asked to estimate "when unaided machines can accomplish every task better and more cheaply than human workers" gave an aggregated median answer of 45 years and a 10% chance of it occurring within 9 years. other respondents asked to estimate "when all occupations are fully automatable. that is, when for any occupation, machines could be built to carry out the task better and more cheaply than human workers" estimated a median of 122 years and a 10% probability of 20 years. the median response for when "ai researcher" could be fully automated was around 90 years. no link was found between seniority and optimism, but asian researchers were much more optimistic than north american researchers on average; asians predicted 30 years on average for "accomplish every task", compared with the 74 years predicted by north americans.
+
+see also
+applications of artificial intelligence
+list of artificial intelligence projects
+list of emerging technologies
+
+references
+notes
+external links
+miri database of predictions about agi
