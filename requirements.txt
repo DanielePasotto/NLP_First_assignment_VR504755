@@ -1,0 +1,5 @@
+wikipedia==1.4.0
+Wikipedia-API==0.6.0
+nltk==3.8.1
+beautifulsoup4==4.12.2
+requests==2.31.0
