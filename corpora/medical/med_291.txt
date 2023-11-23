@@ -1,0 +1,74 @@
+the medical genetics of jews have been studied to identify and prevent some rare genetic diseases that, while still rare, are more common than average among people of jewish descent. there are several autosomal recessive genetic disorders that are more common than average in ethnically jewish populations, particularly ashkenazi jews, because of relatively recent population bottlenecks and because of consanguineous marriage (marriage of second cousins or closer). these two phenomena reduce genetic diversity and raise the chance that two parents will carry a mutation in the same gene and pass on both mutations to a child.
+the genetics of ashkenazi jews have been particularly well studied, because the phenomenon affects them the most. this has resulted in the discovery of many genetic disorders associated with this ethnic group. the medical genetics of sephardic jews and mizrahi jews are more complicated, because they are genetically more diverse, and therefore no genetic disorders are more common in these groups as a whole; instead, they tend to have the genetic diseases common in their various countries of origin.several organizations, such as dor yeshorim, offer screening for ashkenazi genetic diseases, and these programs have done much, particularly by reducing the instance of tay–sachs disease.
+
+history and purpose
+different ethnic groups tend to have different rates of hereditary diseases, with some being more common, and some less common. hereditary diseases, particularly hemophilia, were recognized early in jewish history, even being described in the talmud. however, the scientific study of hereditary disease in jewish populations was initially hindered by scientific racism, which was based on racial supremacism.however, modern studies on the genetics of particular ethnic groups have the tightly defined purpose of avoiding the birth of children with genetic diseases, or identifying people at particular risk of developing a disease in the future. consequently, some members of the jewish community have been very supportive of modern genetic testing programs; this high level of cooperation has raised concerns that conclusions may lead to stigmatization of the jewish community.
+
+genetics of jewish populations
+most populations contain hundreds of alleles that could potentially cause disease, and most people are heterozygotes for one or two recessive alleles that would be lethal in a homozygote. although the overall frequency of disease-causing alleles does not vary much between populations, the practice of consanguineous marriage (marriage between second cousins or closer relatives) has been common in some jewish communities, which produces a small increase in the number of children with congenital defects.according to daphna birenbaum carmeli at the university of haifa, jewish populations have been studied thoroughly because:
+jewish populations, and particularly the large ashkenazi jewish population, are ideal for such research studies, because they exhibit a high degree of endogamy, and at the same time are a large group.
+jewish populations are overwhelmingly urban and are concentrated near biomedical centers where such research has been carried out.the result is a form of ascertainment bias. this has sometimes created an impression that jews are more susceptible to genetic disease than other populations. carmeli writes, "jews are over-represented in human genetic literature, particularly in mutation-related contexts."this set of advantages have led to ashkenazi jews in particular being used in many genetic studies, not just in the study of genetic diseases. for example, a series of publications on ashkenazi centenarians established their longevity was strongly inherited and associated with lower rates of age-related diseases. this "healthy aging" phenotype may be due to higher levels of telomerase in these individuals.
+
+ashkenazi diseases
+because of centuries of endogamy, today's 10 million ashkenazi jews descend from a population of 350 who lived about 600–800 years ago. that population derived from both europe and the middle east. some evidence shows that the population bottleneck may have allowed deleterious alleles to increase in the population by genetic drift.this group has therefore been particularly intensively studied, and many mutations have been found to be common in ashkenazim. of these diseases, many also occur in other jewish groups and in non-jewish populations, although the specific mutation that causes the disease may vary among populations. for example, two mutations in the glucocerebrosidase gene each cause gaucher's disease in ashkenazim, which is that group's most common genetic disease, but only one of these mutations is found in non-jewish groups. a few diseases are unique to this group; familial dysautonomia, for example, is almost unknown in other peoples.
+
+tay–sachs disease
+tay–sachs disease, which can present as a fatal illness of children that causes mental deterioration prior to death, was historically extremely common among ashkenazi jews, with lower levels of the disease in some pennsylvania dutch, italian, irish catholic, and french canadian descent, especially those living in the cajun community of louisiana and the southeastern quebec. since the 1970s, however, proactive genetic testing has been quite effective in eliminating tay–sachs from the ashkenazi jewish population.
+
+lipid transport diseases
+gaucher's disease, in which lipids accumulate in inappropriate locations, occurs most frequently among ashkenazi jews; the mutation is carried by roughly one in every 15 ashkenazi jews, compared to one in 100 of the general american population. gaucher's disease can cause brain damage and seizures, but these effects are not usually present in the form manifested among ashkenazi jews; while those affected still bruise easily, and it can still potentially rupture the spleen, it generally has only a minor impact on life expectancy.
+ashkenazi jews are also highly affected by other lysosomal storage diseases, particularly in the form of lipid storage disorders. compared to other ethnic groups, they more frequently act as carriers of mucolipidosis and niemann–pick disease, the latter of which can prove fatal.
+the occurrence of several lysosomal storage disorders in the same population suggests the alleles responsible might have conferred some selective advantage in the past. this would be similar to the hemoglobin allele which is responsible for sickle-cell disease, but solely in people with two copies; those with just one copy of the allele have a sickle cell trait and gain partial immunity to malaria as a result. this effect is called heterozygote advantage.
+
+familial dysautonomia
+familial dysautonomia (riley–day syndrome), which causes vomiting, speech problems, an inability to cry, and false sensory perception, is almost exclusive to ashkenazi jews; ashkenazi jews are almost 100 times more likely to carry the disease than anyone else.
+
+other ashkenazi diseases and disorders
+diseases inherited in an autosomal recessive pattern often occur in endogamous populations. among ashkenazi jews, a higher incidence of specific genetic disorders and hereditary diseases has been verified, including:
+
+alport syndrome
+colorectal cancer due to hereditary nonpolyposis colorectal cancer
+congenital adrenal hyperplasia (nonclassical form)
+congenital insensitivity to pain with anhidrosis
+crohn's disease (the nod2/card15 locus appears to be implicated)
+joubert syndrome type 2 is disproportionately frequent among people of jewish descent; this has been attributed to the resistance to intermarriage of this population.
+kaposi's sarcoma
+maple syrup urine disease
+mucolipidosis iv
+myeloproliferative neoplasms including polycythemia vera and essential thrombocythemia
+nonsyndromic hearing loss and deafness, dfnb1 (connexin 26) 
+parkinson's disease (g2019s/lrrk2 mutation; the lrrk2 mutation on the main haplotype, shared by ashkenazi jews, north africans, and europeans, initially arose in the near east at least 4000 years ago. because of a founder effect, the ancestors of present-day ashkenazi jews may have kept the low-frequency g2019s mutation through the different diasporas, whereas near eastern daughter populations lost the mutation. the mutation might then have been "reintroduced by recurrent gene flow from ashkenazi populations to other jewish, european, and north african populations. the present-day frequency of the mutation in control populations (0.05% in europeans, 0.5% in north-african arabs and 1% in ashkenazi jews) may support this scenario".)
+pemphigus vulgaris
+schizophrenia (ndst3 gene variation)
+von gierke disease
+zellweger syndrome
+
+sephardi and mizrahi diseases
+in contrast to the ashkenazi population, sephardic and mizrahi jews are much more divergent groups, with ancestors from spain, portugal, morocco, tunisia, algeria, italy, libya, the balkans, iran, iraq, india, and yemen, with specific genetic disorders found in each regional group, or even in specific subpopulations in these regions.
+
+genetic testing in jewish populations
+one of the first genetic testing programs to identify heterozygote carriers of a genetic disorder was a program aimed at eliminating tay–sachs disease. this program began in 1970, and over one million people have now been screened for the mutation. identifying carriers and counseling couples on reproductive options have had a large impact on the incidence of the disease, with a decrease from 40 to 50 per year worldwide to only four or five per year. screening programs now test for several genetic disorders in jews, although these focus on the ashkenazi jews, since other jewish groups cannot be given a single set of tests for a common set of disorders. in the us, these screening programs have been widely accepted by the ashkenazi community, and have greatly reduced the frequency of the disorders.prenatal testing for several genetic diseases is offered as commercial panels for ashkenazi couples by both cigna and quest diagnostics. the cigna panel is available for testing for parental/preconception screening or following chorionic villus sampling or amniocentesis and tests for bloom syndrome, canavan disease, cystic fibrosis, familial dysautonomia, fanconi anemia, gaucher disease, mucolipidosis iv, neimann-pick disease type a, tay-sachs disease, and torsion dystonia. the quest panel is for parental/preconception testing and tests for bloom syndrome, canavan disease, cystic fibrosis, familial dysautonomia, fanconi anemia group c, gaucher disease, neimann-pick disease types a and b, and tay-sachs disease.
+the official recommendations of the american college of obstetricians and gynecologists is that ashkenazi individuals be offered screening for tay-sachs disease, canavan disease, cystic fibrosis, and familial dysautonomia as part of routine obstetrical care.in the orthodox community, an organization called dor yeshorim carries out anonymous genetic screening of couples before marriage to reduce the risk of children with genetic diseases being born. the program educates young people on medical genetics and screens school-aged children for any disease genes. these results are then entered into an anonymous database, identified only by a unique id number given to the person who was tested. if two people are considering getting married, they call the organization and tell them their id numbers. the organization then tells them if they are genetically compatible. it is not divulged if one member is a carrier, so as to protect the carrier and his or her family from stigmatization. however, this program has been criticized for exerting social pressure on people to be tested, and for screening for a broad range of recessive genes, including disorders such as gaucher disease.
+
+criticism
+hebrew university professor raphael falk published a criticism of studies identifying genetic disorders as being the result of hereditary endogamy. dr. sherry brandt-rauf of the university of illinois and sheila rothman  of columbia university co-authored a critique of the methodologies as well as condemning those who worked on the eugenic studies which attributed genetic disorders to religious demographics in paper which explored the ramifications of such concepts entering the workplace stating, "such linkages 'exaggerate genetic differences among ethnic groups' and may result in 'health disparities' in groups not targeted for screening.
+
+see also
+ethnicity and health
+genetic studies on jews
+jewish genealogy
+jewish medical ethics
+finnish heritage disease
+
+references
+further reading
+external links
+chicago center for jewish genetic disorders
+ashkenazi jews – the hebrew university of jerusalem
+jewish diseases genetic testing – the center for medical genetics
+ashkenazi jewish genetic diseases – victor center for jewish genetic diseases
+ashkenazi jewish diseases – tufts medical center
+jewish genetic disease consortium
+center for jewish genetic diseases – mount sinai medical center
+mendelian disorders among jews – israeli national genetic database
+studies show jews’ genetic similarity by the new york times

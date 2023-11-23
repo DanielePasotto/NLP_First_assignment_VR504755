@@ -1,0 +1,56 @@
+the united states medical licensing examination (usmle) is a three-step examination program for medical licensure in the united states sponsored by the federation of state medical boards (fsmb) and the national board of medical examiners (nbme). physicians with a doctor of medicine (md) degree are required to pass the usmle for medical licensure. however, those with a doctor of osteopathic medicine degree (do) are required to take the comlex-usa (comlex) exams.states may enact additional testing and/or licensing requirements.
+
+description and purpose
+the united states medical licensing examination (usmle) is a multistep assessment required for medical licensure in the united states by all graduates of m.d.-granting american medical schools as well as all graduates of international medical schools. it consists of three examinations:
+step 1: assesses foundational medical science typically obtained during the first two years of medical school
+step 2ck: evaluates the applicant's knowledge of clinical medicine
+step 3: assesses the application of clinical knowledge to patient managementpreviously, usmle included a clinical skills portion called usmle step 2 clinical skills. it was discontinued during the covid-19 pandemic.step 1 and 2 are typically completed by u.s. medical students during medical school, while step 3 is usually taken by the end of the first year of residency. while the usmle step 1 and step 2 ck exams can be taken at prometric test centers worldwide, the step 3 can only be taken in the united states.the usmle is sponsored by the federation of state medical boards (fsmb) and the national board of medical examiners (nbme). they developed it originally to provide state medical boards in the united states with a common examination for all licensure applicants. however, over time it has also been extensively used by residency programs to predict residency performance and screen residents for selection during the national resident matching program.even though it was estimated that at least 60% of osteopathic medical students took at least one usmle exam in 2020, physicians with d.o. degree are not required to take the usmle for licensure or graduation. they are licensed as physicians by passing parts i, ii, and iii of the comlex examination from the national board of osteopathic medical examiners.
+
+history
+the usmle was created in the early 1990s. the program replaced the multiple examinations, including the nbme part examination program and the fsmb's federation licensing examination (flex) program, that offered paths to medical licensing in the medical profession.the examination was originally imparted using pencil and paper. in 1999, computerized examination delivery was included.in 2004, an examination with standardized patients to assess clinical-skills was added to step 2 of the usmle (step 2 clinical skills), and required for licensure beginning with the medical school graduating class of 2005. during the covid-19 pandemic, usmle step 2cs was initially suspended and later discontinued.a review of the program was enacted in 2009. usmle claimed it was done with the intention of orienting the examination to support the licensing decisions made by medical boards, transitioning the exam to a competencies schema and emphasizing the importance of scientific foundations of medicine throughout the examination sequence. they also aimed to continue the assessment of clinical skill and interpretation of clinical information.usmle announced a move to a pass/fail model on february 12, 2020, along with other changes. they claimed this was done in an attempt by the federation of state medical boards (fsmb) and the national board of medical examiners (nbme) to balance focus between exams and actual coursework. the change became effective in 2022.
+
+pass rates by exam
+controversies
+usmle response to covid-19
+the usmle was met with criticism for their lack of adaptability during the covid-19 pandemic. the criticism was two-fold: first, for the mishandling and poor communication of exam cancellations by both usmle program administrators and the third-party exam administrator, prometric. second, the pandemic crisis exacerbated existing resentment towards the high-stakes nature of the exam: namely, several students and physicians were upset that the usmle refused to move up the 2022 deadline of making step 1 into a pass or fail exam.
+
+racial differences in outcome associated with the use of usmle step 1 scores to grant residency interviews
+a study conducted in 2020 showed differences in usmle step 1 scores attributable to race and ethnicity, with lower mean scores for self-identified black, asian, and hispanic examinees when compared with self-identified white examinees. the mean effect was larger when comparing caucasian applicants (223) with black and hispanic applicants (216). depending on the threshold score, an african american was 3–6x less likely to be offered an interview."
+"61% of minority applicants were accepted into an orthopaedic residency versus 73% of white applicants. white and asian applicants and residents had higher usmle step 1. white applicants and matriculated candidates had higher odds of alpha omega alpha membership compared with black, hispanic, and other groups.
+in 2020, the american academy of family physicians and the association of american medical colleges expressed their support for changing step 1 to pass or fail, in part to reduce racial bias.
+
+financial considerations
+the us medical licensing examinations have received criticism due to their high cost. as of 2023, the usmle charges (in u.s. dollars):
+
+$660 for step 1 for us/canada students (increasing to $670 in 2024), $1,000 for international medical graduates (imgs)
+$660 for step 2 ck for us/canada students (increasing to $670 in 2024), $1,000 for imgs
+$915 for step 3 for all students (increasing to $925 in 2024)as part of a broader public plea for systemic changes to the improper use of usmle exams, stat wrote that this "multimillion-dollar industry has exploited the opportunity to extract thousands of dollars from already overly indebted students. registering for step exams test cost $645–1300, while step preparation materials and courses run much higher."
+
+similar exams
+the "comprehensive osteopathic medical licensing examination" (comlex-usa) is required for osteopathic physicians in the united states
+the american podiatric medical licensing examination (apmle) is required for podiatric physicians in the united states.
+
+in other countries
+ärztliche prüfungen, overseen by the impp, in germany
+australian medical council (amc) examinations in australia.
+examen nacional de aspirantes a residencias médicas (enarm) in mexico
+épreuves classantes nationales ecni in france
+hong kong medical licensing examination (hkmle) in hong kong.
+examination for provisional registration (epr) in malaysia.
+medical council of canada qualifying examination, in canada
+pakistan medical commission neband nle exam,pakistan
+medical council of india (mci-fmge conducted by national board of examinations)
+national eligibility and entrance test, india
+nepal medical council, in nepal.
+national examination for medical practitioners in japan
+professional and linguistic assessment board test (similar exam used in united kingdom)
+saudi medical licensing examination (smle) in saudi arabia
+ujian kompetensi dokter indonesia (ukdi) indonesian doctor competence examination, in indonesia.
+bahrain medical licensure examination (blme) in bahrain.
+kunskapsprov för läkare, overseen by umeå university, in sweden.
+
+references
+external links
+
+official website
+for international medical graduates

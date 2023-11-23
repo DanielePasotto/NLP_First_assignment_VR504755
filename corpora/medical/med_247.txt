@@ -1,0 +1,47 @@
+a health or medical library is designed to assist physicians, health professionals, students, patients, consumers, medical researchers, and information specialists in finding health and scientific information to improve, update, assess, or evaluate health care. medical libraries are typically found in hospitals, medical schools, private industry, and in medical or health associations. a typical health or medical library has access to medline, a range of electronic resources, print and digital journal collections, and print reference books. the influence of open access (oa) and free searching via google and pubmed has a major impact on the way medical libraries operate.
+the united states national library of medicine (nlm) is the largest biomedical library in the world, and collects and provides access to some of the best health information in the world (due to its linkage to the national institutes of health). the nlm maintains numerous medical and genomic databases, searchable via its entrez search system, including medline (pubmed) and omim (a genetic traits database).
+the largest medical library in europe is the german national library of medicine (zb med), which also has collections in the fields of nutrition, agriculture, and environmental science. zb med operates as the official european supplier of full texts in response to searches conducted in the nlm's bibliographic databases such as pubmed, and also operates its own search portals.
+
+uses
+a 2013 survey of health care providers in the united states concluded from its data that professionals in the health care industry perceive access to medical libraries valuable. the same study further concluded that health care professionals feel that information they get from libraries has a positive impact on patient care.
+
+accreditation
+to become accredited, every american and canadian college of medicine, nursing, dentistry, pharmacy, veterinary medicine, or public health is required to have a health or medical library appropriate to the needs of the school, as specified by an accrediting body, such as the liaison committee on medical education (lcme)'s standards. these accreditation standards include having qualified library staff on hand to answer reference questions, and provide training in using electronic resources. some academic medical libraries are located in the same building as the general undergraduate library but most are located near or in the medical college or faculty.
+
+trends
+in support of open access to the journal literature, the u.s. nlm established an online library of digital journal articles, pubmed central (pmc), which will soon be supplemented by a uk version. nlm works with the national network of libraries of medicine (nn/lm) to provide regional medical library support in the united states, while its consumer health information service medlineplus offers free access to health information, images, and interactive tutorials. many countries like australia, canada, and the united kingdom have well-developed medical libraries, though nothing quite as evolved as the u.s. nlm.
+
+medical librarians
+medical librarians are skilled professionals who assist with resources and research in the medical professions. the focus of the medical librarian is to emphasize the use of evidence-based research and practice. this can be for both medical research or medical practice. as well the medical librarian is expected be a resource for assisting with publishing and presentation of research. medical librarians use web based resources to conduct research and help generate evidence based approaches to healthcare. organizations such as the mla set standards for what a medical librarian should follow in practice.
+
+collections
+different medical libraries have different needs and different resources for collection development.  several guides for librarians have been published. the brandon–hill title lists were a free collection of suggested books and journals.  these lists were created by two librarians at the mt. sinai school of medicine, al brandon and dorothy hill, and published from 1965 to 2004.  beginning in 2006, the annual doody's core titles in the health sciences lists, which includes a separate suggested list for small libraries, have been commonly used for english-language medical books.  both medical librarians and subject-matter experts are involved in compiling the doody's lists.
+
+associations
+the medical library association (mla) is a chicago-based advocate for library professionals and health sciences libraries – primarily in the united states. mla maintains an online list of ala-accredited library school programs for those who would like to pursue a master's degree in library and information studies in the us and canada (mlis). it furthermore administers the us credentialing organization for medical librarians, the academy of health information professionals (ahip).
+the main network for medical libraries in the united states is the national network of libraries of medicine (nnlm).
+the special libraries association has a medical section of the biomedical and life science division, which serves as a forum for division members who are engaged or interested in the exchange of information in the biomedical and health sciences, and the acquisition, organization, dissemination, and use of such information in all formats.
+in canada, health librarians and libraries are represented by the canadian health libraries association.
+australia have the health libraries australia group of the australian library and information association and the victorian state based health libraries inc. in 2013, hla introduced a pd specialisation in 2013 leading to association post nominals on demonstration of ongoing professional development in the field of health librarianship. a list of health libraries in australia may by found on the website of the national library of australia. in 2015, australia is undertaking a census of health libraries and librarianship aiming to identify the full industry, locations, organisations, roles, and staff employed. the first specialist "health librarianship essentials" tertiary training commenced in april 2015 at the queensland university of technology supported by hla.
+in the united kingdom, medical (or health) librarians are represented by the health libraries group of the chartered institute of library and information professionals. cilip. health libraries group.
+the medical and health libraries of the german-speaking countries germany, austria and switzerland are represented by the medical libraries association arbeitsgemeinschaft fuer medizinisches bibliothekswesen (agmb) e.v..
+there are similar, if smaller, national groups in many european countries and these groups and individual health librarians and libraries are represented by the european association for health information and libraries (eahil) since 1987.
+for those librarians who work in very specialised subject areas, there are associations and networks which focus on their subject areas, and an example of such an organisation is elisad, the european association of libraries and information services on addictions. elisad
+the international federation of library associations and institutions (ifla) has a health and biosciences libraries section. the last international congress on medical librarianship (icml) was in brisbane in 2009.
+
+see also
+list of medical libraries
+medical library association
+medical library association of great britain and ireland
+canadian health libraries association
+margaret ridley charlton
+fred kilgour
+united states national library of medicine
+osler library of the history of medicine
+houston academy of medicine-texas medical center library
+wellcome library
+
+references
+external links
+
+canadian health libraries association

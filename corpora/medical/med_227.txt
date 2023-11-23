@@ -1,0 +1,90 @@
+this is a list of medical schools located in japan.
+
+private medical colleges
+aichi medical university ja
+dokkyo university school of medicine ja
+fukuoka university ja
+fujita health university ja
+hyogo college of medicine ja
+iwate medical university ja
+jichi medical school ja
+jikei university school of medicine ja
+juntendo university ja
+kawasaki medical school ja
+kanazawa medical university ja
+kansai medical university ja
+kitasato university ja
+kyorin university ja
+kinki university ja
+kurume university ja
+keio university ja
+nihon university ja
+nippon medical school ja
+osaka medical college ja
+saitama medical school ja
+showa university ja
+st. marianna university school of medicine ja
+teikyo university ja
+toho university ja
+tokai university ja
+tokyo medical university ja
+tokyo women's medical university ja
+university of occupational and environmental health ja
+
+public colleges
+akita university ja
+asahikawa medical university ja
+ehime university ja
+oita university ja
+osaka university ja
+okayama university ja
+kagawa university ja
+kagoshima university ja
+kanazawa university ja
+gifu university ja
+kyushu university ja
+kyoto university ja
+kumamoto university ja
+gunma university ja
+kochi university ja
+kobe university ja
+saga university ja
+shiga university of medical science ja
+shimane university ja
+shinshu university ja
+national defense medical college ja
+chiba university ja
+university of tsukuba ja
+university of tokyo ja
+tokyo medical and dental university ja
+tohoku university ja
+university of tokushima ja
+tottori university ja
+university of toyama ja
+nagasaki university ja
+nagoya university ja
+niigata university ja
+hamamatsu university school of medicine ja
+hirosaki university ja
+hiroshima university ja
+fukui university ja
+hokkaido university ja
+mie university ja
+university of miyazaki ja
+yamagata university ja
+yamaguchi university ja
+university of yamanashi ja
+university of the ryukyus ja
+sapporo medical university ja
+yokohama city university ja
+nagoya city university ja
+kyoto prefectural university of medicine ja
+nara medical university ja
+fukushima medical university ja
+osaka city university ja
+wakayama medical university ja
+
+references
+see also
+medical school
+list of medical schools

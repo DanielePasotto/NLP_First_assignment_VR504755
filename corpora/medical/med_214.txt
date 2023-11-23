@@ -1,0 +1,32 @@
+a health facility is, in general, any location where healthcare is provided. health facilities range from small clinics and doctor's offices to urgent care centers and large hospitals with elaborate emergency rooms and trauma centers. the number and quality of health facilities in a country or region is one common measure of that area's prosperity and quality of life. in many countries, health facilities are regulated to some extent by law; licensing by a regulatory agency is often required before a facility may open for business. health facilities may be owned and operated by for-profit businesses, non-profit organizations, governments, and, in some cases, individuals, with proportions varying by country. see also the recent review paper,
+
+health facility workload
+the workload of a health facility is often used to indicate its size. large health facilities are those with a greater patient load.
+in australia the workload of a health facility is used to determine the level of government funding provided to that facility. the government measures a facility (or health practice) in terms of its standard whole patient equivalent (swpe). the swpe calculation is determined by analysis of the patients that attend that facility. the calculation takes into account the proportion of health services (in dollars) rendered at that facility relative to others that each patient attends. it includes a weighting factor based on each patients' demography to account for the varied levels of services required by patients depending on their gender and age. the premise of weighting is that patients require different levels of health services depending on their age and gender. for example, the average male patient requires fewer consultations than his older and infant counterparts. 
+the table shows the weighting factors used in the standardization of workloads.
+table: age by sex weights for swpe standardisation
+
+types of health facility
+hospital
+a hospital is an institution for healthcare typically providing specialized treatment for inpatient (or overnight) stays. some hospitals primarily admit patients with a specific disease or affliction, or are reserved for the diagnosis and treatment of conditions affecting a specific age group. others have a mandate that expands beyond offering dominantly curative and rehabilitative care services to include promotional, preventive and educational roles as part of a primary healthcare approach. today, hospitals are usually funded by the state, health organizations (for profit or non-profit), by health insurances or by charities and by donations. historically, however, they were often founded and funded by religious orders or charitable individuals and leaders. hospitals are nowadays staffed by professionally trained doctors, nurses, paramedical clinicians, etc., whereas historically, this work was usually done by the founding religious orders or by volunteers.
+
+healthcare center
+healthcare centres, including clinics, doctor's offices, urgent care centers  and ambulatory surgery centers, serve as first point of contact with a health professional and provide outpatient medical, nursing, dental, and other types of care services.
+
+medical nursing homes
+medical nursing homes, including residential treatment centers and geriatric care facilities, are health care institutions which have accommodation facilities and which engage in providing short-term or long-term medical treatment of a general or specialized nature not performed by hospitals to inpatients with any of a wide variety of medical conditions.
+
+pharmacies and drug stores
+pharmacies and drug stores comprise establishments engaged in retailing prescription or nonprescription drugs and medicines, and other types of medical and orthopaedic goods. regulated pharmacies may be based in a hospital or clinic or they may be privately operated, and are usually staffed by pharmacists, pharmacy technicians, and pharmacy aides.
+
+medical laboratory and research
+a medical laboratory or clinical laboratory is a laboratory where tests are done on biological specimens in order to get information about the health of a patient. such laboratories may be divided into categorical departments such as microbiology, hematology, clinical biochemistry, immunology, serology, histology, cytology, cytogenetics, or virology. in many countries, there are two main types of labs that process the majority of medical specimens. hospital laboratories are attached to a hospital, and perform tests on these patients. private or community laboratories receive samples from general practitioners, insurance companies, and other health clinics for analysis.
+a biomedical research facility is where basic research or applied research is conducted to aid the body of knowledge in the field of medicine. medical research can be divided into two general categories: the evaluation of new treatments for both safety and efficacy in what are termed clinical trials, and all other research that contributes to the development of new treatments. the latter is termed preclinical research if its goal is specifically to elaborate knowledge for the development of new therapeutic strategies.
+
+see also
+health care industry
+lists of hospitals
+walk-in clinic
+
+
+== references ==

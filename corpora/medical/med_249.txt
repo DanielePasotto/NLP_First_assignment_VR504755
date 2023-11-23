@@ -1,0 +1,26 @@
+medical necessity is a legal doctrine in the united states related to activities that may be justified as reasonable, necessary, and/or appropriate based on evidence-based clinical standards of care. in contrast, unnecessary health care lacks such justification.
+other countries may have medical doctrines or legal rules covering broadly similar grounds. the term clinical medical necessity is also used.
+
+implementations of doctrine
+medicare
+medicare pays for medical items and services that are "reasonable and necessary" or "appropriate" for a variety of purposes. by statute, medicare may pay only for items and services that are "reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member" unless there is another statutory authorization for payment.medicare has a number of policies that describe coverage criteria, including national coverage determinations (ncds) and local coverage determinations (lcds), formerly known as local medical review policies (lmrp).in a small number of cases, medicare may determine if a method of treating a patient should be covered on a case-by-case basis. even if a service is medically determined to be "reasonable and necessary," coverage may be limited if the service is provided more frequently than allowed under medicare coverage policies.
+
+specific instances
+medical use of marijuana
+the use of cannabis (also known as marijuana) for medical purposes is a notable medical necessity case. cannabis is a plant whose active ingredients are widely reported by patients to be effective in pain control for various conditions, usually neuropathic in nature, in which common painkillers have not had great benefit. however, as a schedule i drug under the controlled substance act, it is illegal and is targeted by government, police, and anti-drug campaigners. in some states, possession is decriminalized even for non-medical purposes, but in other states possession, is a felony offense. in this case, the doctrine of medical necessity would be used by patients who believed marijuana to be beneficial to them if they were charged with the use, growing, or production of an illegal controlled substance relating to marijuana.
+in several medical marijuana cases, the patients' physician has been willing to state to the court that the patient's condition requires this medicine and so the court should not interfere. however, the us supreme court outrightly rejected that defense in the landmark case united states v. oakland cannabis buyers' cooperative, which ruled that is no medical necessity exception to drug laws and that the federal government is free to raid, arrest, prosecute, and imprison patients who are using medical marijuana no matter if the medicine is crucially necessary to them. on the other hand, in gonzales v. raich, the ninth circuit court of appeals told a patient in extreme pain that state law allowing medical use could not be relied on, but if arrested, the user could seek to use medical necessity as a defence.
+in maryland, a bill signed by governor robert ehrlich, became law in 2003 to permit patients to use medical necessity defense to marijuana possession in the state. the maximum penalty for such users cannot exceed $100. however, the law does not prevent federal prosecution of patients since the federal law does not recognize medical necessity.
+
+see also
+certificate of medical necessity (cmn)
+
+notes
+references
+external links
+your medicare coverage from medicare.gov
+medicare coverage database which includes ncds, lmrp/lcds, as well as ncas & cals, from cms.hhs.gov
+physician fee schedule lookup at cms.hhs.gov
+defining medical necessity under the patient protection and affordable care act at academia.edu., by daniel r. skinner, published in the journal public administration review (2013).
+medical necessity: health care access and the politics of decision making by daniel skinner, a book published by the university of minnesota press (2019).
+charles martin, "medical use of cannabis in australia: 'medical necessity' defences under current australian law and avenues for reform" (2014) 21(4) journal of law and medicine 875.
+florida's medical necessity defense, reconsidered by miami attorney jared h. beck
