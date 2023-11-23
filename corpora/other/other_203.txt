@@ -1,0 +1,56 @@
+in geography and geodesy, a meridian is the locus connecting points of equal longitude, which is the angle (in degrees or other units) east or west of a given prime meridian (currently, the iers reference meridian). in other words, it is a line of longitude. the position of a point along the meridian is given by that longitude and its latitude, measured in angular degrees north or south of the equator. on a mercator projection or on a gall-peters projection, each meridian is perpendicular to all circles of latitude. a meridian is half of a great circle on earth's surface. the length of a meridian on a modern ellipsoid model of earth (wgs 84) has been estimated as 20,003.93 km (12,429.87 mi).
+
+pre-greenwich
+the first prime meridian was set by eratosthenes in 200 bce. this prime meridian was used to provide measurement of the earth, but had many problems because of the lack of latitude measurement. many years later around the 19th century there were still concerns of the prime meridian. multiple locations for the geographical meridian meant that there was inconsistency, because each country had their own guidelines for where the prime meridian was located.
+
+etymology
+the term meridian comes from the latin meridies, meaning "midday"; the subsolar point passes through a given meridian at solar noon, midway between the times of sunrise and sunset on that meridian. likewise, the sun crosses the celestial meridian at the same time. the same latin stem gives rise to the terms a.m. (ante meridiem) and p.m. (post meridiem) used to disambiguate hours of the day when utilizing the 12-hour clock.
+
+international meridian conference
+because of a growing international economy, there was a demand for a set international prime meridian to make it easier for worldwide traveling which would, in turn, enhance international trading across countries. as a result, a conference was held in 1884, in washington, d.c. twenty-six countries were present at the international meridian conference to vote on an international prime meridian. ultimately the outcome was as follows: there would be only one prime meridian, the prime meridian was to cross and pass at greenwich (which was the 0°), there would be two longitude direction up to 180° (east being plus and west being minus), there will be a universal day, and the day begins at the mean midnight of the initial meridian.
+there were two main reasons for this. the first was that the usa had already chosen greenwich as the basis for its own national time zone system. the second was that in the late 19th century, 72% of the world's commerce depended on sea-charts which used greenwich as the prime meridian.
+the recommendation was based on the argument that naming greenwich as longitude 0º would be of advantage to the largest number of people.
+
+geographic
+toward the ending of the 12th century there were two main locations that were acknowledged as the geographic location of the meridian, france and britain. these two locations often conflicted and a settlement was reached only after there was an international meridian conference held, in which greenwich was recognized as the 0° location.the meridian through greenwich (inside greenwich park), england, called the prime meridian, was set at zero degrees of longitude, while other meridians were defined by the angle at the center of the earth between where it and the prime meridian cross the equator.  as there are 360 degrees in a circle, the meridian on the opposite side of the earth from greenwich, the antimeridian, forms the other half of a circle with the one through greenwich, and is at  180° longitude  near the international date line (with land mass and island deviations for boundary reasons). the meridians from west of greenwich (0°) to the antimeridian (180°) define the western hemisphere and the meridians from east of greenwich (0°) to the antimeridian (180°) define the eastern hemisphere.  most maps show the lines of longitude.
+the position of the prime meridian has changed a few times throughout history, mainly due to the transit observatory being built next door to the previous one (to maintain the service to shipping). such changes had no significant practical effect. historically, the average error in the determination of longitude was much larger than the change in position. the adoption of world geodetic system 84" (wgs84) as the positioning system has moved the geodetic prime meridian 102.478 metres east of its last astronomic position (measured at greenwich). the position of the current geodetic prime meridian is not identified at all by any kind of sign or marking at greenwich (as the older astronomic position was), but can be located using a gps receiver.
+
+effect of prime meridian (greenwich time)
+it was in the best interests of the nations to agree to one standard meridian to benefit their fast growing economy and production. the disorganized system they had before was not sufficient for their increasing mobility. the coach services in england had erratic timing before the gwt. united states and canada were also improving their railroad system and needed a standard time as well. with a standard meridian, stage coach and trains were able to be more efficient.  the argument of which meridian is more scientific was set aside in order to find the most convenient for practical reasons. they were also able to agree that the universal day was going to be the mean solar day. they agreed that the days would begin at midnight and the universal day would not impact the use of local time. a report was submitted to the "transactions of the royal society of canada", dated 10 may 1894; on the "unification of the astronomical, civil and nautical days"; which stated that:
+
+civil day- begins at midnight and ends at midnight following,
+astronomical day- begins at noon of civil day and continue until following noon, and
+nautical day- concludes at noon of civil day, starting at preceding noon.
+
+magnetic meridian
+the magnetic meridian is an equivalent imaginary line connecting the magnetic south and north poles and can be taken as the horizontal component of magnetic force lines along the surface of the earth. therefore, a compass needle will be parallel to the magnetic meridian. however, a compass needle will not be steady in the magnetic meridian, because of the longitude from east to west being complete geodesic. the angle between the magnetic and the true meridian is the magnetic declination, which is relevant for navigating with a compass.  navigators were able to use the azimuth (the horizontal angle or direction of a compass bearing) of the rising and setting sun to measure the magnetic variation (difference between magnetic and true north).
+
+true meridian
+the true meridian is the chord that goes from one pole to the other, passing through the observer, and is contrasted with the magnetic meridian, which goes through the magnetic poles and the observer. the true meridian can be found by careful astronomical observations, and the magnetic meridian is simply parallel to the compass needle. the arithmetic difference between the true and magnetic meridian is called the magnetic declination, which is important for the calibration of compasses.henry d. thoreau classified this true meridian versus the magnetic meridian in order to have a more qualitative, intuitive, and abstract function. he used the true meridian since his compass varied by a few degrees. there were some variations. when he noted the sight line for the true meridian from his family's house to the depot, he could check the declination of his compass before and after surveying throughout the day. he noted this variation down.
+
+meridian passage
+the meridian passage is the moment when a celestial object passes the meridian of longitude of the observer. at this point, the celestial object is at its highest point.  when the sun passes two times an altitude while rising and setting can be averaged to give the time of meridian passage. navigators utilized the sun's declination and the sun's altitude at local meridian passage, in order to calculate their latitude with the formula.latitude = (90° – noon altitude + declination)
+the declination of major stars are their angles north and south from the celestial equator. it is important to note that the meridian passage will not occur exactly at 12 hours because of the inclination of the earth. the meridian passage can occur within a few minutes of variation.
+
+standard meridian
+a standard meridian is a meridian used for determining standard time. for instance, the 30th meridian east (utc+02:00) is the standard meridian for eastern european time. since the adoption of time zones – as opposed to local mean time or solar time – in the late 19th century and early 20th century, most countries have adopted the standard time of one of the 24 meridians closest to their geographical position, as decided by the international meridian conference in 1884. although, a few time zones are offset by an additional 30 or 45 minutes, such as in the chatham islands, south australia and nepal.
+
+measurement of earth rotation
+many of these instruments rely on the ability to measure the longitude and latitude of the earth. these instruments also were typically affected by local gravity, which paired well with existing technologies such as the magnetic meridian.
+
+see also
+meridian (astronomy)
+meridian arc
+prime meridian
+meridian centre
+principal meridian
+public land survey system, united states
+dominion land survey, canada
+
+references
+external links
+
+the principal meridian project (us)
+white, c. albert (1991). a history of the rectangular survey system (pdf). oclc 987270720.
+resources page of the u.s. department of the interior, bureau of land management
+"meridian" . the new student's reference work . 1914.

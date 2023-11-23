@@ -1,0 +1,62 @@
+political geography is concerned with the study of both the spatially uneven outcomes of political processes and the ways in which political processes are themselves affected by spatial structures. conventionally, for the purposes of analysis, political geography adopts a three-scale structure with the study of the state at the centre, the study of international relations (or geopolitics) above it, and the study of localities below it. the primary concerns of the subdiscipline can be summarized as the inter-relationships between people, state, and territory.
+
+history
+the origins of political geography lie in the origins of human geography itself, and the early practitioners were concerned mainly with the military and political consequences of the relationships between physical geography, state territories, and state power.  in particular there was a close association with both regional geography, with its focus on the unique characteristics of regions, and environmental determinism, with its emphasis on the influence of the physical environment on human activities. this association found expression in the work of the german geographer friedrich ratzel, who in 1897 in his book politische geographie, developed the concept of lebensraum (living space) which explicitly linked the cultural growth of a nation with territorial expansion, and which was later used to provide academic legitimisation for the imperialist expansion of the german third reich in the 1930s.
+the british geographer halford mackinder was also heavily influenced by environmental determinism and in developing his concept of the 'geographical pivot of history'  or the heartland theory (in 1904) he argued that the era of sea power was coming to an end and that land based powers were in the ascendant, and, in particular, that whoever controlled the heartland of 'euro-asia' would control the world.  this theory involved concepts diametrically opposed to the ideas of alfred thayer mahan about the significance of sea power in world conflict.  the heartland theory hypothesized the possibility of a huge empire being created which didn't need to use coastal or transoceanic transport to supply its military–industrial complex, and that this empire could not be defeated by the rest of the world allied against it.  this perspective proved influential throughout the period of the cold war, underpinning military thinking about the creation of buffer states between east and west in central europe.
+the heartland theory depicted a world divided into a heartland (eastern europe/western russia); world island (eurasia and africa); peripheral islands (british isles, japan, indonesia and australia) and new world (the americas). mackinder argued that whoever controlled the heartland would have control of the world. he used these ideas to politically influence events such as the treaty of versailles, where buffer states were created between the ussr and germany, to prevent either of them controlling the heartland.  at the same time, ratzel was creating a theory of states based around the concepts of lebensraum and social darwinism.  he argued that states were analogous to 'organisms' that needed sufficient room in which to live.  both of these writers created the idea of a political and geographical science, with an objective view of the world.  prior to world war ii political geography was concerned largely with these issues of global power struggles and influencing state policy, and the above theories were taken on board by german geopoliticians (see geopolitik) such as karl haushofer who - perhaps inadvertently - greatly influenced nazi political theory, which was a form of politics seen to be legitimated by such 'scientific' theories.
+the close association with environmental determinism and the freezing of political boundaries during the cold war led to a significant decline in the perceived importance of political geography, which was described by brian berry in 1968 as a 'moribund backwater'.  although at this time in most other areas of human geography new approaches, including quantitative spatial science, behavioural studies, and structural marxism, were invigorating academic research these were largely ignored by political geographers whose main point of reference remained the regional approach.  as a result, most of the political geography texts produced during this period were descriptive, and it was not until 1976 that richard muir could argue that political geography was no longer a dead duck, but could in fact be a phoenix.
+
+areas of study
+from the late-1970s onwards, political geography has undergone a renaissance, and could fairly be described as one of the most dynamic of the sub-disciplines today. the revival was underpinned by the launch of the journal political geography quarterly (and its expansion to bi-monthly production as political geography). in part this growth has been associated with the adoption by political geographers of the approaches taken up earlier in other areas of human geography, for example, ron j. johnston's (1979) work on electoral geography relied heavily on the adoption of quantitative spatial science, robert sack's (1986) work on territoriality was based on the behavioural approach, henry bakis (1987) showed the impact of information and telecommunications networks on political geography, and peter taylor's (e.g. 2007) work on world systems theory owed much to developments within structural marxism.  however, the recent growth in vitality and importance of this sub-discipline is also related to the changes in the world as a result of the end of the cold war.  with the emergence of a new world order (which as yet, is only poorly defined) and the development of new research agendas, such as the more recent focus on social movements and political struggles, going beyond the study of nationalism with its explicit territorial basis. there has also been increasing interest in the geography of green politics (see, for example, david pepper's (1996) work), including the geopolitics of environmental protest, and in the capacity of our existing state apparatus and wider political institutions, to address any contemporary and future environmental problems competently.
+political geography has extended the scope of traditional political science approaches by acknowledging that the exercise of power is not restricted to states and bureaucracies, but is part of everyday life.  this has resulted in the concerns of political geography increasingly overlapping with those of other human geography sub-disciplines such as economic geography, and, particularly, with those of social and cultural geography in relation to the study of the politics of place (see, for example, the books by david harvey (1996) and joe painter (1995)).  although contemporary political geography maintains many of its traditional concerns (see below) the multi-disciplinary expansion into related areas is part of a general process within human geography which involves the blurring of boundaries between formerly discrete areas of study, and through which the discipline as a whole is enriched.
+in particular, contemporary political geography often considers:
+
+how and why states are organized into regional groupings, both formally (e.g. the european union) and informally (e.g. the third world)
+the relationship between states and former colonies, and how these are propagated over time, for example through neo-colonialism
+the relationship between a government and its people
+the relationships between states including international trades and treaties
+the functions, demarcations and policing of boundaries
+how imagined geographies have political implications
+the influence of political power on geographical space
+the political implications of modern media (e.g. radio, tv, ict, internet, social networks)
+the study of election results (electoral geography)
+
+critical political geography
+critical political geography is mainly concerned with the criticism of traditional political geographies vis-a-vis modern trends.  as with much of the move towards 'critical geographies', the arguments have drawn largely from postmodern, post structural and postcolonial theories.  examples include:
+
+feminist geography, which argues for recognition of the power relations as patriarchal and attempts to theorise alternative conceptions of identity and identity politics. alongside related concerns such as queer theory and youth studies
+postcolonial theories which recognise the imperialistic, universalising nature of much political geography, especially in development geography
+
+notable political geographers
+see also
+index of geography articles
+history of geography
+critical geography
+list of sovereign states
+tobler's first law of geography
+tobler's second law of geography
+
+references
+bakis h (1987) géopolitique de l'information presses universitaires de france, paris
+harvey d  (1996) justice, nature and the geography of difference  oxford: blackwell isbn 1-55786-680-5
+johnston rj (1979) political, electoral and spatial systems  oxford: clarendon press isbn 0-19-874072-7
+painter j (1995) politics, geography and 'political geography': a critical perspective  london: arnold isbn 0-340-56735-x
+pepper d (1996) modern environmentalism  london: routledge isbn 0-415-05744-2
+ratzel f (1897) politische geographie, munich, oldenbourg
+sack rd (1986) human territoriality: its theory and history  cambridge: cambridge university press isbn 0-521-26614-9
+
+further reading
+agnew j (1997) political geography: a reader  london: arnold isbn 0-470-23655-8
+bakis h (1995) ‘communication and political geography in a changing world’ revue internationale de science politique 16 (3) pp219–311 - http://ips.sagepub.com/content/16/3.toc
+buleon p (1992) 'the state of political geography in france in the 1970s and 1980s' progress in human geography 16 (1) pp24–40
+claval p (1978) espace et pouvoir, paris, presses universitaires de france
+cox kr, low m & robinson j (2008) handbook of political geography london: sage
+okunev i (2021) political geography  brussels: peter lang isbn 978-2-8076-1621-9
+sanguin a-l & prevelakis g (1996), 'jean gottmann (1915-1994), un pionnier de la géographie politique', annales de géographie, 105, 587. pp73–78
+short jr (1993) an introduction to political geography - 2nd edn.  london: routledge isbn 0-415-08226-9
+spykman nj (1944) the geography of the peace new york: harcourt, brace and co.
+sutton i (1991) 'the political geography of indian country' american indian culture and research journal 15(2) pp1–169.
+taylor pj & flint c (2007) political geography: world-economy, nation-state and locality  harlow: pearson education lim. isbn 0-13-196012-1
+
+external links
+ media related to political geography at wikimedia commons

@@ -1,0 +1,58 @@
+a feature (also called an object or entity), in the context of geography and geographic information science, is something that exists at a moderate to global scale at a location in the space and scale of relevance to geography; that is, at or near the surface of earth.: 62  it is an item of geographic information, and may be represented in maps, geographic information systems, remote sensing imagery, statistics, and other forms of geographic discourse. such representations of features consist of descriptions of their inherent nature, their spatial form and location, and their characteristics or properties.
+
+terminology
+the term "feature" is broad and inclusive, and includes both natural and human-constructed objects. the term covers things which exist physically (e.g. a building) as well as those that are conceptual or social creations (e.g. a neighbourhood). formally, the term is generally restricted to things which endure over a period. a feature is also discrete, meaning that it has a clear identity and location distinct from other objects, and is defined as a whole, defined more or less precisely by the boundary of its geographical extent. this differentiates features from geographic processes and events, which are perdurants that only exist in time; and from geographic masses and fields, which are continuous in that they are not conceptualized as a distinct whole.in geographic information science, the terms feature, object, and entity are generally used as roughly synonymous. in the 1992 spatial data transfer standard (sdts), one of the first public standard models of geographic information, an attempt was made to formally distinguish them: an entity as the real-world phenomenon, an object as a representation thereof (e.g. on paper or digital), and a feature as the combination of both entity and representation objects. although this distinction is often cited in textbooks, it has not gained lasting nor widespread usage. in the iso 19101 geographic information reference model and open geospatial consortium (ogc) simple features specification, international standards that form the basis for most modern geospatial technologies, a feature is defined as "an abstraction of a real-world phenomenon", essentially the object in sdts.
+despite these attempts at formalization, the broadly interchangeable use of these english terms has persisted.
+
+types of features
+natural features
+a natural feature is an object on the planet that was not created by humans, but is a part of the natural world.
+
+ecosystems
+there are two different terms to describe habitats: ecosystem and biome. an ecosystem is a community of organisms. in contrast, biomes occupy large areas of the globe and often encompass many different kinds of geographical features, including mountain ranges.biotic diversity within an ecosystem is the variability among living organisms from all sources, including inter alia, terrestrial, marine and other aquatic ecosystems. living organisms are continually engaged in a set of relationships with every other element constituting the environment in which they exist, and ecosystem describes any situation where there is relationship between organisms and their environment.
+biomes represent large areas of ecologically similar communities of plants, animals, and soil organisms. biomes are defined based on factors such as plant structures (such as trees, shrubs, and grasses), leaf types (such as broadleaf and needleleaf), plant spacing (forest, woodland, savanna), and climate. unlike biogeographic realms, biomes are not defined by genetic, taxonomic, or historical similarities. biomes are often identified with particular patterns of ecological succession and climax vegetation.
+
+water bodies
+a body of water is any significant and reasonably long-lasting accumulation of water, usually covering the land. the term "body of water" most often refers to oceans, seas, and lakes, but it may also include smaller pools of water such as ponds, creeks or wetlands. rivers, streams, canals, and other geographical features where water moves from one place to another are not always considered bodies of water, but they are included as geographical formations featuring water.
+some of these are easily recognizable as distinct real-world entities (e.g. an isolated lake), while others are at least partially based on human conceptualizations. examples of the latter are a branching stream network in which one of the branches has been arbitrarily designated as the continuation of the primary named stream; or a gulf or bay of a body of water (e.g. a lake or an ocean), which has no meaningful dividing line separatingt it from the rest of the lake or ocean.
+
+landforms
+a landform comprises a geomorphological unit and is largely defined by its surface form and location in the landscape, as part of the terrain, and as such is typically an element of topography. landforms are categorized by features such as elevation, slope, orientation, stratification, rock exposure, and soil type. they include berms, mounds, hills, cliffs, valleys, rivers, and numerous other elements. oceans and continents are the highest-order landforms.
+
+artificial features
+settlements
+a settlement is a permanent or temporary community in which people live. settlements range in components from a small number of dwellings grouped together to the largest of cities with surrounding urbanized areas. other landscape features such as roads, enclosures, field systems, boundary banks and ditches, ponds, parks and woods, mills, manor houses, moats, and churches may be considered part of a settlement.
+
+administrative regions and other constructs
+these include social constructions that are created to administer and organize the land, people, and other spatially-relevant resources. examples are governmental units such as a state, cadastral land parcels, mining claims, zoning partitions of a city, and church parishes. there are also more informal social features, such as city neighbourhoods and other vernacular regions. these are purely conceptual entities established by edict or practice, although they may align with visible features (e.g. a river boundary), and may be subsequently manifested on the ground, such as by survey markers or fences.
+
+engineered constructs
+engineered geographic features include highways, bridges, airports, railroads, buildings, dams, and reservoirs, and are part of the anthroposphere because they are man-made geographic features.
+
+cartographic features
+cartographic features are types of abstract geographical features, which appear on maps but not on the planet itself, even though they are located on the planet. for example, grid lines, latitudes, longitudes, the equator, the prime meridian, and many types of boundary, are shown on maps of earth, but do not physically exist. they are theoretical lines used for reference, navigation, and measurement.
+
+features and geographic information
+in gis, maps, statistics, databases, and other information systems, a geographic feature is represented by a set of descriptors of its various characteristics. a common classification of those characteristics has emerged based on developments by peuquet, mennis, and others, including the following : 
+
+ identity, the fact that a feature is unique and distinct from all other features. this does not have an inherent description, but humans have created many systems for attempting to express identity, such as names and  identification numbers/codes.
+existence, the fact that a feature exists in the world. at first, this may seem trivial, but complex situations are common, such as features that are proposed or planned, abstract concepts (e.g., the equator), under construction, or that no longer exist.
+ kind (also known as class, type, or category), one or more groups to which a feature belongs, typically focused on those that are most fundamental to its existence. it thus completes the sentence "this is a _________." these are generally in the form of common nouns (tree, dog, building, county, etc.), which may be isolated or part of a taxonomic hierarchy.
+ relationships to other features. these may be inherent if they are crucial to the existence and identity of the feature, or incidental if they are not crucial, but "just happen to be." these may be of at least three types:
+spatial relations, those that can be visualized and measured in space. for example, the fact that the potomac river is adjacent to maryland is an inherent spatial relation because the river is part of the definition of the boundary of maryland, but the overlap relation between maryland and the delmarva peninsula is incidental, as each would exist unproblematically without the other.
+meronomic relations (also known as partonomy), in which a feature may exist as a part of a larger whole, or may exist as a collection of parts. for example, the relationship between maryland and the united states is a meronomic relation; one is not just spatially within the boundaries of the other, but is a component part of the other that in part defines the existence of both.
+genealogical relations (also known as parent-child), which tie a feature to others that existed previously and created it (or from which it was formed by another agent), and in turn to any features it has created. for example, if a county were created by the subdivision of two existing counties, they would be considered its parents.
+location, a description of where the feature exists, often including the shape of its extent. while a feature has an inherent location, measuring it for the purpose of representation as data can be a complex process, such as requiring the invention of abstract spatial reference systems, and the necessary employment of cartographic generalization, including an expedient choice of dimension (e.g., a city could be represented as a region or as a point, depending on scale and need).
+attributes, characteristics of a feature other than location, often expressed as text or numbers; for example, the population of a city. in geography, the levels of measurement developed by stanley smith stevens (and further extended by others) is a common system for understanding and using attribute data.
+time is fundamental to the representation of a feature, although it does not have independent temporal descriptions. instead, expressions of time are attached to other characteristics, describing how they change (thus, they are analogous to adverbs in common discourse). any of the above characteristics is  mutable, with the possible exception of identity. for example, the lifespan of a feature could be considered as the temporal extent of its existence. the location of a city can change over time as annexations expand its extent. the resident population of a country changes frequently due to immigration, emigration, birth, and death.the descriptions of features (i.e., the measured values of each of the above characteristics) are typically collected in geographic databases, such as gis datasets, based on a variety of  data models and  file formats, often based on the  vector logical model.
+
+see also
+geographical field
+geographical location
+human geography
+landscape
+physical geography
+simple features
+
+
+== references ==

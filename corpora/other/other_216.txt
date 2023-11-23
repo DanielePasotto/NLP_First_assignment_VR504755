@@ -1,0 +1,29 @@
+population geography relates to variations in the distribution, composition, migration, and growth of populations. population geography involves demography in a geographical perspective. it focuses on the characteristics of population distributions that change in a spatial context. this often involves factors such as where population is found and how the size and composition of these population is regulated by the demographic processes of fertility, mortality, and migration.contributions to population geography are cross-disciplinary because geographical epistemologies related to environment, place and space have been developed at various times. related disciplines include geography, demography, sociology, and economics.
+
+history
+since its inception, population geography has taken at least three distinct but related forms, the most recent of which appears increasingly integrated with human geography in general. the earliest and most enduring form of population geography emerged in the 1950s, as part of spatial science. pioneered by glenn trewartha, wilbur zelinsky, william a. v. clark, and others in the united states, as well as jacqueline beaujeu-garnier and pierre george in france, it focused on the systematic study of the distribution of population as a whole and the spatial variation in population characteristics such as fertility and mortality.
+population geography defined itself as the systematic study of:
+
+the simple description of the location of population numbers and characteristics
+the explanation of the spatial configuration of these numbers and characteristics
+the geographic analysis of population phenomena (the inter-relations among real differences in population with those in all or certain other elements within the geographic study area).accordingly, it categorized populations as groups synonymous with political jurisdictions representing gender, religion, age, disability, generation, sexuality, and race, variables which go beyond the vital statistics of births, deaths, and marriages. given the rapidly growing global population as well as the baby boom in affluent countries such as the united states, these geographers studied the relation between demographic growth, displacement, and access to resources at an international scale.
+
+topics in population geography
+demographic phenomena (natality, mortality, growth rates, etc.) through both space and time
+increases or decreases in population numbers
+the movements and mobility of populations
+occupational structure
+the way in which places in turn react to population phenomena, e.g. immigrationresearch topics of other geographic sub-disciplines, such as settlement geography, also have a population geography dimension:
+
+the grouping of people within settlements
+the way from the geographical of places, e.g. settlement patternsall of the above are looked at over space and time. population geography also studies human-environment interactions, including problems from those relationships, such as overpopulation, pollution, and others.a few types of maps that show the spatial layout of population are choropleth, isoline, and dot maps.
+
+see also
+geodemography
+geodemographic segmentation
+
+notes
+references
+
+
+== bibliography ==
