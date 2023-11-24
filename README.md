@@ -22,3 +22,12 @@ The program takes the text from the page after a request to wikipedia. This text
 Finally, the program classifies the wikipedia page, specifying the category (MEDICAL or OTHER)
 These last steps are repeated while the input is not blank.
 The execution time for the *first_assignment.ipynb* is more or less 2 minutes for the training part.
+
+### Input examples
+https://en.wikipedia.org/wiki/Panoramic_radiograph
+
+https://en.wikipedia.org/wiki/Tracheotomy
+
+https://en.wikipedia.org/wiki/Football
+
+https://en.wikipedia.org/wiki/Home
