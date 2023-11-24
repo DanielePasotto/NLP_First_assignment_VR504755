@@ -6,6 +6,8 @@ To run correctly the code it necessary to install the libraries. For this you ca
 > pip install -r requirements.txt
 
 ### The project
+For the code part I use python with NLTK library.
+
 For this text classifier I create a personalized corpora divided in two categories: MEDICAL and OTHER.
 For the creation of this corpora I write the code *corpora_creator.ipynb*. This program takes a page from wikipedia, specifying a topic, and transforms it into a file saving it in the right folder (MEDICAL or OTHER).
 In the corpora folder there are 500 MEDICAL files and 500 OTHER files (the topics for the OTHER category are car, artificial intelligence, geography, catholic and videogame).
